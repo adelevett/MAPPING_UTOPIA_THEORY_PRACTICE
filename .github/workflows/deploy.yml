@@ -25,6 +25,7 @@ jobs:
           python build_practices_json.py
           mkdir -p frontend/public/data
           cp practices.json category_index.json reference_index.json graph_edges.json frontend/public/data/
+          cp THEORY/coded_matrix.json THEORY/references_resolved.json THEORY/next_best_things.json THEORY/ontology.json frontend/public/data/
 
       - name: Set up Node.js
         uses: actions/setup-node@v4

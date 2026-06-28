@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import L from 'leaflet';
 
 const P1_COLORS = {
@@ -43,7 +43,9 @@ function getTooltipQuote(practice) {
 export default function GeoMap({ practices, activeFilters, activeStoryPracticeId, onSelectPractice }) {
   const mapRef = useRef(null);
   const mapInstanceRef = useRef(null);
+  const tileLayerRef = useRef(null);
   const markersRef = useRef({});
+  const [tileTheme, setTileTheme] = useState('light'); // default to light
 
   // 1. Initialize Leaflet map once
   useEffect(() => {
@@ -56,22 +58,67 @@ export default function GeoMap({ practices, activeFilters, activeStoryPracticeId
       attributionControl: true,
     });
 
-    // Dark Matter tile for cinematic look, markers use bright per-P1 colors for contrast
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    // Default to light tiles on init
+    const tileLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
       attribution:
         '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
       subdomains: 'abcd',
       maxZoom: 18,
     }).addTo(map);
 
+    tileLayerRef.current = tileLayer;
+
     L.control.zoom({ position: 'bottomright' }).addTo(map);
     mapInstanceRef.current = map;
 
+    // Call invalidateSize on a small delay to handle settled heights
+    const timer = setTimeout(() => {
+      map.invalidateSize();
+    }, 200);
+
     return () => {
+      clearTimeout(timer);
       if (mapInstanceRef.current) {
         mapInstanceRef.current.remove();
         mapInstanceRef.current = null;
       }
+    };
+  }, []);
+
+  // 1b. Swapping Tile Layers dynamically
+  useEffect(() => {
+    const map = mapInstanceRef.current;
+    if (!map) return;
+
+    if (tileLayerRef.current) {
+      tileLayerRef.current.remove();
+    }
+
+    const url = tileTheme === 'light'
+      ? 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png'
+      : 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png';
+
+    tileLayerRef.current = L.tileLayer(url, {
+      attribution:
+        '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+      subdomains: 'abcd',
+      maxZoom: 18,
+    }).addTo(map);
+  }, [tileTheme]);
+
+  // 1c. Invalidate map size on any container resize (using ResizeObserver)
+  useEffect(() => {
+    const map = mapInstanceRef.current;
+    if (!map || !mapRef.current) return;
+
+    const resizeObserver = new ResizeObserver(() => {
+      map.invalidateSize();
+    });
+
+    resizeObserver.observe(mapRef.current);
+
+    return () => {
+      resizeObserver.disconnect();
     };
   }, []);
 
@@ -130,6 +177,26 @@ export default function GeoMap({ practices, activeFilters, activeStoryPracticeId
   return (
     <div className="map-view-container" id="geo-map-container">
       <div ref={mapRef} className="leaflet-map-element" />
+      
+      {/* Map Theme Toggle Switcher */}
+      <div className="map-theme-switcher glass-panel" id="map-theme-switcher">
+        <button
+          className={`theme-switch-btn ${tileTheme === 'light' ? 'active' : ''}`}
+          onClick={() => setTileTheme('light')}
+          title="Light Map Tiles"
+          id="map-theme-light-btn"
+        >
+          Light
+        </button>
+        <button
+          className={`theme-switch-btn ${tileTheme === 'dark' ? 'active' : ''}`}
+          onClick={() => setTileTheme('dark')}
+          title="Dark Map Tiles"
+          id="map-theme-dark-btn"
+        >
+          Dark
+        </button>
+      </div>
     </div>
   );
 }

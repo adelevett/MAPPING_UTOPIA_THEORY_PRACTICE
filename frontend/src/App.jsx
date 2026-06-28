@@ -29,12 +29,12 @@ function App() {
   // ── Data loading ─────────────────────────────────────────────
   useEffect(() => {
     Promise.all([
-      fetch('/data/practices.json').then(r => { if (!r.ok) throw new Error(); return r.json(); }),
-      fetch('/data/category_index.json').then(r => { if (!r.ok) throw new Error(); return r.json(); }),
-      fetch('/data/ontology.json').then(r => { if (!r.ok) throw new Error(); return r.json(); }),
-      fetch('/data/coded_matrix.json').then(r => { if (!r.ok) throw new Error(); return r.json(); }),
-      fetch('/data/references_resolved.json').then(r => { if (!r.ok) throw new Error(); return r.json(); }),
-      fetch('/data/next_best_things.json').then(r => { if (!r.ok) throw new Error(); return r.json(); }),
+      fetch('data/practices.json').then(r => { if (!r.ok) throw new Error(); return r.json(); }),
+      fetch('data/category_index.json').then(r => { if (!r.ok) throw new Error(); return r.json(); }),
+      fetch('data/ontology.json').then(r => { if (!r.ok) throw new Error(); return r.json(); }),
+      fetch('data/coded_matrix.json').then(r => { if (!r.ok) throw new Error(); return r.json(); }),
+      fetch('data/references_resolved.json').then(r => { if (!r.ok) throw new Error(); return r.json(); }),
+      fetch('data/next_best_things.json').then(r => { if (!r.ok) throw new Error(); return r.json(); }),
     ])
       .then(([practicesData, categoriesData, ontologyData, matrixData, refsData, nbtData]) => {
         setPractices(practicesData);
