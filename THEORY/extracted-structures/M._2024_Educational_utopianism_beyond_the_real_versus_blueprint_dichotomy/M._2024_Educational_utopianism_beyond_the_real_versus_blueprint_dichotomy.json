@@ -1,0 +1,2438 @@
+{
+  "file name" : "M._2024_Educational_utopianism_beyond_the_real_versus_blueprint_dichotomy.pdf",
+  "number of pages" : 22,
+  "author" : null,
+  "title" : null,
+  "creation date" : "D:20241116133937+01'00'",
+  "modification date" : "D:20241118061143+01'00'",
+  "kids" : [ {
+    "type" : "paragraph",
+    "id" : 116,
+    "page number" : 1,
+    "bounding box" : [ 46.772, 614.876, 216.706, 633.702 ],
+    "font" : "MyriadPro-SemiCn",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Studies in Philosophy and Education (2024) 43:631–652 https://doi.org/10.1007/s11217-024-09951-6"
+  }, {
+    "type" : "heading",
+    "id" : 112,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 46.772, 545.874, 354.661, 576.643 ],
+    "heading level" : 2,
+    "font" : "MyriadPro-SemiboldSemiCn",
+    "font size" : 13.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Educational Utopianism beyond the “Real versus Blueprint” Dichotomy"
+  }, {
+    "type" : "paragraph",
+    "id" : 113,
+    "page number" : 1,
+    "bounding box" : [ 46.772, 518.95, 155.832, 531.589 ],
+    "font" : "MyriadPro-Semibold",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Marianna Papastephanou1"
+  }, {
+    "type" : "paragraph",
+    "id" : 108,
+    "page number" : 1,
+    "bounding box" : [ 47.056, 481.648, 224.997, 500.474 ],
+    "font" : "MyriadPro-SemiCn",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Accepted: 14 July 2024 / Published online: 12 August 2024 © The Author(s) 2024"
+  }, {
+    "type" : "heading",
+    "id" : 117,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 46.772, 448.862, 82.682, 460.633 ],
+    "heading level" : 4,
+    "font" : "MyriadPro-Bold",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Abstract"
+  }, {
+    "type" : "paragraph",
+    "id" : 118,
+    "page number" : 1,
+    "bounding box" : [ 46.772, 299.682, 392.622, 448.203 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Much educational utopianism revolves around the “real versus blueprint utopia” dichotomy and the prescriptive normativity that utopian education involves. In this paper, I suggest that the “real and blueprint” distinction should not be dichotomized and that a richer set of normativities, apart from prescription, should operate in educational utopias. Ethico-politically and educationally, it is crucial to have affirmative rather than incriminatory utopias, regardless of their being real or blueprint. To argue this out, first I introduce the concepts of incriminatory and affirmative utopianism. Next, I sketch the educationaltheoretical setting and discuss the current reliance on the “real versus blueprint utopia” dichotomy. Then I use the conceptual tool of incriminatory utopianism to show that risks of totalitarianism threaten all visions (even liberal anti-utopian ones) and not only blueprint utopianism. Therefore, we need not dichotomize real and blueprint utopias and embrace the former unconditionally. I conclude with some illustrations of why utopian thought involves multiple normativities rather than prescriptivism alone."
+  }, {
+    "type" : "paragraph",
+    "id" : 119,
+    "page number" : 1,
+    "bounding box" : [ 46.772, 264.682, 361.611, 287.386 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Keywords Incriminatory Utopianism · Affirmative Utopianism · Counter-utopia · Neoliberalism · Crypto-normativity"
+  }, {
+    "type" : "heading",
+    "id" : 120,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 46.772, 225.533, 108.778, 239.162 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Introduction"
+  }, {
+    "type" : "paragraph",
+    "id" : 121,
+    "page number" : 1,
+    "bounding box" : [ 46.772, 154.229, 392.612, 212.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Since the first decade of the 21st century the use of utopia-related concepts in educational theory has remarkably increased. Milojevic (2003) has provided an informative contextualization of utopianism’s historical course and status in educational philosophy after years of neglect. It is no exaggeration that, “once the preserve of self-proclaimed militant utopians such as Henry Giroux, utopia has now been embraced by the educational mainstream”"
+  }, {
+    "type" : "paragraph",
+    "id" : 110,
+    "page number" : 1,
+    "bounding box" : [ 60.945, 69.882, 141.593, 87.991 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Marianna Papastephanou edmari@ucy.ac.cy"
+  }, {
+    "type" : "paragraph",
+    "id" : 111,
+    "page number" : 1,
+    "bounding box" : [ 46.772, 50.71, 268.907, 60.631 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "1 Department of Education, University of Cyprus, Nicosia, Cyprus"
+  }, {
+    "type" : "footer",
+    "id" : 123,
+    "page number" : 1,
+    "bounding box" : [ 351.694, 15.592, 392.599, 34.432 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 44,
+      "page number" : 1,
+      "bounding box" : [ 351.694, 15.592, 392.599, 34.432 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 124,
+    "page number" : 2,
+    "bounding box" : [ 47.055, 624.126, 392.884, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 66,
+      "page number" : 2,
+      "bounding box" : [ 47.055, 624.126, 58.455, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "632"
+    }, {
+      "type" : "paragraph",
+      "id" : 67,
+      "page number" : 2,
+      "bounding box" : [ 335.348, 624.126, 392.884, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "M. Papastephanou"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 126,
+    "page number" : 2,
+    "bounding box" : [ 46.701, 538.228, 392.542, 610.009 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "(Webb 2017, p. 551).1 Many theorists have felt that “we need new utopian visions in education (as well as elsewhere), not their abandonment” (Halpin 2003, p. 2). Some consider utopia intrinsic to education (e.g., Peters and Freeman-Moir 2006; Lewis 2006). Others emphasize that our critical and uncertain times compel that we suffuse education with utopian impulses.2 The utopian comeback also seems more urgent as an antidote to neoliberal relocation of hope from the public to the private sphere (Tiainen et al. 2019)."
+  }, {
+    "type" : "paragraph",
+    "id" : 127,
+    "page number" : 2,
+    "bounding box" : [ 46.701, 286.228, 392.55, 536.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "However, what kind of utopia, if any, is appropriate to education is no small issue. During most of the previous century, especially due to the ideological tensions in the Cold War context, liberal theory had failed to make necessary nuances: even liberal thinkers as diverse as R. Dahrendorf, F. von Hayek, K. Popper and T. Nagel argued in one way or other for the impossibility and undesirability of utopianism (Papastephanou 2013). Within such frameworks, no utopia is safe and thus none should have a place in education. “Stung by conservative and Cold War liberal attacks on the dangerous ambitions of utopian thinking, a full-scale retreat from visions of perfection began” (Geoghegan 2003, p. 156). Certainly, even thinkers,3 e.g., Theodor Adorno, who did not belong to the liberal theoretical tradition had problematized utopias. However, what makes the liberal tradition stand out in its polemics toward utopianism is that this tradition singled out utopianism as typically guilty of repugnant, even genocidal, politics in an entirely anti-utopian and non-nuanced manner. It sweepingly incriminated all utopianism, charging it with tyranny and totalitarianism. Unlike this liberalism, Adorno’s negative dialectics emphasized the risk of totalitarianism, not exclusively in utopianism, but in all positivity. When Adorno’s critique was more specific, it was directed against substantive utopianism, not against formal utopianism qua radical imagination of a more desirable future. Even his negative dialectics has been read (e.g., Erfanmanesh 2017; Macdonald 2017)4 as a utopianism alternative to that of modern, detailed and over-regulated utopias, but a utopianism nevertheless, one whose negativity did not share the philosophical anthropology that underpinned the anti-utopian liberal trend that incriminated any utopianism whatever as inherently totalitarian."
+  }, {
+    "type" : "paragraph",
+    "id" : 128,
+    "page number" : 2,
+    "bounding box" : [ 46.701, 202.228, 392.546, 284.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "More generally, critical arguments against various utopias have been advanced by many philosophical persuasions and some are used to qualify what kinds of utopia are educationally acceptable. Certainly, many utopian visions were guilty of destructive and repugnant politics; but neither all utopias are open to such charges, nor all non-utopian thought is immune to them. Yet, liberalists employed such charges to incriminate utopian transformative politics per se and promote anti-utopianism.5 Anti-utopianism claims that utopias produce political constructs that divest citizens of rights, freedom and autonomy. Anti-utopian"
+  }, {
+    "type" : "list",
+    "id" : 130,
+    "level" : "1",
+    "page number" : 2,
+    "bounding box" : [ 48.118, 49.293, 392.551, 190.803 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 5,
+    "next list id" : 140,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 48.118, 153.132, 392.538, 190.803 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 To avoid getting sidetracked, this article only indicates, instead of detailing, how the concept of utopia is employed within contemporary educational theory. For more on this employment and on related sources that promote real, formalist and processual utopias or express anti-utopian liberal arguments, see Webb (2009, 2016 and 2017).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 48.118, 141.048, 260.602, 150.968 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "2 For related sources and argumentation, see Papastephanou 2009.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 48.118, 91.963, 392.551, 138.883 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "3 Consider, for instance, J. Lacan or M. Foucault; however, what differentiates the stance toward utopia of such thinkers and liberal philosophy is that, unlike liberal anti-utopianists, Lacan and Foucault had only en passant, instead of thoroughly argued out, criticisms of utopia. Moreover, in their anti-utopian moments, Lacan and Foucault echoed the liberal argumentation against utopianism but, deep down, they shared much with liberal crypto-utopianism; for related arguments, see, for instance, Beaulieu (2010).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 48.118, 70.628, 392.534, 89.799 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "4 Therefore, I would argue that Adorno’s critique of utopia, despite its intensity, is counter-utopian, and not anti-utopian or crypto-utopian. But this is beyond the scope of this paper.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 48.118, 49.293, 392.55, 68.464 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "5 Hence the liberal eagerness to chastice Stalin’s totalitarianism (which certainly must be chastised), and the simultaneous silence about genocides such as that committed by Germany against the Ovaherero population",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 132,
+    "page number" : 2,
+    "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 45,
+      "page number" : 2,
+      "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 133,
+    "page number" : 3,
+    "bounding box" : [ 46.554, 624.126, 392.277, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 68,
+      "page number" : 3,
+      "bounding box" : [ 46.554, 624.126, 264.976, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Educational Utopianism beyond the “Real versus Blueprint” Dichotomy"
+    }, {
+      "type" : "paragraph",
+      "id" : 69,
+      "page number" : 3,
+      "bounding box" : [ 380.877, 624.126, 392.277, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "633"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 135,
+    "page number" : 3,
+    "bounding box" : [ 46.875, 526.228, 392.732, 608.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "thinkers deem utopianism “not just unrealistic” but also undesirable because it purportedly yields “the danger of totalising political ambitions that end up producing authoritarian mechanisms to realise their seemingly lofty goals” (Sypnowich 2019, p. 662). Anti-utopianists have regarded utopian visions as too determinate,6 rigid, “impervious to revision” and blind to the moral costs of their implementation (Sypnowich, 662). These liberal anti-utopian objections had, in previous decades, nourished the educational-theoretical reluctance to engage with utopia."
+  }, {
+    "type" : "paragraph",
+    "id" : 136,
+    "page number" : 3,
+    "bounding box" : [ 46.875, 286.228, 392.723, 524.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Meanwhile, the historical and philosophical contexts that adversely affected utopia have changed. The interest in utopia has been unblocked and legitimized inter alia because the argument about utopia being inherently authoritarian has repeatedly been refuted.7 Utopian thought can be rescued from the spectre of authoritarianism. This spectre haunts some specific utopias, not utopia whatever (Papastephanou 2009). Since utopia is no longer wholly incriminated, the conventional position is that educational discourses should avoid only the blueprint or end-state utopia. Blueprint or end-state utopias are detailed models of radical change to be strictly implemented. Being detailed, fixed and comprehensive these utopias are thought to block dissent, pluralism and renewal. Unlike them, real utopias are not radical transformations of the whole world. They involve concrete circumstances, limited sociopolitical aspirations, piecemeal change, and actual approximations of specific, innovative ideas in practice. Although utopianism is more welcome than before, the worry of educational theorists to avoid radical utopianism continuously pushes them toward piecemeal change and realistic plans for minimal transformation (Webb 2017). Thus, most educationists typically answer the question about the kind of utopia that is safe and worth-pursuing in favour of formalist or real utopias and against blueprint utopias. This prudentialist desire for safety leads to dichotomizing real and blueprint utopias. The former are good and welcomed in education; the latter are bad and expendable. This divests educational utopianism of its radical impetus and renders difficult to distinguish utopia from just any minor, uninspiring and limited plea for change."
+  }, {
+    "type" : "paragraph",
+    "id" : 137,
+    "page number" : 3,
+    "bounding box" : [ 46.875, 154.228, 392.713, 284.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Against this backdrop I argue that totalitarianism is a risk of incriminatory utopias (and non-utopias alike). Incriminatory may be not only the blueprint utopias but also any utopias, crypto-utopias or anti-utopias (even non-utopian ideas) so long as they aim to “cure” society from “unhealthy” elements and moralistically demonize specific others as obstacles to desirable futures. This incriminatory medicalization, which is not exclusive to utopias, may end up in harming, even killing, people on a massive scale.8 Therefore, the issue should not be whether a utopia is real or blueprint.9 It should rather be how to avoid the incriminatory utopianism that encourages totalitarian attitudes. I emphasize that incriminatory utopianism should be avoided, not persecuted. Avoiding risks is one thing; combating risks by demonizing some alterities is quite another (Drousioti 2019). Any stance toward incriminatory utopianism that would resemble persecution would be a throwback to incriminatory utopianism."
+  }, {
+    "type" : "paragraph",
+    "id" : 139,
+    "page number" : 3,
+    "bounding box" : [ 51.127, 116.132, 392.706, 134.242 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "of Namibia for economic profit, and not for any utopianist transformative aspiration (see, Papastephanou 2017)."
+  }, {
+    "type" : "list",
+    "id" : 140,
+    "level" : "1",
+    "page number" : 3,
+    "bounding box" : [ 48.293, 49.293, 392.71, 113.968 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "previous list id" : 130,
+    "next list id" : 150,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 48.293, 104.048, 288.955, 113.968 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "6 A utopia is determinate when its vision has adequate or even much detail.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 48.293, 91.963, 338.999, 101.883 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "7 For related sources and examples, see Papastephanou (2009 and 2013) and Webb (2009).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 48.293, 70.628, 392.706, 89.799 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "8 See, for instance, how Zygmunt Bauman illustrated such destructive, genocidal practices in his Modernity and the Holocaust (2000).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 48.293, 49.293, 392.71, 68.464 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "9 It is important to distinguish real, blueprint and other kinds of utopia methodologically and allocate them space, but this does not justify dichotomizing them, evaluatively, as per se good or bad.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 142,
+    "page number" : 3,
+    "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 46,
+      "page number" : 3,
+      "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 143,
+    "page number" : 4,
+    "bounding box" : [ 47.055, 624.126, 392.884, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 70,
+      "page number" : 4,
+      "bounding box" : [ 47.055, 624.126, 58.455, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "634"
+    }, {
+      "type" : "paragraph",
+      "id" : 71,
+      "page number" : 4,
+      "bounding box" : [ 335.348, 624.126, 392.884, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "M. Papastephanou"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 145,
+    "page number" : 4,
+    "bounding box" : [ 46.772, 502.228, 392.613, 610.009 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Avoidance of incriminatory utopianism makes room for pursuing affirmative utopianism.10 Introducing the analytical category of “incriminatory utopias” into educational theory may prove useful for critically discussing the dichotomy of “real versus blueprint utopias”. Once we realize that the risk of totalitarianism is not exclusive to blueprint utopias, the question about what utopia is preferrable may be recast as a rich set of questions about what normativity should lie beneath an affirmative, rather than incriminatory, utopian education. I conclude by suggesting that the corresponding normativity must be complex and plural, neither exclusively prescriptive, nor too weak to be adequately visible, inspiring and democratically debated. To support this suggestion I introduce a nuanced sense of crypto-normativity."
+  }, {
+    "type" : "heading",
+    "id" : 146,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 46.772, 465.533, 231.965, 479.162 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Incriminatory and Affirmative Utopias"
+  }, {
+    "type" : "paragraph",
+    "id" : 147,
+    "page number" : 4,
+    "bounding box" : [ 46.772, 190.228, 392.624, 452.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In this section I explain the terms “incriminatory” and “affirmative” utopianism. However, some preliminary clarifications are necessary, since such conceptual and meta-theoretical work may seem too technical and obscure. Recent educational theory often borrows insights from utopian studies directly to apply them to educational matters, casting aside intricacies within the utopian discourse that would overburden the educationally oriented reader. Thus, sometimes, missed is the complex interconnectedness of dystopia, utopia and other relevant terms such as counter-utopia.11 Counter-utopian is the meta-theoretical reflection that critiques utopian thought in an enabling and constructive, rather than anti-utopian and dismissive, manner (Papastephanou 2009). Counter-utopian reflection assists utopianism by increasing self-reflective vigilance concerning discursive complacencies that bestow undeserved hegemony on some utopian ideas. The concepts “incriminatory” and “affirmative” are suggested precisely as counter-utopian tools. The underlying assumption is that complexity is indispensable for avoiding facile and domesticated, “frame demolition” (Papastephanou 2010) operations in transferring utopian ideality to educational theory. Frame demolition occurs when some idea is borrowed from one field and transferred to another oversimplified and disconnected from its initial frames. A concomitant risk is the borrowed idea to serve a stronghold fortification, namely, uncritically to strengthen, instead of challenging, the frames of established thought (Papastephanou 2010). The interests of an educational philosophy readership, a philosophical readership and a utopian studies readership do not always coincide or overlap. Given the intricacies of the utopian vocabulary, it is important for educators who turn to philosophical utopianism to avoid stronghold fortification and frame demolition operations. Hence, complexity cannot and should not be sidestepped."
+  }, {
+    "type" : "paragraph",
+    "id" : 148,
+    "page number" : 4,
+    "bounding box" : [ 46.772, 154.228, 392.609, 188.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Some clarifications about dystopian and utopian interconnectedness help introduce the concepts of incriminatory and affirmative utopianism. Utopian visions promise a better future not only by formulating the as-yet-not-reached desirable topos but also by critiquing"
+  }, {
+    "type" : "list",
+    "id" : 150,
+    "level" : "1",
+    "page number" : 4,
+    "bounding box" : [ 46.772, 49.293, 392.609, 136.049 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 140,
+    "next list id" : 158,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 46.772, 126.128, 269.747, 136.049 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "10 The term “affirmative utopia” will be explained in the next section.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 46.772, 49.293, 392.609, 123.964 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "11 For example, it is quite common now to borrow tools from Ruth Levitas’ (2013) conception of utopia as method and use them in relation to current educational realities (see, e.g., Van Dermijnsbrugge and Chatelier 2022; Bayne 2023). In Levitas’ book (2013), which has inspired many educational sources and whose general value I do not downplay, dystopia is treated rather flatly and conventionally, and counter-utopian insights reflect established rather than fresh sensibilities. Relying on Levitas, it is no wonder that these educational thinkers also miss a more complex relationship of utopia and dystopia and do not theorize the need for counter-utopian reflection. It may be important to endorse and use Levitas’ categories, but not dealing with the above meta-theoretical issues, glossing them over or ignoring them, is detrimental for utopian education.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 152,
+    "page number" : 4,
+    "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 47,
+      "page number" : 4,
+      "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 153,
+    "page number" : 5,
+    "bounding box" : [ 46.554, 624.126, 392.277, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 72,
+      "page number" : 5,
+      "bounding box" : [ 46.554, 624.126, 264.976, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Educational Utopianism beyond the “Real versus Blueprint” Dichotomy"
+    }, {
+      "type" : "paragraph",
+      "id" : 73,
+      "page number" : 5,
+      "bounding box" : [ 380.877, 624.126, 392.277, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "635"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 155,
+    "page number" : 5,
+    "bounding box" : [ 46.772, 406.228, 392.618, 608.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "the undesirable current reality. For most utopianists, even for Bloch (1986) who favoured concrete, historically present rather than abstract and imagined utopias, the future-oriented quality of utopia and the dissatisfaction with the present are crucial for what counts as utopia.12 It is against the dystopian world that the alternative, promised world finds its vindication (Drousioti and Papastephanou 2022, p. 3). To be something more than just a minor social adjustment a utopian prospect requires as a foil either the dystopia that characterizes the present as a whole or the dystopia as a future situation that can be avoided by our going utopian. Without this radical dissatisfaction with present or imminent realities one cannot have utopias strictly speaking. Thus, by relying on constructions of a desirable future and an unbearable or repugnant present, utopias are interconnected with dystopias, instead of being mere opposites. One first objection, then, to piecemeal, formalist, realist and nonradical utopianist discourses, an objection that resonates with and enhances other objections to them that Darren Webb (e.g., 2016) has raised, is that these utopian discourses do not voice broader dissatisfaction about structural, deep and pervasive societal pathologies. They conflate utopian change with minor modifications of the existent and miss the thorough discontent with current realities (hence, they miss the dystopian depiction of such realities) that utopian visions presuppose.13"
+  }, {
+    "type" : "paragraph",
+    "id" : 156,
+    "page number" : 5,
+    "bounding box" : [ 46.772, 298.228, 392.616, 404.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The interconnectedness of dystopian revocation of the present (or imminent future) and utopian invocation of a desirable future crucially protects the concept “utopia” from becoming elastic to the point of signifying just any change.14 Precisely in this interconnectedness, however, lies the danger of personalizing the evil held responsible for dystopia and for obstructing the course to utopia. In the effort to represent the gloomy world that requires extreme makeover one may incriminate specific individuals or groups as causes of repugnant realities. Utopian visions that succumb to this danger may be called “incriminatory” (Drousioti and Papastephanou 2022, p. 2). Utopianism becomes incriminatory when it blames a scapegoat, an “enemy”, for example, the migrant who supposedly takes the"
+  }, {
+    "type" : "list",
+    "id" : 158,
+    "level" : "1",
+    "page number" : 5,
+    "bounding box" : [ 46.772, 49.293, 392.626, 277.633 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "previous list id" : 150,
+    "next list id" : 166,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 46.772, 101.213, 392.626, 277.633 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "12 For this reason, the over-reliance of Davina Cooper’s (2013) otherwise very important work on a dissociation of everyday utopias from some future-state seems to me problematic. The extent to which an everyday site of different practices can be utopian while operating without future-orientedness is debatable: I notice that the future-oriented quality is not absent in Cooper’s utopias but rather latent. Cooper writes about her book that it “concerns the potential of everyday utopias to contribute to a transformative politics specifically through the concepts they actualize and imaginatively invoke” (2013, 3). That everyday sites involve potentiality (a notion inherently related to futurity) in that they can contribute to something to come (transformative politics) proves that the link to some future-state cannot be avoided by these utopias either. It becomes only somewhat subtler and implicit, more encrypted, so to speak. Another problem is that whether such everyday sites “can be considered utopian inevitably depends on the reader’s understanding of transformative politics, and of contemporary politically engaged scholarship” (Iossifidis 2016, p. 225). Moreover, even if everyday sites, where concrete commitments to alternative ways of living are enacted, contribute to a transformative politics, and merit the designation “utopias”, this does not suffice to render future-oriented utopias expendable and deny them a niche in utopian education. Besides, a utopia oriented to a better future and to a notyet-realized ideality is more comprehensive, inclusive and radical than the everyday utopias examined in Cooper’s book. The latter are more single-focused on a narrower commitment, whereas the more abstract and future-oriented utopias are better fitting concerning issues as broad as ecology or cosmopolitan right that invite a more drastic and larger-scale overhaul which is not yet to be found in, or cannot be condensed to, actual sites, nor can it be modelled on them.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 46.772, 70.628, 392.609, 99.049 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "13 Therefore, the status of real utopias qua utopias may be debatable. In this article, I will treat this only as a risk that real utopias face especially when they fail drastically to contest dystopian realities. I will not assume that all of them fall into this trap, or consistently so, to the point of being ill-fitting into the category of utopia.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 46.772, 49.293, 392.598, 68.464 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "14 For instance, one may wrongly describe as utopian even the changes that are merely adaptive to the existent and serve its recuperative and homoeostatic mechanisms (Papastephanou 2009).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 160,
+    "page number" : 5,
+    "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 48,
+      "page number" : 5,
+      "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 161,
+    "page number" : 6,
+    "bounding box" : [ 47.055, 624.126, 392.884, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 74,
+      "page number" : 6,
+      "bounding box" : [ 47.055, 624.126, 58.455, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "636"
+    }, {
+      "type" : "paragraph",
+      "id" : 75,
+      "page number" : 6,
+      "bounding box" : [ 335.348, 624.126, 392.884, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "M. Papastephanou"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 163,
+    "page number" : 6,
+    "bounding box" : [ 46.772, 262.228, 392.632, 608.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "locals’ jobs, etc., for the consolidation or perpetuation of the undesirable reality to which the utopia is contrasted. Incriminatory utopianisms promise the containment, subordination or elimination of those who supposedly create or sustain the dystopian reality. Incriminatory utopias focus on effacing “evil” agents (e.g., bad rulers, leaders of stigmatized organizations or “rogue” states, terrorists, dissidents, migrants, queer, populists, nationalists, etc.) to ease the passage to the desired dreamworld. The adjective “incriminatory” indicates that the future-oriented, idealized and desired reality is constructed in and through an incriminated “Other” (Drousioti and Papastephanou 2022, p. 2). Even when some incriminatory utopias reflect good intentions, combat real dangers (e.g., post-truth arbitrariness) and avoid glaring violence (e.g., their incrimination, say, of truth eroders does not lead to killing whoever disseminates fake news), still, their incriminatory operations may harm democracy because they limit free speech and promote an oligarchic epistocracy.15 Totalitarianism feeds off incriminatory operations not only because its tactics of persecution presuppose that an enemy is targeted but also because incriminatory operations increase the legalism that impoverishes the public space. By this I do not mean that pernicious views should not be criticized in an agonistic democratic public space. But this is precisely the point: to prove something wrong argumentatively, instead of stigmatizing it, to extend democratic dialogue instead of demonizing, othering and scapegoating individuals and groups for things whose deeper causes lie in faulty designs of societies and international relations. I am not disputing individual responsibility. Interestingly, even groups such as academics, who are quick to spot the “nationalist”, or “racist”, etc., cumbersome “other”, may have serious complicities in undesirable realities in many ways that do not cross the academics’ minds. A possible liability is their quietism when injustices happen to people who are not allies of the academics’ countries. Nor am I claiming that one should tolerate unfair individuals or groups with no confrontational words or even sanctions when things go wild. I am saying rather that, instead of focusing on eradicating the “bad” others and instead of aspiring to produce univocality and uniformity, a utopia should focus on politically and affectively empowering those who face such others to enable them deal with them democratically and not defensively or legalistically."
+  }, {
+    "type" : "paragraph",
+    "id" : 164,
+    "page number" : 6,
+    "bounding box" : [ 46.772, 94.228, 392.621, 260.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "However, utopias are not unavoidably or inherently incriminatory (Drousioti and Papastephanou 2022). Incriminatory utopias should be distinguished from affirmative utopias. Affirmative utopias avoid self-righteous, accusatory operations that incriminate specific individuals or groups for faults that pertain to the design and structures of a specific society. Let me flesh out the affirmative with two examples, one of a modern, end-state utopia and another of a real, everyday utopia. Proto-feminist, 17th century educational utopias such as May Astell’s vehemently opposed the patriarchal oppression of women and claimed for women education, equal rights and experiences that would validate their lives. Astell’s educational utopias were detailed, end-state projects for female education. Her critique of John Locke’s social contract exclusions of women was spirited, yet without incriminating men wholesale or seeking to deprive men of education or equal rights (Astell 1694). In this sense, her feminist utopia, like many such utopias since, affirmed women’s rights, instead of demonizing or effacing opponents.16 By contrast, much patriarchal ideality responded to feminism in misogynist, incriminatory ways."
+  }, {
+    "type" : "list",
+    "id" : 166,
+    "level" : "1",
+    "page number" : 6,
+    "bounding box" : [ 46.772, 49.293, 392.612, 80.549 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 158,
+    "next list id" : 176,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 46.772, 70.628, 316.84, 80.549 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "15 On epistocracy and its problems from a democratic perspective, see Gunn (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 46.772, 49.293, 392.612, 68.464 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "16 Thus, it is possible for a utopianist to be, like Astell, (and like many fighters in anti-colonial movements) a passionate critic of the injustices and harsh realities that may be inflicted on others in a dystopian world,",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 168,
+    "page number" : 6,
+    "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 49,
+      "page number" : 6,
+      "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 169,
+    "page number" : 7,
+    "bounding box" : [ 46.554, 624.126, 392.277, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 76,
+      "page number" : 7,
+      "bounding box" : [ 46.554, 624.126, 264.976, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Educational Utopianism beyond the “Real versus Blueprint” Dichotomy"
+    }, {
+      "type" : "paragraph",
+      "id" : 77,
+      "page number" : 7,
+      "bounding box" : [ 380.877, 624.126, 392.277, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "637"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 171,
+    "page number" : 7,
+    "bounding box" : [ 46.772, 550.228, 392.618, 608.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "My second example comes from Davina Cooper’s discussion of a Toronto bathhouse, “a casual sex space for women and transgendered people” (Cooper 2013, p. 101), as an everyday (I would say: real17) utopia. Cooper’s study and the real utopia of the bathhouse itself are not opposed to men’s bathhouses (which have been extensively explored, unlike women’s casual sex venues that remain sociologically ignored), nor does this bathhouse emerge"
+  }, {
+    "type" : "list",
+    "id" : 172,
+    "level" : "2",
+    "page number" : 7,
+    "bounding box" : [ 46.772, 418.228, 392.614, 548.749 ],
+    "numbering style" : "english letters",
+    "number of list items" : 1,
+    "next list id" : 241,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 46.772, 418.228, 392.614, 548.749 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "as a new practice to impose on everybody. The Toronto bathhouse was initiated to promote “the city’s polyamorous adult sex education” and a “positive attitude to sex” among queer women and among those who identified as transgendered. Instead of incriminating anybody, the site celebrates “the range and diversity of sexualities”, invests “nonstraight female culture with a more overtly raunchy, ‘in your face’ eroticism” and signals “women’s sexual agency to wider society” (103). It is an affirmative utopia, in my view, also because “as a queer feminist space” (104), a space “simultaneously exciting and educative” (115), it advances “democratic, participative, and open” modes of governance (104). This example also helps better grasp the difference between “incriminatory” and “affirmative”: though the site is affirmative and not incriminatory, it could become a target of incriminatory, conservative utopias who demonize alternative eroticism.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 173,
+    "page number" : 7,
+    "bounding box" : [ 46.772, 190.228, 392.615, 416.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The above examples show that both blueprint and real utopias can be affirmative (as both may also be incriminatory, depending on their utopian content). Certainly, the “affirmative – incriminatory” distinction is neither clear-cut nor easily applicable. This also explains why I am talking here about a distinction and not a dichotomy. In its Greek etymology,18 a dichotomy is a division into two classes. The distinction between the incriminatory and the affirmative is no such dichotomy of rigid categories that separates the wheat from the chaff. Utopias do not always neatly or fully fit with corresponding labels. Nor is it always easy to segregate individual or group-related from structural/institutional causalities. Some seemingly affirmative utopias may implicitly or imperceptibly demonize some otherness. The distinction of incriminatory and affirmative is nevertheless important because it helps one do discursive justice to utopias that avoid individualizing evil or associating it with a scapegoated collectivity. The distinction enables noticing that, instead of seeking to “cure” societies from the “unhealthy”, and instead of “responsibilizing” the individual, affirmative utopias focus on how drastic and worthwhile structural changes could come about for the benefit of all cosmos (Drousioti and Papastephanou 2022, p. 12). Either “real” or “blueprint”, utopias should be examined for incriminatory tendencies. This is a necessary, though not sufficient, step for critiquing utopias. It is necessary because an incriminatory utopia is fundamentally dangerous, and its problems should not remain unnoticed. It is insufficient because not being incriminatory does not guarantee that the utopia is indeed worthwhile."
+  }, {
+    "type" : "paragraph",
+    "id" : 175,
+    "page number" : 7,
+    "bounding box" : [ 46.772, 91.963, 392.604, 165.572 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "without this entailing that the utopianist’s suggested course of radical change necessitates effecement of opponents, or exclusion of them from rightful entitlements. What it does entail is equality and an overhaul of structures that produce injustices. Resistances to repressive regimes should not be described as undesirable or problematic exclusions. Excluding patriarchy does not suffice to make a utopia incriminatory. Likewise with slavery: it is absurd to consider incriminatory a black movement to emancipation (utopian at its time) because it opposed white supremacy. It would have been incriminatory had it advanced a claim that black people should enslave or efface others (which was not the case, at least not generally). For a very helpful engagement with such issues of identity constitution and avoidance of demonizing others see also Drousioti (2021)."
+  }, {
+    "type" : "list",
+    "id" : 176,
+    "level" : "1",
+    "page number" : 7,
+    "bounding box" : [ 46.772, 49.293, 392.606, 89.799 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 166,
+    "next list id" : 195,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 46.772, 70.628, 392.602, 89.799 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "17 Cooper uses the term “everyday utopias” in a way that does not indicate significant differences from the concept of “real utopias”.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 46.772, 49.293, 392.606, 68.464 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "18 Dichotomy is composed of dicho- (asunder), and tome, from temnein (to cut). https://www.etymonline. com/word/dichotomy.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 178,
+    "page number" : 7,
+    "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 50,
+      "page number" : 7,
+      "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 179,
+    "page number" : 8,
+    "bounding box" : [ 47.055, 624.126, 392.884, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 78,
+      "page number" : 8,
+      "bounding box" : [ 47.055, 624.126, 58.455, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "638"
+    }, {
+      "type" : "paragraph",
+      "id" : 79,
+      "page number" : 8,
+      "bounding box" : [ 335.348, 624.126, 392.884, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "M. Papastephanou"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 181,
+    "page number" : 8,
+    "bounding box" : [ 46.772, 394.228, 392.618, 608.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The distinction between incriminatory and affirmative utopias reflects a standard operation of premodifying a noun (e.g., utopia) with a predicate. The predicate specifies and regulates what falls into the conceptual province of the noun or qualifies the value attached to it. Utopian philosophy has nourished utopian education with much terminology that stems from such lexical and semantic-structural operations. These distinguish “real”, “formalist”, “minimal” and “processual” utopias from “end-state”, “radical” and “blueprint” utopias, while controlling the generality and elasticity of the concept “utopia”. Predicates specify the character of utopia and regulate the allocation of conceptual “citizenship”, so to speak, to a variety of possible utopian contents or features that compete for giving substance to the concept “utopia”. Various such predicates become “gate-keepers” of what may pass as legitimate meaning and value of utopia since these perform evaluative tasks and expose utopia to ethico-political appraisal. Premodifiers indicate which utopias may be permissible and worth-pursuing and which should be avoided or are downright unacceptable. For example, utopian theorists who wish to sanitize and protect utopian planning from pernicious overdetermination, over-ambition or (what they see as) excessive radicalism use the premodifier “blueprint” to label the utopias that should be discarded as too radical or over-determinate. Such utopianists use the premodifiers “processual”, “real”, “everyday” or “formalist” for their own utopian visions."
+  }, {
+    "type" : "paragraph",
+    "id" : 182,
+    "page number" : 8,
+    "bounding box" : [ 46.772, 262.228, 392.614, 392.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The predicate “minimal” is another addition in the long list of premodifiers that hold in check, sanitize, specify and qualify utopia. “Minimal utopianism” is used in educational philosophy, for example, to express commitment to helping students “imagine and explore alternatives to current social and political reality” and simultaneous acknowledgement of “the contingent ethical constraints” of the educational and social system that limit the potentialities for immediate change (Bojesen and Suissa 2019, p. 286). Even when minimal utopianists agree with utopianists “such as Darren Webb who have defended the need for ‘blueprint utopias’ in education in the face of the reduction of the idea of utopia to a purely process-oriented pedagogy”, they give temporal priority to the educational task “of providing the conceptual and communicative tools for utopian thinking to emerge” (Bojesen and Suissa, 286)."
+  }, {
+    "type" : "paragraph",
+    "id" : 183,
+    "page number" : 8,
+    "bounding box" : [ 46.772, 70.228, 392.63, 260.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "I am not bringing the utopian premodifiers “incriminatory” and “affirmative” into educational theory to associate them with blueprint and real/formalist/minimal utopias respectively. The introduced terms may concern all utopianism. I argue later that the tools of affirmative and incriminatory utopia may prove important for the contention concerning real and blueprint utopias by shifting attention to incrimination as a substantive risk in all kinds of vision, utopian or anti-utopian. Consistency in the commitment to affirmative utopianism compels that blueprint utopianism should not be incriminated, and we should not be blind to risks of other utopianisms. Let me repeat that affirmative utopias focus on the positive content of the utopian promise, on what could be debated as the desirable good to be defended and sought by all people, with no demonization and discriminations. This, however, does not entail beautifications and sanitizations of either blueprint or real utopianisms. “Affirmative” does not mean “uncritical”. On the contrary, as already suggested, a utopia that makes undue concessions to the existent loses its very utopian character in failing to express adequate discontent with the present. My main argument then is that, regardless of utopian ideas or projects being formalist, processual, determinate, indeterminate, real or blueprint, the question (counter-utopian in character) is whether they are affirmative or not. My next"
+  }, {
+    "type" : "footer",
+    "id" : 185,
+    "page number" : 8,
+    "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 51,
+      "page number" : 8,
+      "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 186,
+    "page number" : 9,
+    "bounding box" : [ 46.554, 624.126, 392.277, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 80,
+      "page number" : 9,
+      "bounding box" : [ 46.554, 624.126, 264.976, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Educational Utopianism beyond the “Real versus Blueprint” Dichotomy"
+    }, {
+      "type" : "paragraph",
+      "id" : 81,
+      "page number" : 9,
+      "bounding box" : [ 380.877, 624.126, 392.277, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "639"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 188,
+    "page number" : 9,
+    "bounding box" : [ 46.772, 586.228, 392.577, 608.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "step, however, is to outline the educational-theoretical setting and why this has come to be more propitious to real utopias."
+  }, {
+    "type" : "heading",
+    "id" : 189,
+    "level" : "Subtitle",
+    "page number" : 9,
+    "bounding box" : [ 46.772, 549.533, 383.489, 563.162 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The Theoretical Setting and the “Real vs Blueprint Utopia” Dichotomy"
+  }, {
+    "type" : "paragraph",
+    "id" : 190,
+    "page number" : 9,
+    "bounding box" : [ 46.772, 358.228, 392.631, 536.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The educational-theoretical setting is now marked by a broad acknowledgement that utopia and education are intrinsically connected. Any utopian vision requires pedagogical preparation of its realization. Any educational planning involves images of some collective, good purposes that should be imagined and advanced. These will produce a desirable future for the generation that gets educated. This connection of utopia and education seems inescapable. Many educational philosophies concur that “the utopian spirit manifests itself in multiple (even anti-utopian) forms of educational practice” (Lewis 2006, p. 6). To the objection that “recent history might suggest that this utopian kernel has disappeared from educational discourse” the answer is that utopianism “has simply become covert, secretly animating school reform on both the right and the left of the political spectrum” (Lewis, 6). Thus, even when utopianism is not explicit, it is operative nevertheless as crypto-utopianism (Papastephanou 2009). In Milojevic’ (2003) words, even “narratives about the future that aim to represent ‘realistic’ approaches (as in technological, scientific determinism) also incorporate utopia”. They may be “disguised as crypto utopias” but, nonetheless, they also involve prescriptions for an improved collective future (Milojevic 2003, p. 443)."
+  }, {
+    "type" : "paragraph",
+    "id" : 191,
+    "page number" : 9,
+    "bounding box" : [ 46.772, 274.228, 392.613, 356.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The intrinsic connection of utopia and education is doubted from at least two standpoints: an autonomous education standpoint and a neoliberal one. The autonomous education standpoint combats any instrumentalization of education (Yosef-Hassidim and Baldacchino 2021). Consistency in the claim against all instrumentalism compels hostility toward not only neoliberal but also utopian instrumentalizations of education so far as these serve aims extrinsic to education. The only acceptable utopianism is that of educational autonomy, which is said to comprise real and blueprint features (Yosef-Hassidim and Baldacchino"
+  }, {
+    "type" : "list",
+    "id" : 192,
+    "level" : "1",
+    "page number" : 9,
+    "bounding box" : [ 46.772, 226.228, 392.601, 272.749 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 202,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 46.772, 226.228, 392.601, 272.749 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.5,
+      "text color" : "[0.0, 0.0, 1.0]",
+      "content" : "2021, p. 39). This new educational-theoretical standpoint has merits. However, its discussion of utopia is still underdeveloped, whilst its handling of instrumentalism is a separate and major issue that cannot be critiqued here. For the purposes of the present article, it is more crucial to focus on the much older and far more influential neoliberal standpoint.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 193,
+    "page number" : 9,
+    "bounding box" : [ 46.772, 94.228, 392.615, 224.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Most neoliberals disconnect utopia and education because they are hostile to: utopian hopes that they consider unattainable or dangerous; and assumptions about a collective good that they consider untenable.19 “In the works of anti-utopian liberals”, “the rejection of blueprint utopianism and therefore of utopianism overall” is linked to “the rejection of utopian thought pure and simple, as the virtual if not complete equivalent to totalitarianism” (Peters and Freeman-Moir 2006, p. 2). This line of thought rationalizes “a triumphant capitalism” (3) and finds expression in the nowadays pervading tendency to affirm existing realities as ineluctable. This rationalization of our realities and its pathologies is precisely of our temporality: we are told that we have reached times where “There is No Alternative” (TINA). The TINA slogan, pertinently chastised by many critics of neoliberalism (e.g., Queiroz 2018), has obvious anti-utopian undertones and has rationalized much neoliberal intervention in"
+  }, {
+    "type" : "list",
+    "id" : 195,
+    "level" : "1",
+    "page number" : 9,
+    "bounding box" : [ 46.772, 49.293, 392.627, 77.714 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 176,
+    "next list id" : 206,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 46.772, 49.293, 392.627, 77.714 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "19 Liberal and neoliberal positions on utopia are not identical or reducible to one another, but there is no space here for elaborating on this. Inevitably, some intricacies concerning nuanced treatments of terms are set aside in an article-length discussion of utopian education.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 197,
+    "page number" : 9,
+    "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 52,
+      "page number" : 9,
+      "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 198,
+    "page number" : 10,
+    "bounding box" : [ 47.055, 624.126, 392.884, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 82,
+      "page number" : 10,
+      "bounding box" : [ 47.055, 624.126, 58.455, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "640"
+    }, {
+      "type" : "paragraph",
+      "id" : 83,
+      "page number" : 10,
+      "bounding box" : [ 335.348, 624.126, 392.884, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "M. Papastephanou"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 200,
+    "page number" : 10,
+    "bounding box" : [ 46.772, 502.228, 392.612, 608.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "education and elsewhere. Allegedly, we must reproduce the existent because ours is the best possible world. However, this claim has been combated. The neoliberal crypto-utopianization of the present has been critiqued as a bad blueprint utopianism. It is further asserted that “the utopian realism of capitalism and, by extension, neoliberalism, has now become a ‘real utopian blueprint’ that leaves no alternative” (Van Dermijnsbrugge and Chatelier 2022, p. 11). Indeed, neoliberalism is not only crypto-utopian; its crypto-utopianism is of the infamous blueprint kind: “the success of neo-liberal politics was partially due to their ability to capture the public imagination, to offer a blueprint, a prescriptive and improved imagined state of individual and/or collective being” (Milojevic 2003, p. 449)."
+  }, {
+    "type" : "paragraph",
+    "id" : 201,
+    "page number" : 10,
+    "bounding box" : [ 46.772, 334.228, 393.302, 500.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Therefore, the risk that neoliberalism attributes to utopias, namely, their possibly coercive blueprint effects, comes to haunt the neoliberal vision. In education, the neoliberal utopian blueprint “manifests itself in the form of evidence-based practices, the ‘what works’ logic and the growing occurrence of big reform movements led by transnational bodies” (Van Dermijnsbrugge and Chatelier 2022, p. 12). The neoliberal standpoint relies on a purported common sense the most far-reaching consequence of which is “that it has largely replaced collective, democratic and political forms of hoping with individualized and often unattainable hopes and imperatives that ultimately tie individuals to a continuous struggle for self-management and self-improvement” (Tiainen et al. 2019, p. 647). That privatized hopes are also “often unattainable” reveals how close the neoliberal worldview comes to the utopian unrealizability that it has historically chastised. Moreover, neoliberal cryptoutopianism is not only blueprint and unrealistic but also incriminatory because it sweepingly dismisses utopianism. Anti-utopian stigmatization of all utopians is an incriminatory political operation of regressive and soporific consequences (Drousioti and Papastephanou"
+  }, {
+    "type" : "list",
+    "id" : 202,
+    "level" : "1",
+    "page number" : 10,
+    "bounding box" : [ 46.772, 286.228, 392.625, 332.749 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 192,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 46.772, 286.228, 392.625, 332.749 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.5,
+      "text color" : "[0.0, 0.0, 1.0]",
+      "content" : "2022, p. 16). The neoliberal blueprint crypto-utopianism is also, and ultimately, incriminatory. It tarnishes humanity essentialistically. More on this below, but, for the moment, based on the above paragraphs, we may conclude that, the neoliberal standpoint cannot refute the intrinsic connection of utopia and education; it rather constitutes one manifestation of it, and",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 203,
+    "level" : "2",
+    "page number" : 10,
+    "bounding box" : [ 46.772, 262.228, 392.598, 284.749 ],
+    "numbering style" : "english letters",
+    "number of list items" : 1,
+    "next list id" : 231,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 46.772, 262.228, 392.598, 284.749 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "not quite the best for that matter. Ironically, precisely because of neoliberalism’s straight-jacketing hegemony, neoliber-",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 204,
+    "page number" : 10,
+    "bounding box" : [ 46.772, 94.228, 392.622, 260.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "als have unwittingly encouraged alternative educational utopianism. Against “the relentless marketisation and managerialisation of education, there is a growing willingness to embrace utopianism as a means of bolstering hope, opening up new possibilities and catalysing change” (Webb 2009, p. 743). However, the fear of blueprint utopianism and of radical utopian determinacy has imbued contemporary outlooks on imagined futures; hence the “concern to avoid utopianism’s more fanciful and coercive associations” (743). The fear of sliding into extremely determinate utopian visions that regulate all aspects of living or aspire to an unrealistic overhaul of society is still felt and results in domestications of educational utopia (Webb 2016). The typical reactive response to wholesale incriminations of utopianism has been the quick endorsement and promotion of the so-called “educational real utopias”. Webb (2016) offers a thorough critique of such a realist utopian thought that harnesses utopian energies. In the effort to avoid the risks of utopianism or its bad versions, theory (educational or other) may end up losing much of the vitality and propelling force of utopianism (Webb 2009).20"
+  }, {
+    "type" : "list",
+    "id" : 206,
+    "level" : "1",
+    "page number" : 10,
+    "bounding box" : [ 46.772, 49.293, 392.603, 68.464 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 195,
+    "next list id" : 235,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 46.772, 49.293, 392.603, 68.464 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "20 For an interesting response to Webb’s criticisms of real utopias, see Halpin (2009). See also Webb’s responses to Halpin’s points in Webb (2016 and 2017). There is no space here to discuss head-on, and spe-",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 208,
+    "page number" : 10,
+    "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 53,
+      "page number" : 10,
+      "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 209,
+    "page number" : 11,
+    "bounding box" : [ 46.554, 624.126, 392.277, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 84,
+      "page number" : 11,
+      "bounding box" : [ 46.554, 624.126, 264.976, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Educational Utopianism beyond the “Real versus Blueprint” Dichotomy"
+    }, {
+      "type" : "paragraph",
+      "id" : 85,
+      "page number" : 11,
+      "bounding box" : [ 380.877, 624.126, 392.277, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "641"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 211,
+    "page number" : 11,
+    "bounding box" : [ 46.772, 310.228, 392.621, 608.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Webb argues that “there is nothing inherently totalitarian or repressive” in blueprint utopianism (2017, 560). He finds incredible that Karl Popper is still, and regularly, used as a reference point “by those highlighting the dangers of ‘blueprint’ utopianism, as if cold war anti-communist rhetoric – written by a man lacking any familiarity with the history of utopian literature or movements – still holds relevance today” (Webb 2017, p. 560). I agree, but I think that the cause of reactions to radical utopianism is not only the reliance on Popper but also the attachment to the politically pessimist anthropological essentialism that is deepseated in Western thought. The deeper philosophical and political problem is that depictions of humanity as having a “homo homini lupus” essence (T. Hobbes) or as being a “crooked timber” (I. Berlin) or as marked by a disabling “foul stain” (I. Kant) continue to underpin contemporary Western thought, although they represent a most unsatisfactory and problematic anthropology (Papastephanou 2013). Despite postmodern attacks on essentialism, many thinkers implicitly or explicitly share essentialist liberal anthropological arguments against utopia. Anti-utopian worldviews, or worldviews that fear drastic transformation, discard radical utopian thought because these worldviews have incriminated humanity as such. From their continuous, though non-thematized, reliance on modern anthropological perspectives, they consider any demanding utopianism unrealizable or pernicious because of a supposedly inherently evil side in human beings or in articulated order. Such considerations lead either to downright anti-utopianist dismissals of all efforts to radical change or to a cumbersome utopianism fraught with views that rigidify humanity (Papastephanou 2013). Thus, the ultimate incrimination of human nature as a perennial hindrance to approximating utopian vision operates not only in anti-utopianism but also in some realist utopianism. For many anti-utopian and realist utopian thinkers alike, not only practical and historical, but also anthropological, considerations constrain transformation and prescribe piecemeal and adaptive, rather than radical, change."
+  }, {
+    "type" : "paragraph",
+    "id" : 212,
+    "page number" : 11,
+    "bounding box" : [ 46.772, 142.228, 392.621, 308.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Thought through to pedagogical implications, anti-utopianism and its residues in realist utopianism may deprive education of some moulding and preparatory qualities and energies. Against essentialist arguments, faith in human plasticity entails that people become what they (and their surrounding social world) think that they are, in fact, what acculturation and many years of education have convinced them that they are. Then, people perpetuate the world that matches the intricate dialectics which feeds ethico-political abdication. Avoiding the essentialist and incriminatory anthropological discourse increases educational potentiality. It enables a theorization of why some radical-holistic change is not vaguely desirable but even occasionally possible or in principle possible, since it is not precluded by anything constitutive of human identity (Papastephanou 2009). All this, however, on the condition that the equally essentialist and problematic eschatological optimist anthropology is also avoided: as Webb cautions, there is no “ontological vocation to become more fully human”; the utopian quest for a better future is “a normative and contingent ethico-political construct” (Webb 2017, p. 555)."
+  }, {
+    "type" : "paragraph",
+    "id" : 213,
+    "page number" : 11,
+    "bounding box" : [ 46.772, 82.228, 392.639, 140.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The theoretical setting of current educational utopianism then is complex and full of ambiguities. On the one hand, educational theory and practice assumes that the self is malleable (the degree of such malleability varies depending on further educational-theoretical presuppositions). This plasticity of the self makes room for acknowledging human potentiality beyond restrictive and despondent outlooks. Thought through, utopianism is inherent"
+  }, {
+    "type" : "paragraph",
+    "id" : 215,
+    "page number" : 11,
+    "bounding box" : [ 46.772, 49.293, 392.603, 67.403 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "cifically, the Webb and Halpin debate, but I am mentioning it as an important exchange that advances the dialogue over utopian education."
+  }, {
+    "type" : "footer",
+    "id" : 217,
+    "page number" : 11,
+    "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 54,
+      "page number" : 11,
+      "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 218,
+    "page number" : 12,
+    "bounding box" : [ 47.055, 624.126, 392.884, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 86,
+      "page number" : 12,
+      "bounding box" : [ 47.055, 624.126, 58.455, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "642"
+    }, {
+      "type" : "paragraph",
+      "id" : 87,
+      "page number" : 12,
+      "bounding box" : [ 335.348, 624.126, 392.884, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "M. Papastephanou"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 220,
+    "page number" : 12,
+    "bounding box" : [ 46.772, 406.228, 392.622, 608.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "in education, and education is important for reconceptualising and attempting approximations of utopian vision (blueprint or other). On the other hand, much contemporary educational discourse (at least, that which explores whether some utopianism operates beneath educational recommendations) either reflects, or gets affected by, the anti-utopian spirit of most 20th century liberalism. Some educational theorists either dismiss utopianism as pernicious or deconstruct its historical association with education with no effort to reconstruct utopian aspiration in fresh terms. Many other theorists find utopianism attractive, yet, by implicitly relying on some liberal anti-utopian tenets, they embrace a realist utopianism that banalizes utopian aspiration. Beyond explicit and implicit anti-utopianist tendencies, some other educational theorists rehabilitate the educational significance of utopian thought in more affirmative and reconstructive terms that allow for a strong and demanding utopianism. However, the most popular tendency favours realist utopianism and incriminates blueprint utopianism wholesale. The archaeological modality of utopia takes precedence over the architectural modality. Thus, missing “is a sense of the recovered histories serving to guide or direct the ontological wayfarer. This is because contemporary proponents of utopian pedagogy reject both the possibility of, and the need for, a utopian vision to serve as a goal and a guide to action” (Webb 2017, p. 557)."
+  }, {
+    "type" : "paragraph",
+    "id" : 221,
+    "page number" : 12,
+    "bounding box" : [ 46.772, 274.228, 392.612, 404.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The contention, therefore, concerning blueprint versus real utopias seems to be ending in the victory of the latter within educational utopian discourses. “All one seems to be left with is the practice of creating spaces devoid of content (‘radically open’) and lacking direction (‘always in process’)” (Webb 2017, p. 559). Privileging formalist and real utopias contemporary readings of utopian pedagogy reduce utopianism “to a method which takes the process of questioning, participation and dialogue as an end in itself” (Webb 2017, p. 560). Yet, as Webb argues, the archaeology that excavates repressed histories and the creation of open spaces of dialogue where the debated content “remains undetermined” do not per se “illuminate the path toward the utopian future” (p. 560). What illuminates “the ontological journey” is “utopian architecture”, namely, “utopian content” (Webb 2017, p. 560). How much content, however?"
+  }, {
+    "type" : "paragraph",
+    "id" : 222,
+    "page number" : 12,
+    "bounding box" : [ 46.772, 118.228, 392.616, 272.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Formalist utopianism empties utopias of content and extols the new and the transformative without conditions or criteria since these would give content to utopia. It incriminates anything old or established or, to say the least, it avoids substantive qualifications of what should be kept and what should be discarded. Real utopias limit the utopian content to what is specific and necessary enough to illuminate modest and constrained aspirations. Blueprint utopias demand detailed content for better guidance toward a radical-holistic utopianism. These options may be associated with some prominent figures of 20th century utopianism that Tyson Lewis singles out while discussing utopian archaeology: “the future is not simply empty, as in Adorno’s persistent ban on utopian content, yet nor is there the prophetic certainty of Marcuse”. Following Jameson, Lewis posits that “the future comes to us in ruins through which the utopian archaeologist fits together its mysterious contours” (Lewis 2006, p. 14). Yet, as already indicated, Webb (2017) importantly charges utopian archaeology with inadequate determination of utopian ends and contents."
+  }, {
+    "type" : "paragraph",
+    "id" : 223,
+    "page number" : 12,
+    "bounding box" : [ 46.772, 58.228, 392.623, 116.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Generally, the utopian educational-theoretical setting is marked by the “real versus blueprint” dichotomy. Even when the blueprint option is not discussed head-on it operates as the feared alternative against which the realist option gets unfolded and vindicated. In the next section I tackle the possibility that real and formalist utopias, even non/anti-utopias, may converge with blueprint ones in unexpected ways and make an undesirable common"
+  }, {
+    "type" : "footer",
+    "id" : 225,
+    "page number" : 12,
+    "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 55,
+      "page number" : 12,
+      "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 226,
+    "page number" : 13,
+    "bounding box" : [ 46.554, 624.126, 392.277, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 88,
+      "page number" : 13,
+      "bounding box" : [ 46.554, 624.126, 264.976, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Educational Utopianism beyond the “Real versus Blueprint” Dichotomy"
+    }, {
+      "type" : "paragraph",
+      "id" : 89,
+      "page number" : 13,
+      "bounding box" : [ 380.877, 624.126, 392.277, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "643"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 228,
+    "page number" : 13,
+    "bounding box" : [ 46.772, 550.228, 392.611, 608.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "cause, instead of being direct opponents. All may become incriminatory; this risk cannot be avoided by dichotomizing blueprint and real utopias and opting for the latter. I suggest that the enlarged perspective that the introduction of the affirmative and incriminatory utopian modalities offers makes more visible the need to transcend the “real versus blueprint” dichotomy."
+  }, {
+    "type" : "heading",
+    "id" : 229,
+    "level" : "Subtitle",
+    "page number" : 13,
+    "bounding box" : [ 46.772, 513.533, 228.083, 527.162 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The Risk of Incriminatory Utopianism"
+  }, {
+    "type" : "paragraph",
+    "id" : 230,
+    "page number" : 13,
+    "bounding box" : [ 46.772, 454.228, 392.612, 500.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The danger of utopian gulags has typically been associated with blueprint utopianism. The incrimination of specific members of a collectivity has been considered a standard modality of modern end-state utopias (Halpin 2009, p. 762). However, incriminatory utopianist operations have not yet been adequately or systematically theorized (Drousioti and Papastepha-"
+  }, {
+    "type" : "list",
+    "id" : 231,
+    "level" : "2",
+    "page number" : 13,
+    "bounding box" : [ 46.772, 370.228, 392.622, 452.749 ],
+    "numbering style" : "english letters",
+    "number of list items" : 1,
+    "previous list id" : 203,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 13,
+      "bounding box" : [ 46.772, 370.228, 392.622, 452.749 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "nou 2022, p. 2). The analytical category of “incriminatory utopia” is also missing in current utopian-educational discursive settings. Thus, questions concerning how incriminatory operations may relate to utopianism and to what kind of it, e.g., the real or the blueprint, are neglected. These are important questions, nevertheless, an answer to which should not be assumed to be favourable to real utopias and damning of blueprint ones alone. The core feature of incriminatory utopias is the scapegoating of specific others; is this a danger of blueprint utopias exclusively? The present section tackles this issue.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 232,
+    "page number" : 13,
+    "bounding box" : [ 46.772, 130.228, 392.616, 368.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The notion of incriminatory utopia provides opportunities for more critical nuance. This qualifies the notion as an additional tool or criterion for distinguishing bad utopianism from desirable utopianism (Drousioti and Papastephanou 2022) in a counter-utopian manner. One may argue against critical nuance that incrimination is an inherent and unavoidable operation of utopian vision. Therefore, differentiating utopias concerning this danger is pointless. If utopian visions are indeed inextricably intertwined with a dystopic present, then, by definition, all utopias require not only something to fight for but also something to fight against (Drousioti and Papastephanou, 13). However, this does not mean that utopias are inherently incriminatory. Much depends on what one fights against, and this needs not be a scapegoated Other. It could be the bad structures of the world, inequalities, injustices, etc., things that are analyzable without medicalizing and moralizing societal “health”, without detecting the “ill” and aiming to “cure” society from them (Papastephanou 2021a). As Hannah Arendt famously showed, totalitarianism is not a Mephistophelian, metaphysical evil. It derives from dehumanizing structures and subtle, sometimes even hardly perceptible, social engineering that should be drastically changed. Incriminatory operations which hold some people or groups responsible for some defect, evil or collective misfortune lie beneath many political injustices such as subordination, marginalization, othering, exclusion and scapegoating, up to egregious “–isms” (e.g., chauvinism and racism). Typical of such incriminatory utopianism is the anti-migrant position and the retrotopia21 beneath it (the preservation of, or return to, an idyllic time of cultural purism that the migrant supposedly disrupts)."
+  }, {
+    "type" : "paragraph",
+    "id" : 233,
+    "page number" : 13,
+    "bounding box" : [ 46.772, 82.228, 392.606, 128.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Incriminatory tactics discharge collective dissatisfaction with reality by channelling it into measures against some others. Such measures comprise tarnishing, labelling and persecutions that supposedly remedy the detected ills or restore the lost jouissance. Though incriminatory totalitarian practices are neither intrinsic to utopianism nor insuperable, they"
+  }, {
+    "type" : "list",
+    "id" : 235,
+    "level" : "1",
+    "page number" : 13,
+    "bounding box" : [ 46.772, 49.293, 392.604, 68.464 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 206,
+    "next list id" : 244,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 13,
+      "bounding box" : [ 46.772, 49.293, 392.604, 68.464 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "21 The term is Zygmunt Bauman’s. For more on the incriminatory utopianism of retrotopian anti-migrant populism see Drousioti and Papastephanou (2022).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 237,
+    "page number" : 13,
+    "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 56,
+      "page number" : 13,
+      "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 238,
+    "page number" : 14,
+    "bounding box" : [ 47.055, 624.126, 392.884, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 90,
+      "page number" : 14,
+      "bounding box" : [ 47.055, 624.126, 58.455, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "644"
+    }, {
+      "type" : "paragraph",
+      "id" : 91,
+      "page number" : 14,
+      "bounding box" : [ 335.348, 624.126, 392.884, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "M. Papastephanou"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 240,
+    "page number" : 14,
+    "bounding box" : [ 46.772, 538.228, 392.611, 608.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "are nevertheless a potential danger in all visions, utopian (real, blueprint, crypto-utopian, etc.) or anti-utopian. Blinded to more complex and structural dystopian causalities, any worldview may isolate and sweepingly incriminate specific individuals or groups. To give an example: in some places today, mentalities have been produced that incriminate whoever supports Palestinian claims of justice. One may have lamented the 7th October events against Israeli civilians, but as soon as one protests at the mass killings of Palestinians and"
+  }, {
+    "type" : "list",
+    "id" : 241,
+    "level" : "2",
+    "page number" : 14,
+    "bounding box" : [ 46.772, 442.228, 392.641, 536.749 ],
+    "numbering style" : "english letters",
+    "number of list items" : 1,
+    "previous list id" : 172,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 46.772, 442.228, 392.641, 536.749 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "at other atrocities committed by Israel in Gaza this person is labelled anti-Semitic/anti-Israel and faces risks of discrimination, up to persecution. Such mentalities pass for liberal and have nothing to do with explicit blueprint utopianism; however, they are incriminatory to totalitarian effect. In their effort to detect the “evil” in their society (but deep down concerned to rationalize the acts of their allied countries and to maintain their own moral selfimage) the adherents to such mentalities are more preoccupied with tarnishing those who detect dystopian realities rather than alarmed by the dystopian reality that the Palestinians have been experiencing for over a century.22",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 242,
+    "page number" : 14,
+    "bounding box" : [ 46.772, 334.228, 392.619, 440.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Incriminatory practices are, therefore, not exclusive to blueprint utopianism. They are present even in current attitudes of crypto-utopian or anti-utopian liberalism. Some such attitudes are: the twist of liabilities to gaslighting level;23 the attribution of social pathologies to faulty individual moral psychology; and the inattention to structural injustices and faults in the societal design. Ironically, liberalism is sometimes more prone to sliding into incriminatory practices precisely because it fails to detect the real causes of pathologies in supra-individual, supra-group, even supra-state structures and to notice more complex causalities of pathologies than those which personalize socio-political ills. In a further irony, some anti-utopian liberals who vehemently reject drastic change and blueprint uto-"
+  }, {
+    "type" : "list",
+    "id" : 244,
+    "level" : "1",
+    "page number" : 14,
+    "bounding box" : [ 46.772, 49.293, 392.627, 311.799 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 235,
+    "next list id" : 254,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 46.772, 70.628, 392.627, 311.799 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "22 Karma Nabulsi, “In Jerusalem we have the latest chapter in a century of colonialism”, 12 Dec 2017.https:// www.theguardian.com/commentisfree/2017/dec/12/jerusalem-chapter-century-colonialism-donald-trumpintervention-palestine Accessed: 15 June 2024. The example of the Israeli-Palestinian conflict helps me also explain the difference between a solution to a world problem that echoes a liberal or a realist political utopianism and a solution in line with a more radical political utopianism. That this specific conflict in its modern version is over a century old and that it involves the condonement, even active, ironclad support, of settler colonialism by all the major Western global players shows that its fair resolution requires nothing less than radical political utopianism. It requires a drastic turn of global politics toward cosmopolitan justice, and not toward an endless negotiation that leaves intact the power asymmetries of those involved in the negotiations. As things stand, without a broader transformation of the western world and its Realpolitik alliances and double standards concerning friends and foes, the most one may hope for, regarding this conflict, is a realist utopia of temporary cease fire and a resuming of negotiations along lines that hardly alter the power positioning of the two peoples. The international justice that even some academics promote requires transformative global politics to be enacted, and the doling out of this justice is too distant a possibility right now. One may object to this that, in this conflict, the radical utopia would be to propose as a solution something unthinkable, unimaginable for all sides of the conflict: a reconciliation. I disagree; a true reconciliation presupposes the radical utopia of cosmopolitan justice. It can only come from a just solution that respects the rights of all the involved parties and adheres to cosmopolitan principles, and this reconciliation (not a reconciliation whatever) is the unimaginable now, given the global power politics. Any reconciliation without fulfilment of the cosmopolitan justice precondition, that is any reconciliation as merely non-violent, gleeful co-existence without one party’s claims to rights being met, may lack all radicality and may come in such conflicts totally out of pax romana politics and the desperate acknowledgment by the weaker party that all struggle is futile. This kind of reconciliation and solution would indeed resemble and advance a liberal sense of world “peace”, but this peace would be a pax romana one (of continuous subjection of one party to another), much inferior to the radical substantive utopia that would promote a solution of the Israeli-Palestinian conflict on grounds of international right, cosmopolitan justice and decolonial principles.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 46.772, 49.293, 392.598, 68.464 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "23 For example, in the above-described contexts concerning the Israeli-Palestinian conflict, whoever condemns the injustice of settler colonialism stands immediately accused of the injustice of anti-Semitism.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 246,
+    "page number" : 14,
+    "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 57,
+      "page number" : 14,
+      "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 247,
+    "page number" : 15,
+    "bounding box" : [ 46.554, 624.126, 392.277, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 92,
+      "page number" : 15,
+      "bounding box" : [ 46.554, 624.126, 264.976, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Educational Utopianism beyond the “Real versus Blueprint” Dichotomy"
+    }, {
+      "type" : "paragraph",
+      "id" : 93,
+      "page number" : 15,
+      "bounding box" : [ 380.877, 624.126, 392.277, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "645"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 249,
+    "page number" : 15,
+    "bounding box" : [ 46.772, 466.228, 392.62, 608.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "pianism (as supposedly unrealizable or as incriminatory) themselves do not just critique but wholesale incriminate their opponents (especially the adherents to blueprint and radical utopianism that liberals tend to brand leftist populists). Thus, such liberals utopianize socialreproductive proposals as the only realizable, moderate, ethically acceptable and worthpursuing imaginative futures (Drousioti and Papastephanou 2022, p. 16).24 Likewise, real utopias are no more immune to incriminatory practices than their substantive, blueprint alternatives because, like blueprint utopias and liberal crypto/anti-utopias, real utopias may also engage in medicalizing logics and other such aforementioned practices. In being vague concerning the realities beyond their own focal points, and by focusing on evils to combat within the parameters of a given society rather than on affirmative set destinations that demand a more drastic social/global overhaul, real utopias may become incriminatory and authoritarian."
+  }, {
+    "type" : "paragraph",
+    "id" : 250,
+    "page number" : 15,
+    "bounding box" : [ 46.772, 202.228, 392.611, 464.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The task of judging a utopia on affirmative or incriminatory grounds rules out the pure formalism that (truly or purportedly) lacks determinacy. This is because, without determinacy and content specification, one cannot know how a utopia deals with the causes of the dystopian present or imminent future. Furthermore, when realist utopianism comes too close to formalist utopianism it cannot be debated on grounds of the plausibility or desirability of its vision. Webb asks: “on what basis does a teacher judge one set of experiences or desires to be full of possibility and another set not?” The answer he extrapolates from related sources contains, as Webb rightly notes, examples that are too vague. For instance, some sources “highlight ‘racist and sexist stereotyping’ as forms of student experience and behaviour that should not be affirmed” (Webb 2017, p. 556). Webb appropriately complicates the facile reliance on utopian archaeologies and the generality of such illustrations. I add that, as crucial as the avoidance of stereotyping may be, focus on it may lead us to a communicative real utopia where all that matters is how we speak about the other. Moreover, Webb’s example proves that formalist utopias rarely remain so; they are nominally and declaratively formalist, yet when valorized ideas or visions are at stake these utopias overtly or covertly become end-state concerning such specific ideas. They seek the enemy, the splinter of archaism, the one who lags behind the progressives and obstructs transformation or has not yet endorsed the correct way of speaking about the other and the correct principles to follow.25 They engage in moralist and incriminatory finger-pointing. They become conventional in what they notice as things to be deterred because they fail to see injustices that are not as glaring as stereotyping, racism and sexism. They thus miss a more complex and stereoscopic optic on justice (Papastephanou 2021c)."
+  }, {
+    "type" : "paragraph",
+    "id" : 251,
+    "page number" : 15,
+    "bounding box" : [ 58.11, 178.228, 392.609, 200.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "But should radical and drastic change be blueprint and have the connotations of blueprint? I have argued that for utopia to have any motivational force, a “vivid image” of the"
+  }, {
+    "type" : "paragraph",
+    "id" : 252,
+    "page number" : 15,
+    "bounding box" : [ 46.772, 130.228, 392.609, 176.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "good to inspire and guide action is needed (Papastephanou 2009). Webb invites us to “call this vivid image a blueprint” (Webb 2017, p. 562) and to emphasize “the role of utopian pedagogy” in guiding us toward “a substantive utopian vision” (Webb 2017, p. 562). This act of naming and the attachment to the term “blueprint” compel, in my opinion, some"
+  }, {
+    "type" : "list",
+    "id" : 254,
+    "level" : "1",
+    "page number" : 15,
+    "bounding box" : [ 46.772, 49.293, 392.608, 117.549 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 244,
+    "next list id" : 263,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 15,
+      "bounding box" : [ 46.772, 79.878, 392.605, 117.549 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "24 To the possible objection that I am engaging in an incriminatory operation, this time against liberals, my response is that critique is not incrimination. Incrimination is sweeping, blind to counter-arguments and twisting of realities. Hence it tends to demonize and moralize something bad or undesirable as “evil”. None of my critique of faulty liberal assumptions points to any such notion of “evil”.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 15,
+      "bounding box" : [ 46.772, 49.293, 392.608, 77.714 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "25 Ultimately, in a conflict such as the Israeli-Palestinian, such formalist or real utopias may incriminate the defender of Palestinian rights as supposedly anti-Semitic and thus attribute stereotyping or racism wrongly due to failure of perceiving more complex injustices than just stereotyping or racist talk.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 256,
+    "page number" : 15,
+    "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 58,
+      "page number" : 15,
+      "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 257,
+    "page number" : 16,
+    "bounding box" : [ 47.055, 624.126, 392.884, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 94,
+      "page number" : 16,
+      "bounding box" : [ 47.055, 624.126, 58.455, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "646"
+    }, {
+      "type" : "paragraph",
+      "id" : 95,
+      "page number" : 16,
+      "bounding box" : [ 335.348, 624.126, 392.884, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "M. Papastephanou"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 259,
+    "page number" : 16,
+    "bounding box" : [ 46.772, 526.228, 392.62, 608.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "examination of the history of this modern metaphor. If the blueprint only indicates “an early plan or design that explains how something might be achieved”,26 this makes room for later modifications and further refinements that keep away the connotations of stagnation or over-regulation and over-determination that accompany the blueprint that postmodernity has incriminated. But the modernist, figurative sense of “detailed plan”, which “is attested from 1926”,27 indicates that much depends on what one means by detailed, substantive utopian vision and blueprint determinacy. Why should one remain attached to this metaphor?"
+  }, {
+    "type" : "paragraph",
+    "id" : 260,
+    "page number" : 16,
+    "bounding box" : [ 46.772, 322.228, 392.612, 524.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Regardless of whether one names utopia “blueprint” or chooses a term of different connotations, the point is: what’s in the premodifier “detailed”? Webb determines it as considerable detail: “Important here is the characterisation of utopia as a society described in considerable detail” (Webb 2016, p. 441). I believe that the adjective “considerable,” as a premodifier that keeps “detail” in check and harnesses its potentially bad politics, creates ample space for exploring the determinacy versus indeterminacy complexity that operates as a boundary discourse, namely, a discourse about appropriate limits and avoidance of extremes.28 However, the emphasis on architectural modes of utopianism and their more substantive and detailed proposals may miss the complex interplay of determinacy and indeterminacy and how a richer normativity than that of prescription may be helpful if we are to mitigate the risk of detailed projects becoming too regulatory and undemocratic. Could it be that “considerable detail” means prescriptions about which the western world feels quite safe to endorse and to combine with more provocative thought (as supposedly easy bedfellows)? I think that this facile escape route would not be Webb’s, but because it is something implied in related scholarship inter alia as a response to Webb, for instance, in otherwise insightful and important contributions such as Jandrić & McLaren’s (2020), I will discuss it below. This discussion also helps indicate the pedagogical relevance of these issues."
+  }, {
+    "type" : "paragraph",
+    "id" : 261,
+    "page number" : 16,
+    "bounding box" : [ 46.772, 118.228, 392.633, 320.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Jandrić and McLaren (2020, 1473) argue that “while it is easy to agree that the notion of a prophet-educator is probably not the best idea, our age of anti-intellectualism and post-truth does require certain ‘blueprints’ and ‘prescriptions’”. They even offer a couple of such prescriptions. Let us consider their “blueprint one: scientists know what they are talking about. Whether it is the threat of global warming, or the threat of epidemic diseases, it is useful to listen to what scientists have to say” (Jandrić & McLaren, 1473).29 My first objection is somewhat technical: is this a blueprint or a mere principle/maxim? How do blueprints differ from maxims or principles in Jandrić and McLaren’s account? Are the two not conflated here? Next, and more importantly, I doubt that theirs is a good principle, let alone a worthy blueprint. The aphorism is that “scientists know what they are talking about”; did they know what they were talking about when they glorified lobotomy and gave a Nobel prize to its pioneer (Papastephanou 2021a) or when they studied the skulls of killed African people to prove their inferiority (Papastephanou 2017)? The “blueprint”/aphorism in question gives too uniform an image of science and scientists. The dictate/prescription to “listen to what scientists have to say” homogenizes the scientific community and overlooks multivocality within science. Is this an imperative to listen unreflectively, with no qualifications and to trust uncritically? Which scientists shall we listen to and educate students also to do so? The"
+  }, {
+    "type" : "list",
+    "id" : 263,
+    "level" : "1",
+    "page number" : 16,
+    "bounding box" : [ 46.772, 49.293, 392.6, 104.718 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "previous list id" : 254,
+    "next list id" : 272,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 46.772, 84.934, 392.6, 104.718 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "26 https://dictionary.cambridge.org/dictionary/english/blueprint The term “blueprint” originated in 1882 from blue (adj.1)+ print (n.) and referred to a printing process that uses blue on white, or white on blue.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 46.772, 73.463, 197.946, 83.383 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "27 https://www.etymonline.com/word/blueprint.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 46.772, 61.378, 219.11, 71.299 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "28 On boundary discourse, see Papastephanou (2010).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 46.772, 49.293, 322.41, 59.214 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "29 I focus on one of Jandrić and McLaren’s mentioned blueprints for reasons of space.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 265,
+    "page number" : 16,
+    "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 59,
+      "page number" : 16,
+      "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 266,
+    "page number" : 17,
+    "bounding box" : [ 46.554, 624.126, 392.277, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 96,
+      "page number" : 17,
+      "bounding box" : [ 46.554, 624.126, 264.976, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Educational Utopianism beyond the “Real versus Blueprint” Dichotomy"
+    }, {
+      "type" : "paragraph",
+      "id" : 97,
+      "page number" : 17,
+      "bounding box" : [ 380.877, 624.126, 392.277, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "647"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 268,
+    "page number" : 17,
+    "bounding box" : [ 46.772, 574.228, 392.602, 608.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "majority of them? The majority glorified lobotomy, but history vindicated the minority who dissented. Such blueprints expose us again to the perils of incriminatory utopianism where any dissident scientific voice becomes incriminated or ridiculed."
+  }, {
+    "type" : "paragraph",
+    "id" : 269,
+    "page number" : 17,
+    "bounding box" : [ 46.772, 298.228, 392.626, 572.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "We should heed scientific claims and we should not incriminate all scientists for whatever burdens the scientific identity historically. However, listening to science in an uncritical and unconditional manner that favours epistocracy over a democratic public space (where even idiosyncratic claims should be heard and debated) re-establishes precisely the politics that led critics of blueprint utopianism to charging it with authoritarianism and related, undesirable educational implications. It is also unclear how the suggested “blueprint” as such differs from rationales of modernist scientistic/technological utopias that destroyed the environment in the name of progress. In Jandrić and McLaren, the section on blueprints is followed by paragraphs that seek to accommodate the voice of the people (and thus potentially avoid objections such as the aforementioned). The claim that supplements the blueprint with more provocative thought is inter alia that “the oppressed possess a lot of valuable knowledge which sits outside of society’s value systems”; consciousness raising brings “this knowledge into social dialogue” and further refines it (Jandrić and McLaren 2020, 1473). However, the aforementioned blueprint and this claim about the knowledge of the oppressed are not only difficult bedfellows. They are downright contradictory and speak more against, than for, blueprint utopian normativity. For, who decides on which knowledge of the oppressed is indeed valuable? Jandrić and McLaren have already answered this in their blueprint totally in favour of conventional scientific “wisdom”: concerning the example of epidemics and the opposition to official narratives that many of the low classes and the oppressed voiced, those who decide on valuable knowledge are certainly not the oppressed themselves who, according to Jandrić and McLaren, must listen to scientists on this matter. Thus, the consciousness raising process of the oppressed becomes nothing more than a lesson in compliance."
+  }, {
+    "type" : "paragraph",
+    "id" : 270,
+    "page number" : 17,
+    "bounding box" : [ 46.772, 142.228, 392.619, 296.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Educational utopia needs a more relaxed normativity than the above-mentioned one that prescribes blueprint compliance on the issue of science.30 Instead of the absolute determinacy that operates in the dictate “to listen to what scientists have to say”, utopia needs the indeterminacy of qualifiers31 such as “sometimes”, “some” scientists, “some” of what they say, etc. Such qualifiers acquire their content on grounds of better argument, inclusion of dissenting voices and responsiveness to a public that should be accustomed to asking more rather than fewer questions. An appropriately stronger prescriptive normativity may be that which compels the kind of democracy that is not naive about what power politics produce epistocratic majorities in scientific and public discourses, yet it also seeks sound argument rather than “alternative facts”, unsubstantiated claims and post-truth undermining of objective scrutiny. However, even such prescriptions should not be posited, but only suggested as topics of consideration rather than uncritical rule-following. Otherwise, the risk is to miss the affirmative utopia that promotes democratic universality and avoids privileged"
+  }, {
+    "type" : "list",
+    "id" : 272,
+    "level" : "1",
+    "page number" : 17,
+    "bounding box" : [ 46.772, 49.293, 392.625, 126.799 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 263,
+    "next list id" : 282,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 17,
+      "bounding box" : [ 46.772, 70.628, 392.625, 126.799 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "30 On the one hand, as Webb rightly emphasizes, a radical utopia requires sufficient determinacy to allow debate and promotion. On the other hand, a radical utopia may not need the blueprint, either as a metaphor, or as the kind of modernist regulation of everything in the mode of an ethics and politics of control. There is no compelling conceptual reason why utopia should be understood in modern, “blueprint”/”end-state” terms. So, much depends on what one means by “blueprint” and on what justification one provides for maintaining this particular metaphor.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 17,
+      "bounding box" : [ 46.772, 49.293, 392.598, 68.464 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "31 Such qualifiers introduce a well-meant fragmentation of the utopian vision, one that should not be eradicated, if utopia is to have a democratic character.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 274,
+    "page number" : 17,
+    "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 60,
+      "page number" : 17,
+      "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 275,
+    "page number" : 18,
+    "bounding box" : [ 47.055, 624.126, 392.884, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 98,
+      "page number" : 18,
+      "bounding box" : [ 47.055, 624.126, 58.455, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "648"
+    }, {
+      "type" : "paragraph",
+      "id" : 99,
+      "page number" : 18,
+      "bounding box" : [ 335.348, 624.126, 392.884, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "M. Papastephanou"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 277,
+    "page number" : 18,
+    "bounding box" : [ 46.772, 502.228, 392.627, 608.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "soteriological (salvaging) subjects or collectivities that hubristically claim for themselves an epistocratic prerogative to determine the desired utopia to be pursued. As argued so far, both, real and blueprint utopias face risks of becoming incriminatory. Making room for the possibility of utopian contours being visible yet hazy and of the utopian content being neither under-determined nor over-determined may keep such risks somewhat at bay. This possibility, however, requires a richer set of normativities beyond the dichotomy of prescription (as in blueprint) and crypto-normativism (as in real utopias or in crypto- and anti-utopias that hide their normative contents from public contestation). I conclude with some related suggestions."
+  }, {
+    "type" : "heading",
+    "id" : 278,
+    "level" : "Subtitle",
+    "page number" : 18,
+    "bounding box" : [ 46.772, 453.533, 347.97, 479.162 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In Lieu of a Conclusion: Beyond Dichotomies, toward Complex Normativities"
+  }, {
+    "type" : "paragraph",
+    "id" : 279,
+    "page number" : 18,
+    "bounding box" : [ 46.772, 262.228, 392.623, 440.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "I have argued that investigating whether suggested utopias incriminate an “Other” by reducing political pathologies to individual or social moral psychology adds important semantic nuance concerning kinds of utopia, utopian operations and evaluations of utopian ideas in educational discourses. The charge of incriminatory utopianism is not meant to police utopian endeavour or dismiss it wholesale. Instead, in a counter-utopian critical manner, the charge helps us avoid utopias that make their imagined future depend on exclusions and persecutions of demonized Others. I have also argued that incriminatory may be not only the blueprint utopias but also any vision so long as it overlooks ideological, material, structural and institutional causes (some of which are supra-state, indeed, global) of dystopian realities. Thus, there is no reason to dichotomize real and blueprint utopias and incriminate the latter. On the contrary, a substantive normative vision is needed as a “guide” to utopian destination (Webb 2017, p. 552). Without such a vision, utopianism becomes “conceptually flawed and practically ineffectual, romanticising an endlessly open process of exploration” (Webb 2017, p. 552). I have added that in real, even in formalist, utopias a substantive normative vision is implicitly assumed in a crypto-normative way."
+  }, {
+    "type" : "paragraph",
+    "id" : 280,
+    "page number" : 18,
+    "bounding box" : [ 46.772, 106.228, 392.623, 260.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Utopias need a bold ethico-political imagination, but does this conclusion prescribe the retrieval of a prescriptive totalizing utopian vision (Webb 2016)? I suggest in this final section that a bold ethico-political imagination involves a complex set of normativities. To be a meaningful ethico-political project and to avoid an ethic of control and over-regulation of life utopia requires a degree of determinacy. Steering clear from the either/or of “real versus blueprint” utopias means that, regardless of the degree of change that an attempted utopian endeavour may produce, the utopian vision, if it is to be utopian and not just vision, must not lose sight of, let alone condone, the broader dystopian realities. The utopian picture of the desirable world must be indeterminate enough to avoid authoritarianism and dogmatism but also determinate enough for its adherents to undertake justificatory responsibility for it and to notice stereoscopically (Papastephanou 2021c) more injustices than those made visible by their cultural lenses.32 Therefore, utopianism needs a richer set of normativities than that of the dichotomy of determinate prescriptivism and non-normativism/pure formalism."
+  }, {
+    "type" : "list",
+    "id" : 282,
+    "level" : "1",
+    "page number" : 18,
+    "bounding box" : [ 46.772, 49.293, 392.611, 86.964 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 272,
+    "next list id" : 292,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 18,
+      "bounding box" : [ 46.772, 49.293, 392.611, 86.964 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "32 Therefore, as I see it, the problem is quite the opposite of what the realist utopians claim: many utopias, even of the more holistic kind and of demands for radical change are not radical enough because they remain too attached to the real, the audible and the visible. They are too attached to what has passed through the filters of their own biographies, realities and territorial controlling mechanisms.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 284,
+    "page number" : 18,
+    "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 61,
+      "page number" : 18,
+      "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 285,
+    "page number" : 19,
+    "bounding box" : [ 46.554, 624.126, 392.277, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 100,
+      "page number" : 19,
+      "bounding box" : [ 46.554, 624.126, 264.976, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Educational Utopianism beyond the “Real versus Blueprint” Dichotomy"
+    }, {
+      "type" : "paragraph",
+      "id" : 101,
+      "page number" : 19,
+      "bounding box" : [ 380.877, 624.126, 392.277, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "649"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 287,
+    "page number" : 19,
+    "bounding box" : [ 46.772, 502.228, 392.627, 608.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "I have elsewhere (Papastephanou 2021b) complicated the dichotomy of normativity (qua prescription) versus non-normativity or crypto-normativism. Here I cannot reproduce that argumentation, but I state the main point and associate it with utopia, by way of suggestion, thus: concerning some issues, the strict normativity of prescription may be appropriate (e.g., “in a radical utopia, nuclear weapons should be totally banned”33). Concerning other issues, an explicit, though not prescriptive, normativity is necessary for debates over the desired imaginative future: e.g., “in a technological utopia, it might be advisable inventiveness not to be guided by what is achievable (that is, by what asserts a human power that may turn hubristic or ecologically destructive) but by what is truly useful – and to what ends”.34"
+  }, {
+    "type" : "paragraph",
+    "id" : 288,
+    "page number" : 19,
+    "bounding box" : [ 46.772, 418.228, 392.616, 500.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Other issues may require an appropriate and well-measured dose of crypto-normativity. By this I mean that normativity could be kept implicit so that over-regulation and controlling tendencies be avoided. Evidently, I distinguish this crypto-normativity from the cryptonormativism that pretends not to articulate a “should” the very moment that it presupposes it.35 To give an example of a desirable crypto-normativity: in an educational utopia, the normativity of pedagogy, the aims of education, should not be set in the neoliberal modality of a checklist of things that students qua achievers should be able to do.36"
+  }, {
+    "type" : "paragraph",
+    "id" : 289,
+    "page number" : 19,
+    "bounding box" : [ 46.772, 238.228, 392.615, 416.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Other issues may invite the minimal normativity of some things being totally outside the sphere of normativity and left to subjective preference and decision (“in a radical utopia people are free to make existential choices so long as these do not harm others”; certainly, what counts as “harm” however, presupposes democratic deliberation of all normative kinds). Any utopian vision aspiring to a bold ethico-political imagination should comprise all these aspects of normative determinacy and indeterminacy and should be judged as a whole. Why is such wholeness and interconnectivity of normativities necessary? Consider this: perhaps the future has great ironies in store, situations where one utopian vision, that of protecting nature, may lead, if left to be incriminatory and disconnected from other normativities (e.g., from the prescriptive one of banning nuclear weapons), to a global coalition unleashing a nuclear war against those “rogue” states that will not take measures for protecting nature. In other words, the fragmentation of the utopian image that multiple normativities entail should not end up in an archeological (or realist) modality of disparate and disconnected utopian moments that may preserve the double standards and ethical inconsistencies that multiply the world’s injustices and risks.37"
+  }, {
+    "type" : "paragraph",
+    "id" : 290,
+    "page number" : 19,
+    "bounding box" : [ 46.772, 214.228, 392.61, 236.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "To illustrate the why of a complex set of interconnected normativities I turn to a recent work on digital educational utopia (Bayne 2023). Siân Bayne avows that digital education"
+  }, {
+    "type" : "list",
+    "id" : 292,
+    "level" : "1",
+    "page number" : 19,
+    "bounding box" : [ 46.772, 49.293, 392.625, 200.053 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 5,
+    "previous list id" : 282,
+    "next list id" : 301,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 19,
+      "bounding box" : [ 46.772, 162.382, 392.625, 200.053 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "33 I hope that this gives considerable detail, and it is certainly not the only prescription that I could suggest for consideration and debate. Another one is to avoid the racism that is implicit when we are prepared to accept for (or even impose on) other places realities that we would never accept or tolerate for our own places or for our country’s allies.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 19,
+      "bounding box" : [ 46.772, 131.798, 392.604, 160.218 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "34 Consider how much room this non-prescriptive normativity makes for helping our students qualify their attachment to technology and for debating which of our gadgets are truly useful and serve good ends, instead of just asserting human potentialities.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 19,
+      "bounding box" : [ 46.772, 101.213, 392.598, 129.633 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "35 Utopias which avoid all determinacy are also crypto-normative in a bad sense because they implicitly normativize novelty and change per se in too empty (yet deep down modernist) a manner, as if just any unlearning, any transformation, any new structure and measure for dealing with reality would do.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 19,
+      "bounding box" : [ 46.772, 61.378, 392.602, 99.049 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "36 In our times of nominal celebration of diversity when convenient, many teaching quality assessments nowadays end up with the dictate that departments should impose on their staff uniformity to such absolute effect that all syllabi should contain a section that repeats verbatim such a standardized checklist of student able-ism.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 19,
+      "bounding box" : [ 46.772, 49.293, 306.291, 59.214 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "37 The whole may be brittle and fractured, but it should be a whole, nevertheless.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 294,
+    "page number" : 19,
+    "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 62,
+      "page number" : 19,
+      "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 295,
+    "page number" : 20,
+    "bounding box" : [ 47.055, 624.126, 392.884, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 102,
+      "page number" : 20,
+      "bounding box" : [ 47.055, 624.126, 58.455, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "650"
+    }, {
+      "type" : "paragraph",
+      "id" : 103,
+      "page number" : 20,
+      "bounding box" : [ 335.348, 624.126, 392.884, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "M. Papastephanou"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 297,
+    "page number" : 20,
+    "bounding box" : [ 46.772, 430.228, 392.623, 608.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "is “deeply entangled with extractive global capitalism in all its carelessness”, but she allows for the possibility of “alternative futures in which a renewed, re-formed, re-democratised digital architecture has a place” (Bayne 2023, p. 2, emph mine). However, in my view, such futures depend on an ethico-politics outside of the digital, for the digital is as such valueneutral. All these “re-” that I have italicized (which are crypto-normative in their implying a normativity of change without giving it a substantive content) can equally signify re-petition of the same instead of drastic change; or, they may even lead to re-thinking in the wrong direction. Whether digital education will help humans and the whole planet flourish is not intrinsic to the digital per se. It depends on what ethico-political priorities guide the whole world. The speed of technological change by far surpasses the speed of ethico-political reform concerning its applications (e.g., the nuclear weapons research has developed over the years, yet the global stance toward nuclear weapons has not changed drastically). The digital transcendence of the limits of the current ethico-politically parochial technological imaginative reach requires multiple normativities because the ends that the digital may serve are not inherent in the digital, nor are they critically unassailable."
+  }, {
+    "type" : "paragraph",
+    "id" : 298,
+    "page number" : 20,
+    "bounding box" : [ 46.772, 130.228, 392.611, 428.749 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "That there are affirmative potentialities in technology does not mean that these become actualities by themselves. To be unleashed and pursued these potentialities require a radical global ethico-political redirection and complex synergies and tensions of ideals, principles and virtues outside techne itself. What should be the kind of such ethico-political radicalism is a matter of multiple normativities to be considered and debated. “Imagining differently” (Bayne 2023, p. 12) will not deliver the normative goods we hope for by itself, since we may imagine differently in the most abhorring way. “Re-thinking education”, Bayne claims, “is not just about tweaks to curricula or teaching methods, but about a fundamental re-structuring and re-organisation away from institutions as we currently understand them” (Bayne, 11). Perhaps, but what counts as re-structuring is a big issue. Bayne defends a heading “toward a version of utopia based on justice and planetary health by excluding and refusing edtech’s most toxic systems and practices, while organising for and demanding fairer, better, more democratic technology infrastructures in our institutions” (12). However, how do we perceive the toxic? A complex normativity is required for utopias, educational or other, to be based on a justice that stereoscopically encompasses more than just one, outstanding, issue of toxicity. And what counts as planetary health, given the medicalizing logics that overuse the “health” metaphor? Who will decide on this if the global mindset that glorifies technology, specialization, technocracy and expertise trusts more epistocratic rather than democratic modalities of public life?38 For all the crypto-normativities of “re-” in Bayne’s article (and throughout most educational theory) to deliver their goods much spelling out of what counts as a pertinently rethought issue is required. This accommodates real and blueprint educational utopias (on the condition of being affirmative and not incriminatory) and involves substantive visions of multiple normativities, some of them prescriptive, others explicit, some implicit in an affirmatively crypto-normative fashion and, finally, some normativities directed at making room for cases where non-normativity is appropriate.39"
+  }, {
+    "type" : "paragraph",
+    "id" : 299,
+    "page number" : 20,
+    "bounding box" : [ 46.772, 109.033, 316.963, 118.737 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Funding Open access funding provided by the Cyprus Libraries Consortium (CLC)."
+  }, {
+    "type" : "list",
+    "id" : 301,
+    "level" : "1",
+    "page number" : 20,
+    "bounding box" : [ 46.772, 49.293, 392.605, 89.799 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 292,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 20,
+      "bounding box" : [ 46.772, 61.378, 392.605, 89.799 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "38 Ironically, this global mindset purports to serve democracy by extolling the social media façade of democratic intervention and deliberation and by rejoicing in how technology has given voice through social media to all sorts of psychic discharge.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 20,
+      "bounding box" : [ 46.772, 49.293, 305.095, 59.214 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "39 I owe many thanks to the journal’s reviewers for their constructive comments.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 303,
+    "page number" : 20,
+    "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 63,
+      "page number" : 20,
+      "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 304,
+    "page number" : 21,
+    "bounding box" : [ 46.554, 624.126, 392.277, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 104,
+      "page number" : 21,
+      "bounding box" : [ 46.554, 624.126, 264.976, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Educational Utopianism beyond the “Real versus Blueprint” Dichotomy"
+    }, {
+      "type" : "paragraph",
+      "id" : 105,
+      "page number" : 21,
+      "bounding box" : [ 380.877, 624.126, 392.277, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "651"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 306,
+    "page number" : 21,
+    "bounding box" : [ 46.772, 539.803, 392.624, 614.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/."
+  }, {
+    "type" : "heading",
+    "id" : 307,
+    "level" : "Subtitle",
+    "page number" : 21,
+    "bounding box" : [ 46.772, 501.533, 100.32, 515.162 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "References"
+  }, {
+    "type" : "paragraph",
+    "id" : 308,
+    "page number" : 21,
+    "bounding box" : [ 46.772, 463.303, 392.598, 490.662 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Astell, M. 1694. A Serious Proposal To the Ladies. London. Bauman, Z. 2000. Modernity and the Holocaust. Ithaca, NY: Cornell University Press. Bayne, S. 2023. Digital education utopia. Learning, Media and Technology, 1–16. Early View. https://doi.org"
+  }, {
+    "type" : "paragraph",
+    "id" : 309,
+    "page number" : 21,
+    "bounding box" : [ 46.772, 444.803, 392.605, 462.912 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "/10.1080/17439884.2023.2262382 Beaulieu, A. 2010. Towards a liberal Utopia: The connection between Foucault’s reporting on the Iranian"
+  }, {
+    "type" : "paragraph",
+    "id" : 310,
+    "page number" : 21,
+    "bounding box" : [ 46.772, 417.053, 392.601, 444.412 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "revolution and the ethical turn. Philosophy & Social Criticism 36(7): 801–818. Bloch, E. 1986. The Principle of Hope. Oxford: Blackwell. Bojesen, E., and J. Suissa. 2019. Minimal utopianism in the Classroom. Educational Philosophy and Theory"
+  }, {
+    "type" : "paragraph",
+    "id" : 311,
+    "page number" : 21,
+    "bounding box" : [ 46.772, 389.303, 392.598, 416.662 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "51(3): 286–297. Cooper, D. 2013. Everyday utopias: The conceptual life of promising spaces. Duke University Press. Drousioti, K. 2019. Ethnic/national identity incrimination in and through social constructionism. The Euro-"
+  }, {
+    "type" : "paragraph",
+    "id" : 312,
+    "page number" : 21,
+    "bounding box" : [ 46.772, 333.803, 392.601, 388.912 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "pean Legacy 24(2): 181–201. Drousioti, K. 2021. Jouissance, scapegoating and the lack of the symbolic: What causes the subject’s desire and why? Critical Horizons 1–17. https://doi.org/10.1080/14409917.2021.1957357 Drousioti, K., and M. Papastephanou. 2022. Incriminatory utopias: Utopian visions creating scapegoats. Thesis Eleven, 173(1), 42–61. Erfanmanesh, S. 2017. Adorno’s Concept of Utopia. https://dspace.cuni.cz/bitstream/han-"
+  }, {
+    "type" : "paragraph",
+    "id" : 313,
+    "page number" : 21,
+    "bounding box" : [ 46.772, 287.553, 392.598, 333.667 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "dle/20.500.11956/59376/120275230.pdf?sequence=1 Geoghegan, V. 2003. Hope lost, hope regained. History of the Human Sciences 16(1): 151–157. Gunn, P. 2019. Against epistocracy. Critical Review 31(1): 26–82. Halpin, D. 2003. Hope and Education: The role of the utopian imagination. London: Routledge. Halpin, D. 2009. Utopian totalism versus utopian realism: A reply to Darren Webb. Oxford Review of Educa-"
+  }, {
+    "type" : "paragraph",
+    "id" : 314,
+    "page number" : 21,
+    "bounding box" : [ 46.772, 250.553, 392.602, 287.162 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "tion 35(6): 761–764. Iossifidis, M. 2016. Everyday utopias: The conceptual life of promising spaces. Journal of Cultural Economy 9(2): 223–225. Jandrić, P., and P. McLaren. 2020. Postdigital Cross border reflections on critical utopia. Educational Phi-"
+  }, {
+    "type" : "paragraph",
+    "id" : 315,
+    "page number" : 21,
+    "bounding box" : [ 46.772, 213.553, 392.598, 250.162 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "losophy and Theory 52(14): 1470–1482. Levitas, R. 2013. Utopia as method: The imaginary reconstitution of society. London: Palgrave Macmillan. Lewis, T. 2006. Utopia and education in critical theory. Policy Futures in Education 4(1): 6–17. Macdonald, I. 2017. Adorno’s Modal Utopianism: Possibility and actuality in Adorno and Hegel. Adorno"
+  }, {
+    "type" : "paragraph",
+    "id" : 316,
+    "page number" : 21,
+    "bounding box" : [ 46.772, 185.803, 392.598, 213.162 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Studies 1(1): 1–12. Milojevic, I. 2003. Hegemonic and Marginalized Educational utopias in the Contemporary Western World. Policy Futures in Education 1(3): 440–466."
+  }, {
+    "type" : "list",
+    "id" : 317,
+    "level" : "2",
+    "page number" : 21,
+    "bounding box" : [ 46.772, 148.803, 392.603, 185.412 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 21,
+      "bounding box" : [ 46.772, 167.303, 392.598, 185.412 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Papastephanou, M. 2009. Educated fear and educated hope: Dystopia, utopia and the plasticity of humanity. Rotterdam: Sense.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 21,
+      "bounding box" : [ 46.772, 148.803, 392.603, 166.912 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Papastephanou, M. 2010. The conflict of the faculties: Educational research, inclusion, philosophy and boundary discourses. Ethics and Education 5(2): 99–116.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 318,
+    "page number" : 21,
+    "bounding box" : [ 46.772, 121.053, 392.598, 148.412 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Papastephanou, M. 2013. Utopian Education and Anti-utopian Anthropology. International Education Studies 6(2): 22–32. Papastephanou, M. 2017. Reflections on the European Promise. New German Critique 44(2): 133–162."
+  }, {
+    "type" : "list",
+    "id" : 319,
+    "level" : "3",
+    "page number" : 21,
+    "bounding box" : [ 46.772, 74.803, 392.603, 120.662 ],
+    "numbering style" : "english letters",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 21,
+      "bounding box" : [ 46.772, 102.553, 392.603, 120.662 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Papastephanou, M. 2021a. Philosophy of education in times of crises and pandemics. Education Sciences 11(11): 1–15.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 21,
+      "bounding box" : [ 46.772, 93.303, 328.457, 102.162 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Papastephanou, M. 2021b. On (Crypto-) normativity. Critical Horizons 22(3): 250–271.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 21,
+      "bounding box" : [ 46.772, 74.803, 392.602, 92.912 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Papastephanou, M. 2021c. And that’s not all: (Sur)faces of justice in philosophy of education. Philosophies 6(1): 1–16.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 320,
+    "page number" : 21,
+    "bounding box" : [ 46.772, 65.553, 392.599, 74.412 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Peters, M. A., and J. Freeman-Moir. 2006. Edutopias: New utopian thinking in education. Rotterdam: Sense."
+  }, {
+    "type" : "footer",
+    "id" : 322,
+    "page number" : 21,
+    "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 64,
+      "page number" : 21,
+      "bounding box" : [ 351.977, 17.254, 392.882, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 323,
+    "page number" : 22,
+    "bounding box" : [ 47.055, 624.126, 392.884, 633.702 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 106,
+      "page number" : 22,
+      "bounding box" : [ 47.055, 624.126, 58.455, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "652"
+    }, {
+      "type" : "paragraph",
+      "id" : 107,
+      "page number" : 22,
+      "bounding box" : [ 335.348, 624.126, 392.884, 633.702 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "M. Papastephanou"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 325,
+    "page number" : 22,
+    "bounding box" : [ 46.772, 521.756, 392.61, 613.865 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Queiroz, R. 2018. Neoliberal TINA: An ideological and political subversion of liberalism. Critical Policy Studies 12(2): 227–246. Sypnowich, C. 2019. Lessons from dystopia: Critique, hope and political education. Journal of Philosophy of Education 52(4): 660–676. Tiainen, K., A. Leiviskä, and K. Brunila. 2019. Democratic education for hope: Contesting the neoliberal common sense. Studies in Philosophy and Education 38(6): 641–655. Van Dermijnsbrugge, E., and S. Chatelier. 2022. Utopia as method: A response to education in crisis? Asia Pacific Journal of Education 42(sup1): 6–19. Webb, D. 2009. Where’s the vision? The concept of utopia in contemporary educational theory. Oxford Review of Education 35(6): 743–760."
+  }, {
+    "type" : "list",
+    "id" : 326,
+    "level" : "4",
+    "page number" : 22,
+    "bounding box" : [ 46.772, 484.756, 392.61, 521.365 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 22,
+      "bounding box" : [ 46.772, 503.256, 392.608, 521.365 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Webb, D. 2016. Educational studies and the domestication of Utopia. British Journal of Educational Studies 64(4): 431–448.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 22,
+      "bounding box" : [ 46.772, 484.756, 392.61, 502.866 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Webb, D. 2017. Educational archaeology and the practice of utopian pedagogy. Pedagogy Culture & Society 25(4): 551–566.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 327,
+    "page number" : 22,
+    "bounding box" : [ 46.772, 466.256, 392.605, 484.366 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Yosef-Hassidim, D., and J. Baldacchino. 2021. Education’s autonomy as a utopian polysemic possibility: Challenges and a path Forward. Educational Theory 71(1): 35–51."
+  }, {
+    "type" : "paragraph",
+    "id" : 328,
+    "page number" : 22,
+    "bounding box" : [ 46.772, 438.506, 392.605, 457.191 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations."
+  }, {
+    "type" : "footer",
+    "id" : 330,
+    "page number" : 22,
+    "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 65,
+      "page number" : 22,
+      "bounding box" : [ 47.055, 17.254, 87.96, 36.094 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  } ]
+}

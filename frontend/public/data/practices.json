@@ -1,0 +1,125 @@
+[
+  {
+    "practice_id": "p1",
+    "post_id": "post_1",
+    "post_title": "Classroom Utopian Projects",
+    "post_url": "https://example.com/post1",
+    "post_date": "2026-01-15",
+    "practice_name": "Utopian Classroom Mapping",
+    "location_string": "London, UK",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "geocoded": true,
+    "temporal": "prefigurative",
+    "evidence": "In London, students mapped their ideal schools using paper and markers to prefigure cooperative spaces.",
+    "ostrom_summary": {
+      "resource_system": "Physical classroom space",
+      "governance": "Student-led participatory agreements",
+      "users": "Primary school learners"
+    },
+    "p1_id": "P1-C1",
+    "p1_name": "Concrete and Affirmative Utopianism",
+    "p1_perspective": "P1",
+    "p1_justification": "The practice focuses on mapping a material, affirmative alternative to the current alienated structure of schools.",
+    "p1_verbatim_evidence": "mapped their ideal schools using paper and markers to prefigure cooperative spaces",
+    "p2_id": "P2-C1",
+    "p2_name": "Utopian Methodologies",
+    "p2_is_methodology": true,
+    "p2_justification": "Utilizes mapping as a creative, speculative exercise to model the future.",
+    "p2_verbatim_evidence": "mapped their ideal schools",
+    "p3_ids": ["P3-C1"],
+    "p3_names": ["Hoping / Anticipating Consciousness"],
+    "p3_items": [
+      {
+        "category_id": "P3-C1",
+        "category_name": "Hoping / Anticipating Consciousness",
+        "justification": "Cultivates active hope and forward-dreaming among children.",
+        "verbatim_evidence": "to prefigure cooperative spaces"
+      }
+    ],
+    "linked_references": ["bloch_1986"],
+    "coding_failed": false
+  },
+  {
+    "practice_id": "p2",
+    "post_id": "post_2",
+    "post_title": "Dystopian Speculations in Higher Ed",
+    "post_url": "https://example.com/post2",
+    "post_date": "2026-03-22",
+    "practice_name": "Speculative Writing Workshops",
+    "location_string": "New York, USA",
+    "lat": 40.7128,
+    "lng": -74.0060,
+    "geocoded": true,
+    "temporal": "horizon",
+    "evidence": "In New York, speculative workshops were conducted to defamiliarize standard learning technologies and investigate surveillance.",
+    "ostrom_summary": {
+      "resource_system": "Online learning platforms",
+      "governance": "Institutional surveillance policies",
+      "users": "Higher education students"
+    },
+    "p1_id": "P1-C2",
+    "p1_name": "Critical Dystopianism",
+    "p1_perspective": "P1",
+    "p1_justification": "Explores warning scenarios of technological control while maintaining agency through writing.",
+    "p1_verbatim_evidence": "defamiliarize standard learning technologies and investigate surveillance",
+    "p2_id": "P2-C3",
+    "p2_name": "Defamiliarization",
+    "p2_is_methodology": true,
+    "p2_justification": "Uses creative defamiliarization to prompt critical awareness of everyday technologies.",
+    "p2_verbatim_evidence": "workshops were conducted to defamiliarize standard learning technologies",
+    "p3_ids": ["P3-C2"],
+    "p3_names": ["Dystopian Impulses / Warnings"],
+    "p3_items": [
+      {
+        "category_id": "P3-C2",
+        "category_name": "Dystopian Impulses / Warnings",
+        "justification": "The warning system targets corporate data practices in higher education.",
+        "verbatim_evidence": "investigate surveillance"
+      }
+    ],
+    "linked_references": ["booker_1994"],
+    "coding_failed": false
+  },
+  {
+    "practice_id": "p3",
+    "post_id": "post_3",
+    "post_title": "Hopepunk Curriculum Design",
+    "post_url": "https://example.com/post3",
+    "post_date": "2026-05-10",
+    "practice_name": "Global Hopepunk Curriculum",
+    "location_string": "Online / Distributed",
+    "lat": null,
+    "lng": null,
+    "geocoded": false,
+    "temporal": "prefigurative",
+    "evidence": "An online community co-created a Hopepunk-inspired curriculum for teachers worldwide to foster cooperative learning online.",
+    "ostrom_summary": {
+      "resource_system": "Open-source curriculum repository",
+      "governance": "Decentralized educator network",
+      "users": "Global K-12 educators"
+    },
+    "p1_id": "P1-C1",
+    "p1_name": "Concrete and Affirmative Utopianism",
+    "p1_perspective": "P1",
+    "p1_justification": "Represents an active, community-driven effort to build a tangible alternative pedagogy.",
+    "p1_verbatim_evidence": "co-created a Hopepunk-inspired curriculum for teachers worldwide",
+    "p2_id": null,
+    "p2_name": null,
+    "p2_is_methodology": false,
+    "p2_justification": null,
+    "p2_verbatim_evidence": null,
+    "p3_ids": ["P3-C1"],
+    "p3_names": ["Hoping / Anticipating Consciousness"],
+    "p3_items": [
+      {
+        "category_id": "P3-C1",
+        "category_name": "Hoping / Anticipating Consciousness",
+        "justification": "Expresses active, structured hope through community curriculum creation.",
+        "verbatim_evidence": "foster cooperative learning online"
+      }
+    ],
+    "linked_references": ["bloch_1986"],
+    "coding_failed": false
+  }
+]

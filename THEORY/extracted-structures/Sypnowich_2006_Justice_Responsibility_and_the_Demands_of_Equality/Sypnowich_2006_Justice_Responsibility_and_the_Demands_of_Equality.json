@@ -1,0 +1,1941 @@
+{
+  "file name" : "Sypnowich_2006_Justice_Responsibility_and_the_Demands_of_Equality.pdf",
+  "number of pages" : 30,
+  "author" : null,
+  "title" : null,
+  "creation date" : null,
+  "modification date" : null,
+  "kids" : [ {
+    "type" : "image",
+    "id" : 57,
+    "page number" : 1,
+    "bounding box" : [ -13.0, 690.0, 357.0, 870.0 ]
+  }, {
+    "type" : "image",
+    "id" : 58,
+    "page number" : 1,
+    "bounding box" : [ 367.0, 730.0, 547.0, 820.0 ]
+  }, {
+    "type" : "heading",
+    "id" : 59,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 50.0, 646.8, 423.725, 714.05 ],
+    "heading level" : 1,
+    "font" : "Helvetica-Bold",
+    "font size" : 25.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Justice, Responsibility, and the Demands of Equality"
+  }, {
+    "type" : "heading",
+    "id" : 60,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 50.0, 610.58, 105.83, 628.43 ],
+    "heading level" : 2,
+    "font" : "Helvetica-Bold",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Citation"
+  }, {
+    "type" : "paragraph",
+    "id" : 61,
+    "page number" : 1,
+    "bounding box" : [ 50.0, 566.525, 483.477, 609.241 ],
+    "font" : "Helvetica",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Scanlon, Thomas. 2006. Justice, responsibility, and the demands of equality. In The egalitarian conscience: Essays in honour of G.A. Cohen, ed. Christine Sypnowich, 70-87. Oxford: Oxford University Press."
+  }, {
+    "type" : "heading",
+    "id" : 62,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 50.0, 530.58, 179.21, 548.43 ],
+    "heading level" : 2,
+    "font" : "Helvetica-Bold",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Published version"
+  }, {
+    "type" : "paragraph",
+    "id" : 63,
+    "page number" : 1,
+    "bounding box" : [ 50.0, 516.525, 272.607, 529.241 ],
+    "font" : "Helvetica",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 1.0]",
+    "content" : "https://doi.org/10.1093/0199281688.001.0001"
+  }, {
+    "type" : "heading",
+    "id" : 64,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 50.0, 480.58, 80.84, 498.43 ],
+    "heading level" : 2,
+    "font" : "Helvetica-Bold",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Link"
+  }, {
+    "type" : "paragraph",
+    "id" : 65,
+    "page number" : 1,
+    "bounding box" : [ 50.0, 466.525, 306.795, 479.241 ],
+    "font" : "Helvetica",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 1.0]",
+    "content" : "http://nrs.harvard.edu/urn-3:HUL.InstRepos:3294435"
+  }, {
+    "type" : "heading",
+    "id" : 66,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 50.0, 430.58, 143.36, 448.43 ],
+    "heading level" : 2,
+    "font" : "Helvetica-Bold",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Terms of use"
+  }, {
+    "type" : "paragraph",
+    "id" : 67,
+    "page number" : 1,
+    "bounding box" : [ 50.0, 386.525, 488.977, 429.241 ],
+    "font" : "Helvetica",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This article was downloaded from Harvard University’s DASH repository, and is made available under the terms and conditions applicable to Other Posted Material (LAA), as set forth at"
+  }, {
+    "type" : "paragraph",
+    "id" : 68,
+    "page number" : 1,
+    "bounding box" : [ 50.0, 371.75, 521.2, 383.31 ],
+    "font" : "Helvetica",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 1.0]",
+    "content" : "https://harvardwiki.atlassian.net/wiki/external/NGY5NDE4ZjgzNTc5NDQzMGIzZWZhMGFlOWI2M2EwYTg"
+  }, {
+    "type" : "heading",
+    "id" : 69,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 50.0, 335.58, 141.71, 353.43 ],
+    "heading level" : 2,
+    "font" : "Helvetica-Bold",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Accessibility"
+  }, {
+    "type" : "paragraph",
+    "id" : 70,
+    "page number" : 1,
+    "bounding box" : [ 50.0, 321.525, 350.146, 334.241 ],
+    "font" : "Helvetica",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 1.0]",
+    "content" : "https://accessibility.huit.harvard.edu/digital-accessibility-policy"
+  }, {
+    "type" : "heading",
+    "id" : 71,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 50.0, 285.58, 172.535, 303.43 ],
+    "heading level" : 2,
+    "font" : "Helvetica-Bold",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Share Your Story"
+  }, {
+    "type" : "paragraph",
+    "id" : 72,
+    "page number" : 1,
+    "bounding box" : [ 50.0, 256.525, 356.273, 284.241 ],
+    "font" : "Helvetica",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The Harvard community has made this article openly available. Please share how this access benefits you. Submit a story"
+  }, {
+    "type" : "paragraph",
+    "id" : 73,
+    "page number" : 2,
+    "bounding box" : [ 171.3, 677.556, 440.66, 721.152 ],
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Justice, Responsibility, and the Demands of Equality T. M. Scanlon"
+  }, {
+    "type" : "paragraph",
+    "id" : 74,
+    "page number" : 2,
+    "bounding box" : [ 90.0, 622.356, 155.347, 638.352 ],
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Introduction"
+  }, {
+    "type" : "paragraph",
+    "id" : 75,
+    "page number" : 2,
+    "bounding box" : [ 108.0, 401.676, 518.717, 610.644 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Jerry Cohen’s important and trenchantly argued papers on equality and equal access to advantage have played a major role in shaping contemporary debates about equality and justice.1 A central issue in his disagreements with John Rawls and Ronald Dworkin is the question of when individuals are properly held responsible for their choices, tastes and preferences. In this essay I will examine the ideas of responsibility that figure in the debate between Cohen and Rawls. My aim will be to determine how far Cohen disagrees with Rawls and what it is that they disagree about."
+  }, {
+    "type" : "paragraph",
+    "id" : 76,
+    "page number" : 2,
+    "bounding box" : [ 108.0, 263.736, 506.011, 389.844 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Three questions can be at issue in this debate. The first is when and why justice demands some form of equality. The second is what kind of equality justice requires in various situations. The third is how the demands of equality can be modified by the choices individuals have made, or the opportunities to choose that they have had."
+  }, {
+    "type" : "paragraph",
+    "id" : 77,
+    "page number" : 2,
+    "bounding box" : [ 108.0, 208.536, 510.594, 251.904 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "The last of these questions can be subsumed within an answer to the second, and to a degree this is what happens in Cohen’s discussion: what individuals are"
+  }, {
+    "type" : "list",
+    "id" : 79,
+    "level" : "1",
+    "page number" : 2,
+    "bounding box" : [ 90.0, 71.016, 519.641, 169.836 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 86,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 90.0, 71.016, 519.641, 169.836 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "1 “On the Currency of Egalitarian Justice,” Ethics 99 (1989), pp. 906-944 (henceforth, Currency), and “Equality of What?” in Martha Nussbaum and Amartya Sen, eds., The Quality of Life (Oxford: Oxford University Press, 1993, pp. 9-29 (henceforth, Equality). I will be discussing mainly these two articles, referring occasionally to Cohen’s more recent writings on these topics, in particular to “Expensive Taste Rides Again,” in Justine Burley, ed., Dworkin and His Critics (Oxford: Blackwell, 2004) (henceforth, Rides Again).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 80,
+    "page number" : 3,
+    "bounding box" : [ 516.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 29,
+      "page number" : 3,
+      "bounding box" : [ 516.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "2"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 81,
+    "page number" : 3,
+    "bounding box" : [ 108.0, 539.676, 516.914, 721.236 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "entitled to, on his view, is equal access to advantage. For purposes of analysis, however, it will be helpful to distinguish the two questions. Two theories might offer the same answer to the last question (the question of choice) while disagreeing about the second (about what it is that people should be able, by choosing correctly, to attain equal amounts of.) Or they might agree about what people should have access to equal amounts of, but disagree about what constitutes such access—about the kind of opportunities for choice that can render unequal shares legitimate."
+  }, {
+    "type" : "paragraph",
+    "id" : 82,
+    "page number" : 3,
+    "bounding box" : [ 108.0, 346.536, 519.848, 527.844 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "It is particularly helpful to keep in mind the independence of these three questions when one is arguing from examples. Faced with a case in which it seems just for people to have unequal shares of some good X, one can explain this by appealing to one’s answer to any of the three questions. One can say that this is not a case in which justice requires equality, or that what is required is not equality of X, or that the particular inequality in question is permitted because it results from a choice by the individual who has less."
+  }, {
+    "type" : "paragraph",
+    "id" : 83,
+    "page number" : 3,
+    "bounding box" : [ 108.0, 208.536, 521.195, 334.704 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "In regard to the first question, Cohen is not, in these articles, a strict egalitarian. He is making what he calls only a “weak equalisandum claim” about what is to be equalized insofar as equalization is defensible.2 And he allows that equality may have to be balanced against other values (even, it seems, in determining what is just.)"
+  }, {
+    "type" : "paragraph",
+    "id" : 84,
+    "page number" : 3,
+    "bounding box" : [ 108.0, 125.736, 515.61, 196.704 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "In regard to the second question (taken as distinct from the third), Cohen is not a welfarist—he does not hold that welfare, understood either as happiness or as preference satisfaction, is the thing that should (leaving choice aside) be equalized to"
+  }, {
+    "type" : "list",
+    "id" : 86,
+    "level" : "1",
+    "page number" : 3,
+    "bounding box" : [ 90.0, 71.076, 178.344, 88.316 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 79,
+    "next list id" : 92,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 90.0, 71.076, 178.344, 88.316 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "2 Currency, p. 908",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 87,
+    "page number" : 4,
+    "bounding box" : [ 516.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 30,
+      "page number" : 4,
+      "bounding box" : [ 516.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "3"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 88,
+    "page number" : 4,
+    "bounding box" : [ 108.0, 567.276, 511.266, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "the extent that anything should be equalized. Advantage, as he understands it, is “a heterogeneous collection of desirable states of the person reducible neither to his resources bundle nor to his welfare level.”3 And he says that “in deciding both what qualifies as an advantage and the relative sizes of advantages, it is necessary to engage in objective assessment” rather than merely to take the answer given by the preferences of the individual in question.4"
+  }, {
+    "type" : "paragraph",
+    "id" : 89,
+    "page number" : 4,
+    "bounding box" : [ 108.0, 374.076, 519.242, 555.444 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Cohen takes equality of welfare as the starting point of his inquiry in both of these articles, but he is not wedded to this position. Faced with some cases in which justice does not seem to require equal levels of preference satisfaction, he responds in the second way described above, by moving away from pure welfarism and invoking a constraint on the preferences whose satisfaction is relevant to equality. Thus, for example, he agrees with Rawls’s observation that “offensive tastes” such as a preference that other people should suffer have no claim to satisfaction.5"
+  }, {
+    "type" : "paragraph",
+    "id" : 90,
+    "page number" : 4,
+    "bounding box" : [ 108.0, 208.536, 514.306, 362.304 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Cohen takes a different line, however, in response to examples of “expensive tastes” raised by Rawls and Dworkin. Rawls invites us to “Imagine two persons, one satisfied with a diet of milk, bread and beans, while the other is distraught without expensive wines and exotic dishes. In short, one has expensive tastes, the other does not.”6 Equality of welfare would require that the latter person be given a larger income, or share of resources. Rawls holds that this is mistaken, and that justice is"
+  }, {
+    "type" : "list",
+    "id" : 92,
+    "level" : "1",
+    "page number" : 4,
+    "bounding box" : [ 90.0, 71.076, 516.252, 143.516 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "previous list id" : 86,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 90.0, 126.276, 170.724, 143.516 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "3 Equality, p. 28.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 90.0, 112.476, 178.344, 129.716 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "4Currency, p. 935.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 90.0, 71.076, 516.252, 115.916 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "5Currency, p. 912. 6Rawls, “Social Unity and Primary Goods,” in Amartya Sen and Bernard Williams, eds., Utilitarianism and Beyond (Cambridge, UK: Cambridge University Press, 1982), p. 168.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 94,
+    "page number" : 5,
+    "bounding box" : [ 516.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 31,
+      "page number" : 5,
+      "bounding box" : [ 516.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "4"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 95,
+    "page number" : 5,
+    "bounding box" : [ 108.0, 677.676, 488.712, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "achieved if the two have the same primary social goods. It is then up to them to decide whether to spend their income on luxuries."
+  }, {
+    "type" : "paragraph",
+    "id" : 96,
+    "page number" : 5,
+    "bounding box" : [ 108.0, 401.676, 519.958, 665.844 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Given the pluralistic character of Cohen’s notion of “advantage,” it would be open to him to take a similar line. He might say that even though primary social goods are too restrictive a metric for distributive shares, a proper metric would not go so far as to include the degree to which a person’s taste for luxurious and expensive food is fulfilled. Cohen does not take this line, however. He says instead that a person who has expensive tastes should be compensated for the expense of satisfying them (or for the welfare loss of their not being satisfied) as long as these tastes “are not in some way traceable to the individual’s choices.” The proper response to cases of “expensive tastes”, he says, is not to move away from welfare to a more objective metric but to replace welfare with equality of opportunity for welfare.7"
+  }, {
+    "type" : "paragraph",
+    "id" : 97,
+    "page number" : 5,
+    "bounding box" : [ 108.0, 180.936, 521.874, 389.844 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "There seem to be two reasons for this. The first, and more fundamental, reason is that although Cohen’s notion of advantage is not purely welfarist, preference satisfaction and states such as contentment and frustration play a significant role in this notion—certainly more significant than in Rawls’s theory, where they have no role at all. This is an important point of disagreement, which I will return to below. The second reason is that Cohen is unhappy with the way that Rawls and Dworkin invoke ideas of choice and responsibility, and he wants to explore this issue. I will begin by taking up this question."
+  }, {
+    "type" : "paragraph",
+    "id" : 99,
+    "page number" : 5,
+    "bounding box" : [ 90.0, 71.076, 516.984, 114.636 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "7 Currency, p. 914. To be precise, the position he suggests we move to is equality of opportunity for advantage. But in the cases at hand it is opportunity for welfare, in either its hedonistic or preference satisfaction versions, that is at issue."
+  }, {
+    "type" : "heading",
+    "id" : 101,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 90.0, 705.156, 436.999, 721.152 ],
+    "heading level" : 3,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Rawls and Cohen on Responsibility for One’s Ends and Preferences"
+  }, {
+    "type" : "paragraph",
+    "id" : 102,
+    "page number" : 6,
+    "bounding box" : [ 144.0, 677.676, 461.024, 693.444 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Cohen quotes Rawls as follows on the subject of expensive tastes."
+  }, {
+    "type" : "header",
+    "id" : 100,
+    "page number" : 6,
+    "bounding box" : [ 516.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 32,
+      "page number" : 6,
+      "bounding box" : [ 516.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "5"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 103,
+    "page number" : 6,
+    "bounding box" : [ 162.0, 374.076, 519.589, 638.244 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "As moral persons citizens have some part in forming and cultivating their final ends and preferences. It is not by itself an objection to the use of primary goods that it does not accommodate those with expensive tastes. One must argue in addition that it is unreasonable, if not unjust, to hold such persons responsible for their preferences and to require them to make out as best they can. But to argue this seems to presuppose that citizens’ preferences are beyond their control as propensities or cravings which simply happen. Citizens seem to be regarded as passive carriers of desires. The use of primary goods … relies on a capacity to assume responsibility for our ends.8"
+  }, {
+    "type" : "paragraph",
+    "id" : 104,
+    "page number" : 6,
+    "bounding box" : [ 90.0, 153.336, 517.826, 334.704 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Cohen considers two objections to what Rawls says here. First, he takes Rawls to be arguing that for purposes of answering questions of justice we need not take into account differences in the cost or difficulty of satisfying various preferences, because individuals can always avoid these costs by adopting different preferences. Cohen claims that this argument is invalid in many cases, because an individual’s preferences are not always under his or her control. Second, Cohen considers Nozick’s claim that what Rawls assumes here about individuals’ control over their preferences is inconsistent with"
+  }, {
+    "type" : "paragraph",
+    "id" : 106,
+    "page number" : 6,
+    "bounding box" : [ 90.0, 71.076, 363.618, 86.844 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "8Rawls, “Social Unity and Primary Goods,” pp. 168-169."
+  }, {
+    "type" : "header",
+    "id" : 107,
+    "page number" : 7,
+    "bounding box" : [ 516.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 33,
+      "page number" : 7,
+      "bounding box" : [ 516.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "6"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 108,
+    "page number" : 7,
+    "bounding box" : [ 90.0, 677.676, 519.235, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "what he claims elsewhere about their lack of control over their dispositions to exert effort and strive to get ahead. I will consider each of these objections in turn."
+  }, {
+    "type" : "paragraph",
+    "id" : 109,
+    "page number" : 7,
+    "bounding box" : [ 90.0, 484.476, 520.241, 665.844 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "As regards the question of control, it should be noted that the class of “tastes and preferences” that are under consideration in this discussion is extremely diverse. In the first passage I quoted, Rawls considers a matter of taste in the most literal sensetendency to derive pleasure from certain foods. But he then goes on to speak of the control that agents have over their “ends” or their “final ends.” These cases differ in important respects, in particular in the kind of control that agents may be thought to have. Consider the differences between the following:"
+  }, {
+    "type" : "list",
+    "id" : 110,
+    "level" : "2",
+    "page number" : 7,
+    "bounding box" : [ 126.0, 346.536, 501.738, 445.044 ],
+    "numbering style" : "roman numbers",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 126.0, 429.276, 368.04, 445.044 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "(I) What a person finds pleasant or unpleasant",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 126.0, 374.076, 501.738, 417.444 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "(II) What a person sees as a reason for acting, thinking, or feeling a certain way",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 126.0, 346.536, 436.014, 362.304 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "(III) The aims a person adopts and the actions he or she takes.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 111,
+    "page number" : 7,
+    "bounding box" : [ 90.0, 153.336, 507.475, 307.104 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "States of the kind in group (I), such as tastes in food, are not chosen in any straightforward sense. But they are, to a degree, subject to modification over time. One can acquire a taste for something one does not like at first, and become accustomed to doing without other things that one has enjoyed and craved. Such changes often take place without our intending them, or even being aware that they occurring. But we can sometimes also bring them about by choosing to undergo a process that has this result."
+  }, {
+    "type" : "paragraph",
+    "id" : 112,
+    "page number" : 7,
+    "bounding box" : [ 90.0, 98.136, 495.534, 141.504 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Group (II) includes both what seems to a person, spontaneously and unreflectively, to be a reason, and also what he or she judges on reflection to be one."
+  }, {
+    "type" : "header",
+    "id" : 113,
+    "page number" : 8,
+    "bounding box" : [ 516.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 34,
+      "page number" : 8,
+      "bounding box" : [ 516.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "7"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 114,
+    "page number" : 8,
+    "bounding box" : [ 90.0, 594.876, 514.202, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Ideally, an agent’s states of these two kinds will not conflict—what seems to a person to be a reason will conform to his or her reflective judgment. This does not always happen, however. For example, the fact that something would cause my rival acute discomfort can strike me as a reason to do it even though I firmly judge this to be a groundless, vindictive thought."
+  }, {
+    "type" : "paragraph",
+    "id" : 115,
+    "page number" : 8,
+    "bounding box" : [ 90.0, 263.736, 518.924, 583.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "In cases of this kind it is the unreflective response that strikes us as “recalcitrant,” because unresponsive the agent’s judgment. But none of the states in this group—neither the spontaneous nor the reflective ones—are directly subject to an agent’s will. It is up to an agent to judge what is or is not a reason, but not up to him or her to choose when this is so. Nonetheless, since all of these states either reflect an agent’s judgment or should be responsive to it they are all things that the agent is “responsible for” in one sense of that phrase: they are things he or she can be asked to defend and to modify in the light of criticism. In addition, what an agent sees, or does not see, as reasons is a central component of his or her moral character. So the states in group II are ones that an agent can be “held responsible for” in a further sense: they are characteristics on the basis of which he or she is subject to moral appraisal and moral criticism. The sense of responsibility at issue here is what I call responsibility as attributability."
+  }, {
+    "type" : "paragraph",
+    "id" : 116,
+    "page number" : 8,
+    "bounding box" : [ 90.0, 98.136, 520.195, 251.904 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Although what seems to one to be a reason is not directly subject to one’s choice or will, such states are, like those in group I, subject to a degree to modification by training and habituation. In addition to whatever psychological limits there may on selfmanipulation of this kind, however, it is in this case subject to normative constraints as well. Because what seems to one to be a reason should, ideally, agree with what one judges to be a reason, there is something deviant about undertaking to modify these states"
+  }, {
+    "type" : "header",
+    "id" : 117,
+    "page number" : 9,
+    "bounding box" : [ 516.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 35,
+      "page number" : 9,
+      "bounding box" : [ 516.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "8"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 118,
+    "page number" : 9,
+    "bounding box" : [ 90.0, 622.476, 521.568, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "except to bring them into line with one’s judgment. So this is a further sense in which these attitudes are not “up to us” even though we are responsible (answerable) for them in the two ways I have mentioned. These states are an appropriate basis for moral appraisal simply because of the kind of states they are, not because they are under one’s control.9"
+  }, {
+    "type" : "paragraph",
+    "id" : 119,
+    "page number" : 9,
+    "bounding box" : [ 90.0, 539.676, 512.213, 610.644 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "In contrast to those in groups I and II, items in group III (ends a person has adopted and actions she has decides to take) are objects of choice. We do not always choose the ends or actions that we judge to be supported by the best reasons, but insofar"
+  }, {
+    "type" : "list",
+    "id" : 120,
+    "level" : "3",
+    "page number" : 9,
+    "bounding box" : [ 90.0, 291.336, 520.622, 527.844 ],
+    "numbering style" : "english letters",
+    "number of list items" : 1,
+    "next list id" : 190,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 90.0, 291.336, 520.622, 527.844 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "as we choose these things for reasons at all, the range of our choices is limited by facts about what strikes us as reasons—that is to say, by factors of the kinds in groups I and II, which are not themselves chosen (except perhaps in those limited cases of selfmanipulation.) Nonetheless, there sometimes remains a range of ends or courses of action each of which there is sufficient reason to adopt. (Perhaps these reasons are even equally good.) In such cases we may properly be said to choose among these eligible options. In such cases, in addition to being responsible (answerable, and liable to criticism) for our ends in the senses so far discussed, it is also true that we could have avoided having them, by choosing differently. But this is so only in this special class of cases.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 121,
+    "page number" : 9,
+    "bounding box" : [ 90.0, 180.936, 519.257, 279.504 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "The term, ‘preference’, is sometimes used so broadly as to cover items in all three of the groups I have described: matters of taste, desires that involve seeing things as reasons (such as a desire for revenge), and ends that we have chosen. These things vary widely both in their objective importance and in the kinds of control we have over them."
+  }, {
+    "type" : "list",
+    "id" : 123,
+    "level" : "1",
+    "page number" : 9,
+    "bounding box" : [ 90.0, 71.076, 521.04, 142.044 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 129,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 90.0, 71.076, 521.04, 142.044 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "9 The claims made in this paragraph and the preceding one are explained and defended more fully in Chapter 6 of my book, What We Owe to Each Other (Cambridge, MA: Harvard University Press, 1998) and in “Reasons and Passions,” in Sarah Buss and Lee Overton, eds., Contours of Agency: Essays on Themes from Harry Frankfurt (Cambridge, MA: MIT Press, 2002), pp. 165-183.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 124,
+    "page number" : 10,
+    "bounding box" : [ 516.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 36,
+      "page number" : 10,
+      "bounding box" : [ 516.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "9"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 125,
+    "page number" : 10,
+    "bounding box" : [ 90.0, 567.276, 521.602, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Cohen recognizes this diversity, but his examples tend to be concentrated near the “taste” end of this continuum. He considers, for example, someone who hates eggs, which are common, but loves fish, which is rarer and more expensive. He also discusses an example of Dworkin’s in which someone can’t stand the taste of ordinary water, and therefore wants bottled water, which is more expensive.10 In each case, Cohen holds that these people should be compensated so that they will not suffer loss of welfare."
+  }, {
+    "type" : "paragraph",
+    "id" : 126,
+    "page number" : 10,
+    "bounding box" : [ 90.0, 346.536, 520.22, 555.444 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Rawls might say here (or at least it would be reasonable for him to say) that, quite apart from the question of whether these tastes have been acquired voluntarily, or could be avoided, compensation is not in order because individuals’ relative levels of gustatory enjoyment are not part of the standard by which social institutions should be judged. Similarly, in response to Cohen’s example of “grumpy” people who get less enjoyment out of a given level of resources than others do, it could be said, correctly in my view, that making people cheerful is not one of the state’s jobs, and that the grumpy are entitled to special help only if they suffer from some medical condition."
+  }, {
+    "type" : "paragraph",
+    "id" : 127,
+    "page number" : 10,
+    "bounding box" : [ 90.0, 125.736, 522.002, 334.704 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "One response here would be for Cohen to agree that it is not the role of the state to promote equality in these experiential qualities, but then to say that his concern is not with what the role of the state should be, but with a more specific idea of what equality requires, which is only one of the many factors that go into determining what the state should do.11 However, even if it were agreed that what we are concerned with is the assessment of political institutions, and that equality in hedonic states is not the responsibility of such institutions, this would not solve the problem Cohen raises for Rawls, which can be restated as a problem of expensive ends. One thing that basic"
+  }, {
+    "type" : "list",
+    "id" : 129,
+    "level" : "1",
+    "page number" : 10,
+    "bounding box" : [ 90.0, 71.076, 386.802, 100.836 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 123,
+    "next list id" : 140,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 90.0, 84.876, 212.338, 100.836 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "10 Rides Again, pp. 14-16.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 90.0, 71.076, 386.802, 86.844 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "11 I will return to this question in the final section of the paper.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 130,
+    "page number" : 11,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 37,
+      "page number" : 11,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "10"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 131,
+    "page number" : 11,
+    "bounding box" : [ 90.0, 594.876, 520.499, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "institutions surely should be judged on is their contribution to individuals’ ability to pursue their ends. Some ends are much more expensive (require much more in the way of resources) than others. So why doesn’t equality demand that those with expensive ends be given a larger share of resources than others receive, so that they can attain a similar level of success in fulfilling their life projects?"
+  }, {
+    "type" : "paragraph",
+    "id" : 132,
+    "page number" : 11,
+    "bounding box" : [ 90.0, 484.476, 516.221, 583.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "It seems clear to me that equality does not require this. But how can this claim be defended? One thing that might be said is that, within the limits mentioned above, individuals have a choice about which ends to pursue. So they cannot complain if the ends they choose are more expensive than those of others."
+  }, {
+    "type" : "paragraph",
+    "id" : 133,
+    "page number" : 11,
+    "bounding box" : [ 90.0, 208.536, 519.822, 472.836 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "As Cohen correctly notes, however, it is not sufficient simply to appeal to the fact that individuals have a choice about which ends to adopt. One must defend the more complicated proposition that individuals can reasonably be asked to accept the consequences of these choices. This depends on many factors, including the severity of these consequences, the acceptability of the alternatives that the agent could have chosen, the meaning and importance for an agent of being able to make choices of this kind for him or herself, the conditions under which the choice was made, and the cost to others of providing individuals with better conditions for choosing or protecting agents against the adverse consequences of the choices they make. As Cohen writes,"
+  }, {
+    "type" : "paragraph",
+    "id" : 134,
+    "page number" : 11,
+    "bounding box" : [ 126.0, 98.136, 508.534, 196.704 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "[T]he mere fact that you made a choice, and could have chosen otherwise (for example, not to buy that steak), no more shows that subsidy is out of order than does the mere fact that you could have chosen not to buy that wheelchair shows that subsidy is out of order. In each case, facts in the background to the choice,"
+  }, {
+    "type" : "header",
+    "id" : 135,
+    "page number" : 12,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 38,
+      "page number" : 12,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "11"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 136,
+    "page number" : 12,
+    "bounding box" : [ 126.0, 650.076, 517.55, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "facts about degrees of control, and about the cost of alternatives, affect the proper allocation of responsibility for the consequences of the choice.12 I would put this point by saying that the claim that the state is not responsible for"
+  }, {
+    "type" : "paragraph",
+    "id" : 137,
+    "page number" : 12,
+    "bounding box" : [ 90.0, 401.676, 519.211, 638.244 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "the extra expense of realizing a person’s ends is a judgment of substantive responsibility. This is distinct from the sense of responsibility I discussed above (responsibility as attributability), in which to claim that a person is responsible for a certain action is merely to claim that this action is attributable to him in the sense required for it to be a basis of moral assessment. The conclusion that a person is responsible, in this sense, for what she did leaves open what kind of appraisal, if any, is therefore in order—whether what the person did was praiseworthy, blameworthy, or morally neutral. In particular, the conclusion that a person was responsible, in this sense, for some action, does not make any claim about the duties or obligations of that person or others."
+  }, {
+    "type" : "paragraph",
+    "id" : 138,
+    "page number" : 12,
+    "bounding box" : [ 90.0, 125.736, 521.861, 389.844 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "By contrast, judgments of substantive responsibility are explicitly claims of this latter sort. So, for example, when we say that it is the responsibility of parents to see to it that their six year old children attend school, we mean that it is the parents who have a duty to do this, rather than, say, the children themselves, or some third party. And when we say that the cost of servicing and maintaining a car is the responsibility of the person who leases it, this means that this person, rather than the actual owner of the car, is obligated to provide that maintenance. Such a judgment leaves it open whether, if a person fails to do what he is substantively responsible for doing, he is responsible for this failure the first sense of “responsible” that I distinguished. If, for example, parents fail to get their child to school because they are in a coma, then they are not responsible (open to"
+  }, {
+    "type" : "list",
+    "id" : 140,
+    "level" : "1",
+    "page number" : 12,
+    "bounding box" : [ 90.0, 71.076, 187.32, 87.036 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 129,
+    "next list id" : 150,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 12,
+      "bounding box" : [ 90.0, 71.076, 187.32, 87.036 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "12 Rides Again, p. 42",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 141,
+    "page number" : 13,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 39,
+      "page number" : 13,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "12"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 142,
+    "page number" : 13,
+    "bounding box" : [ 90.0, 677.676, 521.501, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "moral criticism) for this failure even though it remains true that getting the child to school was their (substantive) responsibility."
+  }, {
+    "type" : "paragraph",
+    "id" : 143,
+    "page number" : 13,
+    "bounding box" : [ 90.0, 401.676, 521.628, 665.844 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "The fact that an action resulted from a person’s conscious choice may be sufficient to establish that that action can be attributed to her in the sense that is presupposed by moral appraisal. But a judgment of substantive responsibility depends on more than this. To justify the claim that a person who has done A has a certain obligation, or that someone who has done A has to bear the consequences (and that others are not obligated to share this burden) it is not enough to point out that this person chose to do A. One must also consider the costs that this assignment of responsibility imposes on a person who does A, the alternatives to A that are available to a person in this situation, and the implications, for this person and others, of assigning responsibility in some other way."
+  }, {
+    "type" : "paragraph",
+    "id" : 144,
+    "page number" : 13,
+    "bounding box" : [ 90.0, 153.336, 521.82, 389.844 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "The question of whether individuals are responsible for their ends in a sense that means that they have no claim to special aid if these ends are particularly expensive to pursue is thus a question of substantive responsibility. The point being made earlier was just that this question cannot be answered by merely appealing to the fact that agents are responsible for their ends in the sense of being properly asked to defend them, or properly subject to criticism (moral or other) for them, or even by merely appealing to the fact (when it is a fact) that agents choose their ends. Further argument is required to establish a claim of substantive responsibility. Cohen appears to be making this same point when he writes,"
+  }, {
+    "type" : "header",
+    "id" : 145,
+    "page number" : 14,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 40,
+      "page number" : 14,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "13"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 146,
+    "page number" : 14,
+    "bounding box" : [ 126.0, 594.876, 513.768, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "[I]t is false, on my view, that a person’s (unrepudiated) tastes are not the state’s business because it is reasonable to expect her to take responsibility for them, no matter how she came to have them, and no matter what she can do about them now. Instead, she must perforce pick up the tab for them because they cannot reasonably be the state’s business.13"
+  }, {
+    "type" : "paragraph",
+    "id" : 147,
+    "page number" : 14,
+    "bounding box" : [ 90.0, 374.076, 516.943, 555.444 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "What I take Cohen to be saying here is that the claim that individuals are substantively responsible for (i.e., not entitled to compensation for) their tastes cannot be derived from a claim that they are responsible for their tastes in some prior sense of responsibility (such as responsibility as attributability.) I agree that such an argument is invalid. But I do not believe that Rawls is offering an argument of this kind in passages such as the one quoted above from “Social Unity and Primary Goods.” Rawls says that the conception of justice he proposes"
+  }, {
+    "type" : "paragraph",
+    "id" : 148,
+    "page number" : 14,
+    "bounding box" : [ 126.0, 180.936, 520.226, 334.704 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "includes what we may call a social division of responsibility: society, the citizens as a collective body, accepts responsibility for maintaining equal basic liberties and fair equality of opportunity, and for providing a fair share of other primary social goods for everyone within this framework, while citizens (as individuals) and associations accept the responsibility for revising and adjusting their ends and aspirations in view of the all-purpose means they can expect …14"
+  }, {
+    "type" : "list",
+    "id" : 150,
+    "level" : "1",
+    "page number" : 14,
+    "bounding box" : [ 90.0, 71.076, 305.342, 100.836 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 140,
+    "next list id" : 155,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 90.0, 84.876, 187.32, 100.836 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "13 Rides Again, p. 36",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 90.0, 71.076, 305.342, 86.844 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "14 “Social Unity and Primary Goods,” p. 170.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 151,
+    "page number" : 15,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 41,
+      "page number" : 15,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "14"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 152,
+    "page number" : 15,
+    "bounding box" : [ 90.0, 429.276, 520.314, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "In the terms I have been using, what Rawls is saying here is that his conception of justice is includes a certain judgment of substantive responsibility. This judgment, which assigns individuals responsibility for their own ends “is plausible only on certain assumptions” the first of which is that individuals can regulate and revise their ends.15 This is not an assumption that individuals are responsible for their ends in some prior sense, from which the propriety of the social division of responsibility that he proposes can be derived. It is merely an assumption about the capacities that individuals have. Moreover, Rawls says that “[b]y itself this assumption does not suffice.” The social division of responsibility that the use of primary social goods entails must be shown to be part of a workable and defensible conception of justice, and this involves taking into account other factors of the kind that Cohen and I have listed."
+  }, {
+    "type" : "paragraph",
+    "id" : 153,
+    "page number" : 15,
+    "bounding box" : [ 90.0, 125.736, 519.793, 417.444 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "So there is no disagreement between Cohen and Rawls about the kind of argument that needs to be offered for the relevant claims of responsibility. They do, however, appear to have substantive disagreements about which claims of this kind are correct. Rawls holds that individuals are responsible for (need not be compensated for) expensive tastes, whether or not these are chosen, and for expensive ends, which are under their control only to a degree. Cohen seems to disagree with these claims, or at least with the first of them. One advantage of the kind of argument that Cohen rightly rejects is that it might offer a way of settling this disagreement. If we could establish, on some independent ground, that individuals are responsible for their preferences (perhaps simply because they have chosen them) then, using an argument of this form, we could conclude that justice does not require the state to compensate those with expensive tastes."
+  }, {
+    "type" : "list",
+    "id" : 155,
+    "level" : "1",
+    "page number" : 15,
+    "bounding box" : [ 90.0, 71.076, 305.342, 86.844 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 150,
+    "next list id" : 161,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 15,
+      "bounding box" : [ 90.0, 71.076, 305.342, 86.844 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "15 “Social Unity and Primary Goods,” p. 169.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 156,
+    "page number" : 16,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 42,
+      "page number" : 16,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "15"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 157,
+    "page number" : 16,
+    "bounding box" : [ 90.0, 594.876, 517.912, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "But if such arguments are not valid, because judgments of substantive responsibility of the kind that form their conclusion depend on many factors, of which choice or control is only one, then it is more difficult to see how one can construct a decisive and nonquestion-begging argument in support of a conclusion about the proper social division of responsibility. This is a large topic, but I will survey some of the possibilities."
+  }, {
+    "type" : "paragraph",
+    "id" : 158,
+    "page number" : 16,
+    "bounding box" : [ 90.0, 318.936, 515.568, 583.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "First, one might appeal to practical considerations, such as the difficulty and intrusiveness of having governments determine individuals’ levels of satisfaction, or to the (potentially unlimited?) costs of providing for the pursuit of ends that require expensive equipment, travel and other opportunities. Given these considerations, and the facts about choice mentioned above, wouldn’t our obligations to each other, and the demands of equality, be best fulfilled by providing each individual with the same set of goods and opportunities, to use in pursuing whatever ends he or she may choose? Rawls seems to appeal to such considerations when he speaks of the need to find “workable criteria for interpersonal comparisons.”16 And Cohen seems to endorse this kind of argument as well, when he writes that"
+  }, {
+    "type" : "paragraph",
+    "id" : 159,
+    "page number" : 16,
+    "bounding box" : [ 126.0, 180.936, 516.341, 307.104 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "The right argument says: it is extremely difficult and/or unacceptably intrusive to determine whether a person’s tastes are expensive and how much she is responsible for them; therefore the state cannot and/or should not seek to make determinations of that sort; therefore people must (on the whole) take responsibility for the costs of their tastes.17"
+  }, {
+    "type" : "list",
+    "id" : 161,
+    "level" : "1",
+    "page number" : 16,
+    "bounding box" : [ 90.0, 71.076, 190.32, 100.836 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 155,
+    "next list id" : 171,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 90.0, 84.876, 121.38, 100.836 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "16 Ibid.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 90.0, 71.076, 190.32, 87.036 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "17 Rides Again, p. 46.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 162,
+    "page number" : 17,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 43,
+      "page number" : 17,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "16"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 163,
+    "page number" : 17,
+    "bounding box" : [ 90.0, 650.076, 520.524, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "So there is general agreement on the relevance of this line of argument, but it remains somewhat inclusive. How much practical difficulty or “intrusiveness” is enough to justify the conclusion that compensation for expensive tastes is “not the states business”?"
+  }, {
+    "type" : "paragraph",
+    "id" : 164,
+    "page number" : 17,
+    "bounding box" : [ 90.0, 401.676, 519.254, 638.244 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "An alternative would be to argue from examples, using the method of reflective equilibrium. Since there is disagreement about the examples, an important part of this strategy, on Rawls’s side, would consist trying to undermine the force of examples that are cited in support of the claim that people whose ends are expensive should receive compensation. Three examples that Cohen cites are: a person who finds the taste of ordinary water “gagging,” a person who cannot stand eggs but lives in a place where fish and eggs are the only available nutrients and fish is much more expensive, and a person who cannot perform ordinary physical movements without pain. In each case, Cohen believes that equality requires that people be “compensated” for these special difficulties."
+  }, {
+    "type" : "paragraph",
+    "id" : 165,
+    "page number" : 17,
+    "bounding box" : [ 90.0, 98.136, 521.809, 389.844 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "It seems to me that special treatment may be called for some of in these cases. The question is why this is so, and what general conclusion is to be drawn. Although these cases literally involve tastes, or receptivity to pleasant and unpleasant feelings, it is somewhat misleading to describe them as cases of “expensive tastes.” The people in these examples do not have unusual tastes. They want the same things that everyone wants: nourishment, hydration, and the ability to move freely. The normative force of the examples derives from the objective importance of these interests, rather than from the value of satisfying special tastes or preferences. The problem these people have is that they cannot pursue these quite ordinary aims without pain, or gagging, or feelings of disgust. What they need is help in overcoming these obstacles. This help might be provided by giving them water or food that they like better, or money to buy it. But it"
+  }, {
+    "type" : "header",
+    "id" : 166,
+    "page number" : 18,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 44,
+      "page number" : 18,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "17"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 167,
+    "page number" : 18,
+    "bounding box" : [ 90.0, 512.076, 515.636, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "could just as well be given by providing access to medical treatment. “Compensation” is therefore a somewhat misleading term for what is required, since the point is to enable the people to have these essential things without difficulty, not simply to raise their level of welfare (understood hedonistically or in terms of preference satisfaction.) Understood in this way, these cases are analogous to those of individuals who live far from the available supply of drinkable water, or who cannot get it themselves because of chronic weakness. What these people are entitled to is transportation, or special water supplies, not compensation."
+  }, {
+    "type" : "paragraph",
+    "id" : 168,
+    "page number" : 18,
+    "bounding box" : [ 90.0, 346.536, 520.626, 500.244 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "These examples may show that equality is not always attained by giving people the same shares of primary social goods, and therefore that primary social goods are too narrow a standard. They may thus support some form of what Cohen calls “midfare,” rather than primary social goods, as a basis for making judgments of justice.18 But they do not provide intuitive support for the idea that people who have expensive tastes should receive compensation to raise their level of hedonic tone or preference satisfaction."
+  }, {
+    "type" : "paragraph",
+    "id" : 169,
+    "page number" : 18,
+    "bounding box" : [ 90.0, 125.736, 520.639, 334.704 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "These examples (at least the first two) could be understood in a somewhat different way, as cases in which what is at issue is simply gustatory pleasure. (We might alter them in order to support this interpretation, for example by supposing that, rather than having difficulty gagging down eggs, the person just finds them boring.) Understood in this way the examples would, if accepted, support the idea of compensation for expensive tastes. But when they are understood in this way the examples seem, to me at least, to lose their force. They seem retain their force while also leading to the desired conclusion only by exploiting an ambiguity between these two readings."
+  }, {
+    "type" : "list",
+    "id" : 171,
+    "level" : "1",
+    "page number" : 18,
+    "bounding box" : [ 90.0, 71.076, 206.904, 87.036 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 161,
+    "next list id" : 183,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 18,
+      "bounding box" : [ 90.0, 71.076, 206.904, 87.036 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "18 See Equality, pp. 18ff.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 172,
+    "page number" : 19,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 45,
+      "page number" : 19,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "18"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 173,
+    "page number" : 19,
+    "bounding box" : [ 90.0, 374.076, 520.625, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Another example that Cohen discusses involves a person who enjoys photography but not fishing and finds that, because fishing is so much more popular, photography equipment is vastly more expensive. He believes that compensation is called for to cover this extra expense. This case involves something properly called an expensive end. But I have to say that I do not find the case for compensation compelling. What we have here are two versions of the same interest; having an agreeable leisure activity. As long as each person is provided with the same resources (money and time, say) to pursue this interest, it seems to me that the demands of equality are fulfilled. Things would be different if support for leisure pursuits were provided in kind, and the government provided only fishing poles (or golf clubs.) This would be objectionably unequal treatment. But as long as the rest of us are making the same sacrifice to provide the same malleable resources to others the fact that these go farther to support some pursuits than they do to support others does not make them objectionably unequal."
+  }, {
+    "type" : "heading",
+    "id" : 174,
+    "level" : "Subtitle",
+    "page number" : 19,
+    "bounding box" : [ 90.0, 318.816, 370.414, 334.812 ],
+    "heading level" : 3,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Are Rawls’s Claims about Responsibility Inconsistent?"
+  }, {
+    "type" : "paragraph",
+    "id" : 175,
+    "page number" : 19,
+    "bounding box" : [ 90.0, 208.536, 515.376, 307.104 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Cohen observes that the claim Rawls makes about individuals’ responsibility for their tastes and their final ends seems inconsistent with what he says about holding individuals responsible for their willingness to exert themselves in order to develop their talents and succeed in a competitive society. Cohen writes,"
+  }, {
+    "type" : "paragraph",
+    "id" : 176,
+    "page number" : 19,
+    "bounding box" : [ 126.0, 98.136, 507.624, 169.104 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "The problem is that the picture of the individual as responsibly guiding his own taste formation is hard to reconcile with claims Rawls elsewhere uses in a fundamental way to support his egalitarianism. I have in mind the skepticism"
+  }, {
+    "type" : "header",
+    "id" : 177,
+    "page number" : 20,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 46,
+      "page number" : 20,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 178,
+    "page number" : 20,
+    "bounding box" : [ 126.0, 594.876, 520.308, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "which he expresses about extra reward for extra effort: “The effort a person is willing to make is influenced by his natural abilities and skills and the alternatives open to him. The better endowed are more likely, other things equal, to strive conscientiously, and there seems to be no way to discount for their greater good fortune. The idea of rewarding desert is impracticable.”19"
+  }, {
+    "type" : "paragraph",
+    "id" : 179,
+    "page number" : 20,
+    "bounding box" : [ 90.0, 512.076, 513.87, 555.444 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "As Cohen notes, Robert Nozick leveled a similar charge of inconsistency against Rawls. Referring to the passage from Rawls quoted by Cohen, Nozick says,"
+  }, {
+    "type" : "paragraph",
+    "id" : 180,
+    "page number" : 20,
+    "bounding box" : [ 126.0, 346.536, 506.73, 472.644 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Denigrating a person’s autonomy and prime responsibility for his actions is a risky line to take for a theory that otherwise wishes to buttress the dignity and self-respect of autonomous beings … One doubts that the unexalted picture of human beings Rawls’ theory presupposes and rests upon can be made to fit together with the view of human dignity it is designed to lead to and embody.20"
+  }, {
+    "type" : "paragraph",
+    "id" : 181,
+    "page number" : 20,
+    "bounding box" : [ 90.0, 180.936, 518.663, 307.104 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Nozick’s remark has considerable rhetorical force. But in referring to “the dignity and respect of autonomous beings” he is painting with a rather broad brush. Rawls’s theory seeks to “buttress” autonomy mainly by arguing for the importance of the basic liberties and other background institutions that provide the conditions necessary for individuals to form and pursue their own conceptions of the good. Urging the importance"
+  }, {
+    "type" : "list",
+    "id" : 183,
+    "level" : "1",
+    "page number" : 20,
+    "bounding box" : [ 90.0, 71.076, 473.566, 114.636 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 171,
+    "next list id" : 189,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 20,
+      "bounding box" : [ 90.0, 84.876, 473.566, 114.636 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "19 Currency, p. 914. The passage quoted from Rawls is from A Theory of Justice (Cambridge, MA: Harvard University Press, 1971), p. 312 (Rev. Edn., p. 274)",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 20,
+      "bounding box" : [ 90.0, 71.076, 423.901, 87.036 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "20 Anarchy, State, and Utopia (New York: Basic Books, 1974) p. 214.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 184,
+    "page number" : 21,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 47,
+      "page number" : 21,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "20"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 185,
+    "page number" : 21,
+    "bounding box" : [ 90.0, 677.676, 504.144, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "of maintaining these conditions is scarcely inconsistent with recognizing that there are other conditions under which individuals are less able to make meaningful choices.21"
+  }, {
+    "type" : "paragraph",
+    "id" : 186,
+    "page number" : 21,
+    "bounding box" : [ 90.0, 291.336, 519.653, 665.844 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Cohen’s criticism of Rawls on this point is much more carefully drawn than Nozick’s. What he takes Rawls’s claims about effort to be in tension with is not a general ideal of dignity and autonomy but rather Rawls’s specific claims about responsibility for one’s tastes. He points out that Nozick overstates the claim Rawls is making in the passage about desert to which Cohen and Nozick both refer. In that passage, Rawls is not claiming that individuals can claim no credit for their decisions about whether to exert themselves to develop their talents because these decisions are influenced by their abilities and their family circumstances. Rather, Cohen says, Rawls claim is only that, to the degree that individuals’ choices are due to these factors they do not constitute moral desert, and that it is impracticable to determine the degree to which this is so. But, Cohen asks, if individuals’ responsibility for exerting themselves is in this way a matter of degree, why isn’t their responsibility for the tastes they develop also a matter of degree, depending on the degree to which this is a matter of choice and the degree to which it reflects outside constraints and influences?"
+  }, {
+    "type" : "paragraph",
+    "id" : 187,
+    "page number" : 21,
+    "bounding box" : [ 90.0, 236.136, 504.172, 279.504 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Even this more carefully drawn charge of inconsistency misses the mark, however. Both Cohen and Nozick seem to assume that in the passage about desert and"
+  }, {
+    "type" : "list",
+    "id" : 189,
+    "level" : "1",
+    "page number" : 21,
+    "bounding box" : [ 90.0, 140.076, 520.968, 211.044 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 183,
+    "next list id" : 200,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 21,
+      "bounding box" : [ 90.0, 140.076, 520.968, 211.044 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "21 Nozick is here relying on a distinctively libertarian view according to which respect for individual autonomy (or “liberty”) requires two things: (1) not interfering with individual’s choices in certain specified ways (by force or fraud) and (2) treating all choices that individuals make in the absence of these interferences as morally binding. Given this view, it may appear that Rawls is claiming to be a defender of autonomy while",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 190,
+    "level" : "3",
+    "page number" : 21,
+    "bounding box" : [ 90.0, 71.076, 518.623, 142.044 ],
+    "numbering style" : "english letters",
+    "number of list items" : 1,
+    "previous list id" : 120,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 21,
+      "bounding box" : [ 90.0, 71.076, 518.623, 142.044 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "at some points failing to respect it, by violating (2). But this is not inconsistency on Rawls’s part, since he rejects this libertarian premise. One of his main points is that individual autonomy is respected by providing conditions under which it can be meaningfully exercised, not by holding individuals responsible for the choices they make under unfavorable conditions.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 191,
+    "page number" : 22,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 48,
+      "page number" : 22,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "21"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 192,
+    "page number" : 22,
+    "bounding box" : [ 90.0, 567.276, 520.582, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "effort that they both quote Rawls is arguing against the idea of rewarding people in proportion to the effort they put forth. Elsewhere in A Theory of Justice Rawls does argue against this idea (although he also offers a qualified defense), and I will return to this argument shortly. But what Rawls is arguing against in the passage quoted by Cohen and Nozick is the different idea that economic reward should be proportional to desert, or moral worth."
+  }, {
+    "type" : "paragraph",
+    "id" : 193,
+    "page number" : 22,
+    "bounding box" : [ 90.0, 263.736, 521.63, 555.444 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "This argument is part of Rawls’s larger strategy of showing that his two principles of justice fit with our considered judgments about justice in reflective equilibrium. Even if these principles are supported by the argument from the Original Position, if they were in direct conflict with our considered judgments about justice, then we would need to consider whether to modify or abandon these judgments or to modify or abandon the principles and the Original Position construction that yields them. Large parts of A Theory of Justice are thus devoted to the task of showing that various conflicts of this kind should be resolved in favor of the two principles of justice—that is to say, to arguing that various judgments that have some intuitive appeal but conflict with Rawls’s two principles of justice do not stand the test of reflection and should be modified or abandoned."
+  }, {
+    "type" : "paragraph",
+    "id" : 194,
+    "page number" : 22,
+    "bounding box" : [ 90.0, 98.136, 517.441, 251.904 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "In §12, for example, Rawls considers the idea that individuals are entitled to whatever they would receive in a free market (a “system of natural liberty”) and argues that this should not, on reflection, be counted as a considered judgment. In §47 Rawls considers various “common sense precepts of justice” such as the ideas that justice requires reward in accord with contribution (marginal productivity), or in proportion to effort, or in proportion to need. These familiar precepts are not fundamental principles of"
+  }, {
+    "type" : "header",
+    "id" : 195,
+    "page number" : 23,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 49,
+      "page number" : 23,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "22"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 196,
+    "page number" : 23,
+    "bounding box" : [ 90.0, 539.676, 509.581, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "justice on Rawls’s view, but in §47 he tries to account for them by explaining how they can properly play a role in our thinking about justice at a more derivative level, as responses to questions about distribution that arise under special, but not uncommon, conditions within a just society. So, for example, the idea of reward according to effort has a role in a society governed by Rawls’s Difference Principle in the form of the argument that extra compensation should be offered to defray costs of training and to compensate people for performing particularly onerous and unpleasant tasks."
+  }, {
+    "type" : "paragraph",
+    "id" : 197,
+    "page number" : 23,
+    "bounding box" : [ 90.0, 346.536, 508.584, 527.844 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "In §48 Rawls takes a firmer line with regard to the idea that economic reward should be distributed according to moral desert. This idea, he argues in the last part of this section, does not stand up under reflection, and should be rejected. Earlier in §48, however, he points out that none of the common sense precepts of justice discussed in §47 would require economic reward to track moral desert. His aim here is to show how the idea of reward according to desert differs from these common sense precepts, thus depriving that idea of the support it might derive from them."
+  }, {
+    "type" : "paragraph",
+    "id" : 198,
+    "page number" : 23,
+    "bounding box" : [ 90.0, 125.736, 521.761, 334.704 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "The common sense precept that might seem to come closest to requiring reward in proportion to moral worth, Rawls says, is the precept of distribution according to effort. It is in this context that we encounter the passage Cohen and Nozick discuss, in which Rawls says, “the effort a person is willing to make is influenced by his natural abilities and skills and the alternatives open to him. The better endowed are more likely, other things equal, to strive conscientiously, and there seems to be no way to discount for their greater good fortune.” Therefore, he concludes, “the idea of rewarding desert is impracticable.”22 Rawls’s point here is not that reward should not be proportioned to"
+  }, {
+    "type" : "list",
+    "id" : 200,
+    "level" : "1",
+    "page number" : 23,
+    "bounding box" : [ 90.0, 71.076, 325.63, 87.036 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 189,
+    "next list id" : 206,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 23,
+      "bounding box" : [ 90.0, 71.076, 325.63, 87.036 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "22 A Theory of Justice, p. 312 (Rev. Edn., p. 274).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 201,
+    "page number" : 24,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 50,
+      "page number" : 24,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "23"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 202,
+    "page number" : 24,
+    "bounding box" : [ 90.0, 512.076, 518.975, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "effort because differences in the degree of effort that people put forth is due in part to differences in ability and in family circumstances. It is rather that because effort is influenced by these factors differences in effort do not correspond to differences in moral worth. So in proportioning reward to effort we would not be rewarding moral worth, and it would be “impracticable” to design institutions that would identify and reward those differences in effort that do reflect differences in moral worth. I don’t see any inconsistency between what Rawls says in this passage and what he says about the capacity to modify one’s ends."
+  }, {
+    "type" : "paragraph",
+    "id" : 203,
+    "page number" : 24,
+    "bounding box" : [ 90.0, 263.736, 519.685, 500.244 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Earlier in the book, however, Rawls makes another remark about effort that may seem to be in tension with the idea of responsibility for one’s ends. This remark occurs in §12 in the context of an argument against what Rawls calls the liberal conception of justice. This conception holds that a distribution is just if it is produced by a free market under conditions of “fair equality of opportunity.” Fair equality of opportunity, as Rawls defines it, is the strong requirement that “those who are at the same level of talent and ability, and have the same willingness to use them, should have the same prospects of success regardless of their initial place in the social system, that is, irrespective of the income class into which they are born.”23"
+  }, {
+    "type" : "paragraph",
+    "id" : 204,
+    "page number" : 24,
+    "bounding box" : [ 90.0, 153.336, 514.476, 251.904 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Rawls offers two objections to the liberal conception, the second of which is that given the background of an unregulated free market, fair equality of opportunity “can be only imperfectly carried out, at least as long as the institution of the family exists.” This is so, he says, because"
+  }, {
+    "type" : "list",
+    "id" : 206,
+    "level" : "1",
+    "page number" : 24,
+    "bounding box" : [ 90.0, 71.076, 301.634, 87.036 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 200,
+    "next list id" : 212,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 24,
+      "bounding box" : [ 90.0, 71.076, 301.634, 87.036 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "23 A Theory of Justice, p. 73 (Rev. Edn., 63).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 207,
+    "page number" : 25,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 51,
+      "page number" : 25,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "24"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 208,
+    "page number" : 25,
+    "bounding box" : [ 126.0, 539.676, 521.213, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "The extent to which natural capacities develop and reach fruition is affected by all kinds of social conditions and class attitudes. Even the willingness to make an effort, to try, and so to be deserving in the ordinary sense is itself dependent upon happy family and social circumstances. It is impossible in practice to secure equal chances of achievement and culture for those similarly endowed, and therefore we may want to adopt a principle which recognizes this fact and also mitigates the arbitrary effects of the natural lottery.24"
+  }, {
+    "type" : "paragraph",
+    "id" : 209,
+    "page number" : 25,
+    "bounding box" : [ 90.0, 346.536, 520.159, 500.244 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "The general point that Rawls is making here is that the liberal conception purports to combine elements that are in fact incompatible with one another. Fair equality of opportunity cannot be achieved simply by adding on to a market system something like a legal requirement of non-discrimination, because the inequality in family wealth and income that an unregulated market will produce guarantees inequality in the opportunity to develop one’s talents."
+  }, {
+    "type" : "paragraph",
+    "id" : 210,
+    "page number" : 25,
+    "bounding box" : [ 90.0, 125.736, 519.952, 334.704 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "The requirement of fair equality of opportunity specifies that individuals with (a) the same level of talent and ability and (b) the same willingness to use these should have the same chances of success whatever income class they are born into. These two clauses correspond to two justifications that might be offered to an individual who complains about having a smaller share of income of wealth than some others do. One thing one might say to such a person, corresponding to clause (a), is that the others have been given more because they have a talent or ability which he lacks. (If this is to be a good response, the relevant “talent or ability” must be something that there is a good"
+  }, {
+    "type" : "list",
+    "id" : 212,
+    "level" : "1",
+    "page number" : 25,
+    "bounding box" : [ 90.0, 71.076, 301.634, 87.036 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 206,
+    "next list id" : 224,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 25,
+      "bounding box" : [ 90.0, 71.076, 301.634, 87.036 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "24 A Theory of Justice, p. 74 (Rev. Edn., 64).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 213,
+    "page number" : 26,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 52,
+      "page number" : 26,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "25"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 214,
+    "page number" : 26,
+    "bounding box" : [ 90.0, 677.676, 498.503, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "justification for rewarding with special opportunities or benefits. I will take this to be understood.)"
+  }, {
+    "type" : "paragraph",
+    "id" : 215,
+    "page number" : 26,
+    "bounding box" : [ 90.0, 346.536, 521.556, 665.844 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "A second response, corresponding to clause (b), is that although the individual in question has the same talent or ability he has not been willing to develop and use it in the way that justifies reward. The force of this response is, “You can’t complain, because you were put in as good a position as you could ask for to develop talents that would have qualified for reward and you failed to do so.” But, Rawls argues, whether people have been put in such a position depends on whether they have been provided with the “happy family and social circumstances” that are required in order to stimulate the development of talent in early childhood. His remark about being “deserving in the ordinary sense” can be understood in this same way. If an individual’s family and social circumstances were very unfavorable, then we cannot say that her failure to develop her talents shows her to be undeserving of reward “in the ordinary sense.” That is to say, it does not show that she failed to take advantage of a fair opportunity to succeed. Moral worth is not here at issue."
+  }, {
+    "type" : "paragraph",
+    "id" : 216,
+    "page number" : 26,
+    "bounding box" : [ 90.0, 98.136, 520.97, 334.704 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "This argument is quite consistent with what Rawls says about responsibility for one’s ends. Both arguments involve the idea that if an outcome results from a choice that an individual has made under conditions for making that choice that are as good as he could ask for, then he cannot complain about that outcome—it is “his responsibility.” But everything depends on the conditions mentioned in the crucial italicized phrase. What Rawls is saying in the passage I have been discussing is that under the “liberal conception” there is no assurance that the conditions under which individuals decide whether to exert themselves, or to develop their talents, will be good enough to give these decisions legitimating force. What he is saying in his defense of primary social goods is"
+  }, {
+    "type" : "header",
+    "id" : 217,
+    "page number" : 27,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 53,
+      "page number" : 27,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "26"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 218,
+    "page number" : 27,
+    "bounding box" : [ 90.0, 622.476, 508.951, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "that in a well-ordered society governed by his two principles of justice these conditions will be good enough, and that individuals can therefore reasonably be asked to accept responsibility for the ends they adopt. One can dispute this latter claim, but it is not inconsistent with the former one."
+  }, {
+    "type" : "heading",
+    "id" : 219,
+    "level" : "Subtitle",
+    "page number" : 27,
+    "bounding box" : [ 90.0, 567.156, 289.018, 583.152 ],
+    "heading level" : 3,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Where Do Cohen and Rawls Disagree?"
+  }, {
+    "type" : "paragraph",
+    "id" : 220,
+    "page number" : 27,
+    "bounding box" : [ 90.0, 401.676, 516.294, 555.636 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "I have said several times that Cohen and Rawls appear to disagree about whether people should be compensated if their tastes are particularly difficult to satisfy. They certainly disagree insofar as they are talking about the same thing. There is, however, some reason to think that they are not always talking about the same thing. This makes it more difficult than one might have expected to be clear about the exact nature of their disagreement."
+  }, {
+    "type" : "paragraph",
+    "id" : 221,
+    "page number" : 27,
+    "bounding box" : [ 90.0, 208.536, 513.972, 389.844 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Rawls proposes the notion of primary social goods as what I will call a “metric”: a measure of distributive shares for use within a conception of justice. The role of a conception of justice as Rawls understands it is to serve as a shared standard that the members of a society can use to assess the basic institutions of their society and to adjudicate claims that individuals make about the way they should be treated by those institutions. A metric is one component of such a shared standard: a workable basis for comparing distributive shares."
+  }, {
+    "type" : "paragraph",
+    "id" : 222,
+    "page number" : 27,
+    "bounding box" : [ 90.0, 125.736, 515.557, 196.704 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "To claim that primary social goods, or any other measure, is the appropriate metric for a conception of justice is therefore not necessarily to defend it as a conception of well-being.25 The choice of a metric depends on claims about the proper role of the"
+  }, {
+    "type" : "list",
+    "id" : 224,
+    "level" : "1",
+    "page number" : 27,
+    "bounding box" : [ 90.0, 71.076, 451.918, 86.844 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 212,
+    "next list id" : 229,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 27,
+      "bounding box" : [ 90.0, 71.076, 451.918, 86.844 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "25 As Rawls makes clear. See “Social Unity and Primary Goods,” pp. 169ff.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 225,
+    "page number" : 28,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 54,
+      "page number" : 28,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "27"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 226,
+    "page number" : 28,
+    "bounding box" : [ 90.0, 484.476, 519.632, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "state (of “basic institutions”) and about what can serve as a workable public standard for comparing the circumstances of different individuals. Claims about individual well being depend on neither of these things. The pleasure that a person gets from eating and the enjoyment he derives from leisure activities are among the components of his well-being. But it is quite coherent to accept that this is so while claiming that the proper metric for purposes of justice should ignore these things, because these elements of well-being are not directly the concern of the state, and perhaps also because these pleasures are so difficult to assess and compare that they could not form part of a workable public standard."
+  }, {
+    "type" : "paragraph",
+    "id" : 227,
+    "page number" : 28,
+    "bounding box" : [ 126.0, 125.736, 517.93, 472.644 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Consider now the following remark of Cohen’s: A word about what will be meant by the sentence-form “x represents and injustice’ here. It will not mean ‘x represents an injustice that ought to be rectified by the state.’ (No one should in any case think that that’s what ‘x represents an injustice’ ordinarily means: the words ‘that ought to be rectified by the state’ surely add meaning to the phrase that they expand.) It will mean, more elementarily, that the world is less than fully just by virtue of the presence of x in it. So, to be as clear as possible, if, in the sequel, I say such things as ‘compensation is required by egalitarian justice,’ I mean: for there to be egalitarian justice, there must be compensation; and not: there must (unconditionally) be compensation, because of the (unoverridable and always implementable) requirements of egalitarian distributive justice.26"
+  }, {
+    "type" : "list",
+    "id" : 229,
+    "level" : "1",
+    "page number" : 28,
+    "bounding box" : [ 90.0, 71.076, 186.36, 88.316 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 224,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 28,
+      "bounding box" : [ 90.0, 71.076, 186.36, 88.316 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "26 Rides Again, p. 5.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 230,
+    "page number" : 29,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 55,
+      "page number" : 29,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "28"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 231,
+    "page number" : 29,
+    "bounding box" : [ 90.0, 484.476, 520.572, 693.444 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "The first four sentences of this passage seem to suggest that “egalitarian justice” as Cohen understands it is concerned with how the world should be rather than with what social institutions should be like. If this is correct, it significantly reduces the disagreement between him and Rawls, for whom the question of justice just is a question about the basic institutions of society. If the intuitive judgments about when compensation is due that Cohen’s examples are meant to elicit are not judgments about when a just state should pay compensation, then it is not clear that they are relevant to the question that Rawls is addressing."
+  }, {
+    "type" : "paragraph",
+    "id" : 232,
+    "page number" : 29,
+    "bounding box" : [ 90.0, 180.936, 521.935, 472.644 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "The final sentence of the passage, however, suggests a different interpretation. On this reading, egalitarian justice, as Cohen understands it, is about what a just state should do other things being equal. But, since other things than egalitarian justice go into determining what a state (even a just one?) should do, it does not follow from the fact that egalitarian justice demands compensation in a given kind of case that a state ought to provide it. On this interpretation, both Rawls and Cohen are talking about the state, but the metrics they are proposing are intended for different uses. Primary social goods are intended by Rawls to be used in principles that describe what justice requires institutions to be like all things considered. The equalisandum that Cohen is looking for, however, is only intended for use in answering the more restricted question of what egalitarian justice requires."
+  }, {
+    "type" : "paragraph",
+    "id" : 233,
+    "page number" : 29,
+    "bounding box" : [ 90.0, 98.136, 517.357, 169.104 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "I imagine that Cohen also disagrees with Rawls about some all things considered claims—that he believes that a just state should actually provide compensation in some cases in which Rawls believes this is not required. But the primary focus of his argument"
+  }, {
+    "type" : "header",
+    "id" : 234,
+    "page number" : 30,
+    "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 56,
+      "page number" : 30,
+      "bounding box" : [ 510.0, 741.216, 522.0, 756.984 ],
+      "heading level" : 4,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 12.0,
+      "text color" : "[0.0]",
+      "content" : "29"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 235,
+    "page number" : 30,
+    "bounding box" : [ 90.0, 567.276, 520.556, 721.044 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "is on the narrower question of what egalitarian justice requires. This makes it somewhat difficult to assess the force of examples in this argument, since in interpreting them one must ask what kind of judgment they are meant to support: a judgment concerning Rawls’s idea of justice as the very inclusive “first virtue of social institutions,” or a judgment dealing only with Cohen’s narrower, and to my mind at least, more elusive idea of what “egalitarian justice” requires."
+  }, {
+    "type" : "paragraph",
+    "id" : 236,
+    "page number" : 30,
+    "bounding box" : [ 90.0, 318.936, 520.801, 555.444 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "To conclude: Rawls and Cohen agree about the kind of case that needs to be made to support the conclusion that individuals are appropriately held responsible for certain choices, ends or preferences. So in this respect there is more agreement between them than might at first appear. They may, of course, disagree in particular cases about whether an adequate case of this kind can be made. But it is sometimes difficult to determine how far they disagree because they are addressing slightly different questions, Rawls being concerned with the overall justice of social institutions, Cohen with an idea of egalitarian justice which is not the only consideration bearing on what the state should do."
+  } ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "node_id": "P1-C1",
+    "node_type": "category",
+    "label": "Concrete and Affirmative Utopianism",
+    "perspective_id": "P1",
+    "perspective_name": "Typologies of Visionary Constructs",
+    "definition": "Visions grounded in material drives, repressed desires, or affirmative sociopolitical transformations...",
+    "coding_rule": "Apply when the text discusses utopia as a material, affirmative, or holistic alternative...",
+    "colour": "#6366f1"
+  },
+  {
+    "node_id": "P1-C2",
+    "node_type": "category",
+    "label": "Critical Dystopianism",
+    "perspective_id": "P1",
+    "perspective_name": "Typologies of Visionary Constructs",
+    "definition": "Negative or warning visions of society that, despite their dark depiction, maintain a site of resistance...",
+    "coding_rule": "Apply when the text describes a negative or cautionary future vision that explicitly retains a space for hope...",
+    "colour": "#6366f1"
+  },
+  {
+    "node_id": "P2-C1",
+    "node_type": "category",
+    "label": "Utopian Methodologies",
+    "perspective_id": "P2",
+    "perspective_name": "Methodologies of Exploration",
+    "definition": "Methodologies of exploring utopian alternatives through structural exercises or active modeling...",
+    "coding_rule": "Apply when the text indicates structural, participatory exploration methodologies...",
+    "colour": "#10b981"
+  },
+  {
+    "node_id": "P2-C3",
+    "node_type": "category",
+    "label": "Defamiliarization",
+    "perspective_id": "P2",
+    "perspective_name": "Methodologies of Exploration",
+    "definition": "A formal literary or critical device used to render present realities unfamiliar to evaluate them...",
+    "coding_rule": "Apply when the text explicitly points to rendering familiar systems unfamiliar as a tool for critique...",
+    "colour": "#10b981"
+  },
+  {
+    "node_id": "P3-C1",
+    "node_type": "category",
+    "label": "Hoping / Anticipating Consciousness",
+    "perspective_id": "P3",
+    "perspective_name": "Utopian Affects",
+    "definition": "An active, teachable dialectical capability ('docta spes') that rejects passivity and cultivates anticipation...",
+    "coding_rule": "Apply when the text frames hope as an active, teachable, or structured socio-political drive...",
+    "colour": "#f59e0b"
+  },
+  {
+    "node_id": "P3-C2",
+    "node_type": "category",
+    "label": "Dystopian Impulses / Warnings",
+    "perspective_id": "P3",
+    "perspective_name": "Utopian Affects",
+    "definition": "Dystopian warnings that alert the audience to critical risks by extrapolating current trends...",
+    "coding_rule": "Apply when the text frames dystopian thoughts as active warning systems to prevent negative futures...",
+    "colour": "#f59e0b"
+  }
+]

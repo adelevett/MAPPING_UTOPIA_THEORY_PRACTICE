@@ -1,0 +1,1602 @@
+{
+  "file name" : "F._2021_Speculative_social_science_fiction_of_digitalization_in_higher_education_From_what_is_to_what_could_.pdf",
+  "number of pages" : 13,
+  "author" : " Juha Suoranta",
+  "title" : "Speculative Social Science Fiction of Digitalization in Higher Education: from What Is to What Could Be",
+  "creation date" : "D:20220321091739+08'00'",
+  "modification date" : "D:20220321091739+08'00'",
+  "kids" : [ {
+    "type" : "paragraph",
+    "id" : 59,
+    "page number" : 1,
+    "bounding box" : [ 50.42, 624.392, 208.804, 631.6 ],
+    "font" : "MyriadProUnicSemiCondensed",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Postdigital Science and Education (2022) 4:224–236"
+  }, {
+    "type" : "paragraph",
+    "id" : 37,
+    "page number" : 1,
+    "bounding box" : [ 51.024, 615.245, 188.639, 624.253 ],
+    "font" : "MyriadPro-SemiCn2",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "https://doi.org/10.1007/s42438-021-00260-6"
+  }, {
+    "type" : "paragraph",
+    "id" : 40,
+    "page number" : 1,
+    "bounding box" : [ 53.938, 597.857, 116.626, 607.633 ],
+    "font" : "MyriadPro-Semibold",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "COMMENTARIES"
+  }, {
+    "type" : "heading",
+    "id" : 41,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 51.024, 546.014, 318.898, 575.784 ],
+    "heading level" : 2,
+    "font" : "MyriadPro-SemiboldSemiCn",
+    "font size" : 13.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Speculative Social Science Fiction of Digitalization in Higher Education: From What Is to What Could Be"
+  }, {
+    "type" : "heading",
+    "id" : 42,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 51.024, 506.268, 351.998, 531.572 ],
+    "heading level" : 4,
+    "font" : "MyriadPro-Semibold",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Juha Suoranta1 · Marko Teräs1 · Hanna Teräs1 · Petar Jandrić2,3 · Susan Ledger4 · Felicitas Macgilchrist5,6 · Paul Prinsloo7"
+  }, {
+    "type" : "paragraph",
+    "id" : 50,
+    "page number" : 1,
+    "bounding box" : [ 51.024, 472.04, 142.919, 490.544 ],
+    "font" : "MyriadPro-SemiCn2",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Accepted: 27 September 2021 © The Author(s) 2021"
+  }, {
+    "type" : "paragraph",
+    "id" : 60,
+    "page number" : 1,
+    "bounding box" : [ 145.253, 481.999, 147.819, 490.966 ],
+    "font" : "WhgxwkAdvTTc488b0e6",
+    "font size" : 7.97,
+    "text color" : "[0.13699549436569214, 0.12199588119983673, 0.1250019073486328]",
+    "content" : "/"
+  }, {
+    "type" : "paragraph",
+    "id" : 58,
+    "page number" : 1,
+    "bounding box" : [ 149.023, 482.432, 254.375, 489.64 ],
+    "font" : "MyriadProUnicSemiCondensed",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Published online: 25 October 2021"
+  }, {
+    "type" : "paragraph",
+    "id" : 51,
+    "page number" : 1,
+    "bounding box" : [ 51.024, 432.676, 352.492, 459.766 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Keywords Digitalization · Datafication · Educational technology · Higher education · Imagination · Karl Marx · Qualitative methodology · Postdigital"
+  }, {
+    "type" : "heading",
+    "id" : 52,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 51.024, 386.785, 361.473, 412.415 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Introduction: Unleashing Teachers’ Imagination (Juha Suoranta, Marko Teräs, Hanna Teräs)"
+  }, {
+    "type" : "paragraph",
+    "id" : 53,
+    "page number" : 1,
+    "bounding box" : [ 51.024, 336.676, 388.344, 375.766 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Digitalization and datafication are reshaping roles and practices in higher education. The Covid-19 pandemic has accelerated this process through the massive increase in the use of educational technology (EdTech) (Teräs et al."
+  }, {
+    "type" : "paragraph",
+    "id" : 56,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 50.424, 162.45, 166.479, 328.162 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "* Felicitas Macgilchrist macgilchrist@gei.de Juha Suoranta juha.suoranta@tuni.fi Marko Teräs marko.teras@tuni.fi Hanna Teräs hanna.teras@tuni.fi Petar Jandrić pjandric@tvz.hr Susan Ledger susan.ledger@newcastle.edu.au Paul Prinsloo prinsp@unisa.ac.za"
+  }, {
+    "type" : "list",
+    "id" : 57,
+    "level" : "2",
+    "page number" : 1,
+    "bounding box" : [ 51.024, 56.112, 328.573, 156.118 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 7,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 51.024, 143.301, 188.784, 156.118 ],
+      "font" : "STIX-Regular",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 Tampere University, Tampere, Finland",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 51.024, 128.77, 244.015, 141.586 ],
+      "font" : "STIX-Regular",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "2 Zagreb University of Applied Sciences, Zagreb, Croatia",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 51.024, 114.238, 230.855, 127.055 ],
+      "font" : "STIX-Regular",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "3 University of Wolverhampton, Wolverhampton, UK",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 51.024, 99.706, 226.143, 112.523 ],
+      "font" : "STIX-Regular",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "4 The University of Newcastle, Callaghan, Australia",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 51.024, 85.175, 328.573, 97.992 ],
+      "font" : "STIX-Regular",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "5 Georg Eckert Institute of International Textbook Studies, Braunschweig, Germany",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 51.024, 70.644, 326.069, 83.46 ],
+      "font" : "STIX-Regular",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "6 Institute for Educational Science, University of Goettingen, Goettingen, Germany",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 51.024, 56.112, 225.31, 68.929 ],
+      "font" : "STIX-Regular",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "7 University of South Africa, Pretoria, South Africa",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 62,
+    "page number" : 2,
+    "bounding box" : [ 50.42, 624.392, 388.66, 631.6 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 25,
+      "page number" : 2,
+      "bounding box" : [ 50.42, 624.392, 388.66, 631.6 ],
+      "heading level" : 5,
+      "font" : "MyriadProUnicSemiCondensed",
+      "font size" : 8.0,
+      "text color" : "[0.0]",
+      "content" : "Postdigital Science and Education (2022) 4:224–236 225"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 64,
+    "level" : "2",
+    "page number" : 2,
+    "bounding box" : [ 51.024, 535.672, 388.369, 610.762 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 89,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 51.024, 535.672, 388.369, 610.762 ],
+      "font" : "STIX-Regular",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 1.0]",
+      "content" : "2020). As a part of this development, higher education is becoming increasingly data driven. Simultaneously, attempts to predict and prepare for future scenarios in education are driven by intergovernmental organization reports from OECD and UNESCO, in addition to national initiatives in digital education (Suoranta et al. 2022). In these future scenarios, datafication, big data, learning analytics, and artificial intelligence promise more efficient and predictable higher education.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 65,
+    "page number" : 2,
+    "bounding box" : [ 51.024, 439.672, 388.373, 538.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "However, critical voices in educational and social sciences have warned that datafication narrows the discourse and the scope of complex concepts such as teaching and learning (Jarke and Breiter 2019; Knox et al. 2020; Manolev et al. 2019; Mirrlees and Alvi 2020). Moreover, the visions and practices of data-driven education tend to reduce teachers and the students in higher education to mere objects of digitalization, rather than seeing them as active subjects participating in the shaping of digital futures (e.g., Saari and Säntti 2018; Broughan and Prinsloo 2019)."
+  }, {
+    "type" : "paragraph",
+    "id" : 66,
+    "page number" : 2,
+    "bounding box" : [ 62.364, 427.672, 244.28, 442.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "It was Marx who stated already in 1858 that"
+  }, {
+    "type" : "paragraph",
+    "id" : 67,
+    "page number" : 2,
+    "bounding box" : [ 62.364, 325.422, 377.029, 424.512 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "once adopted into the production process of capital, the means of labour passes through different metamorphoses, whose culmination is the machine, or rather, an automatic system of machinery (system of machinery: the automatic one is merely its most complete, most adequate form, and alone transforms machinery into a system), set in motion by an automaton, a moving power that moves itself; this automaton consisting of numerous mechanical and intellectual organs, so that the workers themselves are cast merely as its conscious linkages. (Marx 1973: 614)"
+  }, {
+    "type" : "paragraph",
+    "id" : 68,
+    "page number" : 2,
+    "bounding box" : [ 51.024, 259.172, 388.365, 322.262 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Higher education teachers are becoming perfect examples of Marx’s description of the workers cast merely as conscious linkages of the automaton. Currently, we live in an era where questions, such as shall or should ‘the automatic system of machinery’ (in our case, digitalization) replace the teacher, have become relevant (see Selwyn et al. 2020)."
+  }, {
+    "type" : "paragraph",
+    "id" : 69,
+    "page number" : 2,
+    "bounding box" : [ 51.024, 175.172, 388.383, 262.262 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "These questions have materialized in the digitalization of higher education, as the case of Professor François-Marc Gagnon strikingly demonstrates: Gagnon taught in an online course while already dead (Fleming 2021; Matthews 2021). To Peter Fleming (2021), the incident marked ‘the dirty flipside of the edtech trend that’s transforming higher education, concealed behind a new wave of corporate buzzwords: blended learning, hybrid instruction; digital scaffolding; synchronous and asynchronous learning; micro-credentials and so-on’."
+  }, {
+    "type" : "paragraph",
+    "id" : 70,
+    "page number" : 2,
+    "bounding box" : [ 51.034, 79.172, 388.38, 178.262 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The current transformation of contemporary higher education is characterized by managerialism (Poutanen et al. 2020), EdTech market lobbying (Mirrlees and Alvi 2020; Williamson 2021), and technological determinism (Hayes and Jandrić 2014). Technological determinism appears in the discourse of digitalization and datafication in disguise of positive potential to fix the supposedly ‘broken’ education. EdTech corporations, supranational educational lobbying organizations (OECD perhaps as the most influential), state bureaucratic apparatuses, and managerial administrators in the universities create deterministic policies on digitali-"
+  }, {
+    "type" : "footer",
+    "id" : 71,
+    "page number" : 2,
+    "bounding box" : [ 347.754, 26.244, 388.659, 42.234 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 19,
+      "page number" : 2,
+      "bounding box" : [ 347.754, 26.244, 388.659, 42.234 ],
+      "heading level" : 1,
+      "font" : "Springnew-Regular3",
+      "font size" : 15.0,
+      "text color" : "[0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 72,
+    "page number" : 3,
+    "bounding box" : [ 51.01, 624.392, 388.552, 631.6 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 26,
+      "page number" : 3,
+      "bounding box" : [ 51.01, 624.392, 388.552, 631.6 ],
+      "heading level" : 5,
+      "font" : "MyriadProUnicSemiCondensed",
+      "font size" : 8.0,
+      "text color" : "[0.0]",
+      "content" : "226 Postdigital Science and Education (2022) 4:224–236"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 74,
+    "page number" : 3,
+    "bounding box" : [ 51.024, 583.672, 388.364, 610.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "zation, usually without engaging higher education teachers in the open development of educational futures."
+  }, {
+    "type" : "paragraph",
+    "id" : 75,
+    "page number" : 3,
+    "bounding box" : [ 51.024, 499.672, 388.393, 586.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "These actors often outline and predict a utopian technological future (for economic gains) without listening to educators’ points of view. Therefore, there is a clear need for new educational and political imaginaries and inquiries in which higher education teachers can actively participate in imagining digital futures of higher education. Thus, we argue that teachers as experts in teaching and learning should be more heavily involved in evaluating and shaping the digitalization of higher education."
+  }, {
+    "type" : "paragraph",
+    "id" : 76,
+    "page number" : 3,
+    "bounding box" : [ 51.024, 415.672, 388.394, 502.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "(Speculative) social science fiction is not a new approach in social sciences (Gerlach and Hamilton, 2003; Lackey 1994). The power of fiction as a method has also been noticed in education (Clough 2002; Facer 2011). Furthermore, and perhaps in the crossroads of social sciences and education, it has recently emerged as a promising approach to engage teachers and students in imagining different futures of digitalization in education (for example, Macgilchrist et al. 2020; Selwyn et al. 2020; see also Learning, Media and Technology journal special issue on speculative futures1)."
+  }, {
+    "type" : "paragraph",
+    "id" : 77,
+    "page number" : 3,
+    "bounding box" : [ 51.021, 343.672, 388.409, 418.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The concept of imagination is methodologically fundamental in the social sciences we seek to advance. Imagination is ‘an ongoing relationship and material capacity constituted by social interactions between people’ (Shukaitis 2009: 10). Its aim ‘is not to keep a mirror in front of people’s faces and show them how they look, but to explore ideas and thinking’ (Eskola 1984: 29). Thus, it provides views of what we can be and can become."
+  }, {
+    "type" : "paragraph",
+    "id" : 78,
+    "page number" : 3,
+    "bounding box" : [ 51.021, 223.672, 388.391, 346.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Many authors have emphasized originally Marx’s (1887: 127) idea of the power of imagination (‘what distinguishes the worst architect from the best of bees is this, that the architect raises his structure in imagination before he erects it in reality’) in keeping hope alive and striving for social transformation (e.g., Appadurai 2000; Bloch 1995; Castoriadis 1987; Eskola 1988; Freire 2018; Fromm 1968; Graeber 2007; Jandrić and McLaren 2020; Mills 2000; Rorty 1999; Stetsenko 2020). Whereas C. Wright Mills (2000) believed that sociological imagination is the most needed quality of mind for social scientists, Richard Rorty (1999: 87) emphasized that imagination is ‘the source both of new scientific pictures of the physical universe and new conceptions of possible communities’."
+  }, {
+    "type" : "paragraph",
+    "id" : 79,
+    "page number" : 3,
+    "bounding box" : [ 51.021, 103.672, 388.394, 226.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "We wholeheartedly agree with Stetsenko (2020: 728), who stresses that an essential part of inquiry ‘includes elaborating our sought-after futures and endpoints through debates and deliberations grounded in not only critique, but also in political imagination that is part and parcel of the hard work of transforming the status quo in realizing the future, and thus, ourselves and the world’. Thus, in studying digitalization in higher education, we need to release teachers’ imaginations and invent new social imaginaries of digitalization in higher education with them. We need to switch from ‘what is’ to ‘what is not yet’, but what could be. In this way, imagination allows teachers ‘to see and perform testing actions on the untested feasibility’ and activate their creative power (Dubin and Prins 2011: 37; Freire 2005)."
+  }, {
+    "type" : "list",
+    "id" : 81,
+    "level" : "2",
+    "page number" : 3,
+    "bounding box" : [ 51.024, 56.112, 318.975, 68.929 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 91,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 51.024, 56.112, 318.975, 68.929 ],
+      "font" : "STIX-Regular",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 See https://www.tandfonline.com/toc/cjem20/45/1. Accessed 27 September 2021.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 83,
+    "page number" : 4,
+    "bounding box" : [ 50.42, 624.392, 388.66, 631.6 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 27,
+      "page number" : 4,
+      "bounding box" : [ 50.42, 624.392, 388.66, 631.6 ],
+      "heading level" : 5,
+      "font" : "MyriadProUnicSemiCondensed",
+      "font size" : 8.0,
+      "text color" : "[0.0]",
+      "content" : "Postdigital Science and Education (2022) 4:224–236 227"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 85,
+    "page number" : 4,
+    "bounding box" : [ 51.019, 475.672, 388.39, 610.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In unleashing teachers’ imagination, we invite them to participate in future workshops to consider possible future scenarios concerning their work; that is, ‘to construct, in the imagination, a model or blueprint of the task to be performed, prior to its performance’ (Ingold 1983: 2).2 We also ask them to write short stories and imagine digitalized futures in higher education. Future workshops (Jungk and Müllert 1987) and the method of empathy-based stories (see Wallin et al. 2019; Särkelä and Suoranta 2020) are among the methods we believe can bring into fore unexpected insights that spark imagination (Wallin et al. 2019). These empirical methods can open eyes to ‘the real possibilities we have in this world, but which can only be foreseen by the power of imagination and be carried into effect through action’ (Eskola 1988: 256–261)."
+  }, {
+    "type" : "heading",
+    "id" : 86,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 51.024, 441.782, 265.015, 455.411 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "To Run in The Right Direction (Petar Jandrić)"
+  }, {
+    "type" : "paragraph",
+    "id" : 87,
+    "page number" : 4,
+    "bounding box" : [ 51.024, 283.672, 388.383, 430.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Knowledge development is always situational. After she married the wealthy merchant William and was expected to hold frequent dinner parties, Josephine Cochran wowed: ‘If nobody else is going to invent a [mechanical] dishwashing machine, I’ll do it myself.’ (in Goodrich 2020) The Second World War and later the Cold War were the main reasons for abundant funding of nuclear research, resulting in many technologies which are now in everyday use. Today, the Covid-19 pandemic is responsible for significant growth in many research fields from medicine to law. Directly affecting billions of learners, and indirectly affecting many more people in their communities, the switch to ‘emergency remote learning’ (Hodges et al. 2020) has been one of the most ubiquitous disturbances in our pre-pandemic ways of life. It is therefore hardly a surprise that education researchers are now at the forefront of developing theories and practices suitable for a ‘new normal’."
+  }, {
+    "type" : "paragraph",
+    "id" : 88,
+    "page number" : 4,
+    "bounding box" : [ 51.024, 211.672, 388.353, 286.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "These research efforts take up various forms and shapes. Within our neoliberal system of research support and funding, however, this abundance of new ideas gets increasingly channelled into few common research strands. One popular strand is the expert advice aimed at helping teachers and learners to cope with pandemic conditions (see Rapanta et al. 2020, 2021). Another popular strand is an inquiry into ways in which teachers and learners have coped with pandemic lockdowns (Jandrić et al."
+  }, {
+    "type" : "list",
+    "id" : 89,
+    "level" : "2",
+    "page number" : 4,
+    "bounding box" : [ 51.024, 139.672, 388.392, 214.762 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 64,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 51.024, 139.672, 388.392, 214.762 ],
+      "font" : "STIX-Regular",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 1.0]",
+      "content" : "2021). And yet another popular strand is the development of new EdTech solutions, resulting in the development of new sellers’ markets (Teräs et al. 2020). Conducted with similar vigour within the academia and in EdTech corporate research centres, all these strands share a common focus on educational futures. In our uncertain and precarious pandemic moment, such research focus is hardly a surprise. Yet the central question is, how are we going to shape and use these insights?",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 91,
+    "level" : "2",
+    "page number" : 4,
+    "bounding box" : [ 51.024, 84.616, 388.336, 106.929 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 81,
+    "next list id" : 122,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 51.024, 84.616, 388.336, 106.929 ],
+      "font" : "STIX-Regular",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "2 The research project Speculative social science fiction of digitalization in higher education: Towards a theory and practice of humanized digital future (2021–2025) is funded by the Academy of Finland",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 92,
+    "level" : "3",
+    "page number" : 4,
+    "bounding box" : [ 51.024, 56.128, 388.383, 87.192 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "(343226). The project explores higher education teachers’ perspectives and trajectories and fosters awareness of their reflective pedagogical experiences and practical creativity in their future digitalized practices."
+  }, {
+    "type" : "footer",
+    "id" : 93,
+    "page number" : 4,
+    "bounding box" : [ 347.754, 26.244, 388.659, 42.234 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 20,
+      "page number" : 4,
+      "bounding box" : [ 347.754, 26.244, 388.659, 42.234 ],
+      "heading level" : 1,
+      "font" : "Springnew-Regular3",
+      "font size" : 15.0,
+      "text color" : "[0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 94,
+    "page number" : 5,
+    "bounding box" : [ 51.01, 624.392, 388.552, 631.6 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 28,
+      "page number" : 5,
+      "bounding box" : [ 51.01, 624.392, 388.552, 631.6 ],
+      "heading level" : 5,
+      "font" : "MyriadProUnicSemiCondensed",
+      "font size" : 8.0,
+      "text color" : "[0.0]",
+      "content" : "228 Postdigital Science and Education (2022) 4:224–236"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 96,
+    "page number" : 5,
+    "bounding box" : [ 51.022, 439.672, 388.402, 610.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In our post-truth world, the question of proper usage of our research insights is far from trivial. A typical case in point is the anti-vaccination movement, which often supports its ridiculous conclusions by perfectly sound research (MacKenzie et al. 2021). However, the question of shaping research gets often neglected, and yet it is important because educational research is never neutral. For instance, when Peter Thiel speaks of looking at ‘what’s going on fundamentally with institutions, with our society and then look for ways to make them better, he refers to education as a billion-dollar industry, and his ideas about improving education are primarily driven by his own profits (Davis et al. 2011). When critical pedagogues talk about improving education, their ideas can almost always be summed up in demands for more public expenditure. To avoid such self-fulfilling prophecies, shows David Kupferman (2021), ‘[w]e need to dream up what comes next and let our imaginations run wild, so that we begin to anticipate the various potentials of postdigital educational futures, rather than backing into them and hoping that we get it right’."
+  }, {
+    "type" : "paragraph",
+    "id" : 97,
+    "page number" : 5,
+    "bounding box" : [ 51.022, 331.672, 388.372, 442.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Running wild is important yet far from enough. We can run wild in different directions, and our initial choice of direction will strongly influence the results of our research. With this in mind, I believe that our research in speculative social science fiction of digitalization in higher education should be unapologetically built on a normative framework focused on emancipation, social justice, and other important messages championed by the critical pedagogy movement. It is only through a combination of proper research shaping and proper research usage, that our speculative social science fiction can contribute to the development of a ‘new normal’ in which education will fulfil its mission to make the world a better place."
+  }, {
+    "type" : "heading",
+    "id" : 98,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 51.024, 297.782, 265.796, 311.411 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "And to Fail as We Run (Felicitas Macgilchrist)"
+  }, {
+    "type" : "paragraph",
+    "id" : 99,
+    "page number" : 5,
+    "bounding box" : [ 51.024, 175.672, 388.389, 286.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "How does failure figure in imaginations of digital futures, as higher education is trying to make the world a better place? The affirmative enthusiasm of the EdTech industry orients primarily to ‘success’: digital technology will—in this view—help students to reach their potential, enable instructors to support, motivate and teach successfully, and facilitate institutions to lead their faculty, staff, and students into a successful future. Similarly, models and frameworks for twenty-first-century skills, four-dimensional education, or future skills aim to help us to become thriving, fulfilled, successful humans. The future in these scenarios looks bright; these tools and practices will help the future generation of students to be successful adults."
+  }, {
+    "type" : "paragraph",
+    "id" : 100,
+    "page number" : 5,
+    "bounding box" : [ 51.024, 79.672, 388.363, 178.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "But what counts as ‘success,’ and for whom? Whose priorities are being imagined? A social science fiction methodology, as outlined above, with future workshops and empathy-based storytelling, invites higher education teachers to imagine alternative futures for digital higher education. But will these also be oriented to success? Or might they, in line with postdigital thinking, drag ‘digitalisation and the digital—kicking and screaming—down from its discursive celestial, ethereal home and into the mud’ (Ryberg in Jandrić et al. 2019: 166)? Will they include versions of what Jack Halberstam (2011) has called the ‘queer art of failure’?"
+  }, {
+    "type" : "paragraph",
+    "id" : 101,
+    "page number" : 5,
+    "bounding box" : [ 51.024, 55.672, 388.374, 82.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In one sense, this refers to the ‘failure to be normal’ (Muñoz 2019: 172), i.e., to live and think and teach and learn without dominant norms and normativity. Refer-"
+  }, {
+    "type" : "header",
+    "id" : 103,
+    "page number" : 6,
+    "bounding box" : [ 50.42, 624.392, 388.66, 631.6 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 29,
+      "page number" : 6,
+      "bounding box" : [ 50.42, 624.392, 388.66, 631.6 ],
+      "heading level" : 5,
+      "font" : "MyriadProUnicSemiCondensed",
+      "font size" : 8.0,
+      "text color" : "[0.0]",
+      "content" : "Postdigital Science and Education (2022) 4:224–236 229"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 105,
+    "page number" : 6,
+    "bounding box" : [ 51.024, 523.672, 388.374, 610.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ring to speculative utopian thinking, Muñoz (2019: 173) emphasizes that utopia ‘can never be prescriptive and is always destined to fail’. Precisely therein lies its potential. Failure is also about failing to participate in systems of values that prioritize achievement, success, and thereby conformity. This includes the failure to domesticate difference into normed and smoothed forms of inclusive education (Mitchell et al. 2014). The utopian potential of failure lies in its potential as ‘a mode of resistance, intervention, speculation and queer world making’ (Takemoto 2016: 86)."
+  }, {
+    "type" : "paragraph",
+    "id" : 106,
+    "page number" : 6,
+    "bounding box" : [ 51.024, 427.672, 388.373, 526.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This is, however, no simplistic celebration of failure. As scholars and practitioners attend to failure as a mode of imagining other ways of being, we need to ‘acknowledge the pleasures of failure—embodied in choices to stand apart from social norms of gender, sexuality, reprocentricity, and romantic affiliation—and the distress of failures embodied in lives gone haywire, symptoms run rampant, personal lives devolving into uninhabitable havoc’ (Johnson 2015: 264). Failure as the ‘refusal of legibility’ within majority normativity is also a ‘bleak territory’ of loss, of ‘unbeing and unbecoming’ (Halberstam 2011: 23, 88)."
+  }, {
+    "type" : "paragraph",
+    "id" : 107,
+    "page number" : 6,
+    "bounding box" : [ 51.024, 343.672, 388.394, 430.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This kind of failure, it should be clear, is not about ‘learning from mistakes’. An oft-voiced imperative in educational and EdTech spaces, learning from mistakes also orients to success. We experiment, test, try out, stumble, make mistakes, fall. Then — in this metaphor — we pick ourselves up, dust ourselves off, reflect on our mistakes, and move onwards to success. The queer art of failure is instead about the struggle for other futures; about critically assessing the politics and positionality of achievement; about exploring how failure is both bleak and hopeful."
+  }, {
+    "type" : "paragraph",
+    "id" : 108,
+    "page number" : 6,
+    "bounding box" : [ 51.024, 307.672, 388.347, 346.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In all, I wonder if (and if so, how) a social science fiction methodology can interrupt ‘success’ as a guiding frame for many higher education scholars, practitioners, and activists in the twenty-first century."
+  }, {
+    "type" : "heading",
+    "id" : 109,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 51.024, 273.782, 376.444, 287.411 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Reflect on Past Practice to Imagine Creative Futures (Susan Ledger)"
+  }, {
+    "type" : "paragraph",
+    "id" : 110,
+    "page number" : 6,
+    "bounding box" : [ 51.024, 139.672, 388.373, 262.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Educators’ creativity and imaginaries are often constrained by policies, assessment schedules, and context-based forced practices. Daily decisions on teaching and learning are often limited by the knowledge of, and confidence with new technologies, a willingness to be creative, or the ability to apply learning to real-life contexts. However, educators remain the experts in teaching and learning and should be more involved in evaluating and shaping the digitalization of schooling and higher education. Rather than being driven by EdTech profit-making businesses and emerging technological tools, educators should assert themselves by exploring the impact of EdTech on the teaching and learning process (Ledger 2020; Mishra and Koehler 2006)."
+  }, {
+    "type" : "paragraph",
+    "id" : 111,
+    "page number" : 6,
+    "bounding box" : [ 51.024, 91.672, 388.382, 142.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Those responsible for shaping teaching and learning are at the ‘chalkface’ of technological adoption and change and should not adopt technology simply because it is available. Technology needs to be suitable. Pedagogical scrutiny is required within this ever-changing learning environment. The affordances of new and emerg-"
+  }, {
+    "type" : "footer",
+    "id" : 112,
+    "page number" : 6,
+    "bounding box" : [ 347.754, 26.244, 388.659, 42.234 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 21,
+      "page number" : 6,
+      "bounding box" : [ 347.754, 26.244, 388.659, 42.234 ],
+      "heading level" : 1,
+      "font" : "Springnew-Regular3",
+      "font size" : 15.0,
+      "text color" : "[0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 113,
+    "page number" : 7,
+    "bounding box" : [ 51.01, 624.392, 388.552, 631.6 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 30,
+      "page number" : 7,
+      "bounding box" : [ 51.01, 624.392, 388.552, 631.6 ],
+      "heading level" : 5,
+      "font" : "MyriadProUnicSemiCondensed",
+      "font size" : 8.0,
+      "text color" : "[0.0]",
+      "content" : "230 Postdigital Science and Education (2022) 4:224–236"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 115,
+    "page number" : 7,
+    "bounding box" : [ 51.024, 547.672, 388.38, 610.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ing technologies require critique by teachers’. Critical reflection and collaborative efforts are necessary to assess the overall purpose and usability of ever-evolving digital technologies. Southgate (2020: 7) call for ongoing scrutiny to ensure that ‘technology is used for the benefit of students, educators, communities, and society more broadly’."
+  }, {
+    "type" : "paragraph",
+    "id" : 116,
+    "page number" : 7,
+    "bounding box" : [ 51.024, 439.672, 388.39, 550.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Teachers’ professional identities and teaching practices draw on reflective pedagogies (Dewey 1933; Schön 1983; Zeichner 1994; Sellars 2012), diagnostic approaches (Reynolds and Fletcher-Janzen 2007), and cultures of learning through ’sayings, doings and relatings’ (Kemmis et al. 2014). These foundational beliefs have been challenged by international organizations such as OECD. Among its many initiatives on digitalization, project Learning Compass 20303 demands a new type of educator (and worker), ‘one that is self-initiated and collaborative; responsive and reactive’ and ‘able to interface with technology and communicate and is capable of creating new social identities’ (Bahr and Mellor 2016: iv)."
+  }, {
+    "type" : "paragraph",
+    "id" : 117,
+    "page number" : 7,
+    "bounding box" : [ 51.027, 247.672, 388.385, 442.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "’The best way to predict the future is to create it.’ ~ Peter Drucker. Creative options in education require educators to be activists and active change agents. We can draw from the past and use new technologies to design learning activities that prepare students for digital futures. An excellent example of this is combining traditional micro-teaching practices (Allen and Eve 1968) with mixed reality learning environments reimagined as micro-teaching 2.0 (Ledger and Fischetti 2020). This initiative uses technology as a tool to link theory to practice. Technology offers learning environments that can be modified to address both the art (evocative) and science (didactic) of teaching in higher education. Technology offers opportunity for teachers to go outside the lifeworld of everyday teaching and learning and into creative, virtual and mixed reality worlds. Yet, it requires educators to maintain and develop their critical skills to become educational activists and essential agents of change. To help create and design the future of teaching and learning, educators can draw from their theoretical and practical experiences to evaluate their need to use digital technologies. In this way, they will be able to design learning activities that prepare students to become creative and critical future-makers."
+  }, {
+    "type" : "heading",
+    "id" : 118,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 51.024, 201.781, 383.021, 227.411 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "’Who Owns the Future?’ Imagining Imagining from The Global South (Paul Prinsloo)"
+  }, {
+    "type" : "paragraph",
+    "id" : 119,
+    "page number" : 7,
+    "bounding box" : [ 51.024, 115.672, 388.374, 190.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "It is always good to start with a confession rather than a declaration and manifestos. The later will/may come later. To confess, whether under duress or by your own free will (if there is such a ‘will’), depends on the audience, considering the repercussions, considering what to share (and at what cost/benefit), and what to (rather) leave out (at what cost/benefit). This sounds like a confession about making a confession. But anyway, I digress."
+  }, {
+    "type" : "paragraph",
+    "id" : 120,
+    "page number" : 7,
+    "bounding box" : [ 51.024, 91.672, 388.404, 118.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "I stole the first part of the title from a book by Jaron Lanier (2013). While it is a good, if not profound question, before we can consider/speculate about owning the"
+  }, {
+    "type" : "list",
+    "id" : 122,
+    "level" : "2",
+    "page number" : 7,
+    "bounding box" : [ 51.024, 56.112, 316.751, 68.929 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 91,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 51.024, 56.112, 316.751, 68.929 ],
+      "font" : "STIX-Regular",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "3 See https://www.oecd.org/education/2030-project. Accessed 27 September 2021.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 124,
+    "page number" : 8,
+    "bounding box" : [ 50.42, 624.392, 388.66, 631.6 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 31,
+      "page number" : 8,
+      "bounding box" : [ 50.42, 624.392, 388.66, 631.6 ],
+      "heading level" : 5,
+      "font" : "MyriadProUnicSemiCondensed",
+      "font size" : 8.0,
+      "text color" : "[0.0]",
+      "content" : "Postdigital Science and Education (2022) 4:224–236 231"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 126,
+    "page number" : 8,
+    "bounding box" : [ 51.024, 583.672, 388.402, 610.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "future, it may be good to (rather) consider, who is allowed to, or claims the right to imagine or speculate about the future?"
+  }, {
+    "type" : "paragraph",
+    "id" : 127,
+    "page number" : 8,
+    "bounding box" : [ 51.014, 379.672, 388.385, 586.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "It reminds us of the words of Jean-Paul Sartre ‘Who dares to speak thus?’ (in the Preface to Fanon 2001: 8). The question asking who is laying claim to imagine the future, is, rather ironically, the inverse of the question, who has a right to define the past, the archive? (Derrida 1996 in Jacobsen and Beer 2021: 25) mooted that ‘there is no political power without control of the archive, if not of memory’. We therefore must consider also that there may be no political power without controlling what is imagined about the future. The archons not only record, maintain, and guard the archive, but also claim the hermeneutic right, competence, and ‘the power to interpret the archives’ (Derrida 1996 in Jacobsen and Beer 2021: 26). Likewise, those who claim the right to imagine the future, become not only the guardians of a particular imaginary but also distributors of a particular sensibility (Rancière 2010) of how the future may and should be understood. The right to define and imagine a particular world order is highly contested and as such, the ‘partition of the sensible’ is foundational in determining and enforcing who may participate and on what basis. Partitioning the sensible makes visible and hides, makes audible, and silences defines access and exclude, and is therefore ’a highly political act’ (Jacobsen and Beer 2021)."
+  }, {
+    "type" : "paragraph",
+    "id" : 128,
+    "page number" : 8,
+    "bounding box" : [ 51.014, 187.672, 388.364, 382.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The sensibility-as-future-to-be resembles the notion of the social imaginary (Castoriadis 1987; Taylor 2002) as ‘organising mechanism’ to create public support and allocation of resources to realise such sensibility or imaginary. As such, imaginaries or ’organising visions’, ’technovisions’, ’technotales’, and a ’technomythscape’ (Dourish and Bell 2011: 1-2) resemble stories that are told about the future, ‘how the future will be achieved and realised …[but] exclude alternative visions and narratives’ about the future’ (Prinsloo 2020: 373). It is crucial to note that the partioning of the sensible also functions as generative matrices (Gaonkar 2002), ‘organising visions’, ‘technovisions’, ‘technotales’, and a ‘technomythscape’ (Dourish and Bell 2011: 1-2). Employed by national governments, these imaginaries function as ‘statecraft’ (Bebbington and McCourt 2007; Bulpitt 1986), and as there is evidence of how the techno-imaginations of supra-national organisations and alliances (e.g., UNESCO, the World Bank, the World Economic Forum), increasingly inform, and increasingly dictate national policy (McGinn 1994). We can therefore claim that these imaginaries are much more than ‘statecraft’ but actually ‘futurecraft’."
+  }, {
+    "type" : "paragraph",
+    "id" : 129,
+    "page number" : 8,
+    "bounding box" : [ 51.014, 67.672, 388.382, 190.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "So, let us talk about imagining (technological futures). What would be the imaginings of ‘the wretched of the earth’ with their backs against the wall ready to ‘let loose at last that new violence which is raised up in [them] by old, oft-repeated crimes’ (Sartre in Fanon 2001: 26)? What are the imaginings of the ‘collateral casualties of progress’ (Bauman 2004: 29), the millions of the permanently homeless, refugees, and migrants, the outcasts of modernity? ‘The scholarly histories of technology and the digital are almost all intertwined with Western history, its theories, systems of knowledge production and its subsequent transfer’ (Bristow 2017: 281), which makes it very difficult to consider and/or imagine alternative, for example, African imaginings regarding a (technological) future."
+  }, {
+    "type" : "footer",
+    "id" : 130,
+    "page number" : 8,
+    "bounding box" : [ 347.754, 26.244, 388.659, 42.234 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 22,
+      "page number" : 8,
+      "bounding box" : [ 347.754, 26.244, 388.659, 42.234 ],
+      "heading level" : 1,
+      "font" : "Springnew-Regular3",
+      "font size" : 15.0,
+      "text color" : "[0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 131,
+    "page number" : 9,
+    "bounding box" : [ 51.01, 624.392, 388.552, 631.6 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 32,
+      "page number" : 9,
+      "bounding box" : [ 51.01, 624.392, 388.552, 631.6 ],
+      "heading level" : 5,
+      "font" : "MyriadProUnicSemiCondensed",
+      "font size" : 8.0,
+      "text color" : "[0.0]",
+      "content" : "232 Postdigital Science and Education (2022) 4:224–236"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 133,
+    "page number" : 9,
+    "bounding box" : [ 51.022, 499.672, 388.372, 610.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Imagining technological futures from a positionality shaped by the African continent is difficult for two reasons. Firstly, as Bristow (2017) indicates, all imaginings about a technological future have already been colonized and the cost of being connected to technological futures imagined by others are paid in subscribing to the narratives of surveillance capitalism and data colonialization (Couldry and Mejias 2019). Secondly, it is very difficult to imagine alternative technological futures from African perspectives due to the reality that ‘scholarship on Africa did not adequately contain the subject of technology in Africa, and it was even rarer to find content in this field written from an African perspective’ (Bristow 2017: 283)."
+  }, {
+    "type" : "paragraph",
+    "id" : 134,
+    "page number" : 9,
+    "bounding box" : [ 51.022, 427.672, 388.347, 502.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Evidence suggests that imaginations about Africa, and the Global South, in the Fourth Industrial Revolution are shaped by neoliberal and venture capitalists that dream and call forth particular African futures. There is therefore a need to decolonise these so-called futures and Bristow (2017) proposes talking about post African futures accounting for how current technological imaginations deepen structural inequalities while there is a need for imaginations of repair."
+  }, {
+    "type" : "paragraph",
+    "id" : 135,
+    "page number" : 9,
+    "bounding box" : [ 51.022, 367.672, 388.373, 430.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Can we therefore dare to imagine differently? Can we be courageous enough to lay claim to a particular sensibility (Rancière 2010) that focuses on repair, on a structural re-arrangement allowing the ‘wretched of the earth’ and the ‘collateral casualties of progress’ to be human, and become human? In conclusion, another confession. There is no declaration, no manifesto. There is only imagining differently."
+  }, {
+    "type" : "heading",
+    "id" : 136,
+    "level" : "Subtitle",
+    "page number" : 9,
+    "bounding box" : [ 51.024, 333.782, 312.92, 347.411 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Conclusion (Juha Suoranta, Marko Teräs, Hanna Teräs)"
+  }, {
+    "type" : "paragraph",
+    "id" : 137,
+    "page number" : 9,
+    "bounding box" : [ 51.024, 199.672, 388.374, 322.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "We started this commentary by describing the recursive and all-encompassing narrative stating that ‘digitalization is shaping roles and practices in higher education’. With EdTech disruption speech, the main narrative of the current digitalization of higher education appears to describe the future and what is to be done to materialize it, usually with the help of technological development. In reality, the disruption speech manages to define only a future, and with enough repetition, it may end up being the hegemonic viewpoint, excluding different voices and constructing the future. Better yet, even when multiple voices are ‘engaged in development,’ they are usually forced to fit in the predetermined discourse, making it difficult to imagine other types of futures."
+  }, {
+    "type" : "paragraph",
+    "id" : 138,
+    "page number" : 9,
+    "bounding box" : [ 51.024, 55.672, 388.395, 202.762 ],
+    "font" : "STIX-Regular",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "However, to avoid the apparent trap of predetermined and/or already colonized discourse, we need possibilities to imagine alternative and sustainable futures that ‘foster a critical imagination that is truly global and cosmopolitan in reach, and lives with doubt in the service of understanding’ (Back 2016: 131). In other words, we must study the options that change the normative parameters of current neoliberal discourse and the myth of technological solutions. Thus, the urgent task of speculative social science fiction methodology is to locate digitalization as part of the historical specificity of today’s HE policy trends. It is also to provide HE teachers and practitioners possibilities to imagine emancipatory and queer futures and create practical visions of hope. Besides, in the spirit of critical pedagogy, answer fundamental questions on the role of higher education in the face of planetary crises."
+  }, {
+    "type" : "header",
+    "id" : 140,
+    "page number" : 10,
+    "bounding box" : [ 50.42, 624.392, 388.66, 631.6 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 33,
+      "page number" : 10,
+      "bounding box" : [ 50.42, 624.392, 388.66, 631.6 ],
+      "heading level" : 5,
+      "font" : "MyriadProUnicSemiCondensed",
+      "font size" : 8.0,
+      "text color" : "[0.0]",
+      "content" : "Postdigital Science and Education (2022) 4:224–236 233"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 142,
+    "page number" : 10,
+    "bounding box" : [ 51.024, 598.144, 284.478, 610.216 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Funding Open Access funding enabled and organized by Projekt DEAL."
+  }, {
+    "type" : "paragraph",
+    "id" : 143,
+    "page number" : 10,
+    "bounding box" : [ 51.024, 502.672, 388.389, 590.712 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/ licenses/by/4.0/."
+  }, {
+    "type" : "heading",
+    "id" : 144,
+    "level" : "Subtitle",
+    "page number" : 10,
+    "bounding box" : [ 51.024, 466.782, 104.572, 480.411 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "References"
+  }, {
+    "type" : "paragraph",
+    "id" : 145,
+    "page number" : 10,
+    "bounding box" : [ 51.024, 424.952, 388.375, 456.016 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Allen, D. W., & Eve, A. W. (1968). Microteaching. Theory into Practice, 7(5), 181–185. https://doi.org/ 10.1080/004058468095421. Appadurai, A. (2000). Grassroots Globalization and the Research Imagination. Public Culture, 1(12),"
+  }, {
+    "type" : "paragraph",
+    "id" : 146,
+    "page number" : 10,
+    "bounding box" : [ 51.024, 396.464, 388.343, 427.528 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "1–19. https://doi.org/10.1215/08992363-12-1-1. Back, L. (2016). Academic Diary. London: Goldsmiths Press. Bahr, N., & Mellor, S. (2016). Building quality in teaching and teacher education. Melbourne: Australian"
+  }, {
+    "type" : "paragraph",
+    "id" : 147,
+    "page number" : 10,
+    "bounding box" : [ 51.024, 367.976, 388.309, 399.04 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Council for Educational Research. Bauman, Z. (2004). Wasted lives. Modernity and its outcasts. Cambridge, UK: Polity Press. Bebbington. A., & McCourt, W. (2007). Development success. Statecraft in the South. New York, NY:"
+  }, {
+    "type" : "paragraph",
+    "id" : 148,
+    "page number" : 10,
+    "bounding box" : [ 51.024, 339.488, 388.367, 370.552 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Palgrave MacMillan. Bloch, E. (1995). The Principle of Hope. Cambridge, MA: The MIT Press. Bristow, T. (2017). Post African futures: positioning the globalized digital within contemporary African"
+  }, {
+    "type" : "paragraph",
+    "id" : 149,
+    "page number" : 10,
+    "bounding box" : [ 68.032, 320.496, 388.344, 342.064 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "cultural and decolonizing practices. Critical African Studies, 9(3), 281-301. https://doi.org/10.1080/ 21681392.2017.1371619."
+  }, {
+    "type" : "paragraph",
+    "id" : 150,
+    "page number" : 10,
+    "bounding box" : [ 51.024, 292.008, 388.346, 323.072 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Broughan, C., & Prinsloo, P. (2019). (Re)centring students in learning analytics: in conversation with Paulo Freire. Assessment & Evaluation in Higher Education, 45(4), 617-628. https://doi.org/10. 1080/02602938.2019.1679716."
+  }, {
+    "type" : "paragraph",
+    "id" : 151,
+    "page number" : 10,
+    "bounding box" : [ 51.024, 282.512, 388.344, 294.584 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Bulpitt, J. (1986). The Discipline of the New Democracy: Mrs Thatcher’s Domestic Statecraft. Political"
+  }, {
+    "type" : "paragraph",
+    "id" : 152,
+    "page number" : 10,
+    "bounding box" : [ 51.024, 244.528, 388.351, 285.088 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Studies, 34(1), 19–39. https://doi.org/10.1111/j.1467-9248.1986.tb01870.x. Castoriadis, C. (1987). The Imaginary Institution of Society. Cambridge: Polity Press. Clough, P. (2002). Narratives and Fictions in Educational Research. Maidenhead: Open University Press. Couldry, N., & Mejias, U. A. (2019). The costs of connection. How data is colonising human life and"
+  }, {
+    "type" : "paragraph",
+    "id" : 153,
+    "page number" : 10,
+    "bounding box" : [ 68.032, 235.032, 299.966, 247.104 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "appropriating it for capitalism. Stanford, CA: Stanford University Press."
+  }, {
+    "type" : "paragraph",
+    "id" : 154,
+    "page number" : 10,
+    "bounding box" : [ 51.024, 197.048, 388.552, 237.608 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Davis, L., Arons, M., & Whitman, J. (2011). PayPal Founder and Facebook Backer Peter Thiel on The Next Big Thing, and Why He Thinks College Isn’t Worth It. ABC News, 27 May. https://abcnews. go.com/Business/peter-thiel-paypal-founder-facebook-backer-technology-key/story?id=13702907. Accessed 20 July 2021."
+  }, {
+    "type" : "paragraph",
+    "id" : 155,
+    "page number" : 10,
+    "bounding box" : [ 51.024, 159.064, 388.328, 199.624 ],
+    "font" : "STIX-Italic",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Dewey, J. (1933). How we think: A restatement of the relation of reflective thinking to the educative process. Boston, MA: DC Heath & Co. Dourish, P., & Bell, G. (2011). Divining a digital future: Mess and mythology in ubiquitous computing. London, UK: MIT Press."
+  }, {
+    "type" : "paragraph",
+    "id" : 156,
+    "page number" : 10,
+    "bounding box" : [ 51.024, 130.576, 388.347, 161.64 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Dubin, E., & Prins, E. (2011). Blueprinting a Freirean Pedagogy of Imagination: Hope, untested feasibility, and the dialogic person. Journal of Adult and Continuing Education, 17(1), 23–39. https://doi.org/10.7227/2FJACE.17.1.4."
+  }, {
+    "type" : "paragraph",
+    "id" : 157,
+    "page number" : 10,
+    "bounding box" : [ 51.024, 83.096, 388.379, 133.152 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Eskola, A. (1984). Uhka, toivo ja vastarinta [‘Risk, hope and resistance’]. Helsinki: Kirjayhtymä. Eskola, A. (1988). Blind Alleys in Social Psychology: A search for ways out. Amsterdam: North-Holland. Facer, K. (2011). Learning Futures. London: Routledge. Fanon, F. (2001). The wretched of the earth. London: Penguin. Fleming, P. (2021). Dead Teacher Working. Edtech and the Neoliberal University. Pluto Press Blog."
+  }, {
+    "type" : "paragraph",
+    "id" : 158,
+    "page number" : 10,
+    "bounding box" : [ 68.032, 73.6, 348.983, 85.672 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 1.0]",
+    "content" : "https://www.plutobooks.com/blog/dead-teacher-working. Accessed 24 September 2021."
+  }, {
+    "type" : "footer",
+    "id" : 159,
+    "page number" : 10,
+    "bounding box" : [ 347.754, 26.244, 388.659, 42.234 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 23,
+      "page number" : 10,
+      "bounding box" : [ 347.754, 26.244, 388.659, 42.234 ],
+      "heading level" : 1,
+      "font" : "Springnew-Regular3",
+      "font size" : 15.0,
+      "text color" : "[0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 160,
+    "page number" : 11,
+    "bounding box" : [ 51.01, 624.392, 388.552, 631.6 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 34,
+      "page number" : 11,
+      "bounding box" : [ 51.01, 624.392, 388.552, 631.6 ],
+      "heading level" : 5,
+      "font" : "MyriadProUnicSemiCondensed",
+      "font size" : 8.0,
+      "text color" : "[0.0]",
+      "content" : "234 Postdigital Science and Education (2022) 4:224–236"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 162,
+    "page number" : 11,
+    "bounding box" : [ 51.024, 598.141, 388.302, 610.213 ],
+    "font" : "STIX-Italic",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Freire, P. (2005). Teachers as Cultural Workers: Letters to those who dare teach. Boulder, CO: Westview"
+  }, {
+    "type" : "paragraph",
+    "id" : 163,
+    "page number" : 11,
+    "bounding box" : [ 51.024, 550.661, 388.32, 600.717 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Press. Freire, P. (2018). Pedagogy of the Oppressed. New York: Bloomsbury. Fromm, E. (1968). Revolution of hope: Toward a humanized technology. New York: Harper and Row. Gaonkar, D. P. (2002). Toward new imaginaries: An introduction. Public Culture, 14(1), 1–19. Gerlach, N., & Hamilton, S. N. (2003). A History of Social Science Fiction. Science Fiction Studies,"
+  }, {
+    "type" : "paragraph",
+    "id" : 164,
+    "page number" : 11,
+    "bounding box" : [ 68.032, 541.165, 119.36, 553.237 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "30(2), 161–173."
+  }, {
+    "type" : "paragraph",
+    "id" : 165,
+    "page number" : 11,
+    "bounding box" : [ 51.024, 503.181, 388.352, 543.741 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Goodrich, J. (2020). This Socialite Hated Washing Dishes So Much That She Invented the Automated Dishwasher. IEEE Spectrum, 6 October. https://spectrum.ieee.org/the-institute/ieee-history/thissocialite-hated-washing-dishes-so-much-that-she-invented-the-automated-dishwasher. Accessed 20 July 2021."
+  }, {
+    "type" : "paragraph",
+    "id" : 166,
+    "page number" : 11,
+    "bounding box" : [ 51.024, 474.693, 388.375, 505.757 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Graeber, D. (2007). Possibilities. Essays on Hierarchy, Rebellion, and Desire. Oakland, CA: AK Press. Halberstam, J. (2011). The Queer Art of Failure. Durham, NC: Duke University Press. Hayes, S., & Jandrić, P. (2014). Who is Really in Charge of Contemporary Education? People and"
+  }, {
+    "type" : "paragraph",
+    "id" : 167,
+    "page number" : 11,
+    "bounding box" : [ 68.032, 455.701, 388.335, 477.269 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "technologies in, against and beyond the neoliberal university. Open Review of Educational Research, 1(1), 193–210. https://doi.org/10.1080/23265507.2014.989899."
+  }, {
+    "type" : "paragraph",
+    "id" : 168,
+    "page number" : 11,
+    "bounding box" : [ 51.024, 427.213, 388.383, 458.277 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Hodges, C., Moore, S., Lockee, B., Trust, T., & Bond, A. (2020). The difference between emergency remote teaching and online learning. Educause Review, 27 March. https://er.educause.edu/articles/2020/3/thedifference-between-emergency-remote-teaching-and-online-learning. Accessed 10 June 2021."
+  }, {
+    "type" : "paragraph",
+    "id" : 169,
+    "page number" : 11,
+    "bounding box" : [ 51.024, 389.229, 388.383, 429.789 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Ingold, T. (1983). The Architect and the Bee: Reflections on the Work of Animals and Men. Man, 18(1), 1–20. https://doi.org/10.2307/2801762. Jacobsen, B., & Beer, D. (2021). Social media and the automatic production of memory. Classification, ranking and the sorting of the past. Bristol, UK: Bristol University Press."
+  }, {
+    "type" : "paragraph",
+    "id" : 170,
+    "page number" : 11,
+    "bounding box" : [ 51.024, 341.749, 388.358, 391.805 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Jandrić, P., & McLaren, P. (2020). Postdigital cross border reflections on critical utopia. Educational Philosophy and Theory, 52(14), 1470-1482, https://doi.org/10.1080/00131857.2020.1731687. Jandrić, P., Bozkurt, A., McKee, M., & Hayes, S. (2021). Teaching in the Age of Covid-19: A Longitudinal Study. Postdigital Science and Education, 3(3), 743-770. https://doi.org/10.1007/ s42438-021-00252-6."
+  }, {
+    "type" : "paragraph",
+    "id" : 171,
+    "page number" : 11,
+    "bounding box" : [ 51.024, 303.765, 388.383, 344.325 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Jandrić, P., Ryberg, T., Knox, J., Lacković, N., Hayes, S., Suoranta, J., Smith, M., Steketee, A., Peters, M., McLaren, P., Ford, D. R., Asher, G., McGregor, C., Stewart, G., Williamson, B., & Gibbons, A. (2019). Postdigital Dialogue. Postdigital Science and Education, 1(1), 163-189. https://doi.org/10. 1007/s42438-018-0011-x."
+  }, {
+    "type" : "paragraph",
+    "id" : 172,
+    "page number" : 11,
+    "bounding box" : [ 51.024, 275.277, 388.344, 306.341 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Jarke, J., & Breiter, A. (2019). Editorial: the datafication of education. Learning, Media and Technology, 44(1), 1-6. https://doi.org/10.1080/17439884.2019.1573833. Johnson, M. L. (2015). Bad Romance: A Crip Feminist Critique of Queer Failure. Hypatia, 30(1), 251-"
+  }, {
+    "type" : "paragraph",
+    "id" : 173,
+    "level" : "3",
+    "page number" : 11,
+    "bounding box" : [ 51.024, 227.797, 388.344, 277.853 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "267. https://doi.org/10.1111/hypa.12134. Jungk, R., & Müllert, N. (1987). Future workshops: How to Create Desirable Futures. London: Institute for Social Inventions. Kemmis, S., McTaggart, R., & Nixon, R. (2014). The action research planner: Doing critical participatory action research. Dordrecht: Springer."
+  }, {
+    "type" : "paragraph",
+    "id" : 174,
+    "page number" : 11,
+    "bounding box" : [ 51.024, 199.309, 388.354, 230.373 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Knox, J., Williamson, B., & Bayne, S. (2020). Machine behaviourism: future visions of ‘learnification’ and ‘datafication’ across humans and digital technologies. Learning, Media and Technology, 45(1), 31-45. https://doi.org/10.1080/17439884.2019.1623251."
+  }, {
+    "type" : "paragraph",
+    "id" : 175,
+    "page number" : 11,
+    "bounding box" : [ 51.024, 170.821, 388.328, 201.885 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Kupferman, D. W. (2021). Educational Futures and Postdigital Science. Postdigital Science and Education. https://doi.org/10.1007/s42438-021-00236-6. Lackey, C. (1994). Social Science Fiction: Writing Sociological Short Stories to Learn about Social"
+  }, {
+    "type" : "paragraph",
+    "id" : 176,
+    "page number" : 11,
+    "bounding box" : [ 51.024, 142.333, 388.335, 173.397 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Issues. Teaching Sociology, 22(2), 166–173. https://doi.org/10.2307/1318562. Lanier, J. (2013). Who owns the future? London, UK: Penguin. Ledger, S. (2020). Communities of Practice: Global and Local Principles, Policies, Practicalities and"
+  }, {
+    "type" : "paragraph",
+    "id" : 177,
+    "page number" : 11,
+    "bounding box" : [ 51.024, 113.845, 388.343, 144.909 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Participation. Australian and International Journal of Rural Education, 30(1), i-iv. Ledger, S., & Fischetti, J. (2020). Micro-teaching 2.0: Technology as the classroom. Australasian Journal of Educational Technology, 36(1), 37–54. https://doi.org/10.14742/ajet.4561."
+  }, {
+    "type" : "paragraph",
+    "id" : 178,
+    "page number" : 11,
+    "bounding box" : [ 51.024, 85.357, 388.382, 116.421 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Macgilchrist, F., Allert, H., & Bruch, A. (2020). Students and society in the 2020s. Three future ‘histories’ of education and technology. Learning, Media and Technology, 45(1), 76–89. https://doi. org/10.1080/17439884.2019.1656235."
+  }, {
+    "type" : "paragraph",
+    "id" : 179,
+    "page number" : 11,
+    "bounding box" : [ 51.024, 66.365, 388.356, 87.933 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "MacKenzie, A., Rose, J., & Bhatt, I. (Eds.). (2021). The Epistemology of Deceit in a Postdigital Era: Dupery by Design. Cham: Springer."
+  }, {
+    "type" : "header",
+    "id" : 181,
+    "page number" : 12,
+    "bounding box" : [ 50.42, 624.392, 388.66, 631.6 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 35,
+      "page number" : 12,
+      "bounding box" : [ 50.42, 624.392, 388.66, 631.6 ],
+      "heading level" : 5,
+      "font" : "MyriadProUnicSemiCondensed",
+      "font size" : 8.0,
+      "text color" : "[0.0]",
+      "content" : "Postdigital Science and Education (2022) 4:224–236 235"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 183,
+    "page number" : 12,
+    "bounding box" : [ 51.024, 579.152, 388.336, 610.216 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Manolev, J., Sullivan, A., & Slee, R. (2019). The datafication of discipline: ClassDojo, surveillance and a performative classroom culture. Learning, Media and Technology, 44(1), 36-51. https://doi.org/10. 1080/17439884.2018.1558237."
+  }, {
+    "type" : "paragraph",
+    "id" : 184,
+    "page number" : 12,
+    "bounding box" : [ 51.024, 560.16, 388.344, 581.728 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Marx, K. (1887). Capital. A Critique of Political Economy Volume I. https://www.marxists.org/archive/ marx/works/download/pdf/Capital-Volume-I.pdf. Accessed 27 September 2021."
+  }, {
+    "type" : "paragraph",
+    "id" : 185,
+    "page number" : 12,
+    "bounding box" : [ 51.024, 531.672, 388.391, 562.736 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Marx, K. (1973). Grundrisse. Foundations of the Critique of Political Economy. New York: Penguin Books & New Left Review. https://www.marxists.org/archive/marx/works/download/pdf/grundrisse.pdf. Accessed 27 September 2021."
+  }, {
+    "type" : "paragraph",
+    "id" : 186,
+    "page number" : 12,
+    "bounding box" : [ 51.024, 512.68, 388.344, 534.248 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Matthews, A. (2021). Death of the Lecture(r)? Postdigital Science and Education. https://doi.org/10. 1007/s42438-021-00239-3."
+  }, {
+    "type" : "paragraph",
+    "id" : 187,
+    "page number" : 12,
+    "bounding box" : [ 51.024, 484.192, 388.36, 515.256 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "McGinn, N. F. (1994). The impact of supranational organizations on public education. International journal of educational development, 14(3), 289-298. https://doi.org/10.1016/0738-0593(94) 90042-6."
+  }, {
+    "type" : "paragraph",
+    "id" : 188,
+    "page number" : 12,
+    "bounding box" : [ 51.024, 465.2, 388.392, 486.768 ],
+    "font" : "STIX-Italic",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Mills, C. W. (2000). The Sociological Imagination. Oxford: Oxford University Press. Mirrlees, T., & Alvi, S. (2020). EdTech Inc. Selling, Automating and Globalizing Higher Education in the"
+  }, {
+    "type" : "paragraph",
+    "id" : 189,
+    "page number" : 12,
+    "bounding box" : [ 68.032, 455.704, 179.304, 467.776 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Digital Age. Abingdon: Routledge."
+  }, {
+    "type" : "paragraph",
+    "id" : 190,
+    "page number" : 12,
+    "bounding box" : [ 51.024, 427.216, 388.383, 458.28 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Mishra, P., & Koehler, M. J. (2006). Technological Pedagogical Content Knowledge: A framework for teacher knowledge. Teachers College Record, 108(6), 1017–1054. https://doi.org/10.1111/j.14679620.2006.00684.x."
+  }, {
+    "type" : "paragraph",
+    "id" : 191,
+    "page number" : 12,
+    "bounding box" : [ 51.024, 389.232, 388.327, 429.792 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Mitchell, D. T., Snyder, S. L., & Ware, L. (2014). “[Every] Child Left Behind” Curricuar Cripistemologies and the Crip/Queer At of Failure. Journal of Literacy & Cultural Disability Studies, 8(3), 301-319. Muñoz, J. E. (2019). Cruising Utopia. The Then and There of Queer Futurity. New York: New York University Press."
+  }, {
+    "type" : "paragraph",
+    "id" : 192,
+    "page number" : 12,
+    "bounding box" : [ 51.024, 360.744, 388.359, 391.808 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Poutanen, M., Tomperi, T., Kuusela, H., & Kaleva, V. (2020). From democracy to managerialism: foundation universities as the embodiment of Finnish university policies. Journal of Education Policy. https://doi.org/10.1080/02680939.2020.1846080."
+  }, {
+    "type" : "paragraph",
+    "id" : 193,
+    "page number" : 12,
+    "bounding box" : [ 51.024, 332.256, 388.381, 363.32 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Prinsloo, P. (2020). Data frontiers and frontiers of power in (higher) education: a view of/from the Global South. Teaching in Higher Education, 25(4), 366-383. https://doi.org/10.1080/13562517.2020. 1723537."
+  }, {
+    "type" : "paragraph",
+    "id" : 194,
+    "page number" : 12,
+    "bounding box" : [ 51.032, 322.76, 368.453, 334.832 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Rancière, J. (2010). Dissensus: On politics and aesthetics. Trans S. Corcoran. London: Continuum."
+  }, {
+    "type" : "list",
+    "id" : 195,
+    "level" : "4",
+    "page number" : 12,
+    "bounding box" : [ 51.032, 265.784, 388.384, 325.336 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 12,
+      "bounding box" : [ 51.032, 294.272, 388.351, 325.336 ],
+      "font" : "STIX-Regular",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Rapanta, C., Botturi, L., Goodyear, P., Guàrdia, L., & Koole, M. (2020). Online University Teaching During and After the Covid-19 Crisis: Refocusing Teacher Presence and Learning Activity. Postdigital Science and Education, 2(3), 923–945. https://doi.org/10.1007/s42438-020-00155-y.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 12,
+      "bounding box" : [ 51.032, 265.784, 388.384, 296.848 ],
+      "font" : "STIX-Regular",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Rapanta, C., Botturi, L., Goodyear, P., Guàrdia, L., & Koole, M. (2021). Balancing Technology, Pedagogy and the New Normal: Post-Pandemic Challenges for Higher Education. Postdigital Science and Education, 3(3), 715-742. https://doi.org/10.1007/s42438-021-00249-1.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 196,
+    "page number" : 12,
+    "bounding box" : [ 51.032, 237.296, 388.396, 268.36 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Reynolds, C. R., & Fletcher-Janzen, E. (2007). Diagnostic Prescriptive Teaching. In C. R. Reynolds, K. J. Vannest, & E. Fletcher-Janzen (Eds.), Encyclopedia of Special Education (p. 772). John Wiley & Sons."
+  }, {
+    "type" : "paragraph",
+    "id" : 197,
+    "page number" : 12,
+    "bounding box" : [ 51.032, 218.304, 388.304, 239.872 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Rorty, R. (1999). Philosophy and Social Hope. London: Penguin Books. Saari, A., & Säntti, J. (2018). The rhetoric of the ‘digital leap’ in Finnish educational policy documents."
+  }, {
+    "type" : "paragraph",
+    "id" : 198,
+    "page number" : 12,
+    "bounding box" : [ 68.04, 208.808, 386.168, 220.88 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "European Educational Research Journal, 17(3), 442–457. https://doi.org/10.1177/1474904117721373."
+  }, {
+    "type" : "paragraph",
+    "id" : 199,
+    "page number" : 12,
+    "bounding box" : [ 51.032, 180.32, 388.381, 211.384 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Särkelä, E., & Suoranta, J. (2020). The Method of Empathy-Based Stories as a Tool for Research and Teaching. The Qualitative Report, 25(2), 399-415. https://doi.org/10.46743/2160-3715/2020.4124. Schön, D. A. (1983). The reflective practitioner: How professionals think in action. New York: Basic"
+  }, {
+    "type" : "paragraph",
+    "id" : 200,
+    "page number" : 12,
+    "bounding box" : [ 51.032, 151.832, 388.359, 182.896 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Books. Sellars, M. (2012). Teachers and Change: The Role of Reflective Practice. Procedia- Social and Behavioral sciences, 55(5), 461-469. https://doi.org/10.1016/j.sbspro.2012.09.525."
+  }, {
+    "type" : "paragraph",
+    "id" : 201,
+    "page number" : 12,
+    "bounding box" : [ 51.032, 123.344, 388.352, 154.408 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Selwyn, N., Pangrazio, L., Nemorin, S., & Perrotta, C. (2020). What might the school of 2030 be like? An exercise in social science fiction. Learning, Media and Technology, 45(1), 90–106. https://doi. org/10.1080/17439884.2020.1694944."
+  }, {
+    "type" : "paragraph",
+    "id" : 202,
+    "page number" : 12,
+    "bounding box" : [ 51.032, 104.352, 388.384, 125.92 ],
+    "font" : "STIX-Italic",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Shukaitis, S. (2009). Imaginal Machines: Autonomy & self-Organization in the revolutions of everyday Life. New York: Minor Compositions."
+  }, {
+    "type" : "paragraph",
+    "id" : 203,
+    "page number" : 12,
+    "bounding box" : [ 51.032, 66.368, 388.382, 106.928 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Southgate, E. (2020). Artificial intelligence, ethics, equity and higher education: A ‘beginning-of-thediscussion’ paper. Perth: National Centre for Student Equity in Higher Education, Curtin University, and the University of Newcastle. https://www.ncsehe.edu.au/publications/artifi cial-intelligenceethics-equity-higher-education/. Accessed 27 September 2021."
+  }, {
+    "type" : "footer",
+    "id" : 204,
+    "page number" : 12,
+    "bounding box" : [ 347.754, 26.244, 388.659, 42.234 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 24,
+      "page number" : 12,
+      "bounding box" : [ 347.754, 26.244, 388.659, 42.234 ],
+      "heading level" : 1,
+      "font" : "Springnew-Regular3",
+      "font size" : 15.0,
+      "text color" : "[0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 205,
+    "page number" : 13,
+    "bounding box" : [ 51.01, 624.392, 388.552, 631.6 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 36,
+      "page number" : 13,
+      "bounding box" : [ 51.01, 624.392, 388.552, 631.6 ],
+      "heading level" : 5,
+      "font" : "MyriadProUnicSemiCondensed",
+      "font size" : 8.0,
+      "text color" : "[0.0]",
+      "content" : "236 Postdigital Science and Education (2022) 4:224–236"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 207,
+    "page number" : 13,
+    "bounding box" : [ 51.024, 579.149, 388.357, 610.213 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Stetsenko, A. (2020). Hope, political imagination, and agency in Marxism and beyond: Explicating the transformative worldview and ethico-ontoepistemology. Educational Philosophy and Theory, 52(7), 726-737. https://doi.org/10.1080/00131857.2019.1654373."
+  }, {
+    "type" : "paragraph",
+    "id" : 208,
+    "page number" : 13,
+    "bounding box" : [ 51.024, 550.661, 388.383, 581.725 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Suoranta, J., Teräs, M., & Teräs, H. (2022). Rise of a ‘Managerial Demiurge’: Critical Analysis of the Digitalization of Education. In A. Abdi, G. Misiaszek, & J. Popoff (Eds.), Palgrave Handbook on Critical Theories of Education. London: Palgrave."
+  }, {
+    "type" : "paragraph",
+    "id" : 209,
+    "page number" : 13,
+    "bounding box" : [ 51.024, 512.677, 388.36, 553.237 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Takemoto, T. (2016). Queer Art / Queer Failure. Art Journal, 75(1), 85-88. https://doi.org/10.1080/ 00043249.2016.1171547. Taylor, C. (2002). Modern social imaginaries. Public Culture, 14(1), 91–124. https://doi.org/10.1215/ 08992363-14-1-91."
+  }, {
+    "type" : "paragraph",
+    "id" : 210,
+    "page number" : 13,
+    "bounding box" : [ 51.024, 484.189, 388.344, 515.253 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Teräs, M., Suoranta, J., Teräs, H., & Curcher, M. (2020). Post-Covid-19 Education and Education Technology ‘Solutionism’: a Seller’s Market. Postdigital Science and Education, 2(3), 863–878. https:// doi.org/10.1007/s42438-020-00164-x."
+  }, {
+    "type" : "paragraph",
+    "id" : 211,
+    "page number" : 13,
+    "bounding box" : [ 51.024, 455.701, 388.383, 486.765 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Wallin, A., Koro-Ljungberg, M., & Eskola, J. (2019). The Method of Empathy-Based Stories. International Journal of Research & Method in Education, 42(5), 525–535.https://doi.org/10.1080/1743727X.2018. 1533937."
+  }, {
+    "type" : "paragraph",
+    "id" : 212,
+    "page number" : 13,
+    "bounding box" : [ 51.024, 436.709, 388.344, 458.277 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Williamson, B. (2021). Editorial: Meta-edtech. Learning, Media and Technology. https://doi.org/10.1080/ 17439884.2021.1876089."
+  }, {
+    "type" : "paragraph",
+    "id" : 213,
+    "page number" : 13,
+    "bounding box" : [ 51.024, 408.221, 388.39, 439.285 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Zeichner, K. (1994). Research on teacher thinking and different views of reflective practice in teaching and teacher education. In I. Carlgren, G. Handal, & S. Vaage (Eds.), Teachers’ minds and actions: Research on teachers’ thinking and practice (pp. 9–24). London: The Falmer Press."
+  }, {
+    "type" : "paragraph",
+    "id" : 214,
+    "page number" : 13,
+    "bounding box" : [ 51.024, 378.339, 388.319, 400.668 ],
+    "font" : "STIX-Regular",
+    "font size" : 8.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations."
+  } ]
+}

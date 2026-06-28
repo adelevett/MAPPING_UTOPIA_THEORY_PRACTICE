@@ -1,0 +1,1130 @@
+{
+  "file name" : "M._2013_Utopian_education_and_anti-utopian_anthropology.pdf",
+  "number of pages" : 11,
+  "author" : "Administrator",
+  "title" : "Microsoft Word - p22",
+  "creation date" : "D:20130124142901+08'00'",
+  "modification date" : "D:20130124142901+08'00'",
+  "kids" : [ {
+    "type" : "paragraph",
+    "id" : 46,
+    "page number" : 1,
+    "bounding box" : [ 321.3, 737.287, 524.522, 768.014 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.0,
+    "text color" : "[0.0]",
+    "content" : "International Education Studies; Vol. 6, No. 2; 2013 ISSN 1913-9020 E-ISSN 1913-9039 Published by Canadian Center of Science and Education"
+  }, {
+    "type" : "heading",
+    "id" : 48,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 132.36, 705.949, 463.162, 723.69 ],
+    "heading level" : 1,
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 16.02,
+    "text color" : "[0.0]",
+    "content" : "Utopian Education and Anti-Utopian Anthropology"
+  }, {
+    "type" : "paragraph",
+    "id" : 49,
+    "page number" : 1,
+    "bounding box" : [ 70.92, 667.647, 349.74, 696.108 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Marianna Papastephanou1 1Department of Education, University of Cyprus, Nicosia, Cyprus"
+  }, {
+    "type" : "paragraph",
+    "id" : 50,
+    "page number" : 1,
+    "bounding box" : [ 70.92, 639.687, 524.514, 662.723 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Correspondence: Marianna Papastephanou, Department of Education, University of Cyprus, P.O. Box 20537, Nicosia 1678, Cyprus. E-mail: edmari@ucy.ac.cy"
+  }, {
+    "type" : "paragraph",
+    "id" : 51,
+    "page number" : 1,
+    "bounding box" : [ 70.919, 591.687, 524.208, 618.743 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Received: September 27, 2012 Accepted: November 30, 2012 Online Published: December 16, 2012 doi:10.5539/ies.v6n2p22 URL: http://dx.doi.org/10.5539/ies.v6n2p22"
+  }, {
+    "type" : "heading",
+    "id" : 52,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 70.919, 559.647, 108.157, 570.743 ],
+    "heading level" : 2,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Abstract"
+  }, {
+    "type" : "paragraph",
+    "id" : 53,
+    "page number" : 1,
+    "bounding box" : [ 70.918, 447.688, 524.61, 554.723 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "This article explores the connection of education, utopia and anthropology, aiming to tease out some educational implications of anti-utopian anthropological essentialism and to show why these should be staved off. It will be shown how an anthropology that tarnishes human nature operates and how it affects educational intervention in the shaping of human reality. After a brief reference to the current theoretical status of utopia and its relation to education, some anti-utopian determinations that raise anthropological obstacles to utopia´s imaginative reach will be examined. Two main anti-utopian arguments are then investigated: the one of human frailty and that of utopian unattainability. Critical counter-arguments will be produced in order to prove that anti-utopianism poses more questions than it answers and is in no position to effectively undermine radical pedagogical vision. The article concludes with some indications of how educational utopianism may relate to anthropology otherwise."
+  }, {
+    "type" : "paragraph",
+    "id" : 54,
+    "page number" : 1,
+    "bounding box" : [ 70.918, 431.668, 438.458, 442.764 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Keywords: utopia, critical pedagogy, human nature, transformation, Nagel, Cooke, Hobbes"
+  }, {
+    "type" : "heading",
+    "id" : 55,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 70.918, 413.668, 135.359, 424.764 ],
+    "heading level" : 2,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "1. Introduction"
+  }, {
+    "type" : "paragraph",
+    "id" : 56,
+    "page number" : 1,
+    "bounding box" : [ 70.918, 288.088, 524.603, 407.124 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Education by definition – and etymology – relates to humanity in an ambivalent sense. Derived from the Latin educare, to mould, to cultivate, education connotes the shaping and acculturation of humanity. Thought through this entails that education presupposes the pliability and perfectibility of humanity – at least to an important degree. Or, derived from the Latin educere, ‘which means to draw out or to bring out’, education connotes the technique and ability ‘to bring out what is within, the good’ (Menon, 2011, p. 2) or the bad, depending on the kind of education as well as on the interpretation of ‘what is within’. The latter etymology points to a human essence that demarcates the scope and force of education: a good human nature awaits the kind of education that will lead it forth. Then again, if human nature is essentially bad, the implications for education as acculturation, improvement and progress (educare) are negative: human nature disarms education, resists educational vision and continuously renders futile all efforts to radical human redirection."
+  }, {
+    "type" : "paragraph",
+    "id" : 57,
+    "page number" : 1,
+    "bounding box" : [ 70.919, 152.068, 524.679, 283.104 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Evidently, education in both possibilities relies on conceptions of humanity that determine educational ambition in different ways. That is, it relies on a philosophical anthropology that undertakes to explore human nature and human potentiality. At the same time, education is connected to utopian vision in varying ways: when a specific anthropological account assumes the plasticity of humanity (at least to a significant extent), education is viewed as capable of effecting a new reality, a society as it can and should be, one which is, nevertheless, as yet a no-topos. When a specific anthropological account assumes the ‘good within’, education’s work is to lead forth this hidden human potential. However, when a specific anthropological account assumes T. Hobbes’s idea of pervasive egoism or, less extremely, asserts I. Kant’s ‘foul stain of our species’ (Formosa, 2007, p. 225) and the ‘crooked timber of humanity’ (Berlin, 1991) some degree of anti-utopian (Note 1) despondency enters the picture. For, then, the work of education becomes too modest, perhaps too reconciled with the current state of affairs and, in short, too diffident about radical redirection through educational endeavor."
+  }, {
+    "type" : "paragraph",
+    "id" : 58,
+    "page number" : 1,
+    "bounding box" : [ 70.919, 64.049, 524.638, 147.085 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "In this article, the connection of education, utopia and anthropology will be brought out through a critical discussion of anti-utopian anthropological essentialism. The aim is to show the operations of an anthropology that tarnishes human nature, and its implications for educational intervention in the shaping of human reality. After a brief reference to the current theoretical status of utopia and its relation to education, some anti-utopian determinations that raise anthropological obstacles to utopia´s imaginative reach will be examined. Two main anti-utopian arguments are then explored: the one of human frailty and that of utopian unattainability. The article concludes with some educational implications."
+  }, {
+    "type" : "footer",
+    "id" : 59,
+    "page number" : 1,
+    "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 22,
+      "page number" : 1,
+      "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "22"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 60,
+    "page number" : 2,
+    "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 33,
+      "page number" : 2,
+      "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "www.ccsenet.org/ies International Education Studies Vol. 6, No. 2; 2013"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 62,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 70.92, 725.247, 282.456, 736.343 ],
+    "heading level" : 2,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "2. Utopia in Philosophy and Educational Thought"
+  }, {
+    "type" : "paragraph",
+    "id" : 63,
+    "page number" : 2,
+    "bounding box" : [ 70.92, 529.287, 524.549, 720.323 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "For many years, the term ‘utopia’ has been employed in the philosophically pejorative sense to denote the futile and pernicious projects for social betterment that lead to totalitarianism. Anti-utopian philosophies stress the dangers involved in high-minded plans for change, and ground their conviction about utopia’s constant failure in utopianists’ neglect of the obstacles that human nature sets to any radical redirection. In fact, and despite some switch of focus and intensity regarding what counts as negatively utopian, utopia is still treated with suspicion ‘as impossible in principle and thus potentially dangerous and totalitarian in practice’ (Levitas, 2004, p. 605). The anthropological justifications of such verdicts cannot be missed. For instance, the conservative thinker Roger Scruton maintains that the sanctity of human bonds is inseparable from their reality as bondage (Scruton, 2003, p. 278) and, from then on, he takes issue with those who attribute the trials of humanity to some bad community and envision a good one that is yet to come. Isaiah Berlin’s book (1991) The Crooked Timber of Humanity, whose title is as such very telling, also emphasizes the totalizing character of utopia in a world of conflicting worldviews. More broadly, if not overcome, the totalizing character of utopia is doomed to bring disaster, chaos and suffering (Turner, 2003, p. 27; Cooke, 2004, p. 414). Even thinkers as diverse as R. Dahrendorf (1967), P. Ricoeur (1997), F. Von Hayek (1944), K. Popper (1957) [see also, Olssen (2003)], and T. Nagel (Nagel, 1991; Lassman, 2003, p. 49) have argued in one way or other for the impossibility of utopia for most of humanity."
+  }, {
+    "type" : "paragraph",
+    "id" : 64,
+    "page number" : 2,
+    "bounding box" : [ 70.92, 333.268, 524.642, 524.304 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Despite the above general tendency, the interest in utopia is now being renewed in general philosophy and in cultural studies (Passerini, 2002, p. 17). In educational discourse, there has recently been a growing interest in utopia, and the inherent connection of education and utopian vision has increasingly been acknowledged. Utopia shows up in much philosophy of education (Halpin, 2001a & b and 2003; Leonardo, 2003; Milojevic, 2003; Olssen, 2003; Lewis, 2006 and 2007; Papastephanou, 2008a, 2008b and 2009). Sites, organizations, series of books, special issues and conferences on utopian imagination, even communities ‘sustain themselves by reference to the utopian tradition’ (Peters and Humes, 2003, p. 429). We may categorize the educational comeback of utopia as follows. There has been: (a) a rehabilitation of anarchist thought, of its utopian impetus and of its faith in education as developed by Judith Suissa´s work (2004); (b) a rich educational critical response to Futures Studies (Peters and Humes, 2003; Cho, 2006); (c) a radical transformation approach to education, preserving the utopian element all along from P. Freire down to H. Giroux and P. McLaren and defending the need to develop pedagogies of hope (Stewart-Harawira, 2003); and (d) a reformist approach to educational practice from J. Dewey down to recent thinkers (Halpin, 2001a & b; Demetrion, 2001), favouring piecemeal pragmatist utopian change. Overall, utopian education is expected to treat a number of educational pathologies such as teacher apathy, student resignation and the oppressive reproduction of social inequalities through schooling practices (Lewis, 2007, p. 1)."
+  }, {
+    "type" : "paragraph",
+    "id" : 65,
+    "page number" : 2,
+    "bounding box" : [ 70.92, 281.248, 524.649, 328.284 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "However, to my knowledge, too few of these new approaches investigate the challenge of anti-utopian anthropology and the obstacles it raises to utopian education. The present article seeks to remedy this and to spell out the anthropological stakes involved in utopian education. For, the anthropological objection has, in the social and educational imaginary, had the most influential and lasting impact upon educational utopia."
+  }, {
+    "type" : "heading",
+    "id" : 66,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 70.92, 265.289, 228.599, 276.385 ],
+    "heading level" : 2,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "3. Implicit Anthropological Accounts"
+  }, {
+    "type" : "paragraph",
+    "id" : 67,
+    "page number" : 2,
+    "bounding box" : [ 70.92, 165.269, 524.548, 260.305 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "We encounter the anthropological objection to utopian vision already in late antiquity. For instance, the Stoic Chrysippos responded precisely to such an objection in his On Justice by explaining the objection away as a side effect of utopia´s evocative sublimity. He wrote that ‘because of its eminence and beauty, what we say seems like a fiction, and not a doctrine that accords with man and man's nature’ (cf Dawson, 1992, p. 160; emph mine). It is important in this response that Chrysippos hits the nail on the head in identifying what is really at stake in debates about the permissible stretch of intellect regarding human pliability. Even today, a quick way to dismiss utopian education altogether is to conjure up the supposed discrepancy between what utopian educational aims prescribe and what human nature allows."
+  }, {
+    "type" : "paragraph",
+    "id" : 68,
+    "page number" : 2,
+    "bounding box" : [ 70.921, 65.249, 524.614, 160.285 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "F. Jameson describes very pertinently the deployment of the anthropological argument against utopia step by step: first, ‘a politics which wishes to change the system radically will be designated as utopian’. Then there comes the naturalization of the system, a naturalization that presupposes and serves a specific ideological commitment: using utopia as a charge has ‘the right-wing undertone that the system (now grasped as the free market) is part of human nature’ (Jameson, 2004, p. 35). Therefore, to aspire to eradicate something natural, i.e. a deep-seated characteristic of humanity is not only futile, it is fundamentally violent: ‘any attempt to change [human nature] will be accompanied by violence’; and ‘efforts to maintain the changes (against human nature) will require dictatorship’ (ibid)."
+  }, {
+    "type" : "footer",
+    "id" : 69,
+    "page number" : 2,
+    "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 23,
+      "page number" : 2,
+      "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "23"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 70,
+    "page number" : 3,
+    "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 34,
+      "page number" : 3,
+      "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "www.ccsenet.org/ies International Education Studies Vol. 6, No. 2; 2013"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 72,
+    "page number" : 3,
+    "bounding box" : [ 70.92, 629.247, 524.644, 736.283 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Generally, anti-utopian determinations of human nature are manifest in those philosophies that take the human condition for granted, and account for it in essentialist qualitative terms. But even utopian thought as such operates significantly on grounds of rigid descriptions of humanity. From Schopenhauer's ‘description of spontaneous human egoism, and his sense of the inevitable subordination of our reflective capacities to the powerful promptings of the instincts’, down to ‘Badiou's characterization of the human being as a “mortal and predatory animal”’ (Dews, 2006, p. 116), the anthropological barriers to perfectibility are evoked by both anti-utopian and utopian philosophy. From another perspective, the same holds for teleological utopias that assume essential, positive features of humanity that do not only allow but also guarantee the eventual realization of the utopian plan."
+  }, {
+    "type" : "paragraph",
+    "id" : 73,
+    "page number" : 3,
+    "bounding box" : [ 70.919, 469.288, 524.633, 624.323 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Let us explore some anthropological accounts that play an implicit though important role in anti-utopian discourse and delimit the imaginative reach of educational goal-setting. One of the most prominent essentialist anthropologies asserts egoism’s priority over altruism. It claims that human beings are primarily motivated to act for their self-preservation and profit. We may illustrate it by reference to T. Hobbes’ thesis ‘that naked self-interest is the sole motivating force in human affairs, and that state authority is merely the outcome of a contract entered into for the sake of limiting its more destructive effects’ (Norris, 1991, p. 157). The state of nature is a state of human equality in the sense that all people would be equally driven by their needs and thus equally capable of destroying one another. There enters law and contractuality to control the effects of such an equality and strike a compromise between human satisfaction and human safety. (Note 2) Thus, this anthropological view has the following correlates. In a natural state, the self is aggressively pleasure-seeking. But, when unrestricted, this situation leads to a destructive clash of unbridled instinct-driven selves, a war of all against all. To check this risk human beings partly renounce the satisfaction of their instincts and build up societies, giving up unbridled freedom in exchange for security."
+  }, {
+    "type" : "paragraph",
+    "id" : 74,
+    "page number" : 3,
+    "bounding box" : [ 70.919, 345.268, 524.556, 464.304 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Thought through to their ultimate logical implications, anthropological- essentialist understandings of human nature as impure due to its disposition to predatory animality assume a protective and repressive sense of law. Such a sense is present in educational settings that stress formality, authority and conformity at odds with a more democratic classroom that encourages a more reflective, enabling, reason-based and self-formative relation to law. Even in more mitigated forms, the idea of animality working in subterranean ways to undermine any noble plan for human betterment and to turn survival into temptation to vice may saddle education to social-productive rather than transformative goals. This should force any proponents of more politically ambitious conceptions of education to sort out anthropological issues prior to dealing head-on with educational aims. Lack of awareness of this challenge typically leads to inability of adherents to critical pedagogy and of other contemporary defenders of bold educational visions to get engaged in a fruitful debate with anti-utopian educationalists."
+  }, {
+    "type" : "paragraph",
+    "id" : 75,
+    "page number" : 3,
+    "bounding box" : [ 70.919, 185.249, 524.807, 340.285 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "A less crude variation of essentialism sees human beings as determined by an endemic doubleness. On this view, humans are as capable of saintly or heroic altruism up to self-denial (social dimension) as they are of extreme hostility to others and servility to egoistic passions (unsocial dimension). We may name this position ‘the unsocial sociability thesis’, which goes as far back as Kant (1992, pp. 44, 227, and 321). The relation of this position to utopian education can be as ambivalent as the notion of humanity it engulfs. The anti-utopian conclusion we may draw from it affirms that, because of its unsocial dimension, humanity will always stumble on its dark side, despite the efforts for betterment (which are genuine, of course, as they stem from the social dimension). In their most despondent moments educational theorists and practitioners often voice a popularized view of this kind when they think it too difficult or even pointless to trust their students, to set high standards and to have high expectations from the schooling experience. It would indeed be an interesting question for empirical research how much of this anthropological essentialist baggage is involved in teachers’ reluctance to make the kind of extra effort that may not be required by the strict description of professional duties though it may reflect faith in human potentiality."
+  }, {
+    "type" : "paragraph",
+    "id" : 76,
+    "page number" : 3,
+    "bounding box" : [ 70.92, 73.289, 524.622, 180.325 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "But even when the anti-utopian conclusions are avoided, e.g., when the emphasis is put on sociality, still the unsocial sociability thesis allows space to a repressive sense of law, one that aims to restrict and harness the unsocial dimension of humanity. Educationally, this may lead to a re-affirmation and continuous cultivation of repressive conformity to law against the kind of rule- and law-following that stems from rational and autonomous endorsement of ethical responsibility in schools. Consider B. Spinoza's words, as quoted by C. Norris (1991, p. 157). ‘If human nature were such that men desired nothing but what true reason prescribes, a society would need no laws whatsoever’ (emph mine): apart from noticing the repressive and protective conception of law, we should wonder already here whether there is such a thing as a fixed human nature that delimits what people desire prior to their acculturation."
+  }, {
+    "type" : "footer",
+    "id" : 77,
+    "page number" : 3,
+    "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 24,
+      "page number" : 3,
+      "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "24"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 78,
+    "page number" : 4,
+    "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 35,
+      "page number" : 4,
+      "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "www.ccsenet.org/ies International Education Studies Vol. 6, No. 2; 2013"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 80,
+    "page number" : 4,
+    "bounding box" : [ 70.92, 425.248, 526.937, 736.283 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Tensions such as those noticed in Kant and Spinoza can be traced not only in positions that have later enjoyed hegemony but also in some undercurrents of Western thought such as essentialist anarchist assumptions about humanity which inform some of contemporary utopian education (Suissa, 2004). It is through those that I shall conclude this first, brief and rather descriptive approximation of the relevance of anthropology to utopian education. J. Suissa explains that ‘anarchism is often dismissed as holding an unrealistically “utopian” or “naïve” view of human nature’. Against this, she shows that, for most of 19th century social anarchists (e.g., Bakunin, Kropotkin, Proudhon), human nature is twofold ‘involving both an essentially egotistical potential and a sociable, or altruistic, potential’ (2004, p. 15; emph mine). The anarchist is a contextualist view of human nature to the extent that it entails an activation of motivated conduct that varies across time, space and circumstances. Yet it is also essentialist so long as it assumes a fairly stable doubleness of humanity. The essentialism of this anthropology is mitigated by the qualification ‘potential’, but affirms nevertheless the location of egotism within the human subject. In this way, it determines human nature as essentially (un)ethically loaded. Thus, although contemporary utopian education may be better assisted by the anarchist anthropology than by rival anthropologies of the more liberal kind (originating in Hobbes, Hume or Locke), still, it requires an even less essentialist anthropology that frees education from those essential human constants that block radical change already from the start. For egotism and altruism (sociability) may not quite be ‘two opposed instincts’, as Bakunin put it (cf. Suissa, 2004, p. 15), that are mobilized and surface through context. They may be human realities known to us only through their social construction and interpretation. In fact, K. Marx diverged from utopian socialism on this point. We safely arrive at this conclusion if we follow F. Jameson´s description of Marxist structuralism as anti-essentialist and anti-psychological (Jameson, 2004, p. 37). Egoism and altruism are created cultural interpretations of what counts as instinct. For instance, self-preservation as an instinct may not be by definition identical with, let us say, egoism as its supposed manifestation. It can take this expression, but egoism is neither an instinct nor an essential psychological trait but a socially influenced relation of one to oneself. It may be a socially constructed and maintained attitude that presupposes a particular interpretation of what counts as self-preservation or self-serving need. The Marxian position points to the less essentialist anthropology that may suit the aims of contemporary utopian education or critical pedagogy."
+  }, {
+    "type" : "paragraph",
+    "id" : 81,
+    "page number" : 4,
+    "bounding box" : [ 70.921, 313.288, 524.659, 420.324 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "More broadly, we may assume that there is nothing ethically prohibitive in the human nature as such because human nature is mutable and pliable, i.e., not essentially predetermined. This is indicative of the direction that a defence of utopian education or critical pedagogy may require. However, further research is necessary, one that goes beyond the scope of this article, for a full response along such lines. What follows, then, is an attempt to deploy some arguments against the assumption that human nature is not mutable enough to allow for transformative education. We have good reasons to counter this: we have seen how the anthropological arguments for defending slavery as an inescapable reality of a fixed human nature of slaves and masters have historically collapsed. The same can be said about various anthropological views that once claimed to thoroughly explain and pin down humanity but have now been superseded."
+  }, {
+    "type" : "heading",
+    "id" : 82,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 70.921, 297.268, 396.705, 308.365 ],
+    "heading level" : 2,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "4. A Critical Discussion of the Anti-Utopian Argument about Human Frailty"
+  }, {
+    "type" : "paragraph",
+    "id" : 83,
+    "page number" : 4,
+    "bounding box" : [ 70.92, 125.249, 524.875, 292.284 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "To obtain a closer look on possible criticisms of essentialist anthropologies let us narrow our discussion down to the anti-utopian argument about essential human frailty. Thomas Nagel has expressed an anti-utopianism of precisely this kind. As he puts it: however attractive it may be to contemplate, an ideal ‘is utopian if reasonable individuals cannot be motivated to live by it’ (Nagel, 1991, p. 21). It seems that, in such a universe, an individual is reasonable only when s/he is motivated to live by the standards that the liberal conception of the self has set. Any ideal that shakes the established priorities of most individuals appears too lofty. One wonders: are people who display selflessness, compassion, and extraordinary endurance not reasonable individuals? Some textual evidence quite safely helps us imagine that Nagel would concede the existence of such individuals and their reasonableness. But he would claim that they are not simply reasonable but also exceptional. Even if they exist (and display a consistency of action), they no less diverge from common humanity. For him, utopianism describes ‘a form of collective life that humans, or most humans, could not lead and could not come to be able to lead through any feasible process of social and mental development. It may have value as a possibility for a few people, or as an admirable but unattainable ideal for others. But it cannot be offered as a general solution to the main question of political theory: How should we live together in society?’ (Nagel, 1991, p. 6; emph mine)."
+  }, {
+    "type" : "paragraph",
+    "id" : 84,
+    "page number" : 4,
+    "bounding box" : [ 70.921, 73.229, 524.549, 120.325 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Such elitist exceptionalism sets too modest demands on human beings’ efforts to live together in society and too limited a task for education as a process of social and mental development. It further entails that what is attainable by few is not teachable but rather available to them directly through nature. Or, perhaps, it is teachable only in cases where there is a corresponding natural and individuated predisposition. For if the exceptional few"
+  }, {
+    "type" : "footer",
+    "id" : 85,
+    "page number" : 4,
+    "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 25,
+      "page number" : 4,
+      "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "25"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 86,
+    "page number" : 5,
+    "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 36,
+      "page number" : 5,
+      "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "www.ccsenet.org/ies International Education Studies Vol. 6, No. 2; 2013"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 88,
+    "page number" : 5,
+    "bounding box" : [ 70.92, 713.247, 524.409, 736.283 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "were an effect of acculturation processes, that effect would be a manifestation of the feasibility and attainability of the ideal, not an argument against futile effort."
+  }, {
+    "type" : "paragraph",
+    "id" : 89,
+    "page number" : 5,
+    "bounding box" : [ 70.92, 457.288, 524.69, 708.323 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Apart from the elitistically exceptionalist implications, another shortcoming of Nagel´s anti-utopian position on human (im)possibility is that it maintains the claim about the human species having evil tendencies, while dispensing with the universality of the claim. Yet, as Kant himself knew, ‘if most, but not all, humans have an evil disposition, then the human species has no uniform moral character’ (Formosa, 2007, p. 239; emph mine). Like Nagel, and unlike Kant, Formosa sees in this lack of uniformity a possibility to render the unsocial sociability thesis more plausible. I believe that it exposes simply its incoherence. To be a transcendental anthropological thesis and not an empirical generalization, this thesis requires uniformity for the following reason. If evil is a mere possibility which is not activated in some specimens of humanity, there can be only two logical conclusions: that either those exceptions are other than human; or that, while being human, they have had the kind of socio-historical conditions of life that enabled them to estrange themselves from what is (supposedly) common to the rest of humanity. The first conclusion is absurd because it elevates the human exceptions to a species of their own, as they do not share with the rest a property that is supposedly constitutive of humanity. The second conclusion automatically removes evil from characteristics essential for recognizing the human species and renders it contingent. But a contingent idea of radical (=rooted) evil underlying the unsocial sociability thesis is not only self-contradictory; it is also inoperative, since it cannot explain evil as indeed deeply ingrained and it cannot sustain the claim that no feasible process of social and mental development can uproot it. An anthropological argument for radical evil that loses its essentialism also loses its explanatory force. This reveals what is really true about such an argument, namely, that it is a logical leap from experience to ontology. To explain: this anthropological argument simply turns an empirical generalization (e.g., the so far accumulated experience of evil that parades before us) into an eternal truth or a transcendental condition of what is humanly (im)possible."
+  }, {
+    "type" : "paragraph",
+    "id" : 90,
+    "page number" : 5,
+    "bounding box" : [ 70.922, 297.268, 524.759, 452.304 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "To raise to the status of ontological truth the kind of anthropology that derives from the intuitive, an intuitive that is constructed point by point through the hitherto inauspicious record of humanity, is sheer ideology. For, instead of questioning the time-honoured reliance on how human affairs have so far been and instead of exploring the counter-intuitive, political thought proclaims the amassed empirical evidence an ahistorical anthropological constant that determines futurity. To simplify this point with an illustration: if there have always been pupils who lag behind the advanced ones, then there will be such pupils forever. The most education can do for them is to tolerate them, to socialize them and to turn them into harmless future citizens. Reluctance to endorse anything more demanding is explained as a realistic acknowledgement of limited intervention in the pupils’ realities. Motivationally, it reflects the need to avoid the utopian reverie that is supposedly involved in more inclusive and bolder educational efforts, and the need to acknowledge realistically the barriers that the translation of ethical vision into educational practice confronts. But all this presupposes at a much deeper level an unconscious slippage from a diagnosis of undesirable empirical realities to their onto-anthropological elevation to a human constant that is educationally unmanageable."
+  }, {
+    "type" : "paragraph",
+    "id" : 91,
+    "page number" : 5,
+    "bounding box" : [ 70.922, 149.249, 524.706, 292.285 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Moreover, the anti-utopian argument can also be used against any political-educational ideal such as the cosmopolitanism that envisions radical change of world politics. E. Callan’s fear of utopianism lurking in cosmopolitanism gives a concrete example of how the spectre of utopianism is recruited within actual educational discourse in order to defend less drastic and more ‘liberalized’ educational expectations. Callan prefers liberal patriotism to world citizenship for reasons of the latter´s utopianism. His worry is ‘that the aspiration to world citizenship is utopian in an invidious sense, and educational practices inspired by the aspiration might often sacrifice the real if imperfect possibilities of patriotic attachment for an ideal that exists only in the fancy of its adherents’ (1999, p. 199). Against this rationale, we have so far shown that what counts as unreal or unrealizable depends on what one perceives as realistic anthropological impediments that render the ideal unrealizable. On this, liberalism needs at least as much explanatory and justificatory work as its rival approaches need for defending their more enabling anthropology. Thus, liberalism is not in the privileged position that it axiomatically assumes."
+  }, {
+    "type" : "heading",
+    "id" : 92,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 70.923, 133.289, 397.513, 144.386 ],
+    "heading level" : 2,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "5. A Critical Discussion of the Anti-Utopian Argument about Unattainability"
+  }, {
+    "type" : "paragraph",
+    "id" : 93,
+    "page number" : 5,
+    "bounding box" : [ 70.923, 69.209, 524.545, 128.305 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "If the main political-educational question is how we should live together and if, in answering it, political education must escape the danger of approximating its spectral others (slavery defence, fascism, etc), no essentialist anthropological distinctions along the axis of attainability should be allowed. True, to have some motivational force, a utopian ideal requires some sense of feasibility and attainability. It must be in touch with reality and have some faith in a universalizable realizability. Otherwise, it becomes nothing more than a"
+  }, {
+    "type" : "footer",
+    "id" : 94,
+    "page number" : 5,
+    "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 26,
+      "page number" : 5,
+      "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "26"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 95,
+    "page number" : 6,
+    "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 37,
+      "page number" : 6,
+      "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "www.ccsenet.org/ies International Education Studies Vol. 6, No. 2; 2013"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 97,
+    "page number" : 6,
+    "bounding box" : [ 70.92, 713.247, 524.5, 736.283 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "momentary respite from the existing state of affairs. It offers nothing more than the kind of psychic discharge that leads to a domestication of critique."
+  }, {
+    "type" : "paragraph",
+    "id" : 98,
+    "page number" : 6,
+    "bounding box" : [ 70.92, 565.287, 524.668, 708.323 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "The answer to this may be the realizability allowed by the kind of anthropology that involves nothing predictive or futuristically imminent about it; that is, the realizability that points only to sheer possibility. Specific societies fail to realize an ideal, without this necessarily entailing that the ideal is faulty or unattainable. Our criteria (ever revisable) of realizability have to be related to the content, the provisions of the ideal itself. Before we proclaim an ideal unattainable as ostensibly precluded by human nature, we must first examine how much we know about human nature so as to safely conclude that the ideal is futile. For instance, probably what we now know about humanity would make an ideal of biological immortality appear as a chimera. But we cannot say the same about ethical matters and political questions about how we should live in society and how we could educationally prepare such a common life. For, while immortality pertains to the sphere of the objective world with the laws of which it is difficult to always play successfully, the good society pertains to the sphere of the social world whose laws are no longer (after positivism) treated as quasi-natural and, therefore, humanity´s leeway is immensely more extended."
+  }, {
+    "type" : "paragraph",
+    "id" : 99,
+    "page number" : 6,
+    "bounding box" : [ 70.918, 357.268, 524.653, 560.304 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "To unpack the argument against anti-utopian assumptions of unattainability, let us discuss how M. Cooke, a defender of formalist utopia, concedes unattainability to anti-utopians. Cooke shows that utopianism is accused of denying some facts that are, we may add, widely accepted and popular now in educational theory. These are ‘the contingency of human knowledge and the creativity of human free will, leading to a closure of the historical process’ (Cooke, 2004, p. 414). She then moves to endorse unconditionally the criticism that the belief in the actual possibility of a good society is not only wrong but even totalitarian. In so doing, she couples tout court attainability with old modernist ‘blueprint’ utopias exclusively. ‘Critical social thinking that sees the “good society” as a condition actually attainable by human beings stands accused of “finalism”, of an absolutist and ahistorical conception of human knowledge that gives rise to “totalitarian” models of social order’ (Cooke, 2004, p. 414; emph mine). I take issue with Cooke's unqualified acceptance of this criticism, with her rejection of the possibility of utopia ever turning into actuality and with her neglect of the dependence of attainability on the actual semantic contents of the utopian good. Aspirations to attainability are indeed a fault of utopian thinking but only in the following cases: when this attainability concerns all possible contents of various utopian visions; when it concerns every detail of a specific imaginary construction; and, above all, when it concerns the supposed unshakeable, unchallenged and unchangeable character of the vision. It is only then that there is a tension between the image of a social condition that must appear attainable in order to be inspiring and the awareness of the unattainability of a ‘condition beyond the influences of history and context’ (Cooke, 2004, p. 422)."
+  }, {
+    "type" : "paragraph",
+    "id" : 100,
+    "page number" : 6,
+    "bounding box" : [ 70.918, 197.247, 524.625, 352.284 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "But why should we conceive utopia as a condition that leaves the influences of history and context behind? In a world without war and less blatant political violence and in a world with the radical rearrangements of resources, benefits and wealth that secure a better education there is plenty of space for variations in custom, habits, identities, memories and diverse lifestyles and choices. Especially with regard to educational utopias, attainability may concern only some particular priorities and leave the rest of desirables in the dark. For instance, there is no compelling argument that an educational utopia of enriching the cultural capital of all students and broaden their existential choices presupposes or must be followed by the actualization of, say, a technological utopia of galactic travel. But faith in the attainability of the prioritized utopia is necessary for a reason that Heraclitus had already encapsulated in the 6th century BC in the following formulation: ‘if you do not believe in the unexpected, the unexpected will never come’. This does not legitimize its opposite, its degeneration to the illusion that all you need in order to achieve something is just to believe in it. That something will happen just by believing in it is pure naivety. But it does say that if a utopia is not considered humanly possible and attainable, it loses all its motivating power."
+  }, {
+    "type" : "paragraph",
+    "id" : 101,
+    "page number" : 6,
+    "bounding box" : [ 70.92, 121.287, 524.648, 192.323 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "To sum up, attainability should not be seen as predetermining the supposed eventual ‘homecoming’ of humanity. Attainability simply means that educational utopian possibilities are not by definition precluded by onto-anthropological obstacles. If utopia is viewed from the lens of sheer possibility, i.e. as something that is neither secured by a supposed teleological historical course nor blocked by insuperable barriers, the next step of utopianism is to shift its emphasis to the axis of alternative and preferable to the existent, that is, to the justificatory plane of what is worth striving for."
+  }, {
+    "type" : "paragraph",
+    "id" : 102,
+    "page number" : 6,
+    "bounding box" : [ 70.92, 57.207, 524.749, 116.304 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "The issue of redemption concretizes my claim that the notion of attainability must break free from the onto-anthropological shackles. Also, it drives home my criticisms of Cooke´s overlooking of variations in what counts as obstacle. For Cooke, redemption is understood as the situation where ‘all relevant obstacles to human flourishing would finally be removed’ and humanity ‘would be released from present suffering’. Further, redemption is associated with perfection as a state of ‘absolute sufficiency, a condition in which deficiency"
+  }, {
+    "type" : "footer",
+    "id" : 103,
+    "page number" : 6,
+    "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 27,
+      "page number" : 6,
+      "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "27"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 104,
+    "page number" : 7,
+    "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 38,
+      "page number" : 7,
+      "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "www.ccsenet.org/ies International Education Studies Vol. 6, No. 2; 2013"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 106,
+    "page number" : 7,
+    "bounding box" : [ 70.92, 617.247, 527.097, 736.283 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "would once and for all have been overcome’ (Cooke, 2004, p. 418). But, to grasp what redemption might refer to, we have to flesh out the semantic content of ‘all relevant obstacles’, of the ‘human flourishing’ and of absolute sufficiency. Ultimately, should utopia address just any present suffering in a holistic manner? A merit, at least of educational utopias is that they are more localized and less comprehensive in a manner that saves them from being over-ambitious. To unpack these themes and their connection point for point, consider, for instance, that one´s sense of redemption may not include a pharmacological and surgical utopia of purportedly eternal youth or a geneticist utopia of a supposedly enhanced humanity where you predetermine the colour of your child's eyes according to the imperatives of the market so as to improve her chances to become a super model. One may justifiably see any such marketization of aesthetics as enslavement and tacit racism and rightly consider them as irrelevant to educational utopia – to say the least."
+  }, {
+    "type" : "paragraph",
+    "id" : 107,
+    "page number" : 7,
+    "bounding box" : [ 70.92, 457.288, 524.655, 612.324 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "This point can be generalized as follows. Redemption cannot be theorized in formal quantitative terms (i.e., all, absolute, once and for all), as if there has been a universal, supra-cultural, unanimity on what counts as freeing humanity from chains of necessity or causality. In Cooke's phrasing above, most of the terms need interpretation and approximation of their meaning; all relevant obstacles: such as?, ‘flourishing’ meaning quite what? and ‘release from present suffering’: suffering befalling due to earthquakes, for instance, or suffering inflicted by human beings on other human beings for reasons of gain? Should utopia be all-encompassing, targeting any conceivable human dissatisfaction with reality, or should it begin its redemptive work with the task of releasing humanity from its self-inflicted present suffering, that is, from the suffering that is owed to cruelty rather than to misfortune and explained through false self-understandings and profit-oriented priorities? Why should redemption and perfection mean absolute sufficiency? Why does sufficiency seem to be legitimately or self-evidently a predicate of perfection? Does this not implicitly rely on a standard western putting the blame on scarcity (Note 3) for suffering that can perfectly be explained by the hierarchical and uneven organization and distribution of natural resources?"
+  }, {
+    "type" : "paragraph",
+    "id" : 108,
+    "page number" : 7,
+    "bounding box" : [ 70.921, 189.269, 524.608, 452.304 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Thus, in my opinion, a defensible idea of redemption is not as quantitatively holistic as to meet all the unqualified priorities and dreams of the western thought that parade as constitutive components of perfection. Like Cooke, I also consider perfection as ethically oriented. Unlike Cooke, and unlike some pragmatist educational theorists who understand perfection more or less as Cooke does but differ from her in that they dismiss it far more fervently, I have a notion of perfection that concerns less holistic and more attainable change. Utopian education concerns a perfection that is not all-encompassing: it does not depend on perfectibilities other than those involved in drawing the student into something better and in demanding from society to offer the grounds for approximating this goal. In seeing perfection in this way, utopia can break with both holistic perfection and neo-pragmatist piecemeal betterment (which is too modest in its educational aspirations). When it comes to possible existential choices and relations we may wish an open society always reshuffled. And it is precisely for nurturing such possibilities that we need a more ambitious and demanding educational goal-setting. But when it comes to unjust treatment of peoples and subjects we would like closure, we would have been perfectly satisfied with a society in which such things would have been archival data of historical concern and future risks to be avoided and to inspire constant vigilance and effort to their opposites. Neither the end-state quality of this particular suggestion, nor the finalism and absolutism of ‘no one lacking educational opportunities anymore’ becoming fact should cause us consternation. But this is now a maximal demand of change, not a minimal one, and a pragmatist ideal differs from a perfectionist one in that it is pleased with less than this maximalism, with less than this kind of perfection. Pathologies that block such perfection are seen by pragmatists who concede much to anti-utopianism as necessary evils of a humanity that cannot change dramatically because of the stumbling block of its supposed insuperable proneness to profit. Then, change acquires the meaning of minimum improvement, an affront to humanity with all the consequent rationalization of harm inflicted upon people."
+  }, {
+    "type" : "paragraph",
+    "id" : 109,
+    "page number" : 7,
+    "bounding box" : [ 70.921, 65.189, 524.537, 184.285 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Now, a deeper engagement with the connection of perfection with a desirable, anti-finalist possibility of contesting the utopian principles that tend to consolidation would show that the political right to contest something and the epistemological task of considering contesting views are not only possible in a utopia but even indispensable to its perfection. A society denying its members the political right to contest its structure would be automatically imperfect. Awareness of this places contestability squarely within any respectable account of utopia. Thus, any educational utopia worthy of the name is not finalist if the latter means that it occludes contestability and revisability. Nevertheless, such a right exerted within a utopia would presuppose epistemology, if it was not to lead to terror. For instance, a specific theory or worldview may contest the desirability or pertinence of the demand that no one should be left uneducated. However, very unlike our societies which take the reality of lack of education for granted (or mitigate it through the supposed inevitability"
+  }, {
+    "type" : "footer",
+    "id" : 110,
+    "page number" : 7,
+    "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 28,
+      "page number" : 7,
+      "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "28"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 111,
+    "page number" : 8,
+    "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 39,
+      "page number" : 8,
+      "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "www.ccsenet.org/ies International Education Studies Vol. 6, No. 2; 2013"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 113,
+    "page number" : 8,
+    "bounding box" : [ 70.92, 617.247, 524.624, 736.283 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "of some remaining uneducated), a perfect society would demand nothing less than perfect reasons expected to prove the supposed validity of such contesting views. Finally, the rejection of the thesis of radical evil does not amount to the eradication of evil acts as an always possible response to various and mutable situations in the course of life. It amounts only to a rejection of their ontologization. That human nature as ethically neutral does not predetermine evil as an inescapable natural part of our identity supposedly setting insuperable limits to goodness in no way secures that evil as unreflective and harmful response to the vagaries of life and the stakes of intersubjectivity will be kept at bay. Time cannot be arrested; change is thus inherent in any community within time; change of conditions might be ethically neutral but it activates ethics by creating different situations that demand response and handling. A perfect society or an education oriented to perfectibility is not judged as a motionless picture but, on the contrary, as a world in motion."
+  }, {
+    "type" : "paragraph",
+    "id" : 114,
+    "page number" : 8,
+    "bounding box" : [ 70.92, 469.288, 526.991, 612.324 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "In a perfect society where, amongst other things, the human cruelty that produces the reality of starved, oppressed, uneducated people has been overcome, existential misfortune will still remain. The reason for this is that misfortune is not a social imperfection but rather a constitutive part of being a spatiotemporal entity and, as such, it is the frame within which the very challenge to reach and maintain social perfection takes place. As Cooke herself remarks, ‘whereas finalists see absolute and final knowledge as a human possibility, fallibilists maintain that even propositions that are rationally justified can turn out to be false in the light of new experiences, evidence, etc’ (Cooke, 2004, p. 426, fn 5). Is the only finalism that she allows, then, the finalism of knowing that human beings are anthropologically beset so radically by evil that they can never attain a regulative idea? Why not opting to be a fallibilist on that too? An immediate answer might be that there is no evidence pointing in that direction at all. But this is precisely the point: that holding such views blocks the very possibility of trying to produce the evidence. Evidence regarding human affairs is not to be found out there; it is not discovered. It is created, moulded, sculpted point by point."
+  }, {
+    "type" : "paragraph",
+    "id" : 115,
+    "page number" : 8,
+    "bounding box" : [ 70.92, 441.268, 524.564, 464.304 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Therefore, it is precisely the awareness of the finitude of knowledge that sets in question the absolute certainty that what is humanly possible is transparent to us."
+  }, {
+    "type" : "paragraph",
+    "id" : 116,
+    "page number" : 8,
+    "bounding box" : [ 70.919, 305.248, 524.512, 436.284 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Thus, if we feel that we cannot know everything (although the human capacity for accumulated knowledge can be stretched well beyond the limits ordinary life sets) for reasons of finitude and the short human life span, equally, we must stretch this assumption of unknowability to its ultimate conclusions: we cannot know human nature or suppose the immutability of human nature to such an extent as to endorse anti-utopian rejections of a radical pedagogy. Awareness of epistemological finitude and awareness of ignorance may even be especially ethically enabling because it makes us cautious to avoid self-righteousness, inquisitive and ready to reconsider our position in the face of new evidence, not to stick doggedly to it. In simpler words, a utopian ethico-political education should not dream of a society in which such a level of transparency and automatism has been reached that people never quarrel or disagree. But it should dream of a society in which students learn at school to handle quarrel in reflective ways and where all possibilities of dealing with it constructively and not violently would be open (reconciliation, parting of the ways, legality)."
+  }, {
+    "type" : "heading",
+    "id" : 117,
+    "level" : "Subtitle",
+    "page number" : 8,
+    "bounding box" : [ 70.919, 289.289, 128.75, 300.385 ],
+    "heading level" : 2,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "6. Conclusion"
+  }, {
+    "type" : "paragraph",
+    "id" : 118,
+    "page number" : 8,
+    "bounding box" : [ 70.919, 213.269, 524.61, 284.305 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "The assumption of human nature as a historical construction that varies according to the shaping it receives by means of human praxis rules out the essentialist accommodation of ethical obstacles to perfectibility. The way we describe humanity has implications for the way we understand (and can take seriously) educational ideals. Many liberal and neopragmatist thinkers and educators concede too much to the anti-utopian current. Instead, what is required by contemporary utopianism is to be less defensive regarding anti-utopianist anthropological alibis of the existent."
+  }, {
+    "type" : "paragraph",
+    "id" : 119,
+    "page number" : 8,
+    "bounding box" : [ 70.919, 113.249, 524.552, 208.285 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Utopian education needs the development of a more nuanced and anti-essentialist account of anthropology. It is crucial for philosophy of education to uncover problems related to the depiction of the self in its relation to the world that inform tacitly the current, still largely reluctant, reception of utopian thought in education. The dominant, faulty anthropology of what counts as human impediment has led to suggestions of pragmatist or realistic conceptions of utopia in education that blunt the normative and critical force of the concept ‘utopia’. The outcome is that a venture such as education, which presupposes the pliability of humanity and is placed in a better position to help people shape themselves into a beautiful existence, relinquishes its creative aspirations and rights."
+  }, {
+    "type" : "paragraph",
+    "id" : 120,
+    "page number" : 8,
+    "bounding box" : [ 70.919, 61.229, 524.677, 108.326 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "To what extent, however, would students be free to shape themselves in a thoroughly transformative educational context? True, human freedom as constant creative reaction to empirical reality precludes a totalizing and non-revisable determination of utopian contents (Cooke, 2004, p. 421). Education should not be seen as a behaviourist pre-programming of future citizens for the sake of a detailed and fixed utopian conditioning. But"
+  }, {
+    "type" : "footer",
+    "id" : 121,
+    "page number" : 8,
+    "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 29,
+      "page number" : 8,
+      "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "29"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 122,
+    "page number" : 9,
+    "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 40,
+      "page number" : 9,
+      "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "www.ccsenet.org/ies International Education Studies Vol. 6, No. 2; 2013"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 124,
+    "page number" : 9,
+    "bounding box" : [ 70.92, 569.247, 524.587, 736.283 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Cooke´s apposite remark can be directed at the opposite side too. It is precisely freedom that pushes thought in the direction of utopia and offers it some minimal determinacy. Freedom in various shapes has a special position in an ethico-political account of the desirable world and justifies a strong transformative education rather than exposing it as restrictive. Justice demands much freedom: freedom from prejudice of all sorts, e.g., from the prejudice that is responsible for the neglect of human finality as well as from the exaggeration of the limits finality sets on human agency (epistemological sphere); freedom from anger, vindictiveness, indifference and callousness (emotive sphere); freedom from contingent societal interpretations of what counts as right and from uncritical, unreflective attachment to tradition and convention more generally (social sphere); freedom from the imposed and early cultivated self-image that permits you to find rationalizations and excuses for tolerating or condoning the wrong suffered by others (psychological sphere); freedom from socially built, thetic aspirations of power and domination (political sphere); and freedom from the kind of laziness mixed with indifference (existential sphere) that makes you bypass all the necessary research and information that is needed if you are to have a better picture of a case that invites justice. Education as it is now is, to an important degree, responsible for the under-development of such freedoms."
+  }, {
+    "type" : "paragraph",
+    "id" : 125,
+    "page number" : 9,
+    "bounding box" : [ 70.92, 373.288, 524.601, 564.324 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Consequently, the task of a more critical education would be redemptive also in the sense of cultivating freedoms such as the above. Critical social theory ‘seeks to liberate human beings from the social chains that bind them by showing them how certain social mechanisms and institutions prevent them from fulfilling their potentials as human beings, and by drawing attention to the essential contingency of these social arrangements’ (Cooke, 2004, p. 418). Utopia can be recruited so as to produce the corrective effect of revealing the faulty assumptions that lie behind the resilience of such social arrangements. Utopia has a special relation to the kind of education needed for such reconsideration because by extending what is ethically humanly possible, by revisiting dominant anthropologies, it mobilizes a cognitive transformation that is prior to action for change. For those affected by a situation and, therefore, rightfully allocated space in dialogue concerning that specific situation, must first become able to see what attached them to the harmful social mechanisms and to see the harm involved in the bad faith underlying their anthropological despondency. If utopia as a thought experiment has so far been conceived as putting the question: ‘how would social reality look if we reconfigure it in radical and improved terms and from a different position than is normally adopted?’ (Halpin, 2001, p. 311), the anthropological point of departure of this article formulates this question somewhat differently. How the world would be if our conceptions of ourselves were different, offering us a different position than is normally adopted and making constant demands on us by reminding us of what we might universally be capable of?"
+  }, {
+    "type" : "paragraph",
+    "id" : 126,
+    "page number" : 9,
+    "bounding box" : [ 70.92, 321.628, 524.426, 366.385 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "References Berlin, I. (1991). The Crooked Timber of Humanity. London: Fontana. Callan, E. (1999). A Note on Patriotism and Utopianism: Response to Schrag, Studies in Philosophy and"
+  }, {
+    "type" : "paragraph",
+    "id" : 127,
+    "page number" : 9,
+    "bounding box" : [ 70.921, 265.588, 524.547, 320.785 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Education, 18, 197-201. http://dx.doi.org/10.1023/A:1005142220858 Cho, D. (2006). Thanatos and Civilization: Lacan, Marcuse, and the death drive. Policy Futures in Education, 4(1), 18-30. http://dx.doi.org/10.2304/pfie.2006.4.1.18 Cooke, M. (2004). Redeeming Redemption: the utopian dimension of critical social theory. Philosophy & Social"
+  }, {
+    "type" : "paragraph",
+    "id" : 128,
+    "page number" : 9,
+    "bounding box" : [ 70.921, 205.588, 524.505, 264.745 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Criticism, 30(4), 413-429. http://dx.doi.org/10.1177/0191453704044026 Dahrendorf, R. (1967). Society and Democracy in Germany. N. York: Doubleday Anchor. Dawson, D. (1992). Cities of the Gods: Communist Utopias in Greek Thought. Oxford: Oxford University Press. Demetrion, G. (2001). Reading Giroux Through a Deweyan Lens: pushing utopia to the outer edge. Educational"
+  }, {
+    "type" : "paragraph",
+    "id" : 129,
+    "page number" : 9,
+    "bounding box" : [ 70.921, 109.649, 524.515, 204.745 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Philosophy and Theory, 33(1), 57-76. http://dx.doi.org/10.1111/j.1469-5812.2001.tb00254.x Dews, P. (2006). States of Grace: The Excess of the Demand in Badiou´s Ethics of Truths. In P. Hallward (Ed.), Think Again: Alain Badiou and the Future of Philosophy (pp. 106-119), London and N. York, Continuum. Formosa, P. (2007). Kant on the Radical Evil of Human Nature. The Philosophical Forum, 38(3), 221-245. http://dx.doi.org/10.1111/j.1467-9191.2007.00265.x Giroux, H. (2003). Dystopian Nightmares and Educated Hopes: the return of the pedagogical and the promise of democracy. Policy Futures in Education, 1(3), 467-487. http://dx.doi.org/10.2304/pfie.2003.1.3.3"
+  }, {
+    "type" : "list",
+    "id" : 130,
+    "level" : "1",
+    "page number" : 9,
+    "bounding box" : [ 70.92, 81.687, 524.44, 104.725 ],
+    "numbering style" : "english letters",
+    "number of list items" : 1,
+    "next list id" : 134,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 70.92, 81.687, 524.44, 104.725 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.02,
+      "text color" : "[0.0]",
+      "content" : "Halpin, D. (2001a). Hope, Utopianism and Educational Management. Cambridge Journal of Education, 31(1), 103-118. http://dx.doi.org/10.1080/03057640125603",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 131,
+    "page number" : 9,
+    "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 30,
+      "page number" : 9,
+      "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "30"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 132,
+    "page number" : 10,
+    "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 41,
+      "page number" : 10,
+      "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "www.ccsenet.org/ies International Education Studies Vol. 6, No. 2; 2013"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 134,
+    "level" : "1",
+    "page number" : 10,
+    "bounding box" : [ 70.92, 713.247, 524.488, 736.283 ],
+    "numbering style" : "english letters",
+    "number of list items" : 1,
+    "previous list id" : 130,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 70.92, 713.247, 524.488, 736.283 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.02,
+      "text color" : "[0.0]",
+      "content" : "Halpin, D. (2001b). Utopianism and Education: the Legacy of Thomas More. British Journal of Educational Studies, 49(3), 299-315. http://dx.doi.org/10.1111/1467-8527.t01-1-00177",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 135,
+    "page number" : 10,
+    "bounding box" : [ 70.92, 697.227, 524.552, 708.323 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Halpin, D. (2003). Hope and Education: The Role of the Utopian Imagination. London and New York:"
+  }, {
+    "type" : "paragraph",
+    "id" : 136,
+    "page number" : 10,
+    "bounding box" : [ 70.921, 637.227, 524.499, 696.383 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Routledge Farmer. http://dx.doi.org/10.4324/9780203468012 Jameson, F. (2004). The Politics of Utopia. New Left Review, 25, 35-54. Kant, I. (1992). Political Writings. Ed. H. Reiss. Cambridge: Cambridge University Press. Lassman, P. (2003). Political Theory as Utopia. History of the Human Sciences, 16(1), 49-62."
+  }, {
+    "type" : "paragraph",
+    "id" : 137,
+    "page number" : 10,
+    "bounding box" : [ 70.922, 569.247, 524.596, 636.384 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "http://dx.doi.org/10.1177/0952695103016001005 Leonardo, Z. (2003). Reality on Trial: notes on ideology, education, and utopia. Policy Futures in Education, 1(3), 504-525. http://dx.doi.org/10.2304/pfie.2003.1.3.5 Levitas, R. (2004). Beyond Bourgeois Right: Freedom, Equality and Utopia in Marx and Morris. The European Legacy, 9(5), 605-618. http://dx.doi.org/10.1080/1084877042000306370"
+  }, {
+    "type" : "list",
+    "id" : 138,
+    "level" : "2",
+    "page number" : 10,
+    "bounding box" : [ 70.922, 513.268, 524.507, 564.324 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 70.922, 541.288, 524.507, 564.324 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.02,
+      "text color" : "[0.0]",
+      "content" : "Lewis, T. (2006). Utopia and Education in Critical Theory. Policy Futures in Education, 4(1), 6-17. http://dx.doi.org/10.2304/pfie.2006.4.1.6",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 70.922, 513.268, 524.505, 536.304 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.02,
+      "text color" : "[0.0]",
+      "content" : "Lewis, T. (2007). Biopolitical Utopianism in Educational Theory. Educational Philosophy and Theory. http://dx.doi.org/10.1111/j.1469-5812.2007.00316.x",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 139,
+    "page number" : 10,
+    "bounding box" : [ 70.922, 461.248, 524.58, 508.284 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Menon, P. (2011). Educare Everywhere: exploring character education. Ontario: Queen’s University. Retrieved September 25, 2012, from http://qspace.library.queensu.ca/jspui/bitstream/1974/6445/1/Prateep%20Menon%20-%20Educare%20ever ywhere%20-%20Final%20Project.pdf"
+  }, {
+    "type" : "paragraph",
+    "id" : 140,
+    "page number" : 10,
+    "bounding box" : [ 70.921, 445.228, 524.546, 456.324 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Milojevic, I. (2003). Hegemonic and Marginalised Educational Utopias in the Contemporary Western World."
+  }, {
+    "type" : "paragraph",
+    "id" : 141,
+    "page number" : 10,
+    "bounding box" : [ 70.921, 385.228, 524.473, 444.384 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Policy Futures in Education, 1(3), 440-466. http://dx.doi.org/10.2304/pfie.2003.1.3.2 Nagel, T. (1991). Equality and Partiality. N. York: Oxford University Press. Norris, C. (1991). Spinoza and the Origins of Modern Critical Theory. Oxford: Blackwell. Olssen, M. (2003). Totalitarianism and the “Repressed” Utopia of the Present: moving beyond Hayek, Popper"
+  }, {
+    "type" : "paragraph",
+    "id" : 142,
+    "page number" : 10,
+    "bounding box" : [ 90.901, 373.288, 489.441, 384.385 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "and Foucault. Policy Futures in Education, 1(3), 526-552. http://dx.doi.org/10.2304/pfie.2003.1.3.6"
+  }, {
+    "type" : "list",
+    "id" : 143,
+    "level" : "3",
+    "page number" : 10,
+    "bounding box" : [ 70.92, 317.248, 524.563, 368.304 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 70.92, 345.268, 524.563, 368.304 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.02,
+      "text color" : "[0.0]",
+      "content" : "Papastephanou, M. (2008a). Dystopian Reality, Utopian Thought and educational Practice. Studies in Philosophy and Education, 27, 89-102. http://dx.doi.org/10.1007/s11217-007-9092-9",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 70.92, 317.248, 524.48, 340.285 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.02,
+      "text color" : "[0.0]",
+      "content" : "Papastephanou, M. (2008b). Hesiod the Cosmopolitan: utopian and dystopian discourse and ethico-political education. Ethics and Education, 3(2), 89-105. http://dx.doi.org/10.1080/17449640802439329",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 144,
+    "page number" : 10,
+    "bounding box" : [ 70.918, 285.208, 524.503, 312.385 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Papastephanou, M. (2009). Educated Fear and Educated Hope. Rotterdam: Sense Publishers. PMid:19259941 Passerini, L. (2002). “Utopia” and Desire. Thesis Eleven, 68, 11-30."
+  }, {
+    "type" : "paragraph",
+    "id" : 145,
+    "page number" : 10,
+    "bounding box" : [ 70.918, 257.188, 524.489, 284.365 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "http://dx.doi.org/10.1177/0725513602068001002 Peters, M. A., & Humes, W. (2003). Educational Futures: utopias and heterotopias. Policy Futures in Education,"
+  }, {
+    "type" : "paragraph",
+    "id" : 146,
+    "page number" : 10,
+    "bounding box" : [ 70.917, 197.187, 524.461, 256.345 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "1(3), 428-439. http://dx.doi.org/10.2304/pfie.2003.1.3.1 Popper, K. (1957). The Poverty of Historicism. Boston, MA: Beacon Press. Ricoeur, P. (1997). L´Idéologie et L´Utopie. Paris: Éditions du Seuil. Scruton, R. (2003). In Defence of the Nation. In D. Matravers and J. Pike (Eds.), Debates in Contemporary"
+  }, {
+    "type" : "paragraph",
+    "id" : 147,
+    "page number" : 10,
+    "bounding box" : [ 70.918, 85.287, 524.508, 196.343 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Political Philosophy (pp. 271-285). London: Routledge and Open University. Stewart-Harawira, M. (2003). Cultural Studies, Indigenous Knowledge and Pedagogies of Hope. Policy Futures in Education, 1(3), 153-163. Suissa, J. (2004). Vocational Education: a social anarchist perspective. Policy Futures in Education, 2(1), 14-30. http://dx.doi.org/10.2304/pfie.2004.2.1.3 Turner, C. (2003). Mannheim’s Utopia Today. History of the Human Sciences, 16(1), 27-47. http://dx.doi.org/10.1177/0952695103016001004 Von Hayek, F. (1944). The Road to Serfdom. London: Routledge and Kegan Paul."
+  }, {
+    "type" : "footer",
+    "id" : 148,
+    "page number" : 10,
+    "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 31,
+      "page number" : 10,
+      "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "31"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 149,
+    "page number" : 11,
+    "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 42,
+      "page number" : 11,
+      "bounding box" : [ 70.92, 757.987, 524.517, 767.954 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "www.ccsenet.org/ies International Education Studies Vol. 6, No. 2; 2013"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 151,
+    "level" : "Subtitle",
+    "page number" : 11,
+    "bounding box" : [ 70.92, 725.247, 94.866, 736.343 ],
+    "heading level" : 2,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 10.02,
+    "text color" : "[0.0]",
+    "content" : "Notes"
+  }, {
+    "type" : "list",
+    "id" : 152,
+    "level" : "4",
+    "page number" : 11,
+    "bounding box" : [ 70.92, 617.247, 527.871, 720.323 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 70.92, 673.287, 527.871, 720.323 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.02,
+      "text color" : "[0.0]",
+      "content" : "Note 1. Anti-utopian is largely the kind of political discourse that treats utopias as pernicious visions, condemns ideas of radical change, avoids experiments with collective life and defends the reproduction (material, symbolic) of society or, at most, the modest, minimal betterment of conditions of political life (for more, see Papastephanou, 2009).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 70.92, 645.267, 524.579, 668.303 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.02,
+      "text color" : "[0.0]",
+      "content" : "Note 2. Freud´s theory of civilization is remarkably similar to this Hobbesian idea but this is beside the point here. For more on this, see Papastephanou (2009).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 70.92, 617.247, 524.472, 640.283 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.02,
+      "text color" : "[0.0]",
+      "content" : "Note 3. For a pertinent discussion of how Marcuse challenges the ideological employment of scarcity by those who wish to justify inequality, see Cho (2006, p. 21).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 153,
+    "page number" : 11,
+    "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 32,
+      "page number" : 11,
+      "bounding box" : [ 293.16, 35.947, 302.16, 45.914 ],
+      "heading level" : 3,
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.0,
+      "text color" : "[0.0]",
+      "content" : "32"
+    } ]
+  } ]
+}

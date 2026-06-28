@@ -1,0 +1,243 @@
+{
+  "file name" : "Edwards_2019_Utopia_and_the_Contemporary_British_Novel.pdf",
+  "number of pages" : 3,
+  "author" : "Edwards, Caroline",
+  "title" : "Utopia and the contemporary British novel",
+  "creation date" : "D:20190906121448-01'00'",
+  "modification date" : "D:20190906121448-01'00'",
+  "kids" : [ {
+    "type" : "image",
+    "id" : 10,
+    "page number" : 1,
+    "bounding box" : [ 28.147, 0.0, 567.129, 841.89 ]
+  }, {
+    "type" : "heading",
+    "id" : 5,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 98.015, 689.778, 467.04, 789.863 ],
+    "heading level" : 1,
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 27.0,
+    "text color" : "[0.0]",
+    "content" : "UTOPIA AND THE CONTEMPORARY BRITISH NOVEL"
+  }, {
+    "type" : "heading",
+    "id" : 6,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 204.91, 619.071, 365.985, 640.112 ],
+    "heading level" : 2,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 19.0,
+    "text color" : "[0.0]",
+    "content" : "caro line Edwards"
+  }, {
+    "type" : "paragraph",
+    "id" : 7,
+    "page number" : 1,
+    "bounding box" : [ 240.005, 600.227, 338.514, 610.194 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.0,
+    "text color" : "[0.0]",
+    "content" : "Birkbeck College, London"
+  }, {
+    "type" : "heading",
+    "id" : 8,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 249.02, 149.995, 369.356, 171.036 ],
+    "heading level" : 2,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 19.0,
+    "text color" : "[0.0]",
+    "content" : "CAMBRIDGE"
+  }, {
+    "type" : "paragraph",
+    "id" : 9,
+    "page number" : 1,
+    "bounding box" : [ 249.664, 139.222, 366.861, 152.511 ],
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "UNIVERSITY PRESS"
+  }, {
+    "type" : "image",
+    "id" : 15,
+    "page number" : 2,
+    "bounding box" : [ 28.147, 0.0, 567.129, 841.89 ]
+  }, {
+    "type" : "heading",
+    "id" : 11,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 254.172, 722.094, 327.008, 743.135 ],
+    "heading level" : 2,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 19.0,
+    "text color" : "[0.0]",
+    "content" : "Contents"
+  }, {
+    "type" : "heading",
+    "id" : 12,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 77.087, 603.76, 496.196, 619.264 ],
+    "heading level" : 3,
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 14.0,
+    "text color" : "[0.0]",
+    "content" : "Acknowledgements page ix"
+  }, {
+    "type" : "list",
+    "id" : 13,
+    "level" : "1",
+    "page number" : 2,
+    "bounding box" : [ 80.95, 126.748, 499.908, 586.747 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 80.95, 557.512, 496.965, 586.747 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 14.0,
+      "text color" : "[0.0]",
+      "content" : "1. Introduction : Daily into the Blue i Ours Is a Time of Profound Unevenness 5",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 1,
+        "page number" : 2,
+        "bounding box" : [ 101.235, 530.147, 497.314, 554.24 ],
+        "font" : "TimesNewRomanPSMT",
+        "font size" : 11.0,
+        "text color" : "[0.0]",
+        "content" : "Of Whom and What Are We Contemporaries ? 12 Blue: The Colour of Distance 16"
+      }, {
+        "type" : "paragraph",
+        "id" : 2,
+        "page number" : 2,
+        "bounding box" : [ 100.269, 468.977, 497.314, 525.265 ],
+        "font" : "TimesNewRomanPSMT",
+        "font size" : 11.0,
+        "text color" : "[0.0]",
+        "content" : "A Shiver in the Spine 19 Fictions of the Not Yet 23 Something ’s Missing 25 Three Horizons : A Note on Method 29"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 81.272, 398.793, 497.314, 457.969 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 14.0,
+      "text color" : "[0.0]",
+      "content" : "2. Reading Fictions of the Not Yet 34 Reading Utopia 35 Reading Time 47 From the Contemporary to Non -Contemporaneity 69",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 81.272, 358.549, 495.484, 388.428 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 14.0,
+      "text color" : "[0.0]",
+      "content" : "3. Death: Moments of Possibility 76 Utopia and Death : An Essential Relationship ? 77",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 3,
+        "page number" : 2,
+        "bounding box" : [ 100.913, 332.15, 496.026, 356.243 ],
+        "font" : "TimesNewRomanPSMT",
+        "font size" : 11.0,
+        "text color" : "[0.0]",
+        "content" : "The Love That Is Stronger than Death 80 The Dance of Death in the Loveliest Place on Earth 82"
+      }, {
+        "type" : "paragraph",
+        "id" : 4,
+        "page number" : 2,
+        "bounding box" : [ 100.591, 255.205, 397.381, 326.624 ],
+        "font" : "TimesNewRomanPSMT",
+        "font size" : 11.0,
+        "text color" : "[0.0]",
+        "content" : "Giving Voice to the Dead : Ali Smith ’s Hotel World 86 Miraculous Cosmological Time : Grace McCleen ’s The Land of Decoration 94 Arresting the Time of Death :Jon McGregor ’s If Nobody Speaks ofRemarkable Things 104"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 80.95, 126.748, 499.908, 244.84 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 14.0,
+      "text color" : "[0.0]",
+      "content" : "4. Transmigration : Networking Utopian Times 114 Our Brief Time and the Historical Time We Cannot Live 114 Networked Times 117 Towards a Networked Art Form : Hari Kunzru ’s Gods Without Men 119 A Matryoshka Doll of Painted Moments : David Mitchell ’s Cloud Atlas and The Bone Clocks 131 ‘A Moment of Gory Apotheosis ’: Birth as a Wormhole in Time in Joanna Ravenna ’s The Birth of Love 142",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 14,
+    "page number" : 2,
+    "bounding box" : [ 280.573, 94.553, 292.186, 106.735 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.0,
+    "text color" : "[0.0]",
+    "content" : "vii"
+  }, {
+    "type" : "image",
+    "id" : 20,
+    "page number" : 3,
+    "bounding box" : [ 28.147, 0.0, 567.129, 841.89 ]
+  }, {
+    "type" : "heading",
+    "id" : 16,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 98.659, 792.181, 331.304, 806.577 ],
+    "heading level" : 4,
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 13.0,
+    "text color" : "[0.0]",
+    "content" : "viii Contents"
+  }, {
+    "type" : "list",
+    "id" : 17,
+    "level" : "2",
+    "page number" : 3,
+    "bounding box" : [ 101.557, 632.817, 520.844, 775.992 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 102.201, 659.569, 520.844, 775.992 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 13.0,
+      "text color" : "[0.0]",
+      "content" : "5. Apocalypse : Co -evolutionary Futures 154 Natural Historical Time 155 Apocalypse: The Arcadian Revenge? 157 Pastoral Post-Apocalypticism 160 An Ambiguous Pastoral Epiphany : Claire Fuller’s Our Endless Numbered Days 163 The Problem of Temporal Exteriority : Maggie Gee’s The Flood 175 The Present as History :Jim Crace’s The Pestbouse 186",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 101.557, 632.817, 517.405, 647.214 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 13.0,
+      "text color" : "[0.0]",
+      "content" : "6. Epilogue : World as Home 197",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 18,
+    "page number" : 3,
+    "bounding box" : [ 120.231, 607.414, 517.946, 631.186 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.0,
+    "text color" : "[0.0]",
+    "content" : "Joined -Up Thinking 199 The Final State of Nature 201"
+  }, {
+    "type" : "paragraph",
+    "id" : 19,
+    "page number" : 3,
+    "bounding box" : [ 98.015, 537.521, 190.311, 585.4 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "Notes 205 Bibliography 239 Index 254"
+  } ]
+}

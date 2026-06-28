@@ -1,0 +1,488 @@
+{
+  "post_id": 3180,
+  "url": "https://www.robhopkins.net/2026/06/22/final-stops-earth-in-transition-and-festic/",
+  "title": "Final stops: Earth in Transition and Fest&#8217;IC",
+  "date": "2026-06-22T08:48:01",
+  "practices": [
+    {
+      "practice_name": "Earth in Transition",
+      "location": {
+        "value": "Abbaye de Fontmorigny, near Bourges, France",
+        "evidence": "I was on my way to \u2018Earth in Transition\u2019, a 3 day event at Abbaye de Fontmorigny, near Bourges, a stunningly beautiful medieval abbey complex."
+      },
+      "temporal_nature": {
+        "value": "seasonal",
+        "explanation": "The gathering is explicitly defined as a 3-day summer solstice gathering, indicating it is tied to seasonal cycles.",
+        "evidence": "Earth in Transition is described as \u201ca 3-day summer solstice gathering where young people come together to imagine and build a better future\u201d."
+      },
+      "social_economic_political_settings": {
+        "S1_economic_development": {
+          "value": null,
+          "evidence": null
+        },
+        "S2_demographic_trends": {
+          "value": null,
+          "evidence": null
+        },
+        "S3_political_stability": {
+          "value": null,
+          "evidence": null
+        },
+        "S4_government_resource_policies": {
+          "value": null,
+          "evidence": null
+        },
+        "S5_market_incentives": {
+          "value": null,
+          "evidence": null
+        },
+        "S6_media_organization": {
+          "value": null,
+          "evidence": null
+        }
+      },
+      "resource_systems": {
+        "RS1_sector": {
+          "value": null,
+          "evidence": null
+        },
+        "RS2_clarity_of_system_boundaries": {
+          "value": null,
+          "evidence": null
+        },
+        "RS3_size_of_resource_system": {
+          "value": null,
+          "evidence": null
+        },
+        "RS4_human_constructed_facilities": {
+          "value": "Medieval abbey complex and a dilapidated old church",
+          "evidence": "Abbaye de Fontmorigny, near Bourges, a stunningly beautiful medieval abbey complex... The setting, in a dilapidated old church, was absolutely gorgeous"
+        },
+        "RS5_productivity_of_system": {
+          "value": null,
+          "evidence": null
+        },
+        "RS6_equilibrium_properties": {
+          "value": null,
+          "evidence": null
+        },
+        "RS7_predictability_of_system_dynamics": {
+          "value": null,
+          "evidence": null
+        },
+        "RS8_storage_characteristics": {
+          "value": null,
+          "evidence": null
+        },
+        "RS9_location": {
+          "value": null,
+          "evidence": null
+        }
+      },
+      "resource_units": {
+        "RU1_resource_unit_mobility": {
+          "value": null,
+          "evidence": null
+        },
+        "RU2_growth_or_replacement_rate": {
+          "value": null,
+          "evidence": null
+        },
+        "RU3_interaction_among_resource_units": {
+          "value": null,
+          "evidence": null
+        },
+        "RU4_economic_value": {
+          "value": null,
+          "evidence": null
+        },
+        "RU5_number_of_units": {
+          "value": null,
+          "evidence": null
+        },
+        "RU6_distinctive_markings": {
+          "value": null,
+          "evidence": null
+        },
+        "RU7_spatial_and_temporal_distribution": {
+          "value": null,
+          "evidence": null
+        }
+      },
+      "governance_systems": {
+        "GS1_government_organizations": {
+          "value": null,
+          "evidence": null
+        },
+        "GS2_nongovernment_organizations": {
+          "value": null,
+          "evidence": null
+        },
+        "GS3_network_structure": {
+          "value": "Coherent networks of action connecting collectives and movements",
+          "evidence": "The movement exists to align intent, translate it into living design, and support its manifestation through coherent networks of action"
+        },
+        "GS4_property_rights_systems": {
+          "value": null,
+          "evidence": null
+        },
+        "GS5_operational_rules": {
+          "value": null,
+          "evidence": null
+        },
+        "GS6_collective_choice_rules": {
+          "value": null,
+          "evidence": null
+        },
+        "GS7_constitutional_rules": {
+          "value": null,
+          "evidence": null
+        },
+        "GS8_monitoring_and_sanctioning_processes": {
+          "value": null,
+          "evidence": null
+        }
+      },
+      "users": {
+        "U1_number_of_users": {
+          "value": null,
+          "evidence": null
+        },
+        "U2_socioeconomic_attributes_of_users": {
+          "value": "Young people, collectives, and movements dedicated to planetary and cultural regeneration",
+          "evidence": "young people come together to imagine and build a better future... the coming together of collectives and movements dedicated to regenerating the Earth, culture, and civilization"
+        },
+        "U3_history_of_use": {
+          "value": null,
+          "evidence": null
+        },
+        "U4_location": {
+          "value": null,
+          "evidence": null
+        },
+        "U5_leadership_entrepreneurship": {
+          "value": "Isabella Vieira (who led the opening ceremony), Rutendo Ngara, and Rob Hopkins",
+          "evidence": "beautiful opening ceremony led by Isabella Vieira rooted in her Indigenous tradition, started with me and Rutendo Ngara in conversation"
+        },
+        "U6_norms_social_capital": {
+          "value": "Aligning shared intent and integrating Indigenous wisdom",
+          "evidence": "overlaps between Indigenous wisdom and networks for change... align intent, translate it into living design, and support its manifestation"
+        },
+        "U7_knowledge_of_SES_mental_models": {
+          "value": null,
+          "evidence": null
+        },
+        "U8_importance_of_resource": {
+          "value": null,
+          "evidence": null
+        },
+        "U9_technology_used": {
+          "value": null,
+          "evidence": null
+        }
+      },
+      "interactions": {
+        "I1_harvesting_levels_of_diverse_users": {
+          "value": null,
+          "evidence": null
+        },
+        "I2_information_sharing_among_users": {
+          "value": "Conversations on overlaps between Indigenous wisdom and change networks",
+          "evidence": "started with me and Rutendo Ngara in conversation about the overlaps between Indigenous wisdom and networks for change in Global North communities."
+        },
+        "I3_deliberation_processes": {
+          "value": "The Earth Council Gathering",
+          "evidence": "Then I was able to be there for the start of the Earth Council Gathering, the beginning of the event\u2019s 3 day process."
+        },
+        "I4_conflicts_among_users": {
+          "value": null,
+          "evidence": null
+        },
+        "I5_investment_activities": {
+          "value": null,
+          "evidence": null
+        },
+        "I6_lobbying_activities": {
+          "value": null,
+          "evidence": null
+        },
+        "I7_self_organizing_activities": {
+          "value": "Collectives and movements self-organizing to regenerate systems",
+          "evidence": "collectives and movements dedicated to regenerating the Earth, culture, and civilization. The movement exists to align intent, translate it into living design..."
+        },
+        "I8_networking_activities": {
+          "value": "Aligning intent and action across networks",
+          "evidence": "support its manifestation through coherent networks of action"
+        }
+      },
+      "outcomes": {
+        "O1_social_performance_measures": {
+          "value": null,
+          "evidence": null
+        },
+        "O2_ecological_performance_measures": {
+          "value": null,
+          "evidence": null
+        },
+        "O3_externalities_to_other_SESs": {
+          "value": null,
+          "evidence": null
+        }
+      },
+      "related_ecosystems": {
+        "ECO1_climate_patterns": {
+          "value": "Roasting summer temperatures",
+          "evidence": "deliciously cool on a roasting day."
+        },
+        "ECO2_pollution_patterns": {
+          "value": null,
+          "evidence": null
+        },
+        "ECO3_flows_into_and_out_of_focal_SES": {
+          "value": null,
+          "evidence": null
+        }
+      }
+    },
+    {
+      "practice_name": "Fest\u2019IC (Festival for Collective Intelligence)",
+      "location": {
+        "value": "Just outside Aix-en-Provence, France",
+        "evidence": "Aix-en-Provence, where I arrived around midnight. I was there to speak at Fest\u2019IC, the Festival for Collective Intelligence hosted just outside the city."
+      },
+      "temporal_nature": {
+        "value": "ephemeral",
+        "explanation": "The event is explicitly described as a 'fleeting oasis' and was the first occurrence of its kind in the country.",
+        "evidence": "It was the first such event in France... a fleeting oasis of fellowship"
+      },
+      "social_economic_political_settings": {
+        "S1_economic_development": {
+          "value": null,
+          "evidence": null
+        },
+        "S2_demographic_trends": {
+          "value": null,
+          "evidence": null
+        },
+        "S3_political_stability": {
+          "value": null,
+          "evidence": null
+        },
+        "S4_government_resource_policies": {
+          "value": null,
+          "evidence": null
+        },
+        "S5_market_incentives": {
+          "value": null,
+          "evidence": null
+        },
+        "S6_media_organization": {
+          "value": null,
+          "evidence": null
+        }
+      },
+      "resource_systems": {
+        "RS1_sector": {
+          "value": null,
+          "evidence": null
+        },
+        "RS2_clarity_of_system_boundaries": {
+          "value": null,
+          "evidence": null
+        },
+        "RS3_size_of_resource_system": {
+          "value": null,
+          "evidence": null
+        },
+        "RS4_human_constructed_facilities": {
+          "value": "Circus big top tent",
+          "evidence": "delivered in an amazing circus big top tent."
+        },
+        "RS5_productivity_of_system": {
+          "value": null,
+          "evidence": null
+        },
+        "RS6_equilibrium_properties": {
+          "value": null,
+          "evidence": null
+        },
+        "RS7_predictability_of_system_dynamics": {
+          "value": null,
+          "evidence": null
+        },
+        "RS8_storage_characteristics": {
+          "value": null,
+          "evidence": null
+        },
+        "RS9_location": {
+          "value": null,
+          "evidence": null
+        }
+      },
+      "resource_units": {
+        "RU1_resource_unit_mobility": {
+          "value": null,
+          "evidence": null
+        },
+        "RU2_growth_or_replacement_rate": {
+          "value": null,
+          "evidence": null
+        },
+        "RU3_interaction_among_resource_units": {
+          "value": null,
+          "evidence": null
+        },
+        "RU4_economic_value": {
+          "value": null,
+          "evidence": null
+        },
+        "RU5_number_of_units": {
+          "value": null,
+          "evidence": null
+        },
+        "RU6_distinctive_markings": {
+          "value": null,
+          "evidence": null
+        },
+        "RU7_spatial_and_temporal_distribution": {
+          "value": null,
+          "evidence": null
+        }
+      },
+      "governance_systems": {
+        "GS1_government_organizations": {
+          "value": null,
+          "evidence": null
+        },
+        "GS2_nongovernment_organizations": {
+          "value": null,
+          "evidence": null
+        },
+        "GS3_network_structure": {
+          "value": null,
+          "evidence": null
+        },
+        "GS4_property_rights_systems": {
+          "value": null,
+          "evidence": null
+        },
+        "GS5_operational_rules": {
+          "value": null,
+          "evidence": null
+        },
+        "GS6_collective_choice_rules": {
+          "value": null,
+          "evidence": null
+        },
+        "GS7_constitutional_rules": {
+          "value": null,
+          "evidence": null
+        },
+        "GS8_monitoring_and_sanctioning_processes": {
+          "value": null,
+          "evidence": null
+        }
+      },
+      "users": {
+        "U1_number_of_users": {
+          "value": null,
+          "evidence": null
+        },
+        "U2_socioeconomic_attributes_of_users": {
+          "value": "Practitioners of collective intelligence",
+          "evidence": "bringing together practitioners of collective intelligence"
+        },
+        "U3_history_of_use": {
+          "value": null,
+          "evidence": null
+        },
+        "U4_location": {
+          "value": null,
+          "evidence": null
+        },
+        "U5_leadership_entrepreneurship": {
+          "value": null,
+          "evidence": null
+        },
+        "U6_norms_social_capital": {
+          "value": "Fellowship, active listening, dialogue, and cooperation",
+          "evidence": "a fleeting oasis of fellowship where our differences become a source of richness for thinking, creating and acting together... listening, engaging in dialogue, cooperating, experimenting"
+        },
+        "U7_knowledge_of_SES_mental_models": {
+          "value": null,
+          "evidence": null
+        },
+        "U8_importance_of_resource": {
+          "value": null,
+          "evidence": null
+        },
+        "U9_technology_used": {
+          "value": null,
+          "evidence": null
+        }
+      },
+      "interactions": {
+        "I1_harvesting_levels_of_diverse_users": {
+          "value": null,
+          "evidence": null
+        },
+        "I2_information_sharing_among_users": {
+          "value": "Workshops, participatory talks, round-table discussions, and presentations",
+          "evidence": "Through workshops, participatory talks and round-table discussions, everyone can explore new ways of working together... I gave a presentation in the morning"
+        },
+        "I3_deliberation_processes": {
+          "value": null,
+          "evidence": null
+        },
+        "I4_conflicts_among_users": {
+          "value": null,
+          "evidence": null
+        },
+        "I5_investment_activities": {
+          "value": null,
+          "evidence": null
+        },
+        "I6_lobbying_activities": {
+          "value": null,
+          "evidence": null
+        },
+        "I7_self_organizing_activities": {
+          "value": null,
+          "evidence": null
+        },
+        "I8_networking_activities": {
+          "value": null,
+          "evidence": null
+        }
+      },
+      "outcomes": {
+        "O1_social_performance_measures": {
+          "value": null,
+          "evidence": null
+        },
+        "O2_ecological_performance_measures": {
+          "value": null,
+          "evidence": null
+        },
+        "O3_externalities_to_other_SESs": {
+          "value": null,
+          "evidence": null
+        }
+      },
+      "related_ecosystems": {
+        "ECO1_climate_patterns": {
+          "value": "Severe heat passing 36 degrees",
+          "evidence": "trying to stay cool on a day that had already passed 36 degrees."
+        },
+        "ECO2_pollution_patterns": {
+          "value": null,
+          "evidence": null
+        },
+        "ECO3_flows_into_and_out_of_focal_SES": {
+          "value": null,
+          "evidence": null
+        }
+      }
+    }
+  ]
+}

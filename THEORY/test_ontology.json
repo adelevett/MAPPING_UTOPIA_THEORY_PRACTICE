@@ -1,0 +1,91 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Digital Education Utopianism/Dystopianism Ontology",
+  "type": "object",
+  "perspectives": [
+    {
+      "perspective_id": "P1",
+      "perspective_name": "Anticipatory Framing of Educational Technology",
+      "perspective_definition": "The psychological and cognitive orientation used to conceptualize future technological impacts on digital education, distinguishing between forward-looking aspiration and cautionary projections.",
+      "categories": [
+        {
+          "category_id": "C1",
+          "category_name": "Anticipatory Consciousness",
+          "category_definition": "A constructive orientation framing future educational technology as an instrument for overcoming socio-economic alienation and achieving democratic educational environments.",
+          "coding_rule": "Apply this code when the text expresses hopeful, emancipatory aspirations, constructive designs, or positive projections of educational technologies.",
+          "anchor_example": "humanity harbors an anticipatory consciousness of a more perfect future. He synthesizes the 'cold stream' of Marxist social and economic analysis with the 'warm stream' of forward-dreaming utopian speculation to define 'concrete utopia'—a vision rooted in material drives to overcome alienation"
+        },
+        {
+          "category_id": "C2",
+          "category_name": "Defamiliarizing Cautionary Warning",
+          "category_definition": "An analytical orientation framing technological integration in education through warnings that highlight the negative extrapolation of current socio-political trends.",
+          "coding_rule": "Apply this code when the text utilizes critical, warning-oriented forecasts to highlight current institutional risks by exaggerating modern digital developments.",
+          "anchor_example": "not a depiction of what will be, but a warning of what might be if contemporary trends continue. By defamiliarizing the familiar, it allows us to see our own social and political practices with fresh, critical eyes"
+        }
+      ]
+    },
+    {
+      "perspective_id": "P2",
+      "perspective_name": "Epistemic Analysis Modes of Digital Critiques",
+      "perspective_definition": "The theoretical methodology and emotional-cognitive lenses utilized to analyze technology and modernity in educational spaces, separating analytical-structural approaches from emotional-affective approaches.",
+      "categories": [
+        {
+          "category_id": "C3",
+          "category_name": "Structural Materialist Analysis",
+          "category_definition": "An objective, socio-economic approach evaluating the physical infrastructures, labor dynamics, and structural policies that shape digital education landscapes.",
+          "coding_rule": "Apply this code when the text discusses political economy, structural inequality, institutional critique, and material conditions of digital environments.",
+          "anchor_example": "synthesizes the 'cold stream' of Marxist social and economic analysis with the 'warm stream' of forward-dreaming utopian speculation to define 'concrete utopia'—a vision rooted in material drives to overcome alienation and achieve a classless, humane society."
+        },
+        {
+          "category_id": "C4",
+          "category_name": "Affective Crisis Analysis",
+          "category_definition": "An emotional and socio-psychological approach evaluating how digital change mobilizes existential anxiety, fear, and power dynamics.",
+          "coding_rule": "Apply this code when the text emphasizes human anxiety, modern fear of technological control, societal collapse, or emotional alienation caused by technological shifts.",
+          "anchor_example": "Fear, my good friends, fear is the very basis and foundation of modern life. Fear of the much touted technology which, while it raises our standard of living, increases the probability of our violently dying."
+        },
+        {
+          "category_id": "C7",
+          "category_name": "Dialectical-Utopian Speculative Analysis",
+          "category_definition": "An epistemic mode of analysis that combines subjective human aspirations (the warm stream of hope) with objective socio-economic trends (the cold stream of materialist analysis) to evaluate emerging educational and technological horizons.",
+          "coding_rule": "Apply this code when the text advocates for or demonstrates a dual-stream analytical framework that evaluates future socio-technical systems by balancing emotional/imaginative human desires with concrete structural conditions.",
+          "anchor_example": "He synthesizes the 'cold stream' of Marxist social and economic analysis with the 'warm stream' of forward-dreaming utopian speculation to define 'concrete utopia'—a vision rooted in material drives to overcome alienation and achieve a classless, humane society."
+        },
+        {
+          "category_id": "C8",
+          "category_name": "Philosophical and Psychoanalytic Diagnosis",
+          "category_definition": "An epistemic lens that employs classic philosophical and psychoanalytic frameworks to analyze the deep-seated psychological repressions, power dynamics, and existential discontents of modern industrial or digital societies.",
+          "coding_rule": "Apply this code when the text relies on philosophical, psychological, or psychoanalytic theory (such as Nietzschean or Freudian critique) to examine the systemic discontents of modernity.",
+          "anchor_example": "Drawing upon the theoretical works of Friedrich Nietzsche and Sigmund Freud, Booker contrasts the optimism of utopian literature with the critical warning systems of dystopias..."
+        },
+        {
+          "category_id": "C9",
+          "category_name": "Historical-Empirical Despotism Analysis",
+          "category_definition": "An epistemic lens that evaluates modern technological crises and societal risks by mapping them against historical instances of real-world authoritarian regimes, despotisms, and physical societal collapses.",
+          "coding_rule": "Apply this code when the text grounds its critique of modern technology or future societal trajectories in empirical historical precedents of despotism and societal collapse, rather than purely fictional or theoretical speculation.",
+          "anchor_example": "broadens the concept of dystopia beyond literary totalitarians to encompass real-world despotisms and societies experiencing collapse."
+        }
+      ]
+    },
+    {
+      "perspective_id": "P3",
+      "perspective_name": "Functional Purpose of Speculative Systems",
+      "perspective_definition": "The pragmatics or active intent behind modeling alternative futures in educational discourse, categorizing them by whether they aim for structural transformation or critical reflexivity.",
+      "categories": [
+        {
+          "category_id": "C5",
+          "category_name": "Concrete Emancipatory Transformation",
+          "category_definition": "Speculative educational projections that aim directly at actively constructing alternatives to current alienating digital practices in order to build actual humane institutions.",
+          "coding_rule": "Apply this code when the focus of the utopian or dystopian vision is to inspire political, pedagogical, or technological agency to actively design a better system.",
+          "anchor_example": "ground a materialist vision of human emancipation in the 'not-yet-conscious' drives toward a better world... a vision rooted in material drives to overcome alienation and achieve a classless, humane society."
+        },
+        {
+          "category_id": "C6",
+          "category_name": "Reflective Social Criticism",
+          "category_definition": "Speculative educational projections whose main function is to defamiliarize and interrogate contemporary institutions, prompting intellectual and policy-level skepticism without proposing physical replacements.",
+          "coding_rule": "Apply this code when the narrative uses speculation to critique the present status quo, generate discourse, or interrogate implicit power structures without presenting a complete alternative framework.",
+          "anchor_example": "allows us to see our own social and political practices with fresh, critical eyes, serving as an indispensable mode of social criticism."
+        }
+      ]
+    }
+  ]
+}

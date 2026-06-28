@@ -1,0 +1,72 @@
+[
+  {
+    "edge_id": "e0",
+    "source": "p1",
+    "target": "P1-C1",
+    "edge_type": "coded_to",
+    "weight": 1.0
+  },
+  {
+    "edge_id": "e1",
+    "source": "p1",
+    "target": "P2-C1",
+    "edge_type": "coded_to",
+    "weight": 0.7
+  },
+  {
+    "edge_id": "e2",
+    "source": "p1",
+    "target": "P3-C1",
+    "edge_type": "coded_to",
+    "weight": 0.5
+  },
+  {
+    "edge_id": "e3",
+    "source": "p2",
+    "target": "P1-C2",
+    "edge_type": "coded_to",
+    "weight": 1.0
+  },
+  {
+    "edge_id": "e4",
+    "source": "p2",
+    "target": "P2-C3",
+    "edge_type": "coded_to",
+    "weight": 0.7
+  },
+  {
+    "edge_id": "e5",
+    "source": "p2",
+    "target": "P3-C2",
+    "edge_type": "coded_to",
+    "weight": 0.5
+  },
+  {
+    "edge_id": "e6",
+    "source": "p3",
+    "target": "P1-C1",
+    "edge_type": "coded_to",
+    "weight": 1.0
+  },
+  {
+    "edge_id": "e7",
+    "source": "p3",
+    "target": "P3-C1",
+    "edge_type": "coded_to",
+    "weight": 0.5
+  },
+  {
+    "edge_id": "e8",
+    "source": "bloch_1986",
+    "target": "P1-C1",
+    "edge_type": "evidences",
+    "weight": 0.8
+  },
+  {
+    "edge_id": "e9",
+    "source": "booker_1994",
+    "target": "P1-C2",
+    "edge_type": "evidences",
+    "weight": 0.8
+  }
+]

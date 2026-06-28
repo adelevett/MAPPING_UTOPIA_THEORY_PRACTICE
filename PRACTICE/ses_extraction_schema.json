@@ -1,0 +1,86 @@
+{
+  "post_id": null,
+  "url": null,
+  "title": null,
+  "date": null,
+  "practices": [
+    {
+      "practice_name": null,
+      "location": { "value": null, "evidence": null },
+      "temporal_nature": {
+        "value": null, 
+        "explanation": "Brief explanation of why it is classified as ephemeral, seasonal, or persistent",
+        "evidence": null
+      },
+      "social_economic_political_settings": {
+        "S1_economic_development": { "value": null, "evidence": null },
+        "S2_demographic_trends": { "value": null, "evidence": null },
+        "S3_political_stability": { "value": null, "evidence": null },
+        "S4_government_resource_policies": { "value": null, "evidence": null },
+        "S5_market_incentives": { "value": null, "evidence": null },
+        "S6_media_organization": { "value": null, "evidence": null }
+      },
+      "resource_systems": {
+        "RS1_sector": { "value": null, "evidence": null },
+        "RS2_clarity_of_system_boundaries": { "value": null, "evidence": null },
+        "RS3_size_of_resource_system": { "value": null, "evidence": null },
+        "RS4_human_constructed_facilities": { "value": null, "evidence": null },
+        "RS5_productivity_of_system": { "value": null, "evidence": null },
+        "RS6_equilibrium_properties": { "value": null, "evidence": null },
+        "RS7_predictability_of_system_dynamics": { "value": null, "evidence": null },
+        "RS8_storage_characteristics": { "value": null, "evidence": null },
+        "RS9_location": { "value": null, "evidence": null }
+      },
+      "resource_units": {
+        "RU1_resource_unit_mobility": { "value": null, "evidence": null },
+        "RU2_growth_or_replacement_rate": { "value": null, "evidence": null },
+        "RU3_interaction_among_resource_units": { "value": null, "evidence": null },
+        "RU4_economic_value": { "value": null, "evidence": null },
+        "RU5_number_of_units": { "value": null, "evidence": null },
+        "RU6_distinctive_markings": { "value": null, "evidence": null },
+        "RU7_spatial_and_temporal_distribution": { "value": null, "evidence": null }
+      },
+      "governance_systems": {
+        "GS1_government_organizations": { "value": null, "evidence": null },
+        "GS2_nongovernment_organizations": { "value": null, "evidence": null },
+        "GS3_network_structure": { "value": null, "evidence": null },
+        "GS4_property_rights_systems": { "value": null, "evidence": null },
+        "GS5_operational_rules": { "value": null, "evidence": null },
+        "GS6_collective_choice_rules": { "value": null, "evidence": null },
+        "GS7_constitutional_rules": { "value": null, "evidence": null },
+        "GS8_monitoring_and_sanctioning_processes": { "value": null, "evidence": null }
+      },
+      "users": {
+        "U1_number_of_users": { "value": null, "evidence": null },
+        "U2_socioeconomic_attributes_of_users": { "value": null, "evidence": null },
+        "U3_history_of_use": { "value": null, "evidence": null },
+        "U4_location": { "value": null, "evidence": null },
+        "U5_leadership_entrepreneurship": { "value": null, "evidence": null },
+        "U6_norms_social_capital": { "value": null, "evidence": null },
+        "U7_knowledge_of_SES_mental_models": { "value": null, "evidence": null },
+        "U8_importance_of_resource": { "value": null, "evidence": null },
+        "U9_technology_used": { "value": null, "evidence": null }
+      },
+      "interactions": {
+        "I1_harvesting_levels_of_diverse_users": { "value": null, "evidence": null },
+        "I2_information_sharing_among_users": { "value": null, "evidence": null },
+        "I3_deliberation_processes": { "value": null, "evidence": null },
+        "I4_conflicts_among_users": { "value": null, "evidence": null },
+        "I5_investment_activities": { "value": null, "evidence": null },
+        "I6_lobbying_activities": { "value": null, "evidence": null },
+        "I7_self_organizing_activities": { "value": null, "evidence": null },
+        "I8_networking_activities": { "value": null, "evidence": null }
+      },
+      "outcomes": {
+        "O1_social_performance_measures": { "value": null, "evidence": null },
+        "O2_ecological_performance_measures": { "value": null, "evidence": null },
+        "O3_externalities_to_other_SESs": { "value": null, "evidence": null }
+      },
+      "related_ecosystems": {
+        "ECO1_climate_patterns": { "value": null, "evidence": null },
+        "ECO2_pollution_patterns": { "value": null, "evidence": null },
+        "ECO3_flows_into_and_out_of_focal_SES": { "value": null, "evidence": null }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2018 @@
+{
+  "file name" : "Wilson_2023_Surveillance_Imaginaries_Learning_from_Participatory_Speculative_Fiction.pdf",
+  "number of pages" : 13,
+  "author" : "Torin Monahan",
+  "title" : "WilsonRoss",
+  "creation date" : "D:20230924215331Z00'00'",
+  "modification date" : "D:20230924215331Z00'00'",
+  "kids" : [ {
+    "type" : "image",
+    "id" : 55,
+    "page number" : 1,
+    "bounding box" : [ 70.9, 698.16, 540.7, 755.76 ]
+  }, {
+    "type" : "paragraph",
+    "id" : 65,
+    "page number" : 1,
+    "bounding box" : [ 180.72, 642.059, 536.866, 681.454 ],
+    "font" : "CenturyGothic",
+    "font size" : 16.08,
+    "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+    "content" : "Surveillance Imaginaries: Learning from Participatory Speculative Fiction"
+  }, {
+    "type" : "heading",
+    "id" : 64,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 74.4, 651.899, 124.37, 671.614 ],
+    "heading level" : 1,
+    "font" : "CenturyGothic-Bold",
+    "font size" : 16.08,
+    "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+    "content" : "Article"
+  }, {
+    "type" : "heading",
+    "id" : 56,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 70.8, 594.295, 344.177, 611.362 ],
+    "heading level" : 2,
+    "font" : "CenturyGothic-Bold",
+    "font size" : 13.92,
+    "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+    "content" : "Anna Wilson Jen Ross"
+  }, {
+    "type" : "paragraph",
+    "id" : 57,
+    "page number" : 1,
+    "bounding box" : [ 70.8, 560.587, 392.411, 580.767 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+    "content" : "University of Glasgow, UK University of Edinburgh, UK anna.wilson.2@glasgow.ac.uk jen.ross@edinburgh.ac.uk"
+  }, {
+    "type" : "heading",
+    "id" : 59,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 70.8, 517.169, 115.487, 530.705 ],
+    "heading level" : 3,
+    "font" : "CenturyGothic-Bold",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Abstract"
+  }, {
+    "type" : "paragraph",
+    "id" : 60,
+    "page number" : 1,
+    "bounding box" : [ 70.8, 419.467, 541.256, 509.487 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Surveillance practices have become increasingly widespread in Higher Education. Students and staff are monitored both physically and digitally, using a range of technologies and for a variety of purposes. Many technologies and systems introduced for other reasons (e.g., for resource sharing, communication, or collaborative work) offer additional surveillance capacities, either as designed-in or incidental features. These surveillance practices, whether already realised or present as possibilities, have the potential to profoundly change Higher Education both as a sector and as a process. There is thus a need for those working (and studying) in the sector to recognise and thus have the opportunity to question or resist these changes. This paper describes an attempt to use participatory speculative fiction to enable this recognition and articulation. It illustrates the power of the surveillance imaginaries that emerge from this approach to reveal deep and complex connections between surveillance, anonymity, knowledge, and power."
+  }, {
+    "type" : "heading",
+    "id" : 61,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 70.8, 376.049, 385.869, 389.585 ],
+    "heading level" : 3,
+    "font" : "CenturyGothic-Bold",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Introduction: Surveillance Technologies in Higher Education"
+  }, {
+    "type" : "paragraph",
+    "id" : 62,
+    "page number" : 1,
+    "bounding box" : [ 70.8, 234.252, 541.297, 368.158 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The prevalence of surveillance practices (Zuboff 2019) in Higher Education (HE) can be associated with the increasing technologisation and datafication of the sector (Beetham et al. 2022). While it might be argued that there has always been an element of surveillance in education, with students’ progress monitored and performance tracked over time, shifts to more digitised practices have increased both potential and actual surveillance. Actors at all levels of the sector are drawn into these practices. Students’ presence and movements in both virtual and physical campuses are increasingly the subject of close monitoring. Staff work patterns and outputs in all spheres of work, from academic to support services, are increasingly recorded and used in appraising individual and institutional performance. The data that allow for surveillance are generated and captured from many sources, including visits to university websites, engagement with institutional learning management systems, assessment submission and outcomes data, library use, extension requests, email traffic, use of software such as Microsoft Teams, and more."
+  }, {
+    "type" : "paragraph",
+    "id" : 63,
+    "page number" : 1,
+    "bounding box" : [ 70.8, 112.572, 541.351, 222.238 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "There are many reasons for the spread of these surveillance practices. A combination of funding pressures, massification, and changes in perceptions of the purposes and social function of HE have led many universities to embrace New Managerialist thinking and practices (Deem 2020) that embed market principles into institutional governance, leading to a belief that the continuous and pervasive collection of data concerning student and staff work practices is essential for the creation of new efficiencies. As state funding decreases in many countries, universities have begun to emulate the corporate world, in particular seeking to adopt Business Intelligence practices (Guster and Brown 2012) in order to identify both business optimisation opportunities and new business opportunities. Data collection and processing have become intrinsic to universities’ knowledge management, strategic planning, institutional decision-making, quality"
+  }, {
+    "type" : "paragraph",
+    "id" : 51,
+    "page number" : 1,
+    "bounding box" : [ 70.8, 35.672, 500.009, 90.773 ],
+    "font" : "CenturyGothic",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+    "content" : "Wilson, Anna, and Jen Ross. 2023. Surveillance Imaginaries: Learning from Participatory Speculative Fiction. Surveillance & Society 21 (3): 304-316. https://ojs.library.queensu.ca/index.php/surveillance-and-society/index | ISSN: 1477-7487 © The author(s), 2023| Licensed to the Surveillance Studies Network under a Creative Commons Attribution Non-Commercial No Derivatives license"
+  }, {
+    "type" : "header",
+    "id" : 67,
+    "page number" : 2,
+    "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 37,
+      "page number" : 2,
+      "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Wilson and Ross: Surveillance Imaginaries"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 68,
+    "page number" : 2,
+    "bounding box" : [ 70.8, 672.012, 541.126, 720.958 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "assurance and enhancement, and efforts to ensure student participation and retention (Bouwma-Gearhart and Collins 2015; Fong and Caldwell 2016). This is resulting in the objectification, quantification, and recording of a very wide range of HE practices, including learning (Beetham et al. 2022; Williamson 2018; Wilson et al. 2017a, 2017b)."
+  }, {
+    "type" : "paragraph",
+    "id" : 69,
+    "page number" : 2,
+    "bounding box" : [ 70.8, 562.572, 541.239, 660.238 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The shift to remote working and remote teaching that occurred during 2020 as a result of the COVID-19 pandemic accelerated the already-existing trend towards increasing digitisation of HE practices and processes. Some of the new practices introduced during this period (such as remote proctoring of exams undertaken in students’ own homes) may be temporary. Others (such as hybrid working and teaching, reduced face-to-face contact hours, and increased attendance monitoring) are likely to be here to stay, as universities identify advantages in what are seen as more flexible and agile ways of working. Not all digital practices have surveillance or monitoring dimensions, but many do, whether as core, design-in, or incidental features and whether realised and acted on or existing as latent possibilities."
+  }, {
+    "type" : "paragraph",
+    "id" : 70,
+    "page number" : 2,
+    "bounding box" : [ 70.8, 306.972, 541.336, 550.798 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "There are several aspects of the surveillance practices emerging in the HE sector that give cause for concern. In this context, surveillance practices are often introduced as a solution to perceived problems, with insufficient consideration for longer term and unintended consequences. Their introduction is treated as a technical and administrative matter, rather than one based on ethical and pedagogical considerations. There seems to be a belief that technologies do only what is asked of them, yet the consequences of introducing them can be “surprising and at odds with their original intent” (Knox 2010: 5). Even the well-meaning use of these tools can have consequences for staff and student privacy, and for relations of trust (Beetham et al. 2022). Equally importantly, the rendering of student and academic activities as data signals a return to a rather behaviourist perspective, which is deeply at odds with models of learning that emphasise conceptual development and social interactions. It raises the risk of valuing what we can measure rather than measuring what we value (Biesta 2009). The management and movement of data raise an additional concern: control over data may be lost as universities increasingly purchase externally provided systems such as Amazon Web Services, and existing power inequalities between data owners/companies and the people whose data are being collected, analysed, managed, and shared may be exacerbated (Caines and Silverman 2021). These practices may create new inequalities emerging from the uneven distribution of knowledge of how to use (and take advantage of) new surveillance capacities. Thus, HE as a sector and as a process risks undergoing profound changes in relation to conceptions of learning and academic work, ownership, and power relations without the acceptance or perhaps even awareness of those working within it. There is thus a need for research that brings some of these issues and risks into the foreground and thus allows the possibility of challenge and resistance."
+  }, {
+    "type" : "paragraph",
+    "id" : 75,
+    "page number" : 2,
+    "bounding box" : [ 70.8, 148.572, 541.351, 295.198 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In this paper, we describe findings from the Data Stories project, which set out to do just this through participatory speculative fiction (Wilson et al. 2022). We first describe speculative fiction and its use in researching surveillance; we explain how our approach builds on and extends existing speculative fiction approaches by temporarily engaging participants as “local” or “community-based” researchers who actively participate in the research process by creating their own speculative futures. We then describe our approach to both eliciting and analysing participant-authored stories, using two detailed examples to illustrate both the analytic process and some of the insights the research has yielded. Our work attempts to pool the creativity and imagination of our participants to generate a collective, if fragmentary, fractured, and at times contradictory, surveillance imaginary. It thus contributes to a growing body of research using creative approaches to surveillance studies, including sava saheli singh’s Screening Surveillance project,1 the 2021 special issue of this journal dedicated to speculative fiction (Cahill and Newell 2021), and the “Dialogue” section of this journal."
+  }, {
+    "type" : "list",
+    "id" : 77,
+    "level" : "1",
+    "page number" : 2,
+    "bounding box" : [ 70.8, 70.54, 238.459, 82.898 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 160,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.8, 70.54, 238.459, 82.898 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.08,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 https://www.screeningsurveillance.com/",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 79,
+    "page number" : 2,
+    "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 25,
+      "page number" : 2,
+      "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Surveillance & Society 21 (3) 305"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 80,
+    "page number" : 3,
+    "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 38,
+      "page number" : 3,
+      "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Wilson and Ross: Surveillance Imaginaries"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 81,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 70.8, 707.249, 328.87, 720.785 ],
+    "heading level" : 3,
+    "font" : "CenturyGothic-Bold",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Speculative Fiction and Surveillance Imaginaries"
+  }, {
+    "type" : "paragraph",
+    "id" : 82,
+    "page number" : 3,
+    "bounding box" : [ 70.8, 492.252, 541.274, 699.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Sociotechnical imaginaries are increasingly recognized as critical drivers of both change and stasis in an increasingly technologized world (see, e.g., Jasanoff and Kim 2015; Sismondo 2020). From popular science fiction to scholarly speculations, the ways we imagine our relationships with technology shape and are shaped by public discourses and expectations (Haraway 2019). The use of technology in education is tied to what Watters (2019) calls the “ed-tech imaginary”: stories that we tell ourselves about the role that educational technology plays in preparing students for the future. Teaching staff and learning technologists are both subject to and generative of ed-tech imaginaries, as they make daily use of the technologies that are already available to them and imagine and enact technology-mediated and technologically-facilitated pedagogies and learning environments. However, both teaching staff and educational technologists may increasingly be employed in precarious, relatively low-status positions within HE. Frequent use of digital collaboration, communication and learning, and teaching technologies and software in both work and leisure contexts may mean that such people are more aware than most of the surveillance capabilities that they are subject to. Such knowledge may render them simultaneously more able to understand and use the technologies available to them and more effectively subject to and suppressed by these technologies. This raises critical questions about how people who work and learn within an environment that is saturated with surveillance capacities, and whose relationship to the instruments of surveillance is ambivalent and ambiguous, can be enabled to talk about surveillance."
+  }, {
+    "type" : "paragraph",
+    "id" : 83,
+    "page number" : 3,
+    "bounding box" : [ 70.8, 334.092, 541.237, 480.238 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "There has been growing interest in the use of speculative fictions to understand the potential social impact of technological developments on education (e.g., Cox 2021; Markham 2021; Priyadharshini 2019; Selwyn et al. 2020). However, as with the use of speculative fictions in surveillance research more broadly (Cahill and Newell 2021), most of this work has involved researchers, rather than participants, in speculation and fiction-writing. From the start of the Data Stories project, we wanted to innovate by shifting authorship of these fictional stories from researchers to research participants. While there is a strong tradition of digital storytelling as a method in qualitative social sciences and arts-based research (see, e.g., De Jager et al. 2017), this has historically been dominated by factual storytelling in which participants are enabled to tell their own stories and have their voices heard. Here, we deliberately sought a way for participants to avoid relating straightforwardly true or factual accounts, to step away from the confessional or the accusatory, which might feel unfair, disloyal, or even risky. Instead, we wanted participants to be able to express themselves by imagining what might happen rather than describing what has happened."
+  }, {
+    "type" : "paragraph",
+    "id" : 84,
+    "page number" : 3,
+    "bounding box" : [ 70.8, 127.212, 541.343, 322.078 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "We aimed to facilitate the creation of short pieces of speculative fiction by teaching staff, learning technologists, and other participants with an interest in the growing use of technologies that might be (or are being) used to exercise some form of surveillance in HE. The aim was to create stories that explored possible futures in order to give expression to perhaps un-recognised hopes, concerns, and fears. Our approach to both story-generation and analysis is grounded in a Deleuzian perspective that focuses on interconnectedness and emergence, conceptualising both encounters between people and ideas/objects, and stories themselves, as assemblages. When people and ideas/objects connect in an assemblage, knowledge and affect flow. These flows may be shaped by lines of articulation (created by well-established patterns of expectation, response, behaviour, and routinized thought) and/or by lines of flight (moments of spontaneous, wild imagination that may open up new possibilities but also risk chaos). The interaction between these lines of articulation and flight creates opportunities for stories to emerge as a blend of the routine and the new, fact and fiction. In this project, our intention was to use participants’ own experiences of working with technologies to provide the stimuli for such assemblages. We also conceptualise the stories themselves as fluid assemblages emerging from the initial assemblages between people and stimuli. That is, stories are assemblages of actors and actions/interactions, which may be broken up and re-configured to form new stories."
+  }, {
+    "type" : "footer",
+    "id" : 85,
+    "page number" : 3,
+    "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 26,
+      "page number" : 3,
+      "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Surveillance & Society 21 (3) 306"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 86,
+    "page number" : 4,
+    "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 39,
+      "page number" : 4,
+      "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Wilson and Ross: Surveillance Imaginaries"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 87,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 70.8, 707.249, 216.451, 720.785 ],
+    "heading level" : 3,
+    "font" : "CenturyGothic-Bold",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Eliciting Surveillance Stories"
+  }, {
+    "type" : "paragraph",
+    "id" : 88,
+    "page number" : 4,
+    "bounding box" : [ 70.8, 528.732, 541.263, 699.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The research described in this paper took place in the context of the development of an international Higher Education After Surveillance initiative. The After Surveillance network consists of expert contributors from HE institutions, educational technology, and related contexts. It seeks to include researchers, teachers, technologists, students, and administrators in its work, and it aims to “analyze current surveillance practices in the higher education sector… to understand what post-surveillance futures might be desirable and how to work toward these” (Collier and Ross 2020). Useful research and commentary, and consequently new perspectives on data ethics, are continually emerging and evolving (McMillan Cottom 2019; Ross and Macleod 2018), but there has been little attempt to provide a central research hub or source of the kinds of insights and information researchers, educators, and activists need to make decisions about their approaches to surveillance in universities. One of our first goals has therefore been to create ways in which the diverse groups of stakeholders might talk openly (and perhaps anonymously) about their hopes and fears (what we might call their surveillance imaginaries) in this complex context. At present, the After Surveillance network is predominantly UK and North American-based, but the workshops described below tapped into our wider international networks."
+  }, {
+    "type" : "paragraph",
+    "id" : 89,
+    "page number" : 4,
+    "bounding box" : [ 70.8, 443.772, 541.329, 516.958 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "We took as our starting point the potential of storytelling offered by web-based technologies. However, we needed to clearly signal a desire to depart from the norms of “truthful” storytelling usually associated with web-based technologies. Rather than confessional or accusatory modes, we wanted to create a space in which stories and representations could side-step these overly-simplistic narratives and allow for more nuanced descriptions, recognising the potential tensions between risks and benefits, different loyalties and priorities, and different versions of right and wrong."
+  }, {
+    "type" : "paragraph",
+    "id" : 90,
+    "page number" : 4,
+    "bounding box" : [ 70.8, 370.812, 541.267, 431.758 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In practice, this led us to design and create a Data Stories Creator: an online tool that enabled anonymous authoring of stories that probe surveillance imaginaries. The design of this tool took into account the limited scope for anonymity in most, if not all, free platforms used for storytelling (for example, Instagram, Snapchat, and Reddit). To produce an anonymous online storytelling space required building a tool rather than repurposing one."
+  }, {
+    "type" : "paragraph",
+    "id" : 91,
+    "page number" : 4,
+    "bounding box" : [ 70.8, 261.372, 541.349, 358.798 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Following research into other story-generating tools, we developed a process to use prompt questions to generate the initial story-objects. The prompt questions were scripted following a detailed analysis of research literature on surveillance in HE (Adams 2010; Costa et al. 2018; Hall 2013; Hyslop-Margison and Rochester 2016; Knox 2010; Lorenz 2012; Macfarlane 2013; Melgaço 2015; Picciano 2014; Prinsloo and Slade 2015; Ross and Macleod 2018; Rubel and Jones 2016; Watson et al. 2017; Wilson et al. 2017a, 2017b). We analysed this literature to identify repeated themes and concerns, and we drafted a series of questions that prompted respondents to explore whether these themes or concerns were relevant in relation to an experience they had personally undergone."
+  }, {
+    "type" : "paragraph",
+    "id" : 92,
+    "page number" : 4,
+    "bounding box" : [ 70.8, 176.172, 541.283, 249.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Initial versions of the questions were trialled with seven participants in sessions conducted over video calls. These resulted in stories of varying degrees of development, with some participants more quickly able than others to take the story-objects generated by answering a few of the prompt questions and turn them into a narrative. The questions were then further refined. The questions used in the initial version of the online Data Stories Creator are listed in Table 1 together with an indication of how they were intended to help participants build stories."
+  }, {
+    "type" : "footer",
+    "id" : 93,
+    "page number" : 4,
+    "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 27,
+      "page number" : 4,
+      "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Surveillance & Society 21 (3) 307"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 94,
+    "page number" : 5,
+    "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 40,
+      "page number" : 5,
+      "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Wilson and Ross: Surveillance Imaginaries"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 95,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 70.8, 709.832, 302.965, 721.013 ],
+    "heading level" : 4,
+    "font" : "CenturyGothic-Italic",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Table 1: Prompt questions for the Data Stories Creator"
+  }, {
+    "type" : "table",
+    "id" : 96,
+    "level" : "2",
+    "page number" : 5,
+    "bounding box" : [ 70.8, 78.24, 515.76, 709.68 ],
+    "number of rows" : 21,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 683.28, 294.72, 708.72 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 1,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 692.62, 114.704, 703.782 ],
+          "font" : "TimesNewRomanPS-BoldMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Question"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 294.72, 683.28, 514.8, 708.72 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 2,
+          "page number" : 5,
+          "bounding box" : [ 300.0, 692.62, 341.149, 703.782 ],
+          "font" : "TimesNewRomanPS-BoldMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Rationale"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 654.96, 294.72, 683.28 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 3,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 666.46, 179.989, 677.622 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Who is being scrutinised?"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 294.72, 505.92, 514.8, 683.28 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 6,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 4,
+          "page number" : 5,
+          "bounding box" : [ 300.0, 599.98, 500.638, 677.622 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Exploring the actors involved in the data story (those subject to and conducting scrutiny, and the focus of the scrutiny). The intended or unintended advantages and disadvantages for actors are also invited for consideration. These questions focus attention on a particular episode or occurrence of surveillance."
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 626.4, 294.72, 654.96 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 5,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 638.38, 225.528, 649.542 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "What is being scrutinised/quantified?"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 4,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 598.08, 294.72, 626.4 ],
+        "row number" : 4,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 6,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 609.58, 198.617, 620.742 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Who is doing the scrutinising?"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 5,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 570.24, 294.72, 598.08 ],
+        "row number" : 5,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 7,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 581.26, 237.743, 592.422 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Who else might have access to the data?"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 6,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 541.68, 294.72, 570.24 ],
+        "row number" : 6,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 8,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 553.42, 226.613, 564.582 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Who benefits? What are the benefits?"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 7,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 505.92, 294.72, 541.68 ],
+        "row number" : 7,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 9,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 524.86, 285.709, 536.022 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Who is disadvantaged? What are the disadvantages?"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 8,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 480.72, 294.72, 505.92 ],
+        "row number" : 8,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 10,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 489.1, 233.576, 500.262 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "What technologies enable the scrutiny?"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 294.72, 349.2, 514.8, 505.92 ],
+        "row number" : 8,
+        "column number" : 2,
+        "row span" : 5,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 11,
+          "page number" : 5,
+          "bounding box" : [ 300.0, 466.78, 509.953, 500.262 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Pinning down the nature and location of the scrutiny (physical or digital, localised or widespread, ostensible and implicit purposes)."
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 9,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 458.64, 294.72, 480.72 ],
+        "row number" : 9,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 12,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 463.9, 175.785, 475.062 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Where is it taking place?"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 10,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 432.96, 294.72, 458.64 ],
+        "row number" : 10,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 13,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 441.82, 237.678, 452.982 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Is the scrutiny regulated or unregulated?"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 11,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 389.04, 294.72, 432.96 ],
+        "row number" : 11,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 14,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 405.1, 289.736, 427.302 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "What is the purpose (e.g., monitoring, audit, resource allocation, control, comparison, correlation)?"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 12,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 349.2, 294.72, 389.04 ],
+        "row number" : 12,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 15,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 360.94, 274.967, 383.382 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "What are the motives (e.g., transparency, distrust, care)?"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 13,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 327.36, 294.72, 349.2 ],
+        "row number" : 13,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 16,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 332.38, 240.543, 343.542 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Are the processes hidden or in full view?"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 294.72, 255.36, 514.8, 349.2 ],
+        "row number" : 13,
+        "column number" : 2,
+        "row span" : 4,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 17,
+          "page number" : 5,
+          "bounding box" : [ 300.0, 310.3, 507.581, 343.542 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Describing the visibility and scope of processes and products of surveillance, including how personalised and overt they are."
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 14,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 302.4, 294.72, 327.36 ],
+        "row number" : 14,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 18,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 310.54, 254.113, 321.702 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Are the processes targeted or all embracing?"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 15,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 280.56, 294.72, 302.4 ],
+        "row number" : 15,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 19,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 285.58, 246.071, 296.742 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Are the data individualised or aggregated?"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 16,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 255.36, 294.72, 280.56 ],
+        "row number" : 16,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 20,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 263.74, 232.185, 274.902 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Are the data identified or anonymised?"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 17,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 220.08, 294.72, 255.36 ],
+        "row number" : 17,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 21,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 238.78, 258.018, 249.942 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "What might trigger an action or intervention?"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 294.72, 180.72, 514.8, 255.36 ],
+        "row number" : 17,
+        "column number" : 2,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 22,
+          "page number" : 5,
+          "bounding box" : [ 300.0, 227.5, 497.195, 249.942 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Exploring the mechanisms of surveillance and its potential outcomes."
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 18,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 180.72, 294.72, 220.08 ],
+        "row number" : 18,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 24,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 203.26, 269.961, 214.422 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "What form might an action or intervention take?"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 19,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 144.96, 294.72, 180.72 ],
+        "row number" : 19,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 25,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 163.9, 284.331, 175.062 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Is the scrutiny resisted, acquiesced to, or embraced?"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 294.72, 79.2, 514.8, 180.72 ],
+        "row number" : 19,
+        "column number" : 2,
+        "row span" : 3,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 26,
+          "page number" : 5,
+          "bounding box" : [ 300.0, 152.86, 469.181, 175.062 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Imagining or articulating the affective and responsive dimensions of surveillance."
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 20,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 112.08, 294.72, 144.96 ],
+        "row number" : 20,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 30,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 117.1, 278.315, 139.302 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "What feelings might be aroused or associated with the scrutiny?"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 21,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 71.76, 79.2, 294.72, 112.08 ],
+        "row number" : 21,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 31,
+          "page number" : 5,
+          "bounding box" : [ 76.32, 84.22, 278.315, 106.422 ],
+          "font" : "TimesNewRomanPSMT",
+          "font size" : 10.08,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "What feelings might be aroused or associated with the scrutiny?"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 97,
+    "page number" : 5,
+    "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 28,
+      "page number" : 5,
+      "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Surveillance & Society 21 (3) 308"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 98,
+    "page number" : 6,
+    "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 41,
+      "page number" : 6,
+      "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Wilson and Ross: Surveillance Imaginaries"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 99,
+    "page number" : 6,
+    "bounding box" : [ 70.8, 586.812, 539.18, 720.958 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "We then worked with a web developer in an iterative process of building, testing, and refining the story creator tool. The online tool included features that would allow for the breaking and remaking of relationships between different story-elements generated in response to the prompt questions, a reconfiguring the story assemblage. The texts of answers entered in response to the prompt questions were automatically transferred to a mapping page where they were displayed as movable elements on a blank canvas. This part of the tool allowed story-creators to make and break connections between these movable elements, and thus to reassemble their story. The final element of the tool was a “writing” page where story-creators could write an anonymous multimedia story (text, images, video, tweets, and GIFs are all possible elements of the story). The finished story could be saved and (optionally) submitted to be shared publicly on the website that housed the tool. Screenshots of the key pages of the tool are shown in Figures 1–3."
+  }, {
+    "type" : "image",
+    "id" : 101,
+    "page number" : 6,
+    "bounding box" : [ 70.9, 354.38, 510.06, 574.68 ]
+  }, {
+    "type" : "list",
+    "id" : 100,
+    "level" : "3",
+    "page number" : 6,
+    "bounding box" : [ 70.8, 72.632, 272.824, 348.533 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "next list id" : 105,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 70.8, 337.352, 267.832, 348.533 ],
+      "font" : "CenturyGothic-BoldItalic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Figure 1: The “Prompts” page of the story tool",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 70.8, 72.632, 272.824, 83.813 ],
+      "font" : "CenturyGothic-BoldItalic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Figure 2: The “Mapping” page of the story tool",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 102,
+    "page number" : 6,
+    "bounding box" : [ 70.9, 89.764, 510.019, 307.164 ]
+  }, {
+    "type" : "footer",
+    "id" : 103,
+    "page number" : 6,
+    "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 29,
+      "page number" : 6,
+      "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Surveillance & Society 21 (3) 309"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 104,
+    "page number" : 7,
+    "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 42,
+      "page number" : 7,
+      "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Wilson and Ross: Surveillance Imaginaries"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 111,
+    "page number" : 7,
+    "bounding box" : [ 70.9, 546.66, 509.999, 720.86 ]
+  }, {
+    "type" : "list",
+    "id" : 105,
+    "level" : "3",
+    "page number" : 7,
+    "bounding box" : [ 70.8, 529.592, 254.829, 540.773 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 100,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 70.8, 529.592, 254.829, 540.773 ],
+      "font" : "CenturyGothic-BoldItalic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Figure 3: The “Write” page of the story tool",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 106,
+    "page number" : 7,
+    "bounding box" : [ 70.8, 389.772, 541.325, 511.678 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The tool was launched in mid-September 2020 and promoted using social media and via the HEAS network. However, the timing of the launch meant that most potential story-creators (teaching staff and learning technologists) were under exceptional pressures as they attempted to switch from the emergency remote teaching that had characterised the second half of the previous semester to a more sophisticated and wellplanned online mode (Hodges et al. 2020). Only a few stories were contributed spontaneously. As a result, we also conducted two synchronous online sessions designed to elicit contributions. The first of these was held as part of the Association for Learning Technology 2021 conference, and thus was predominantly attended by learning technology professionals. The second was organised as part of the seminar series organised by the Centre for Research in Digital Education at the University of Edinburgh and was attended by a mix of academics, casual teaching staff, learning technologists, and graduate research students."
+  }, {
+    "type" : "heading",
+    "id" : 107,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 70.8, 356.129, 220.458, 369.665 ],
+    "heading level" : 3,
+    "font" : "CenturyGothic-Bold",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Reading Surveillance Stories"
+  }, {
+    "type" : "paragraph",
+    "id" : 108,
+    "page number" : 7,
+    "bounding box" : [ 70.8, 299.532, 541.179, 348.478 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "At the time of writing, thirty-three stories have been created and published using the data stories tool. These stories include a range of characters, including students, academics and teaching staff, cleaners, and university security. They describe a range of technologies, both currently existing and imagined. They have also been set in both proximal and distal futures."
+  }, {
+    "type" : "paragraph",
+    "id" : 109,
+    "page number" : 7,
+    "bounding box" : [ 70.8, 141.372, 541.283, 287.758 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "As noted above, we view these stories as assemblages created out of interactions between participants and stimuli such as the prompt questions and their own direct experiences. The analysis that follows draws on assemblage analysis approaches (Feely 2020; Wilson 2021a, 2021b), recognising our own role as meaningmakers in our readings of the stories and the contingency of both the stories and our readings of them. This sensitivity to contingency and interpretation does not mean, however, that we cannot learn from the stories. Although they could undoubtedly have been written in different ways (and indeed would probably be written differently by the same authors, if they were asked to do so at a different moment and in a different place) they act as an expression of beliefs, attitudes, and concerns that are real and important at the time of writing. They reveal what the writers imagine may be possible and how they imagine they and others might respond to increased surveillance cultures. In the version of assemblage analysis developed here and illustrated below, we treat the stories as assemblages of actors, actions, and contexts within which dynamics of knowledge and affect flow driven by “potential differences” of fear and hope."
+  }, {
+    "type" : "paragraph",
+    "id" : 110,
+    "page number" : 7,
+    "bounding box" : [ 70.8, 80.652, 541.279, 129.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Taken as a collection, the stories suggest responses to surveillance that include acquiescence, obfuscation, resistance, and enculturation/adoption. These are, to a large extent, consistent with the responses to surveillance in other contexts that have been identified by other researchers (Lyon 2007) and we describe other story dynamics elsewhere (Ross and Wilson, forthcoming). Here, we examine the ways in which these"
+  }, {
+    "type" : "footer",
+    "id" : 112,
+    "page number" : 7,
+    "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 30,
+      "page number" : 7,
+      "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Surveillance & Society 21 (3) 310"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 113,
+    "page number" : 8,
+    "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 43,
+      "page number" : 8,
+      "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Wilson and Ross: Surveillance Imaginaries"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 114,
+    "page number" : 8,
+    "bounding box" : [ 70.8, 623.292, 541.254, 720.958 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "short fictions may reveal both noticed and unnoticed power dynamics by focusing on two stories. These were submitted on the same day, following the second synchronous online workshop, and thus were likely to have been created quickly, without time for extensive development and editing. The authors of these stories gave them the titles “Altruistic Academics” and “A motorboat in Ireland.” We have selected these two stories because they both address a key and recurring theme: anonymity. In the following, we illustrate the process of assemblage analysis, identifying and describing the affective power of different elements of the story assemblages. In so doing, we show how such an analysis helps to reveal complex relationships between anonymity, knowledge, and power."
+  }, {
+    "type" : "paragraph",
+    "id" : 115,
+    "page number" : 8,
+    "bounding box" : [ 70.8, 598.049, 189.651, 611.585 ],
+    "font" : "CenturyGothic-Italic",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "“Altruistic Academics”"
+  }, {
+    "type" : "paragraph",
+    "id" : 116,
+    "page number" : 8,
+    "bounding box" : [ 70.8, 536.892, 541.13, 598.078 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "As readers, we start with the title, although the structure of the story creator tool means that, for the writer, this was probably chosen after the initial prompt and mapping processes generated the initial assemblage of story elements. The use of the word “altruistic” immediately positions the story as being concerned with moral action that involves some degree of selflessness on the part of the academic protagonists. The body of the story then starts as follows:"
+  }, {
+    "type" : "paragraph",
+    "id" : 117,
+    "page number" : 8,
+    "bounding box" : [ 114.0, 500.652, 485.234, 525.118 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The democracy activists requested that the video recording of their panel discussion not be posted on the conference website."
+  }, {
+    "type" : "paragraph",
+    "id" : 118,
+    "page number" : 8,
+    "bounding box" : [ 70.8, 439.932, 541.336, 488.638 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This single sentence paragraph concisely establishes the key characters (democracy activists, whom we assume are also academics in light of the title) and the location in which the story takes place (a conference). The request not to post the recording suggests a fear of potential negative consequences if the contents of their panel discussion is made publicly available."
+  }, {
+    "type" : "paragraph",
+    "id" : 119,
+    "page number" : 8,
+    "bounding box" : [ 70.8, 415.692, 160.67, 427.918 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The story continues:"
+  }, {
+    "type" : "paragraph",
+    "id" : 120,
+    "page number" : 8,
+    "bounding box" : [ 114.0, 354.972, 488.589, 403.678 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The conference organizers responded, “We’ll honor your request, exceptionally.” There were over 200 panels and it was impossible to attend every session. Recording the talks and posting them would allow speakers to reach so many more conference attendees."
+  }, {
+    "type" : "paragraph",
+    "id" : 121,
+    "page number" : 8,
+    "bounding box" : [ 70.8, 282.012, 541.162, 342.958 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This paragraph, and particularly the word “exceptionally,” suggests that the protagonists’ concerns about consequences are shared by the conference organisers (and to quite a significant extent). Despite the high value attached to sharing ideas, the organisers agree not to post the recording of the session. We are left to imagine whether they are protecting the presenters or themselves, an authorial move that suggests a cultural expectation of monitoring and potential reprisal."
+  }, {
+    "type" : "paragraph",
+    "id" : 122,
+    "page number" : 8,
+    "bounding box" : [ 114.0, 197.052, 491.407, 270.238 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The democracy activists thought, “Wait a minute. Why should we have to censor ourselves for fear of government reprisals, while other academics with less at stake could freely broadcast their views?” They had an idea. They hacked into the virtual repository where the conference videos were kept and remixed all the recordings, modifying voice and image so that it would be impossible to ever pin a name and face to a presentation."
+  }, {
+    "type" : "paragraph",
+    "id" : 123,
+    "page number" : 8,
+    "bounding box" : [ 70.8, 87.612, 541.212, 185.038 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This complex paragraph acts on several affective levels. The explicit mention of government reprisals reemphasises the sense of danger associated with speaking out, suggesting that these democracy activists are operating within an authoritarian context. The reference to other academics with less at stake suggests a hierarchy of compliance and a distorted version of free speech where self-imposed constraint replaces externally imposed restrictions. This paragraph confirms the title’s suggestion that the main protagonists are heroes rather than victims, villains, or collaborators. They are resistant, creative, and resourceful. They are also in possession of specialist technical knowledge that confers upon them the power to subvert attempts at surveillance."
+  }, {
+    "type" : "footer",
+    "id" : 124,
+    "page number" : 8,
+    "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 31,
+      "page number" : 8,
+      "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Surveillance & Society 21 (3) 311"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 125,
+    "page number" : 9,
+    "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 44,
+      "page number" : 9,
+      "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Wilson and Ross: Surveillance Imaginaries"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 126,
+    "page number" : 9,
+    "bounding box" : [ 70.8, 708.732, 257.25, 720.958 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The author concludes the story as follows:"
+  }, {
+    "type" : "paragraph",
+    "id" : 127,
+    "page number" : 9,
+    "bounding box" : [ 114.0, 660.012, 496.289, 696.718 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "All the attendees were delighted. Knowledge from the conference flowed openly like this, unencumbered by individual egos, career ambitions, and disciplinary boundaries. A generous meeting of minds!"
+  }, {
+    "type" : "paragraph",
+    "id" : 128,
+    "page number" : 9,
+    "bounding box" : [ 70.8, 611.532, 541.212, 648.238 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This final paragraph reinforces the heroic character of the main protagonists, adding a dimension of altruism as their actions not only protect themselves but also create a space in which everyone is freed through a deep form of de-identifiability."
+  }, {
+    "type" : "paragraph",
+    "id" : 129,
+    "page number" : 9,
+    "bounding box" : [ 70.8, 538.572, 541.259, 599.758 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "There are several important elements in this surveillance imaginary. The dystopic vision of a controlling observer is common to many of the stories created and published using our story creator. However, the vision encapsulated in this short fiction includes a reclaiming of power through specialist technical knowledge and, perhaps more importantly, a subversion of the notion (central to surveillance technologies such as Turnitin) that attribution is an essential element of academic work."
+  }, {
+    "type" : "paragraph",
+    "id" : 130,
+    "page number" : 9,
+    "bounding box" : [ 70.8, 477.852, 541.329, 526.798 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In less than 400 words, this short speculative fiction manages to express a complex, nuanced, and multilayered awareness of the potential consequences of a widespread and unaccountable surveillance culture in HE. We now turn to our second example, which approaches anonymity and power from a dramatically different perspective."
+  }, {
+    "type" : "paragraph",
+    "id" : 131,
+    "page number" : 9,
+    "bounding box" : [ 70.8, 428.172, 541.126, 465.905 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "“A motorboat in Ireland” When first encountered, the title is incomprehensible. Perhaps this is a deliberate attempt to intrigue readers, who must read further in order to understand."
+  }, {
+    "type" : "paragraph",
+    "id" : 132,
+    "page number" : 9,
+    "bounding box" : [ 114.0, 282.492, 490.808, 416.158 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Call me Ishmael It was the third of times, it was the second time It was a MOOC, capitalised because of shame and formality. It had happened for three years, but this had happened for two years now. One student, no participant, no thing. For they never studied, or participated, merely posted in the fora insulting the course. Each time I would try to assuage or refute or placate - all things you can do with trolls right? - screw grammar - - - - - ; ! ? AND ORTHOGRAPHY"
+  }, {
+    "type" : "paragraph",
+    "id" : 133,
+    "page number" : 9,
+    "bounding box" : [ 70.8, 148.812, 541.278, 270.718 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The opening line is taken from the opening of Herman Melville’s novel Moby Dick, a novel that tells a tale of monomaniacal obsession and of a hunt-to-the-death pursued by a captain who has come to see an animal as his nemesis. The second line references Charles Dickens’s A Tale of Two Cities, a novel in which the main protagonist is an anti-hero exposed to constant life-threatening danger, and through which Dickens explores themes that are central to much of his work such as injustice, inequality, and social anarchy. However, instead of announcing an age of wisdom and foolishness, the author uses this perhaps intentionally grandiose gesturing at two literary classics to let us know that the story deals with a repeat experience. The third and fourth paragraphs situate the story in a specific and highly public teaching context (a Massive Open Online Course, or MOOC), effectively express the narrator’s mounting frustration and irritation, and identify the cause of their irritation (an online troll). The story continues:"
+  }, {
+    "type" : "paragraph",
+    "id" : 134,
+    "page number" : 9,
+    "bounding box" : [ 114.0, 88.332, 495.996, 136.798 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "They never changed, they kept going, on and on and on and on and on. Then, one reply, they said I’d said but so often i sounded like a motor boat (but but but but but but but but - for those needing some sounds)."
+  }, {
+    "type" : "footer",
+    "id" : 135,
+    "page number" : 9,
+    "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 32,
+      "page number" : 9,
+      "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Surveillance & Society 21 (3) 312"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 136,
+    "page number" : 10,
+    "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 45,
+      "page number" : 10,
+      "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Wilson and Ross: Surveillance Imaginaries"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 137,
+    "page number" : 10,
+    "bounding box" : [ 70.8, 647.772, 541.318, 720.958 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "These two short paragraphs convey both the relentlessness and casual cruelty of the taunts experienced by the narrator. The public nature of MOOC teaching, and thus trolling, multiplies the impact of what is, in effect, harassment and bullying. The MOOC tutor feels doubly vulnerable, knowing that both this constant abuse and their own futile attempts at rational interaction and reasoned self-defence are witnessed by everyone present in the fora where it unfolds. Finally, this element of the story-assemblage also offers an explanation for the title."
+  }, {
+    "type" : "paragraph",
+    "id" : 138,
+    "page number" : 10,
+    "bounding box" : [ 70.8, 575.292, 419.51, 635.758 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Now the story takes a new turn: I decided I had had enough. This line tells us that we have reached a pivotal moment. The author continues:"
+  }, {
+    "type" : "paragraph",
+    "id" : 139,
+    "page number" : 10,
+    "bounding box" : [ 114.0, 514.572, 494.347, 563.278 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "So the coursera fora had a button admins could click to get the student’s email. Then i moved over to the coursera tracking data, and got all the IP addresses they had ever connected with. I fed those IP addresses into an IP geolocating tool. All of them came back in a relatively small geographic area."
+  }, {
+    "type" : "paragraph",
+    "id" : 140,
+    "page number" : 10,
+    "bounding box" : [ 114.0, 490.332, 376.293, 502.558 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Note, at this point, I merely had an email and IP addresses."
+  }, {
+    "type" : "paragraph",
+    "id" : 141,
+    "page number" : 10,
+    "bounding box" : [ 70.8, 453.852, 541.118, 478.318 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Clearly, the story now takes quite a different turn. These two paragraphs reveal the power (and powerful knowledge) of the narrator."
+  }, {
+    "type" : "paragraph",
+    "id" : 142,
+    "page number" : 10,
+    "bounding box" : [ 114.0, 368.892, 497.372, 442.078 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "So with this area in mind, and the theory this troll was a troll of many bridges and many goats, I opted to do some searches for his email address on other fora. A few good results, and i’d say a clear pattern, but why stop at pattern when modus operandi is available. So I checked these posts, and there was (as fora sometimes do) leave IP records in their posts). And those IP addresses led me to IP addresses from a University."
+  }, {
+    "type" : "paragraph",
+    "id" : 143,
+    "page number" : 10,
+    "bounding box" : [ 70.8, 320.172, 540.998, 356.878 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This paragraph reinforces our new understanding that the narrator has specialist knowledge that imbues them with power. There is also a suggestion that they are a hero, fighting not only for themselves but also for other MOOC teachers who have been subjected to similar trolling."
+  }, {
+    "type" : "paragraph",
+    "id" : 144,
+    "page number" : 10,
+    "bounding box" : [ 114.0, 259.692, 492.796, 308.398 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Then with some magic, and I won’t reveal my tricks, I got a name. And when they next appeared on the fora, and another student asked what he meant. I said “oh that’s just -NAME- from -UNI-”"
+  }, {
+    "type" : "paragraph",
+    "id" : 145,
+    "page number" : 10,
+    "bounding box" : [ 70.8, 211.212, 541.17, 247.918 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "These two paragraphs are the last to narrate action elements of the story. In them, the narrator moves from a position of specialist technical knowledge to one of magical and fundamental power: the ancient power of naming. The author concludes the story:"
+  }, {
+    "type" : "paragraph",
+    "id" : 146,
+    "page number" : 10,
+    "bounding box" : [ 114.0, 162.732, 356.861, 199.198 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Never heard from again All victories are beautiful, pyrrhic victories don’t exist."
+  }, {
+    "type" : "paragraph",
+    "id" : 147,
+    "page number" : 10,
+    "bounding box" : [ 70.8, 126.492, 540.891, 150.958 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "On first reading, these final two lines seem like unnecessary gloating. However, perhaps gloating is the point?"
+  }, {
+    "type" : "paragraph",
+    "id" : 148,
+    "page number" : 10,
+    "bounding box" : [ 70.8, 78.012, 541.314, 114.478 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This story thus imagines a very different response to immersion in a surveillance culture compared to that described in “Altruistic Academics.” Rather than resisting surveillance, the narrator exploits data that are generated through default surveillance practices and uses their special knowledge and skills to effectively,"
+  }, {
+    "type" : "footer",
+    "id" : 149,
+    "page number" : 10,
+    "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 33,
+      "page number" : 10,
+      "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Surveillance & Society 21 (3) 313"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 150,
+    "page number" : 11,
+    "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 46,
+      "page number" : 11,
+      "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Wilson and Ross: Surveillance Imaginaries"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 151,
+    "page number" : 11,
+    "bounding box" : [ 70.8, 696.492, 541.023, 720.958 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "but perhaps unethically, stalk the troll. Ultimately, they locate and publicly name their adversary, removing the possibility of anonymity."
+  }, {
+    "type" : "heading",
+    "id" : 152,
+    "level" : "Subtitle",
+    "page number" : 11,
+    "bounding box" : [ 70.8, 662.849, 125.606, 676.385 ],
+    "heading level" : 3,
+    "font" : "CenturyGothic-Bold",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Discussion"
+  }, {
+    "type" : "paragraph",
+    "id" : 153,
+    "page number" : 11,
+    "bounding box" : [ 70.8, 557.532, 541.318, 654.958 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "These two stories reveal some of the tensions and complex power relationships associated with anonymity and attribution in a context of pervasive surveillance opportunities. As Zuboff (2019) points out, we are not operating freely within digital cultures. Platform capitalism and its almost ubiquitous model of data-foraccess ensures that, in most digital environments, the possibilities for genuine anonymity are slim. In addition, digital participation itself should increasingly be understood as non-optional as “data traces speak for and about individual lives in ways that go beyond individual choice or control” (Barassi 2019: 415). It seems that the price of participation in digital life, and thus in HE, is a loss of privacy and the removal of the possibility of anonymity."
+  }, {
+    "type" : "paragraph",
+    "id" : 154,
+    "page number" : 11,
+    "bounding box" : [ 70.8, 314.172, 541.338, 545.518 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Along with this reality has come a powerful rhetoric against digital anonymity as a concept, with online abuse and other anti-social behaviours laid at the feet of “faceless” individuals (or bots) who hide behind pseudonyms or avatars (Sardá et al. 2019). “A motorboat in Ireland” presents a surveillance imaginary that is haunted by this rhetoric. This story is based on an expectation that anonymity leads to irresponsible, undesirable behaviours that would not be indulged in if people were unable to hide their identities. As Sardá et al. (2019) point out, however, this is not always the case, including in HE contexts. The rise and fall of the social platform YikYak, and its use amongst university students, illustrates this. Bayne et al. (2019) describe how the platform was redesigned to require usernames and logins, ostensibly in response to accusations that its anonymity (combined with its hyperlocal functionality) facilitated harassment and abuse.2 Contrary to this rhetoric, they observe that Yik Yak produced opportunities for “peer support, empathy and community building” and was widely and extensively used by students until the point where it was no longer completely anonymous (Bayne et al. 2019: 99). Bayne et al. (2019: 103) argue that “anonymity was a major source of value of the app to its users… anonymity as freedom from surveillance, accountability and social constraints; and anonymity as a space apart from the ‘commodification of the social.’” These observations contrast with the imagined MOOC of “A motorboat in Ireland,” which follows a classic narrative arc of victim-turned-victor or prey-turned-hunter. Perhaps the desire for revenge and the exercise of power that runs through this story is symptomatic of the precarity experienced by many MOOC tutors, who are often employed on temporary, part-time contracts and who occupy a relatively low position in the academic hierarchy."
+  }, {
+    "type" : "paragraph",
+    "id" : 156,
+    "page number" : 11,
+    "bounding box" : [ 70.8, 192.492, 541.224, 302.158 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "As illustrated by “Altruistic Academics,” the future of privacy is tied up with questions about visibility, anonymity, and openness. This surveillance imaginary conceives an alternative for participation in the space between visibility and anonymity. Bachmann, Knecht, and Wittel (2017) describe a range of such alternatives including forms of critical disengagement, challenges to social media practices of value extraction, avoidance of controversy, and strategic concealment. “Altruistic Academics” describes a technologically enabled form of strategic concealment that has the additional features of blurring both identities and ownership of knowledge. It also involves what Duffy and Chan (2019: 127) call the “‘renovat[ion]’ of conventions of digital space,” suggesting new ways of thinking about and enacting authenticity."
+  }, {
+    "type" : "heading",
+    "id" : 157,
+    "level" : "Subtitle",
+    "page number" : 11,
+    "bounding box" : [ 70.8, 158.849, 135.285, 172.385 ],
+    "heading level" : 3,
+    "font" : "CenturyGothic-Bold",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Conclusions"
+  }, {
+    "type" : "paragraph",
+    "id" : 158,
+    "page number" : 11,
+    "bounding box" : [ 70.8, 114.492, 541.255, 150.958 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In the formal education sector, there are many digital tools and technologies that are involved in surveillance culture, even though they may at least ostensibly have different goals (supporting students, improving efficiency, guiding academic practice, managing classrooms, and so on). In developing an approach through"
+  }, {
+    "type" : "list",
+    "id" : 160,
+    "level" : "1",
+    "page number" : 11,
+    "bounding box" : [ 70.8, 70.54, 536.498, 92.742 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 77,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 70.8, 70.54, 536.498, 92.742 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.08,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "2 Less was said at the time about the limited possibilities for monetisation of YikYak data, as they were not tied directly to digital identities that could be tracked, advertised to, or mined for insights (Bayne et al. 2019: 97).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 161,
+    "page number" : 11,
+    "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 34,
+      "page number" : 11,
+      "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Surveillance & Society 21 (3) 314"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 162,
+    "page number" : 12,
+    "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 47,
+      "page number" : 12,
+      "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Wilson and Ross: Surveillance Imaginaries"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 163,
+    "page number" : 12,
+    "bounding box" : [ 70.8, 562.572, 541.307, 720.958 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "which those working within the sector can create and share genuinely anonymous and unattributed fictions, we have created an opportunity for those using our storytelling tool to become co-researchers into the space of possible HE surveillance futures. In the present work, we have shown how anonymity itself features as an important part of this emerging space. Teachers, staff, and students often do not have the choice to be invisible, partly-visible, or anonymous in their university lives any more than in their social ones. Bayne et al. (2019: 104) propose that universities need to “re-visit anonymity, and put into place principles and frameworks which respect its social value.… There is scope, as we move further into the data age, to normalise alternatives by recognising the value of the sensibilities of anonymity, ephemerality and unreachability.” The surveillance imaginaries described here suggest that anonymity, attributability, identity, ownership of knowledge, and power are important elements in both the presents and futures experienced and anticipated by our participants. Together, they highlight an important tension at the heart of twenty-first-century academic work: an absolutist agenda of attribution and transparency introduced in the name of fairness that is morphing into a tool for the suppression of critique and academic freedom."
+  }, {
+    "type" : "heading",
+    "id" : 164,
+    "level" : "Subtitle",
+    "page number" : 12,
+    "bounding box" : [ 70.8, 528.929, 130.46, 542.465 ],
+    "heading level" : 3,
+    "font" : "CenturyGothic-Bold",
+    "font size" : 11.04,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "References"
+  }, {
+    "type" : "paragraph",
+    "id" : 166,
+    "page number" : 12,
+    "bounding box" : [ 70.8, 481.147, 541.185, 521.007 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Adams, Catherine. 2010. Learning Management Systems as Sites of Surveillance, Control, and Corporatization: A Review of the Critical Literature. In Society for Information Technology & Teacher Education International Conference, edited by David Gibson and Bernie Dodge, 252–257. Waynesville, NC: Association for the Advancement of Computing in Education. Bachmann, Götz, Michi Knecht, and Andreas Wittel. 2017. The Social Productivity of Anonymity. Ephemera: Theory & Politics"
+  }, {
+    "type" : "paragraph",
+    "id" : 171,
+    "page number" : 12,
+    "bounding box" : [ 70.8, 451.147, 541.16, 481.167 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "in Organization 17 (2): 241–258. Barassi, Veronica. 2019. Datafied Citizens in the Age of Coerced Digital Participation. Sociological Research Online 24 (3): 414– 429."
+  }, {
+    "type" : "paragraph",
+    "id" : 175,
+    "page number" : 12,
+    "bounding box" : [ 70.8, 421.387, 541.16, 451.407 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Bayne, Sian, Louise Connelly, Claire Grover, Nicola Osborne, Richard Tobin, Emily Beswicke, and Lilinaz Rouhanif. 2019. The Social Value of Anonymity on Campus: A Study of the Decline of Yik Yak. Learning, Media and Technology 44 (2): 92– 107."
+  }, {
+    "type" : "paragraph",
+    "id" : 179,
+    "page number" : 12,
+    "bounding box" : [ 70.8, 381.307, 541.272, 421.407 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Beetham, Helen, Amy Collier, Laura Czerniewicz, Brian Lamb, Yuwei Lin, Jen Ross, Ann-Marie Scott, and Anna Wilson. 2022. Surveillance Practices, Risks and Responses in the Post Pandemic University. Digital Culture and Education 14 (1): 16–37. Biesta, Gert. 2009. Good Education in an Age of Measurement: On the Need to Reconnect with the Question of Purpose in Education. Educational Assessment, Evaluation and Accountability 21 (1): 33–46."
+  }, {
+    "type" : "paragraph",
+    "id" : 184,
+    "page number" : 12,
+    "bounding box" : [ 70.8, 351.547, 541.184, 381.567 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Bouwma-Gearhart, Jana, and Jennifer Collins. 2015. What We Know About Data-Driven Decision Making in Higher Education: Informing Educational Policy and Practice. Proceedings of International Academic Conferences: 2805154. https://ideas.repec.org/p/sek/iacpro/2805154.html."
+  }, {
+    "type" : "paragraph",
+    "id" : 187,
+    "page number" : 12,
+    "bounding box" : [ 70.8, 331.627, 541.16, 351.567 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cahill, Susan, and Bryce Newell. 2021. Surveillance Stories: Imagining Surveillance Futures. Surveillance & Society 19 (4): 412– 413."
+  }, {
+    "type" : "paragraph",
+    "id" : 189,
+    "page number" : 12,
+    "bounding box" : [ 70.8, 291.787, 541.155, 331.647 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Caines, Autumn, and Sarah Silverman. 2021. Back Doors, Trap Doors, and Fourth-Party Deals: How You End up with Harmful Academic Surveillance Technology on Your Campus without Even Knowing. The Journal of Interactive Technology and Pedagogy 20: https://jitp.commons.gc.cuny.edu/back-doors-trap-doors-and-fourth-party-deals-how-you-end-up-withharmful-academic-surveillance-technology-on-your-campus-without-even-knowing/."
+  }, {
+    "type" : "paragraph",
+    "id" : 194,
+    "page number" : 12,
+    "bounding box" : [ 70.8, 271.867, 541.163, 291.807 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Collier, Amy, and Jen Ross. 2020. Higher Education after Surveillance? Postdigital Science and Education 2: 275–279. Costa, Cristina, Mark Murphy, Ana Lucia Pereira, and Yyvette Taylor. 2018. Higher Education Students’ Experiences of Digital"
+  }, {
+    "type" : "paragraph",
+    "id" : 197,
+    "page number" : 12,
+    "bounding box" : [ 92.4, 251.947, 541.135, 271.887 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Learning and (Dis) Empowerment. Australasian Journal of Educational Technology 34 (3): https://doi.org/10.14742/ajet.3979."
+  }, {
+    "type" : "paragraph",
+    "id" : 200,
+    "page number" : 12,
+    "bounding box" : [ 70.8, 152.107, 541.217, 251.967 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cox, Andrew M. 2021. Exploring the Impact of Artificial Intelligence and Robots on Higher Education through Literature-Based Design Fictions. International Journal of Educational Technology in Higher Education 18 (1): 1–19. De Jager, Adele, Andrea Fogarty, Anna Tewson, Caroline Lenette, and Katherine M. Boydell. 2017. Digital Storytelling in Research: A Systematic Review. The Qualitative Report 22 (10): 2548–2582. Deem, Rosemary. 2020. New Managerialism in Higher Education. In The International Encyclopedia of Higher Education Systems and Institutions, edited by Pedro N. Teixeira and Jungcheol Shin, 2083–2088. Dordrecht, NL: Springer Netherlands. Duffy, Brooke Erin, and Ngai Keung Chan. 2019. “You Never Really Know Who’s Looking”: Imagined Surveillance across Social Media Platforms. New Media & Society 21 (1): 119–138. Feely, Michael. 2020. Assemblage Analysis: An Experimental New-Materialist Method for Analysing Narrative Data. Qualitative Research 20 (2): 174–193."
+  }, {
+    "type" : "paragraph",
+    "id" : 210,
+    "page number" : 12,
+    "bounding box" : [ 70.8, 122.347, 541.186, 152.367 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Fong, Jim, and Danielle Caldwell. 2016. Leading by Gut or by Data: The Data-Driven State of Higher Ed Decision Making. Helix Education. https://upcea.edu/leading-by-gut-or-by-data-the-data-driven-state-of-higher-ed-decision-making-2/ [accessed April 6, 2023]."
+  }, {
+    "type" : "paragraph",
+    "id" : 214,
+    "page number" : 12,
+    "bounding box" : [ 70.8, 82.507, 541.125, 122.367 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Guster, Dennis, and Christopher G. Brown. 2012. The Application of Business Intelligence to Higher Education: Technical and Managerial Perspectives . Journal of Information Technology Management 23(2): 42–62. Hall, Richard. 2013. Educational Technology and the Enclosure of Academic Labour inside Public Higher Education. Journal for Critical Education Policy Studies 11(3): http://www.jceps.com/wp-content/uploads/PDFs/11-3-03.pdf."
+  }, {
+    "type" : "footer",
+    "id" : 219,
+    "page number" : 12,
+    "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 35,
+      "page number" : 12,
+      "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Surveillance & Society 21 (3) 315"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 220,
+    "page number" : 13,
+    "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 48,
+      "page number" : 13,
+      "bounding box" : [ 363.146, 744.632, 541.088, 755.813 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Wilson and Ross: Surveillance Imaginaries"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 222,
+    "page number" : 13,
+    "bounding box" : [ 70.8, 710.827, 541.16, 720.927 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Haraway, Donna. 2019. It Matters What Stories Tell Stories; It Matters Whose Stories Tell Stories. A/b: Auto/Biography Studies 34"
+  }, {
+    "type" : "paragraph",
+    "id" : 224,
+    "level" : "3",
+    "page number" : 13,
+    "bounding box" : [ 70.8, 611.227, 541.291, 711.087 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "(3): 565–575. Hodges, Charles B., Stephanie Moore, Barbara B. Lockee, Torrey Trust, and Mark Aaron Bond. 2020. The Difference between Emergency Remote Teaching and Online Learning. http://hdl.handle.net/10919/104648 [accessed April 6,2023]. Hyslop-Margison, Emery, and Ramonia Rochester. 2016. Assessment or Surveillance? Panopticism and Higher Education. Philosophical Inquiry in Education 24 (1): 102–109. Jasanoff, Sheila, and Sang-Hyun Kim. 2015. Dreamscapes of Modernity: Sociotechnical Imaginaries and the Fabrication of Power. Chicago, IL: University of Chicago Press. Knox, Dan. 2010. A Good Horse Runs at the Shadow of the Whip: Surveillance and Organizational Trust in Online Learning Environment. Canadian Journal of Media Studies 7 (1): 137–172. Lorenz, Chris. 2012. If You’re So Smart, Why Are You under Surveillance? Universities, Neoliberalism, and New Public"
+  }, {
+    "type" : "paragraph",
+    "id" : 235,
+    "page number" : 13,
+    "bounding box" : [ 70.8, 581.227, 541.178, 611.247 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Management. Critical Inquiry 38 (3): 599–629. Lyon, David. 2007. Surveillance Studies: An Overview. Cambridge, UK: Polity Press. Macfarlane, Bruce. 2013. The Surveillance of Learning: A Critical Analysis of University Attendance Policies. Higher Education"
+  }, {
+    "type" : "paragraph",
+    "id" : 239,
+    "page number" : 13,
+    "bounding box" : [ 70.8, 541.387, 541.149, 581.487 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Quarterly 67 (4): 358–373. Markham, Annette. 2021. The Limits of the Imaginary: Challenges to Intervening in Future Speculations of Memory, Data, and Algorithms. New Media & Society 23 (2): 382–405. McMillan Cottom, Tressie. 2019. Rethinking the Context of Edtech. Educause Review, August 26."
+  }, {
+    "type" : "paragraph",
+    "id" : 242,
+    "page number" : 13,
+    "bounding box" : [ 70.8, 511.387, 541.13, 541.647 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "https://er.educause.edu/articles/2019/8/rethinking-the-context-of-edtech [accessed April 6, 2023]. Melgaço, Lucas. 2015. Multiple Surveillance on the Digitized Campus. Radical Pedagogy 12 (1): 1524–6345. Picciano, Anthony G. 2014. Big Data and Learning Analytics in Blended Learning Environments: Benefits and Concerns."
+  }, {
+    "type" : "paragraph",
+    "id" : 244,
+    "page number" : 13,
+    "bounding box" : [ 92.4, 501.547, 408.616, 511.647 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "International Journal of Interactive Multimedia and Artificial Intelligence 2 (7): 35–43."
+  }, {
+    "type" : "paragraph",
+    "id" : 245,
+    "page number" : 13,
+    "bounding box" : [ 70.8, 471.547, 541.141, 501.567 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Prinsloo, Paul, and Sharon Slade. 2015. Student Privacy Self-Management: Implications for Learning Analytics. In Proceedings of the Fifth International Conference on Learning Analytics and Knowledge, Poughkeepsie, New York, March 16–20, 83–92. https://doi.org/10.1145/2723576.2723585."
+  }, {
+    "type" : "paragraph",
+    "id" : 247,
+    "page number" : 13,
+    "bounding box" : [ 70.8, 451.627, 541.135, 471.807 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Priyadharshini, Esther. 2019. Anticipating the Apocalypse: Monstrous Educational Futures. Futures 113: https://doi.org/10.1016/j.futures.2019.102453."
+  }, {
+    "type" : "paragraph",
+    "id" : 249,
+    "page number" : 13,
+    "bounding box" : [ 70.8, 421.867, 541.162, 451.887 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Ross, Jen, and Hamish Macleod. 2018. Surveillance, (Dis) Trust and Teaching with Plagiarism Detection Technology. In 11th International Conference on Networked Learning, edited by Milan Bajić, Nina Bonderup Dohn, Martin de Laat, Peter Jandrić, and Thomas Ryberg, 235–242. https://www.networkedlearningconference.org.uk/abstracts/papers/ross_25.pdf."
+  }, {
+    "type" : "paragraph",
+    "id" : 251,
+    "page number" : 13,
+    "bounding box" : [ 70.8, 382.027, 541.18, 421.887 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Ross, Jen, and Anna Wilson. Forthcoming. Reconfiguring Surveillance Futures for Higher Education Using Speculative Data Stories. In Sustainable Networked Learning: Individual, Sociological and Design Perspectives, edited by Nina Bonderup Dohn, Jimmy Jaldemark, Lena-Maria Öberg, Peter Mozelius, Marcia Håkonsson Lindqvist, Thomas Ryberg and Maarten de Laat. London: Routledge."
+  }, {
+    "type" : "paragraph",
+    "id" : 253,
+    "page number" : 13,
+    "bounding box" : [ 70.8, 332.107, 541.226, 382.047 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Rubel, Alan, and Kyle L.M. Jones. 2016. Student Privacy in Learning Analytics: An Information Ethics Perspective. The Information Society 32 (2): 143–159. Sardá, Thais, Simone Natale, Nikos Sotirakopoulos, and Mark Monaghan. 2019. Understanding Online Anonymity. Media, Culture & Society 41 (4): 557–564. Selwyn, Neil, Luci Pangrazio, Serena Nemorin, and Carlo Perrotta. 2020. What Might the School of 2030 Be Like? An Exercise in"
+  }, {
+    "type" : "paragraph",
+    "id" : 259,
+    "page number" : 13,
+    "bounding box" : [ 70.8, 302.107, 541.114, 332.127 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Social Science Fiction. Learning, Media and Technology 45 (1): 90–106. Sismondo, Sergio. 2020. Sociotechnical Imaginaries: An Accidental Themed Issue. Social Studies of Science 50 (4): 505–507. Watson, Cate, Anna Wilson, Valerie Drew, and Terrie Lynn Thompson. 2017. Small data, online learning and assessment practices"
+  }, {
+    "type" : "paragraph",
+    "id" : 263,
+    "page number" : 13,
+    "bounding box" : [ 70.8, 272.347, 541.149, 302.367 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "in higher education: a case study of failure? Assessment & Evaluation in Higher Education 42 (7): 1030–1045. Watters, Audrey. 2019. Ed-Tech Agitprop. Hack Education, November 28. https://hackeducation.com/2019/11/28/ed-tech-agitprop [accessed April 6, 2023]."
+  }, {
+    "type" : "paragraph",
+    "id" : 266,
+    "page number" : 13,
+    "bounding box" : [ 70.8, 242.347, 541.185, 272.367 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Williamson, Ben. 2018. The Hidden Architecture of Higher Education: Building a Big Data Infrastructure for the “Smarter University.” International Journal of Educational Technology in Higher Education 15 (1): https://doi.org/10.1186/s41239018-0094-1."
+  }, {
+    "type" : "list",
+    "id" : 270,
+    "level" : "4",
+    "page number" : 13,
+    "bounding box" : [ 70.8, 202.507, 541.154, 242.607 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 13,
+      "bounding box" : [ 70.8, 222.427, 541.154, 242.607 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Wilson, Anna N. 2021a. Learning to See with Deleuze: Understanding Affective Responses in Image-Viewer Research Assemblages. Qualitative Research 21 (6): 906–922.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 13,
+      "bounding box" : [ 70.8, 202.507, 541.13, 222.687 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Wilson, Anna N. 2021b. Pedagogies of Difference and Desire in Professional Learning: Plugging in to Shared Images. Newcastle, UK: Cambridge Scholars Publishing.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 273,
+    "page number" : 13,
+    "bounding box" : [ 70.8, 172.747, 541.199, 202.767 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Wilson, Anna, Jen Ross, Jane McKie, Amy Collier, and Pat Lockley. 2022. Telling Data Stories: Developing an Online Tool for Participatory Speculative Fiction. SAGE Research Methods: Doing Research Online. https://doi.org/10.4135/9781529603514."
+  }, {
+    "type" : "paragraph",
+    "id" : 276,
+    "page number" : 13,
+    "bounding box" : [ 70.8, 112.747, 541.168, 172.767 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.12,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Wilson, Anna, Terrie Lynn Thompson, Cate Watson, Valerie Drew, and Sarah Doyle. 2017a. Big Data and Learning Analytics: Singular or Plural? First Monday 22 (4): https://doi.org/10.5210/fm.v22i4.6872. Wilson, Anna, Cate Watson, Terrie Lynn Thompson, Valerie Drew, and Sarah Doyle. 2017b. Learning Analytics: Challenges and Limitations. Teaching in Higher Education 22 (8): 991–1007. Zuboff, Shoshana. 2019. The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. London: Profile Books."
+  }, {
+    "type" : "footer",
+    "id" : 282,
+    "page number" : 13,
+    "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 36,
+      "page number" : 13,
+      "bounding box" : [ 70.8, 35.432, 541.348, 46.853 ],
+      "heading level" : 4,
+      "font" : "CenturyGothic-Italic",
+      "font size" : 9.12,
+      "text color" : "[0.0, 0.501960813999176, 0.501960813999176]",
+      "content" : "Surveillance & Society 21 (3) 316"
+    } ]
+  } ]
+}

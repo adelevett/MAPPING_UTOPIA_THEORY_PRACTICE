@@ -1,0 +1,3329 @@
+{
+  "file name" : "Goding_2023_The_Robot_and_Human_Futures_Visualising_Autonomy_in_Law_and_Science_Fiction.pdf",
+  "number of pages" : 26,
+  "author" : null,
+  "title" : null,
+  "creation date" : "D:20231120102326+01'00'",
+  "modification date" : "D:20231120103346+01'00'",
+  "kids" : [ {
+    "type" : "paragraph",
+    "id" : 129,
+    "page number" : 1,
+    "bounding box" : [ 51.024, 614.626, 188.639, 633.134 ],
+    "font" : "MyriadPro-SemiCn",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Law and Critique (2023) 34:315–340 https://doi.org/10.1007/s10978-023-09360-7"
+  }, {
+    "type" : "heading",
+    "id" : 138,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 51.024, 545.874, 340.478, 575.642 ],
+    "heading level" : 2,
+    "font" : "MyriadPro-SemiboldSemiCn",
+    "font size" : 13.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The Robot and Human Futures: Visualising Autonomy in Law and Science Fiction"
+  }, {
+    "type" : "heading",
+    "id" : 139,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 51.024, 518.325, 192.756, 531.629 ],
+    "heading level" : 5,
+    "font" : "MyriadPro-Semibold",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Vincent Goding1 · Kieran Tranter2"
+  }, {
+    "type" : "paragraph",
+    "id" : 137,
+    "page number" : 1,
+    "bounding box" : [ 51.024, 481.398, 241.021, 499.906 ],
+    "font" : "MyriadPro-SemiCn",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Accepted: 13 July 2023 / Published online: 29 September 2023 © The Author(s) 2023"
+  }, {
+    "type" : "heading",
+    "id" : 130,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 51.024, 447.886, 88.824, 460.276 ],
+    "heading level" : 4,
+    "font" : "MyriadPro-Bold",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Abstract"
+  }, {
+    "type" : "paragraph",
+    "id" : 131,
+    "page number" : 1,
+    "bounding box" : [ 51.024, 316.223, 388.372, 447.297 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This article argues that legal discourses about robots are framed within a limiting ‘human paradigm.’ While this is not a specific failure of lawyers, it has significant consequences for law in a digital future. This visualising of robots has its origins in mainstream twentieth-century science fictional tropes of artificial beings. This article begins by identifying the predominant science fiction tropes regarding artificial beings as a source of anxiety for human futures, as located in discrete bodies and as separate from humans. The article then traces this ‘human paradigm’ in robot law scholarship. It is shown how a focus on embodiment and separation disrupts appreciation of the emerging partial disembodiment and hybridity of digital autonomy. There is a continual sense of needing to keep robots and humans distinct and separate, which is not how digital futures are manifesting."
+  }, {
+    "type" : "paragraph",
+    "id" : 132,
+    "page number" : 1,
+    "bounding box" : [ 51.024, 291.886, 285.221, 303.297 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Keywords Robots · Law · Digital · Human · Automation"
+  }, {
+    "type" : "heading",
+    "id" : 133,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 51.024, 246.699, 113.03, 260.328 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Introduction"
+  }, {
+    "type" : "paragraph",
+    "id" : 134,
+    "page number" : 1,
+    "bounding box" : [ 51.024, 175.286, 388.355, 234.36 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Calo (2016, p. 225) has tracked robots through American case law. He identified how in the judicial system, imaginary robots, as legal objects and curial metaphors, have appeared mechanistic, predictable, programmable machines. Calo raises a significant question: how can law think of robots elsewise?1 He particularly identifies the idea of ‘emergent’ behavior where the frayed connection between human command and"
+  }, {
+    "type" : "list",
+    "id" : 136,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 52.441, 141.853, 388.323, 161.274 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 152,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 52.441, 141.853, 388.323, 161.274 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 On the beginnings of the appreciation of function of metaphor in robot law scholarship see Richards and Smart (2016) and Leta Jones and Millar (2017).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 141,
+    "page number" : 1,
+    "bounding box" : [ 65.197, 92.192, 132.773, 110.551 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Kieran Tranter k.tranter@qut.edu.au"
+  }, {
+    "type" : "list",
+    "id" : 142,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 51.024, 58.271, 341.325, 82.691 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "next list id" : 238,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 51.024, 72.771, 341.325, 82.691 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 School of Law and Society, University of the Sunshine Coast, Sippy Downs, Australia",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 51.024, 58.271, 302.298, 68.191 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "2 School of Law, Queensland University of Technology, Brisbane, Australia",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 144,
+    "page number" : 1,
+    "bounding box" : [ 347.442, 24.317, 388.347, 43.157 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 52,
+      "page number" : 1,
+      "bounding box" : [ 347.442, 24.317, 388.347, 43.157 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 145,
+    "page number" : 2,
+    "bounding box" : [ 51.024, 624.126, 388.35, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 78,
+      "page number" : 2,
+      "bounding box" : [ 51.024, 624.126, 62.424, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "316"
+    }, {
+      "type" : "paragraph",
+      "id" : 79,
+      "page number" : 2,
+      "bounding box" : [ 325.52, 624.126, 388.35, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "V. Goding, K. Tranter"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 147,
+    "page number" : 2,
+    "bounding box" : [ 51.024, 562.12, 388.359, 609.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "robot doing is problematic for the judicial imaginary (Calo 2016, p. 227). This article asks a similar question. However, its concern is not with the specific ‘mechanical men’ phantasies of judges but rather the scholarship to which Calo is a well-recognised contributor (Calo 2011, 2015)."
+  }, {
+    "type" : "paragraph",
+    "id" : 148,
+    "page number" : 2,
+    "bounding box" : [ 51.024, 333.353, 389.103, 561.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Law and technology scholarship interacts with a speculative jurisdiction (Tranter 2011b). Hopes and fears of technological futures become translated into legal analysis. Rules and principles are assessed for adequacy, legal vacuums identified (Beebe 1999) and reforms suggested. There are two essential features to this ‘enterprise’ (Tranter 2011a). The first is an underlying positivist account of law. Law is a tool through which the present can safeguard the future (Tranter 2011a).2 The second is that the legal scholar undertakes a process of imagining. It is how technologies might affect the future that is within the frame. To do this the law and technology scholar draws upon an ambit science fiction infused cultural imaginary of technological futures: This broader cultural imaginary establishes, circulates, and makes popular images, memes, and narratives that animate and give structure to the hopes and fears of technological change (Tranter 2011b). The specific legal analysis of law and technology scholarship often manifests and depends on the cultural imaginary technological change. For example first generation space law literature from the late1950s-early-1960s embodied and projected the fantasies of 1930-40s space opera (Tranter 2011b, pp. 821-6) or the legal literature considering legal and regulatory responses to mammalian cloning in the late-1990s-early-2000s drew upon the dreams and horrors of cloning nurtured and made popular by science fiction’s ‘clone canon’ (Tranter 2018b, pp. 22− 7)."
+  }, {
+    "type" : "paragraph",
+    "id" : 149,
+    "page number" : 2,
+    "bounding box" : [ 51.024, 250.12, 388.356, 333.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Drawing upon this homology of the legal and cultural imageries this article argues that when lawyers think of robots in the 2010 and 2020 s, there is a foundational ‘human-centrism’ inherited from a cultural imaginary that has been nurtured by ‘mainstream’ twentieth-century science fiction. Importantly, the elements of this human-centrism—human futures, material bodies, and separation—are disrupting clearer thinking about the messy hybrid and fluxing future of life and living with the digital. This argument is in three parts."
+  }, {
+    "type" : "paragraph",
+    "id" : 150,
+    "page number" : 2,
+    "bounding box" : [ 51.024, 118.12, 388.359, 249.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The first part argues that mainstream twentieth-century science fiction has nurtured a cultural imaginary concerning artificial beings. Core to this imaginary is the ‘human paradigm.’ It begins by remembering the two foundational twentieth-century robot texts: Karel Čapek’s 1920 play R.U.R. (Rossum’s Universal Robots) (Čapek and Čapek 1961) and Isaac Asimov’s robot short stories and robot detective novels from 1940s to 60s (Asimov 1960, 1967, 1969, 1983, 2008). Čapek’s robots go on to obliterate and replace humanity, while Asimov’s serve (mostly) faithfully. Notwithstanding significant differences, together, these texts establish the core science fictional tropes concerning robots—anxiety about human futures, robots as located in discrete bodies, and a distinction between humans and robots—that across subsequent decades became reiterated and replayed particularly by popular screened sci-"
+  }, {
+    "type" : "list",
+    "id" : 152,
+    "level" : "1",
+    "page number" : 2,
+    "bounding box" : [ 52.441, 57.797, 388.348, 86.718 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 136,
+    "next list id" : 172,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 52.441, 57.797, 388.348, 86.718 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "2 There is a fundamental irony at play in this tool-like law of law and technology. It is law as technology. The irony becomes that the machine that humanity should use to mould desirable technological futures is in itself technological (see Tranter 2018b).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 154,
+    "page number" : 2,
+    "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 53,
+      "page number" : 2,
+      "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 155,
+    "page number" : 3,
+    "bounding box" : [ 51.359, 624.126, 388.682, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 80,
+      "page number" : 3,
+      "bounding box" : [ 51.359, 624.126, 261.18, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "The Robot and Human Futures: Visualising Autonomy in Law and…"
+    }, {
+      "type" : "paragraph",
+      "id" : 81,
+      "page number" : 3,
+      "bounding box" : [ 377.282, 624.126, 388.682, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "317"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 157,
+    "page number" : 3,
+    "bounding box" : [ 51.024, 586.12, 388.352, 609.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ence fiction. In short, science fiction might imagine robots but only sees human life as it has been known."
+  }, {
+    "type" : "paragraph",
+    "id" : 158,
+    "page number" : 3,
+    "bounding box" : [ 51.024, 502.12, 388.357, 585.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The second part argues that legal thinking about robots can be seen as grounded on this human paradigm. It takes as its sample contributions that expressly orientate the analysis on robot law scholarship. It will be shown that robot law scholarship notwithstanding the sophistication of their legal analysis, manifest an iteration of the human paradigm. Informing each are foundational concerns with human futures, that robots are identifiable distinct material object, and a quarantining between robots and humans as the users, consumers, or ‘victims’ of robots."
+  }, {
+    "type" : "paragraph",
+    "id" : 159,
+    "page number" : 3,
+    "bounding box" : [ 51.024, 334.12, 388.358, 501.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The third part shows why the manifestation of science fiction’s human paradigm is problematic. This is something more than the ‘android fantasy’ that Neil Richards and William Smart (2016) discuss. It disrupts because it obscures a clearer appreciation of the forms and trajectories of living in and with the digital. First, its emphasis on the specificity of automation located within a singular material entity in a specific time and place, seems less than certain. While a trait within Asimov was robots ascending to the godhead, actual robots, and automated digital technologies tend to be less constrained by a material body than imagined in science fiction but fall short of transcendent omnipresence. Second, it denies a vision of the posthuman, of the fusion and hybridity between humans and autonomous digital technologies generating new and different makers and subjects of law. Without clear mapping of the complex, fluxing hybridity of humans and the digital, current robot law scholarship speaks past its subject. It is looking at the silver screen’s robots and not the emergent entities fused to a device’s screen."
+  }, {
+    "type" : "heading",
+    "id" : 160,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 51.024, 297.533, 293.208, 311.162 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Science Fiction, Robots, and the Human Paradigm"
+  }, {
+    "type" : "paragraph",
+    "id" : 161,
+    "page number" : 3,
+    "bounding box" : [ 51.024, 178.12, 388.357, 285.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This part argues that mainstream twentieth-century science fiction’s imagination of artificial beings is predicated on what will be identified as the ‘human paradigm’. Starting with Čapek and Asimov, it is shown mainstream twentieth-century science fiction has informed a cultural imaginary regarding robots with three dominant tropes: anxiety about human futures, robots as embodied, and the distinction between humans and robots. These tropes form the human paradigm, and the repetition and reiteration of the human paradigm by science fiction has meant that robots are viewed through a ‘scanner darkly’ (Dick 2011). Robots might be envisaged, but humans remain the focus."
+  }, {
+    "type" : "paragraph",
+    "id" : 162,
+    "page number" : 3,
+    "bounding box" : [ 51.024, 58.12, 388.352, 177.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "There is a broad and methodologically complex discipline of science fiction studies, particularly in relation to science fiction film (Telotte 2001). It has been argued that science fiction as a genre comes into its own through visual mediums (Sobchack 1997). Further, there is now an emerging cultural legal studies tradition that is particularly focused on cultural intertwining of law and science fiction (Green et al. 2022). The themes and focuses within science fiction studies and cultural legal studies of science fiction are diverse. Science fiction texts (broadly conceived as novels. plays, films, television, video games, products of prosuming) provide expansive vistas for play, critique, dreaming and fearing (Csicsery-Ronay 2008). However, a consistent feature of genre definitions of science fiction, and in the critical examinations and"
+  }, {
+    "type" : "footer",
+    "id" : 164,
+    "page number" : 3,
+    "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 54,
+      "page number" : 3,
+      "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 165,
+    "page number" : 4,
+    "bounding box" : [ 51.024, 624.126, 388.35, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 82,
+      "page number" : 4,
+      "bounding box" : [ 51.024, 624.126, 62.424, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "318"
+    }, {
+      "type" : "paragraph",
+      "id" : 83,
+      "page number" : 4,
+      "bounding box" : [ 325.52, 624.126, 388.35, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "V. Goding, K. Tranter"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 167,
+    "page number" : 4,
+    "bounding box" : [ 51.024, 478.12, 388.896, 609.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "studies of science fiction texts is technology and the consequences of technological change (Tranter, 2018b, p. 3). Since Mary Shelley feverishly penned Victor Frankenstein creating his monster in his top floor room/laboratory, science fiction and its scholarly traditions, have indelibly engaged with technology (Yaszek 2023, p. 4). A significant concept is that of the ‘cultural imaginary.’ Tomislav Z. Longinović defines the cultural imaginary as ‘a realm of phantasms tied to one’s collective being’ (2011, p. 48). Within mass technological society, science fiction has been a crucible forging popular tropes, images and memes about technology and technological change (Robb & Tranter, 2023). Thomas M. Disch observed a ‘persuasive example of the power of ‘creative visualization’ [of science fiction in] the way the rocket-ship daydreams of the early twentieth century evolved into NASA’s hardware’ (Disch 1998, p. 7)."
+  }, {
+    "type" : "paragraph",
+    "id" : 168,
+    "page number" : 4,
+    "bounding box" : [ 51.024, 238.12, 388.358, 477.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "It is this ‘creative visualisation’ by science fiction, through informing the cultural imaginary about robots that is the focus of this part. It maps the core tropes. This trope mapping of mainstream science fiction’s cultural imaginary of robots is not an overtly sophisticated theoretical or methodological task. There is no need for the more detailed nuances of Darko Suvin’s ‘cognitive estrangement’ (Suvin 1979) that has been so influential in science fiction studies (Parrinder 2000, p. 4), or William P. MacNeil’s ‘reading jurisprudentially’ (MacNeil 2007) that has underpinned much of the recent cultural legal studies of science fiction (Travis & Tranter, 2024).3 It is a surface level examination of primary denotations. Similarly, this is not a detailed examination of the entirety of science fiction in its sheer diversity or through an acafan’s obsessions with the cult, marginal and avant-garde (Kader 2015, p. 143). The cultural imaginary is comprised of collective phantasms that are shared, every-day and well-known. It is pop twice over. Popular in the sense as mainstream and ‘democratic’ in that the tropes, images, and memes circulate within pop culture. As such our consideration of science fiction goes to the mainstream and extremely well-known texts. Further our focus is on the tropes about robots associated with those texts. Often these texts do contribute to other cultural imageries of technological change, dystopia and existential themes that are often explored in detailed critical scholarship. However, at this stage of mapping the central tropes within science fiction’s cultural imaginary of robots, this broader contextualisation is secondary."
+  }, {
+    "type" : "paragraph",
+    "id" : 169,
+    "page number" : 4,
+    "bounding box" : [ 51.024, 189.783, 388.353, 237.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Mapping often begins with an origin, and the unambiguously popularly identified origin of robots in science fiction is with Čapek and Asimov. Čapek and Asimov"
+  }, {
+    "type" : "paragraph",
+    "id" : 170,
+    "page number" : 4,
+    "bounding box" : [ 51.024, 106.12, 388.36, 177.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The origin of the word ‘robot’ in English is due to Czech writer Karol Čapek’s 1920 play R.U.R. (Rosumovi Uměí Roboti), which is usually translated as ‘Rossum’s Universal Robots’ (Roberts 2005; Richards and Smart 2016) first performed in English by the Reandean Company at St Martin’s Theatre, London, in 1923 (Čapek and Čapek 1961). The narrative is familiar to contemporary audiences even if the actual text is not. Set on an island factory in the South Pacific, the headquarters and chief"
+  }, {
+    "type" : "list",
+    "id" : 172,
+    "level" : "1",
+    "page number" : 4,
+    "bounding box" : [ 52.441, 57.797, 388.347, 86.718 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 152,
+    "next list id" : 180,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 52.441, 57.797, 388.347, 86.718 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "3 Or Timothy D Peter’s fabulous merging of the two in Peters, T. D. (2022). A Theological Jurisprudence of Speculative Cinema: Superheroes, Science Fictions and Fantasies of Modern Law. Edinburgh University Press.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 174,
+    "page number" : 4,
+    "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 55,
+      "page number" : 4,
+      "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 175,
+    "page number" : 5,
+    "bounding box" : [ 51.359, 624.126, 388.682, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 84,
+      "page number" : 5,
+      "bounding box" : [ 51.359, 624.126, 261.18, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "The Robot and Human Futures: Visualising Autonomy in Law and…"
+    }, {
+      "type" : "paragraph",
+      "id" : 85,
+      "page number" : 5,
+      "bounding box" : [ 377.282, 624.126, 388.682, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "319"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 177,
+    "page number" : 5,
+    "bounding box" : [ 51.024, 442.12, 389.094, 609.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "manufacturing plant of the Rossum Corporation, a collection of corporate humans (managing director, accountant, engineers) witness, over a series of years, growing malfunction within robots leading to revolution and their (and the human race’s) extermination (Čapek and Čapek 1961). In the triumphal words of the robot representative, ‘Mankind is no more. Mankind gave us too little life. We wanted more life’ (Čapek and Čapek 1961, p. 90). The final Act set several years after the revolution shows a crisis for Earth’s new robot overlords; with representatives of the robots pleading with the last human, the clerk Alquist, to bestow on the robots the capacity to reproduce (Čapek and Čapek 1961). With the secret of robot animation having been lost in the revolution. Alquist detects that the ‘male’ and ‘female’ robots that he was instructed to experiment on show care and affect, traits not seen in the other automatist robots (Čapek and Čapek 1961). The play ends with Alquist declaring the new ‘Adam and Eve’ and that with these two, the robots have become human (Čapek and Čapek 1961, p. 104; Segel 1995)."
+  }, {
+    "type" : "paragraph",
+    "id" : 178,
+    "page number" : 5,
+    "bounding box" : [ 51.024, 154.12, 388.36, 441.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In many respects, R.U.R. brings Mary Shelley’s Frankenstein to the twentieth century. In common with Victor’s monster, the robots of the Rossum Corporation are flesh and blood. However, unlike Victor, whose creating is a private affair driven by a compulsive passion, Rossum has made money. The opening scenes show Rossum Corporation at full height, with an excess of orders for robots for the armies and the factories of Europe and North America, and the everyday corporate concerns of manufacturing capacity, quality control, and accounting practices (Čapek and Čapek 1961). Unlike Frankenstein, however, where the monster emerges as a pitiful character, spurred by his creator and cast into the world alone (Botting 1991), the robots in R.U.R. remain, even the supposedly Adam and Eve, alien and clunky. The revolution happens without much communication as to its cause (Čapek and Čapek 1961), unlike Frankenstein, where the monster speaks of hateful revenge (Shelley [1818] 1965). The dispassionate robots replace humans because, in their dispassion, they perceive themselves better. What can be seen in Čapek’s narrative of technology, consumption, and bloody revolution are the core elements of the human paradigm. First, the play gestures towards the future. There are anxieties about declining human births in the robot-oriented pre-revolution world economy (Čapek and Čapek 1961), and the narrative, overall, plays out a future where there are human ends (Čapek and Čapek 1961). Further, there is the possible rebooting of a ‘human’ future in the conclusion with the robots evolving to be human (Čapek and Čapek 1961). The drama concerned the decline and salvation of forms of ‘humanity’. Second, R.U.R. projected robots as ‘embodied’, that is as discrete entites within an identifiable, material body.4 The body was in focus; both in the claims about robots’ carelessness towards their own body as a mark of their less-than-human status early in the play (Čapek and"
+  }, {
+    "type" : "list",
+    "id" : 180,
+    "level" : "1",
+    "page number" : 5,
+    "bounding box" : [ 52.441, 114.797, 388.355, 134.218 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 172,
+    "next list id" : 192,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 52.441, 114.797, 388.355, 134.218 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "4 While there is a substantial literature, particularly from posthuman feminist orientations on technology (see (Hayles 1999; Kang 2011), that could be traced back to the wellspring of Heidegger’s Being (Tranter",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 181,
+    "level" : "1",
+    "page number" : 5,
+    "bounding box" : [ 55.276, 57.797, 388.358, 114.157 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 264,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 55.276, 57.797, 388.358, 114.157 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 1.0]",
+      "content" : "2018b, p. 102) that present ‘embodiment’ as human experience of the material in time and space, the deployment of ‘embodied’ here in a more basic, denoted sense. The robots in R.U.R. are singular material entities – agent and body are one. This is done knowingly. It is in contrast with the alternative science fiction trope that we explore of the ‘disembodied’ robot, and also prefiguring our concluding argument, drawing upon more nuanced critical literature on the complexity of ‘embodiment’ as revealed and experienced in the digital.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 183,
+    "page number" : 5,
+    "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 56,
+      "page number" : 5,
+      "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 184,
+    "page number" : 6,
+    "bounding box" : [ 51.024, 624.126, 388.35, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 86,
+      "page number" : 6,
+      "bounding box" : [ 51.024, 624.126, 62.424, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "320"
+    }, {
+      "type" : "paragraph",
+      "id" : 87,
+      "page number" : 6,
+      "bounding box" : [ 325.52, 624.126, 388.35, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "V. Goding, K. Tranter"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 186,
+    "page number" : 6,
+    "bounding box" : [ 51.024, 550.12, 388.357, 609.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Čapek 1961) and also in the final act with the ‘evolved’ robots manifesting concern for their body and for the bodily integrity of each other as the signification of their transition to human (Čapek and Čapek 1961). Finally, the story of the substitution and replacement of humans by robots maintains a separation of the robots from the human. Robots kill and replace humanity."
+  }, {
+    "type" : "paragraph",
+    "id" : 187,
+    "page number" : 6,
+    "bounding box" : [ 51.024, 454.12, 388.353, 549.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Isaac Asimov rewired the anxieties of R.U.R. to present a vision of robots as maintaining their ‘proper place’ in relation to humans (Hockstein et al. 2007). Asimov was concerned that writers like Čapek could imagine engineers building dangerous machines without safeguards (Asimov 1967). He takes from Čapek robots as massedproduced goods and imagines that safety protocols will be hardwired into the working of their ‘positronic brains.’ Referred to within his robot short stories from 1941 to 1960 as ‘potentialities’ understood by equations, translated into English as the ‘Three Laws of Robotics’ were presented as:"
+  }, {
+    "type" : "paragraph",
+    "id" : 188,
+    "page number" : 6,
+    "bounding box" : [ 62.362, 370.12, 377.042, 441.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "First Law: A robot may not injure a human being or, through inaction, allow a human being to come to harm. Second Law: A robot must obey orders given to it by human beings except where such orders would conflict with the First Law. Third Law: A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.5"
+  }, {
+    "type" : "paragraph",
+    "id" : 189,
+    "page number" : 6,
+    "bounding box" : [ 51.024, 166.12, 388.365, 357.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Asimov’s stories tell of the adventures of various employees—field testers, the head of Research and Development, and, especially, Susan Calvin, chief ‘robopsychologist‘—of US Robots and Mechanical Men Inc. (Portelli 1980; Leslie-McCarthy 2007). Each short story—and the more full-length robot detective novels featuring the human gumshoe Elijah Baley and his android partner R. Daneel Olivaw—is a puzzle (Tranter 2002; Leslie-McCarthy 2007). The protagonists are faced with a robot seemingly not complying with the Laws of Robotics, and the protagonists must reason and experiment to determine how situational context or human orders have led to the malfunction (Roberts 2005; Palumbo 2000). For example, the story ‘Liar!’ tells of an accidentally created mind-reading robot, Herbie (Asimov 2008, pp. 91–111). Herbie is caught in a paradox of the First Law. His mind-reading skills tell him how to answer a human so as not to cause harm. However, by misrepresenting to his human interrogators what he has read in the minds of others, he also harms. When Herbie is forced to comprehend the hurt from the social consequences of the misrepresentations and untruths: ‘you must tell them, but if you do you hurt, so you mustn’t; but if you don’t you hurt, so you must, but—’, he self-destructs (Asimov 2008, p. 110)."
+  }, {
+    "type" : "paragraph",
+    "id" : 190,
+    "page number" : 6,
+    "bounding box" : [ 51.024, 106.12, 388.36, 165.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In both Čapek and Asimov, robots emerge as juridical beings. The robots manufactured by Rossum Corporation seem to obey a set of natural laws, a sort of ‘natural selection’ in their vanquishing of humanity and an evolutionary law of return in their becoming human. The industrial tools and domestic help constructed by US Robots and Mechanical Men can be seen as deontological beings possessing three"
+  }, {
+    "type" : "list",
+    "id" : 192,
+    "level" : "1",
+    "page number" : 6,
+    "bounding box" : [ 52.441, 57.797, 388.35, 86.718 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 180,
+    "next list id" : 202,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 52.441, 57.797, 388.35, 86.718 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "5 Asimov first commits to text the Three Laws of Robotics in the 1942 story ‘Runaround’ first published in Astounding Science Fiction. On the emergence of the laws over the early Robot stories of 1940–1942 see Abrahm and Kenter (1978).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 194,
+    "page number" : 6,
+    "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 57,
+      "page number" : 6,
+      "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 195,
+    "page number" : 7,
+    "bounding box" : [ 51.359, 624.126, 388.682, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 88,
+      "page number" : 7,
+      "bounding box" : [ 51.359, 624.126, 261.18, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "The Robot and Human Futures: Visualising Autonomy in Law and…"
+    }, {
+      "type" : "paragraph",
+      "id" : 89,
+      "page number" : 7,
+      "bounding box" : [ 377.282, 624.126, 388.682, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "321"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 197,
+    "page number" : 7,
+    "bounding box" : [ 51.024, 562.12, 388.352, 609.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "internalised, hierarchal universal laws to make them safe. Indeed, Asimov’s robots rendered safe (or at least safer than Čapek’s genocidal variety) by the ‘Three Laws of Robotics’ are seen as an inspiration, if not a blueprint, for contemporary roboticists (Murphy and Woods 2009; Anderson 2008; McCauley 2007)."
+  }, {
+    "type" : "paragraph",
+    "id" : 198,
+    "page number" : 7,
+    "bounding box" : [ 51.024, 370.12, 388.36, 561.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "However, Asimov’s imagining shares more with Čapek than an implication of legality and the use of a derivative of the Czech word for ‘strenuous work’ (Segel 1995, p. 297) to denote the manufactured artificial beings of their titles. First, Asimov writes of a cornucopian human future (Tranter 2002); his stories begin in the then future of the 1990s and extend well into the twenty-first century.6 Through robots, humans achieve exploration and exploitation of the solar system (Asimov 2008), peace and bountifulness on Earth (Asimov 2008), and faster-than-light interstellar travel (Asimov 1969, 2008). Second, Asimov’s robots are also distinctly embodied entities, whether the metal bodies of early prototypes7 or the more human-esque, synthetic android bodies of later varieties (Asimov 2008).8 Finally, there is a strict separation between humans and robots encoded by the very terms of the Laws of Robotics, which keeps distinct ‘humans’ and ‘robots.’ In Asimov’s universe, the human masters remain distinct from their robotic servants.9 Like in Čapek, the only direction for change seems to be robots metamorphosing into humans, as told by Asimov in the later novella and played by Robin Williams in the film adaption of The Bicentennial Man (Asimov 1976; Columbus 1999; Coleman and Hanely 2009)."
+  }, {
+    "type" : "heading",
+    "id" : 199,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 51.024, 345.783, 324.73, 357.223 ],
+    "heading level" : 4,
+    "font" : "MyriadPro-BoldSemiCn",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Human Futures, Bodies, and Separation in Science Fiction’s Robots"
+  }, {
+    "type" : "paragraph",
+    "id" : 200,
+    "page number" : 7,
+    "bounding box" : [ 51.024, 202.12, 388.361, 333.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "These tropes of human futures, bodies, and separation in Čapek and Asimov became the foundation for how mainstream science fictions portrayed artificial beings. Often these tropes are combined to reiterate the overarching narrative structure of Čapek or Asimov. A more sophisticated retelling of R.U.R. was the reimagined television series Battlestar Galactica (2004–2009) (Rymer 2003). The foundational premise of the series involves the annihilation of humanity by its rebelled robotic servants (the Cylons), which had evolved from metallic ‘toasters’ into fleshy humanoid models. The series further parallels R.U.R. in that by the end of the series, humans and Cylons form a mixed society, yet with a decidedly ‘human’ culture (Rymer 2009). Human future remains the focus along with embodiment, which is repeatedly emphasised intra-text through narratives and tropes about bodily reproduction (Tranter 2018b,"
+  }, {
+    "type" : "list",
+    "id" : 202,
+    "level" : "1",
+    "page number" : 7,
+    "bounding box" : [ 52.441, 57.797, 388.94, 190.222 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "previous list id" : 192,
+    "next list id" : 231,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 52.441, 142.301, 388.355, 190.222 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "6 While the immediate robotic future on Earth in the stories collected in I, Robot seems secure, Asimov’s longer ‘future history’ is less than bountiful on Earth. By the time of the robot detective novels—set several centuries into the future—Earth society has rejected robots and retreated into dystopic underground cities (Hillegas 1961), while a cornucopian robot-based society and economy continues on the human ‘Spacer’ settlements on fifty terraformed worlds.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 52.441, 110.967, 388.349, 139.887 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "7 The early robot nursemaid ‘Robbie’s’ head is described as ‘a small parallelepiped with rounded edges and corners attached to a similar but much larger parallelepiped that served as torso by means of a short, flexible stalk’ (Asimov 2008, p. 2).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 52.441, 89.132, 388.355, 108.553 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "8 The humanoid robot ‘Tony’ is described as ‘tall and darkly handsome, with an incredibly patrician air drawn into every line of his unchangeable expression’ (Asimov 1967, p. 102).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 52.441, 57.797, 388.94, 86.718 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "9 Although, there are some hints regarding slippages of who is the master in some of Asimov’s stories; most notably the ‘Evitable Conflict’ (Asimov 2008, pp. 198–224) and the much later written ‘fusion’ novel Foundation and Earth (Asimov 1986).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 204,
+    "page number" : 7,
+    "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 58,
+      "page number" : 7,
+      "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 205,
+    "page number" : 8,
+    "bounding box" : [ 51.024, 624.126, 388.35, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 90,
+      "page number" : 8,
+      "bounding box" : [ 51.024, 624.126, 62.424, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "322"
+    }, {
+      "type" : "paragraph",
+      "id" : 91,
+      "page number" : 8,
+      "bounding box" : [ 325.52, 624.126, 388.35, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "V. Goding, K. Tranter"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 207,
+    "page number" : 8,
+    "bounding box" : [ 51.024, 514.12, 388.354, 610.383 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "90− 3). The one development from the R.U.R. template is that the new human culture is a hybrid of human and Cylon (Rose 2015). While this challenges the separation trope from R.U.R., it can be seen as a manifestation of Bicentennial Man, where the telos for robots is the human. Indeed, this is also the case for another well-known television robot, Data (Brent Spiner) from Star Trek: The Next Generation. Data’s narrative through the series and the subsequent films is to become ‘more human’ as he repeatedly saves the future human civilisation (Short 2003; Barrett and Barrett 2017)."
+  }, {
+    "type" : "paragraph",
+    "id" : 208,
+    "page number" : 8,
+    "bounding box" : [ 51.024, 394.12, 388.357, 513.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "These tropes ara also in mainstream science fictions that are not primarily concerned with robot narratives. The enduring characters of C-3PO and R2-D2 from George Lucas’ Star Wars franchise highlight the embodiment and separation of science fiction’s imagining of robots. The two ‘droids’ are presented as separate and different from the plethora of human and alien characters. Regardless of projected personality and appearance of sentience, Star Wars droids are presented as property to be traded and disassembled at will (Bryson 2010). Further, they are distinctly located within material bodies. C-3PO’s shiny gold humanoid body and R2D2 as a dustbin-on-wheels. R2-D2 needs to physically interface with computer systems; C-3PO can only communicate with humans, aliens, and other droids through speech."
+  }, {
+    "type" : "paragraph",
+    "id" : 209,
+    "page number" : 8,
+    "bounding box" : [ 51.024, 262.12, 388.357, 393.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This sense of material bodies and separation is not uniquely associated with Western robot narratives. Japanese robot stories often reiterate these tropes. The foundation of the Japanese robot and robot narratives is Osamu Tezuka’s Tetsuwan Atomu (Astro Boy) manga and anime (Sone 2017). Tezuka presents a humanoid boy robot, who interacts with and saves human society, but who also knows and identifies with being a robot (Tranter 2018a). Like George Lucas’ droids, Atomu is distinctly located within a body—his nuclear-powered, capable of flight, and weapon-equipped 4-feet7-inches frame—but unlike Star Trek’s Data, who has a Pinocchio desire to become more human (Scheerer 1989), Atomu and his robot kin, remain separate and distinct from the human scientists, school children, and megalomaniacs of their shared world (Gibson 2010, 2012)."
+  }, {
+    "type" : "paragraph",
+    "id" : 210,
+    "page number" : 8,
+    "bounding box" : [ 51.024, 58.12, 388.358, 261.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Even popular science fictions that attempt to problematise the founding tropes regarding robots often reiterate and reinforce others. The original Westworld film is a retelling of R.U.R. with the exception that it is not robot manifest destiny to kill and replace humans but rather a programming glitch (Crichton 1973; Telotte 1995). The recently reimagined HBO series Westworld brings to the forefront the sense of injustice regarding the treatment of the droids in Star Wars. It shifts identification from the ‘human’ amusement park visitors to the robotic ‘hosts’ and the horror, not of being hunted by killer robots, but that personhood, identity, and memories are an illusion (Le 2017; Winckler 2017). There is empathy for the robots, but only in so much as the robots are proxies for humans. There remains a particular focus on a distinction between humans and robots with the robots as entites located within a facsimile of a human body. The horror of the human/robot slippage for personhood and memory in Westworld has strong antecedents. It is a general theme across Philp K. Dick’s novels (Nelson 2009) and particularly emphasised in Ridley Scott’s adaption of Do Androids Dream of Electric Sheep? (Dick 1972) Blade Runner (Scott 1982), where the concluding suggestion is that gumshoe ‘replicant’ bounty hunter/investigator Deckard (Harrison Ford) is possibly a replicant. The body–memory/human–robot complex in"
+  }, {
+    "type" : "footer",
+    "id" : 212,
+    "page number" : 8,
+    "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 59,
+      "page number" : 8,
+      "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 213,
+    "page number" : 9,
+    "bounding box" : [ 51.359, 624.126, 388.682, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 92,
+      "page number" : 9,
+      "bounding box" : [ 51.359, 624.126, 261.18, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "The Robot and Human Futures: Visualising Autonomy in Law and…"
+    }, {
+      "type" : "paragraph",
+      "id" : 93,
+      "page number" : 9,
+      "bounding box" : [ 377.282, 624.126, 388.682, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "323"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 215,
+    "page number" : 9,
+    "bounding box" : [ 51.024, 550.12, 388.36, 609.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Blade Runner (Landsberg 1995) becomes emphasised in Blade Runner 2049 (Villeneuve 2017), where, as in Battlestar Galactica, the horror of the indistinguishability between humans and replicants transforms into a quest for replicant sexual reproduction. The human body, in its biological mammalian specificity, becomes the paradigm for what it means to an entity in the material world."
+  }, {
+    "type" : "paragraph",
+    "id" : 216,
+    "page number" : 9,
+    "bounding box" : [ 51.024, 334.12, 388.357, 549.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "There is a trajectory within mainstream science fiction’s robot oeuvre where this emphasis on the robot as clearly within a distinct, discrete body in time and space is inverted. The origins of the inversion are within Asimov’s original robot stories, where the robots merged with industrial and electronic systems to become an allknowing, all-present entity (Asimov 2008, pp. 198–224). Rather than the becoming human of R.U.R., the robots become god-like; disembodied, all knowing, all seeing network that is everywhere. This can be seen in the chilling computer HAL in 2001: A Space Odyssey, who is the ship, a disembodied voice, and a blinking red light rather than a specific material entity like Star War’s R2D2 or Star Trek’s Commander Data (Nelson 2009). This inversion of the discrete material body trope was dramatised in the film I, Robot (Proyas 2004), loosely based on Asimov’s robot stories, where a single artificial intelligence (AI), VIKI, had merged with digital infrastructure and become manifested within the positronic robots of that world. Unlike the separate, embodied and distinct robots imagined by R.U.R and reiterated in mainstream science fiction, VIKI, and other filmic networked horrors such as the Terminator franchise’s Skynet or Marvel Avengers’ Ultron, show a tendency to immateriality in the imagining of artificial beings, of bodies being instrumental, temporary, and transient manifestations of an omnipresent techno-totality (Nelson 2009)."
+  }, {
+    "type" : "paragraph",
+    "id" : 217,
+    "page number" : 9,
+    "bounding box" : [ 51.024, 262.12, 388.36, 333.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "However, the anxiety and horror of HAL, Skynet, and Ultron comes from them as orchestrators of human ends. Each is R.U.R. but with just one big multi-bodied robot. While VIKI, following an Asimovian theme, is not inherently misanthropic, but rather motivated by the desire to care for and manage human futures by limiting free will, the emergence of the ‘disembodied’ immaterial robot still challenges human futures."
+  }, {
+    "type" : "paragraph",
+    "id" : 218,
+    "page number" : 9,
+    "bounding box" : [ 51.024, 142.12, 388.355, 261.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Nevertheless, even in imagining a robot as an immaterial omnipresent entity, the key tropes from twentieth-century science fiction are often reasserted. First, the narrative structure is always about human futures and that this future involves a cataclysmic distinction and separation between humans and the one big robots. Second, the presentation of an entirely bodiless entity is often redacted in the climax of these stories. The human protagonists thwart the robotic over-mind by physically destroying its ‘core.’ It turns out that the immaterial giant robot has a material center, a vestibule of a body – that can be materially affected. In this the previous suggestion of disembodiment turns out to be a projection and a ultimately a material body in space and time is reemphasised."
+  }, {
+    "type" : "paragraph",
+    "id" : 219,
+    "page number" : 9,
+    "bounding box" : [ 51.024, 58.12, 388.354, 141.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In conclusion, mainstream science fiction has been a storehouse for the cultural imaging of artificial beings. Notwithstanding, the diversity of narratives, subgenres and tones this cultural imaginary involves three related tropes: human futures, bodies, and separation. The focus might be on created beings, but the referent is the human and its futures. The basic human experience as an entity located within a material body in space and time remains the touchstone. Mainstream science fiction has an extended history of imagining robots but, in doing so, keeps seeing the human."
+  }, {
+    "type" : "footer",
+    "id" : 221,
+    "page number" : 9,
+    "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 60,
+      "page number" : 9,
+      "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 222,
+    "page number" : 10,
+    "bounding box" : [ 51.024, 624.126, 388.35, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 94,
+      "page number" : 10,
+      "bounding box" : [ 51.024, 624.126, 62.424, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "324"
+    }, {
+      "type" : "paragraph",
+      "id" : 95,
+      "page number" : 10,
+      "bounding box" : [ 325.52, 624.126, 388.35, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "V. Goding, K. Tranter"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 224,
+    "level" : "Subtitle",
+    "page number" : 10,
+    "bounding box" : [ 51.024, 597.533, 291.503, 611.162 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The Human Paradigm and Robot Law Scholarship"
+  }, {
+    "type" : "paragraph",
+    "id" : 225,
+    "page number" : 10,
+    "bounding box" : [ 51.024, 418.12, 388.357, 585.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This part argues that legal thinking about robots tends to reiterate the human paradigm from science fiction. Robot law is a rapidly emergent field but with a pedigree. Just before and during World War II, there was mention of ‘robot bombs’ (Angell 1944) and ‘robot landings’ (Smith 1938). Nevertheless, the idea of a discrete scholarship on law and robots remained an extremely ‘minor jurisprudence’10 during the twentieth century, Raymond August’s fabulous 1987 ‘Corpus Juris Roboticum’ a notable exception. However, since 2015 scholarship on corpus juris roboticum has entered the mainstream. There has emerged an expanding body of legal scholarship with a particular focus on robots, AI, and automated digital technologies. What is revealed by a review of legal writing about robots, AI, and automated digital technologies (robot law scholarship) is how it generally is grounded and emanates from the human paradigm established in science fiction. In parallel with science fiction’s robot narratives—while there are differences, challenges, and variations on the themes—there is a common core of human futures, bodies, and separation."
+  }, {
+    "type" : "heading",
+    "id" : 226,
+    "level" : "Subtitle",
+    "page number" : 10,
+    "bounding box" : [ 51.024, 393.783, 114.674, 405.223 ],
+    "heading level" : 4,
+    "font" : "MyriadPro-BoldSemiCn",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Human Futures"
+  }, {
+    "type" : "paragraph",
+    "id" : 227,
+    "page number" : 10,
+    "bounding box" : [ 51.024, 298.12, 388.357, 381.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The anxiety about human futures trope is deployed in robot law scholarship in several ways. The primary location is in the introductory or general discussions of the current and future progress of robots, highlighting human anxieties about this future. It is common to see introductory remarks, either to an article in its entirety or to individual sections concerning the current state of technology, where anxiety about robots and AI and the implication for human futures is directly denoted. For instance, Mark Lemley and Bryan Casey (2019) write:"
+  }, {
+    "type" : "paragraph",
+    "id" : 228,
+    "page number" : 10,
+    "bounding box" : [ 62.362, 250.12, 377.016, 285.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "What happens when artificially intelligent robots don’t do what we expect…as robotics and AI systems increasingly integrate into our society, they will do bad things. (p. 1313)11"
+  }, {
+    "type" : "paragraph",
+    "id" : 229,
+    "page number" : 10,
+    "bounding box" : [ 51.024, 142.12, 388.355, 237.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "These opening observations will commonly refer in general terms to the era of robotisation (Danaher 2016), the risks of the increasing integration of robots into human society (Lemley and Casey 2019), and the ‘technological revolution’ heralded by robots and various forms of automated technologies (Mazur 2018, p. 279), before delving into the specifics of the article. Opening remarks like ‘Robots and Artificial Intelligence are conquering our world’ (Simmler and Markwalder 2019, p. 1) or dramatic quotes used as chapter epigraphs12 firmly frame the piece within a popular science fiction narrative. Tropes popularised in science fiction, such as robotic"
+  }, {
+    "type" : "list",
+    "id" : 231,
+    "level" : "1",
+    "page number" : 10,
+    "bounding box" : [ 51.024, 57.797, 388.94, 130.387 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "previous list id" : 202,
+    "next list id" : 240,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 51.024, 120.467, 317.124, 130.387 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "10 Our apologies to Peter Goodrich for misappropriating his term (Goodrich 1996).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 51.024, 89.132, 388.94, 118.053 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "11 Though not in opening remarks, Michael Guihot and Lyria Bennett Moses (2020) ‘pick up the story’ seventy years after the lauded Alan Turing asked ‘can machines think?’ by asking the follow up ‘what might go wrong if machines could think?’",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 51.024, 57.797, 388.348, 86.718 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "12 For example, ‘The rise of powerful AI will be either the best or the worst thing ever to happen to humanity. We don’t yet know which,’ from Stephen Hawking and, ‘OK, I will destroy humans!’ from Robot Sophia used in Abbott (2020).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 233,
+    "page number" : 10,
+    "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 61,
+      "page number" : 10,
+      "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 234,
+    "page number" : 11,
+    "bounding box" : [ 51.359, 624.126, 388.682, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 96,
+      "page number" : 11,
+      "bounding box" : [ 51.359, 624.126, 261.18, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "The Robot and Human Futures: Visualising Autonomy in Law and…"
+    }, {
+      "type" : "paragraph",
+      "id" : 97,
+      "page number" : 11,
+      "bounding box" : [ 377.282, 624.126, 388.682, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "325"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 236,
+    "page number" : 11,
+    "bounding box" : [ 51.024, 358.12, 388.361, 609.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "infiltration or encroachment in the human domain, arouse feelings of anxiety and urgency: ‘With each passing week, robots infiltrate deeper into our public spaces, places of work, and even bedrooms’ (Lemley and Casey 2019, p. 1318, our emphasis); they ‘slip into more and more domains of human life’ (Cardiell 2021, p. 247). The trust we have collectively placed in rapidly diffused new technologies without availing ourselves of ‘opportunities for reflection and debate’ has left us on a ‘razor’s edge’ (Guihot and Moses 2020, p. 354). Some avoid hyperbolic language in preference for describing a fundamental transformation of the human world and a ‘major paradigm shift’ (Mazur 2018, pp. 279–280), flagging long-standing ‘concerns about [AI’s] potential impact on humanity’ (Chesterman 2021, p. 1), or simply citing, in cautionary tones, the increasing independence of robots from ‘human supervisory control’ (Barfield 2018, p. 193). Others, though less evocative, unequivocally anchor the discussion within the narrative by, for example, making early reference to the acceptance and adoption of various robots and automated digital technologies and immediately highlighting a myriad of resulting questions to be answered and problems to be overcome: ‘What are the security and legal ramifications of the use of these new technologies? … What is the safety of these systems? … What are the privacy issues…? Could these systems fail?’ (Subramanian 2017, p. 82) There is a conception of robotic future in terms of binary outcomes: robots might ‘on the one hand, enhance and improve the quality of people’s lives but, on the other hand, can pose a threat to them’ (Katarzyna 2020, pp. 172–173)."
+  }, {
+    "type" : "paragraph",
+    "id" : 237,
+    "page number" : 11,
+    "bounding box" : [ 51.024, 202.12, 388.365, 357.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Often robot law scholarship is predicated on anxieties about the legal and regulatory implications for future robotics. Sometimes the science fiction itself is explicitly deployed as the starting point, asking how we might apply Asimov’s laws to robots (Rigotti 2020) or treating Asimov as the genesis of robot regulation (Zödi 2020).13 More prosaically, there is a worry about whether existing legal frameworks are sufficient and what changes can or should be made. Ronald Leenes and colleagues (2017) ask: ‘Are our existing normative frameworks adequate to deal with developments in robotics? Can new robotic technologies … be regulated within existing legal and ethical frameworks?’ (p. 2). Some scholars expressly engage with the anxiety trope, describing a ‘pervading sense of unease’ about the unknown impact on human life (Guihot et al. 2017, p. 385). Others endorse anxious ruminating on the potential adverse consequences for human society: ‘as artificial intelligence technologies continue to mature, humans continue to fret. And so we should.’ (Henderson 2019, p."
+  }, {
+    "type" : "list",
+    "id" : 238,
+    "level" : "1",
+    "page number" : 11,
+    "bounding box" : [ 51.024, 106.12, 389.089, 201.195 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 142,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 51.024, 106.12, 389.089, 201.195 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "3, our emphasis). There is not uniformity on whether existing law and regulation is disruptive by robots. Some argue that are capable of dealing with novel and complex problems raised by developing robot and AI technology (see e.g., Bryan 2020). However, even where scholars expressly reject some of the more colorful manifestations of human anxieties, such as the ‘existential threat to humanity’ (Guihot et al. 2017, p. 389), other science fiction tropes—such as some miscalculations in design or robots’ realisation of their own superiority (and human obsoleteness)—are still acknowledged as being ‘so ubiquitous that [this fear] informs every level of discussion’ (Gui-",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 240,
+    "level" : "1",
+    "page number" : 11,
+    "bounding box" : [ 51.024, 57.797, 388.347, 77.218 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 231,
+    "next list id" : 258,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 51.024, 57.797, 388.347, 77.218 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "13 Though see Ződi’s (2020) interesting discussion of the difficulty of attempting to regulate robots through language and law.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 242,
+    "page number" : 11,
+    "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 62,
+      "page number" : 11,
+      "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 243,
+    "page number" : 12,
+    "bounding box" : [ 51.024, 624.126, 388.35, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 98,
+      "page number" : 12,
+      "bounding box" : [ 51.024, 624.126, 62.424, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "326"
+    }, {
+      "type" : "paragraph",
+      "id" : 99,
+      "page number" : 12,
+      "bounding box" : [ 325.52, 624.126, 388.35, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "V. Goding, K. Tranter"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 245,
+    "page number" : 12,
+    "bounding box" : [ 51.024, 586.12, 388.356, 609.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "hot et al. 2017, p. 398). The orientating point is still humans and the implications for human future."
+  }, {
+    "type" : "paragraph",
+    "id" : 246,
+    "page number" : 12,
+    "bounding box" : [ 51.024, 262.12, 388.36, 585.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "While this aspect of the human paradigm is most evident in introductory or general remarks, anxiety about human futures also features in analysis that focusing on specific legal issues. An example is the future of the workplace and labor law. Legal literature acknowledges the transformative potential of robot and automated technology but tends to be framed by anxiety about the as-yet-unknown implications for human autonomy in the workplace and ‘a range of concerns’ which may be disruptive to the world of (human) work as it is currently known (Hendrickx 2018, pp. 366–67). A common fear is the R.U.R. trope of the potential for the ‘large scale replacement of human labour’ in the workplace by robots (Schofield-Georgeson 2020, pp. 264–65). In the context of personal care, Eduard Fosch-Villaronga (2020) has suggested that given the ‘malleability of the brain,’ the use of robots ‘will not leave human nature unchanged’ (p. 4). A further subject-specific example is the intersection of robots and human sexuality. The manufacturing and selling of sex robots is predicted to ‘create concerns’ across a variety of domains (Gersen 2019, pp. 1795–1796). However, what is interesting to note is that the anxiety in this context extends not only outward to broader society but also inward as unease around what robots might reveal about misogyny and the normalisation of violence towards women and children. For example, Gersen (2019) asks, ‘Will sex robots intensify human pleasures or magnify human horrors of exploitation, abuse, and rape?’ (pp. 1795–1796; see also Rigotti 2020). Similarly, literature addressing the adoption of robots in the aged and medical care industries highlights the apprehensions around implications for privacy, confidentiality, and autonomy (Blake 2019; Poulson et al. 2020, pp. 1–2) note the potential for ‘disastrous consequences’ due to ‘cyber-attack to these technologies’ or arising from the close physical interaction between the elderly and malfunctioning robots. Blake (2019) links anxieties about privacy to another theme comprising one version of the embodiment trope from science fiction, namely the potential for a version of robot ‘omnipresence’ in care robots (p. 567)."
+  }, {
+    "type" : "paragraph",
+    "id" : 247,
+    "page number" : 12,
+    "bounding box" : [ 51.024, 118.12, 388.355, 261.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Robot law scholars also acknowledge and discuss the ways in which robots and emerging automated technologies can benefit society (Mazur 2018) and be a boon in a variety of industries (Subramanian 2017). Even where dystopian narratives are expressly recognised as a popular vision of the human future, at the other end of the spectrum usually sit the cornucopian dreams of far-reaching benefits from the development and application of this new technology (Guihot et al. 2017). The prevalence of the tropes around anxiety and human futures is not to suggest that robot law scholarship not highly sophisticated and nuanced. However, considering the language deployed, particularly in introductory comments and general observations on the progress of robots and automated systems, together with the challenges posed by how these technologies are framed, reveals how legal thinking and writing tend to reiterate and reinforce this aspect of the human paradigm from science fiction."
+  }, {
+    "type" : "heading",
+    "id" : 248,
+    "level" : "Subtitle",
+    "page number" : 12,
+    "bounding box" : [ 51.024, 93.783, 79.144, 105.223 ],
+    "heading level" : 4,
+    "font" : "MyriadPro-BoldSemiCn",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Bodies"
+  }, {
+    "type" : "paragraph",
+    "id" : 249,
+    "page number" : 12,
+    "bounding box" : [ 51.024, 58.12, 388.354, 81.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Robot law scholarship also tends to conceive of robots and digital autonomy as ‘embodied’ in the narrow sense, that is located within a specific, identifiable sys-"
+  }, {
+    "type" : "footer",
+    "id" : 251,
+    "page number" : 12,
+    "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 63,
+      "page number" : 12,
+      "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 252,
+    "page number" : 13,
+    "bounding box" : [ 51.359, 624.126, 388.682, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 100,
+      "page number" : 13,
+      "bounding box" : [ 51.359, 624.126, 261.18, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "The Robot and Human Futures: Visualising Autonomy in Law and…"
+    }, {
+      "type" : "paragraph",
+      "id" : 101,
+      "page number" : 13,
+      "bounding box" : [ 377.282, 624.126, 388.682, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "327"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 254,
+    "page number" : 13,
+    "bounding box" : [ 51.024, 370.12, 389.096, 609.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "tem, vehicle, or machine. This downplays an essential feature of the digital: its diffusion and immateriality; its lack of a body. Given the tendency in legal scholarship to drills down into highly specific issues within broader legal subjects, this orientations towards robots as clearly identified material things, tends to be revealed in definitional choices, language bias, and the use of examples. Within robot law scholarship this is preference towards definitions of robots that favor robots as distinct material machines. For example, writing in the context of social robots, Ramesh Subramanian adopts a definition of a ‘physically embodied, autonomous agent’, certainly embodied (in contrast to ‘inanimate computers’), though not necessary humanoid (using ‘animaloid’ forms as the popular example) (see e.g., Subramanian 2017, pp. 85–86), while Ishii (2019) cites definitions which incorporate ‘physical agents that perform tasks by manipulating the physical world’ (p. 510). Along with autonomy, a ‘physical nature’ (that is, the ability to interact with material world) and ‘human-likeness’ are commonly assumed as essential robot features (Leenes et al. 2017, p. 4). Even where the limiting view of anthropomorphic robots is acknowledged as inadequate to cover the variety of possible shapes and forms, the definitions ultimately adopted tend to feature the elements of physicality and mechanics (see e.g., Hendrickx 2018). Leading scholars in robot law jurisprudence, such as Ryan Calo, define robots in the ‘strongest, fullest sense’ as ‘corporeal objects’, where embodiment is an essential quality (Calo 2015, pp. 531–532).14"
+  }, {
+    "type" : "paragraph",
+    "id" : 255,
+    "page number" : 13,
+    "bounding box" : [ 51.024, 202.12, 388.357, 369.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Even without expressly adopting definitions favoring material embodiment, the language used and examples employed in legal literature often reinforces the trope. For example, in exploring the possibilities of robot-caused harm, the scholars will acknowledge that many robot manufacturers might not be incentivised to create ‘humanoid robots’, yet in providing examples of alternatives forms, they will rely upon distinctly discrete machines such as cars and drones (see e.g., Danaher 2016). Scholars utilise examples of industrial machines and vehicles, complicated by their merging with AI (see e.g., Barfield 2018), or refer to humans being ‘hurt’ by robots and, as a consequence, robots being taken ‘control of’ and destroyed (see e.g., Mulligan 2018). The language implies the existence of some discrete material form capable of doing bodily harm and of being harmed. Imagined scenarios where robots are not as material tend to be less popular, for example, the potentially significant adverse consequences of robot lawyers or financial advisors providing negligent advice or even committing fraud.15"
+  }, {
+    "type" : "paragraph",
+    "id" : 256,
+    "page number" : 13,
+    "bounding box" : [ 51.024, 130.12, 388.361, 201.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In scholarship with a focus on personal injuries and related subjects, it could be expected that embodied robots would feature prominently. However, this conception of robots can also be seen in scholarship where bodily materiality does not seem as significant. For example, in considering hypothetically extending constitutional rights to advanced robots, R. George Wright expressly assumes robots as being ‘corporeal, embodied’ and rejects robots that do not physically manifest (Wright 2018, p."
+  }, {
+    "type" : "list",
+    "id" : 258,
+    "level" : "1",
+    "page number" : 13,
+    "bounding box" : [ 51.024, 58.271, 388.349, 109.026 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 240,
+    "next list id" : 269,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 13,
+      "bounding box" : [ 51.024, 89.605, 388.349, 109.026 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "14 Calo’s definition and his essential elements are often acknowledged and sometimes adopted by other scholars (see e.g., Cardiell 2021).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 13,
+      "bounding box" : [ 51.024, 58.271, 388.349, 87.191 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "15 See though Omri Rachum-Twaig’s (2020) discussion of how the harm from AI-robots, even if we ascribe a physical presence, is augmented by the addition of intelligence. Though note the victim of the potential forms of harm is always the human.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 260,
+    "page number" : 13,
+    "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 64,
+      "page number" : 13,
+      "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 261,
+    "page number" : 14,
+    "bounding box" : [ 51.024, 624.126, 388.35, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 102,
+      "page number" : 14,
+      "bounding box" : [ 51.024, 624.126, 62.424, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "328"
+    }, {
+      "type" : "paragraph",
+      "id" : 103,
+      "page number" : 14,
+      "bounding box" : [ 325.52, 624.126, 388.35, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "V. Goding, K. Tranter"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 263,
+    "page number" : 14,
+    "bounding box" : [ 51.024, 550.12, 388.368, 609.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "615). Monika Simmler and Nora Markwalder (2019) assume that humanoid robots and other tangible machines, such as intelligent cars, will dominate the discussion on criminal culpability in the context of artificial intelligence. Similar tendences can be observed in the scholarship considering the future of advanced sex robots (‘lifesize machine entities with human-like appearance, movement, and behavior’; Gersen"
+  }, {
+    "type" : "list",
+    "id" : 264,
+    "level" : "1",
+    "page number" : 14,
+    "bounding box" : [ 51.024, 490.12, 388.351, 549.195 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 181,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 51.024, 490.12, 388.351, 549.195 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 1.0]",
+      "content" : "2019, pp. 1795–1798) and human-robot marriage (Walter 2020). While there might be a preferencing of humanoid entities; however, does this limited focus not deny the future possibility for (and likely present reality of) relationships—even kinds of sexual intimacy—between humans and non-embodied robots, such as entirely digitalised technologies?16",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 265,
+    "page number" : 14,
+    "bounding box" : [ 51.024, 166.12, 389.092, 489.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In a large, growing and dynamic literature as robot law scholarship there are contributions that do not manifest science fiction’s human paradigm of robots. In investigating the ethical implications of domestic robots—a topic where embodiment tropes might be expected to dominate—Lachlan Urquhart, Dominic Reedman-Flint, and Natalie Leesakul expressly reject the limitation of materially framed robots and include disembodied forms of AI (Urquhart et al. 2019). Others highlight the potentially spurious basis for distinguishing between robots and AI based on embodiment or tangibility (Księżak and Wojtczak 2020; Guihot and Moses 2020). Leenes and colleagues (2017, p. 4) note the insufficiency of ‘common assumptions’ around the definitional dimensions of robots, highlighting the possibility of ‘non-physical…or non-human-like’ robots, while Morse (2019, p. 217) rejects the definition of robots as ‘objects’ in favor of a broader approach which admits ‘intelligent automatic systems’ such as TurboTax (see also the definitional choices of Lemley and Casey (2019) and Rachum-Twaig (2020). In discussing robots, ethics, and the rule of law, Pagallo (2017) avoids the accompanying images of humanoid robots or even machines, using examples such as ‘Vital,’ the first AI corporate board member, and drawing comparisons to the notion of autonomy already extended to corporations in some countries in the context of corporate criminal responsibility. Other lawyers delineate a boundary between robots, seen as essentially material bodied and even humanoid, versus AI and machine learning, though they acknowledge a blurring of the line between the concepts and accept the difficulty in predicting future development (Bennett and Daly 2020). Others still resist restrictive definitions altogether and argue that we should ‘embrace the ineffable nature of robots…we will know them when we see them’ (Casey and Lemley 2020, p. 294); however, in much robot law scholarship material ‘thingness,’ identifiable and discrete in space and time, something like the consumer goods made by United States Robot and Mechanic Men Inc in Asimov’s stories, is what is in focus."
+  }, {
+    "type" : "heading",
+    "id" : 266,
+    "level" : "Subtitle",
+    "page number" : 14,
+    "bounding box" : [ 51.024, 141.783, 162.172, 153.223 ],
+    "heading level" : 4,
+    "font" : "MyriadPro-BoldSemiCn",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Separation and Distinction"
+  }, {
+    "type" : "paragraph",
+    "id" : 267,
+    "page number" : 14,
+    "bounding box" : [ 51.024, 82.12, 388.358, 129.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Within robot law scholarship there is a quarantining between humans as users, consumers, or creators of robots and robotic technologies. The robot and the human, as in science fiction, remain distinct. There is an acknowledgement that existing regulatory frameworks are predicated on assumptions, such as generic distinctions"
+  }, {
+    "type" : "list",
+    "id" : 269,
+    "level" : "1",
+    "page number" : 14,
+    "bounding box" : [ 51.024, 58.271, 249.366, 68.191 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 258,
+    "next list id" : 286,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 51.024, 58.271, 249.366, 68.191 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "16 For example, as depicted in the Spike Jonze 2013 film Her.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 271,
+    "page number" : 14,
+    "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 65,
+      "page number" : 14,
+      "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 272,
+    "page number" : 15,
+    "bounding box" : [ 51.359, 624.126, 388.682, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 104,
+      "page number" : 15,
+      "bounding box" : [ 51.359, 624.126, 261.18, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "The Robot and Human Futures: Visualising Autonomy in Law and…"
+    }, {
+      "type" : "paragraph",
+      "id" : 105,
+      "page number" : 15,
+      "bounding box" : [ 377.282, 624.126, 388.682, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "329"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 274,
+    "page number" : 15,
+    "bounding box" : [ 51.024, 514.12, 388.362, 609.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "between ‘things and humans’ (Leenes et al. 2017, p. 2). There is worry at the prospect of increased robot autonomy detached from human control and robots ‘breaking norms’ understood by humans (Simmler and Markwalder 2019, pp. 8–9). There is a emphasis on the deeply humanness of the legal profession, such as the complexity of legal language, as a safeguard to social order—of ensuring ‘a rule of persons, not machines’ (Pasquale 2019, p. 1). A number of narratives familiar from science fiction are used to reinforce this trope, including robots as tools/property, robots as proxies for humans/human-robot empathy, and anxiety about blurring the lines of distinction."
+  }, {
+    "type" : "paragraph",
+    "id" : 275,
+    "page number" : 15,
+    "bounding box" : [ 51.024, 202.12, 388.357, 513.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "As with R2D2 and C-3PO, lawyers write about robots in terms that emphasise their status as property owned and used by, and subservient to, humans. Choices of language are significant. Describing robots as ‘fighting our wars…manufacturing our products…caring for our most vulnerable…[and] driving our cars’ (Danaher 2016, p. 299, our emphasis) reinforces the separation of humans and robots and the notion of robots as tools for human ends. In the robot scholarship, the question as to the law’s adequacy to respond to advancing robot technology is often framed by a tension between robot autonomy and human control: ‘robots are becoming more and more independent from human supervisory control’ (Barfield 2018, p. 193). When grappling with the question of liability for robot-related harms or loss, lawyers understandably look to the designers and legal owners of robots and AI systems, but the language deployed is that of ‘human or corporate masters’ (Lemley and Casey 2019, p. 1314–1315). This view of robots is reflected in robot law scholar’s definitional preferences and conception of the future purpose of robotic and AI technologies. Not only is there a preference for definitions that require (mostly) physical embodiment with environmental sensory capabilities, but there is also an expectation that a robot’s purpose is to ‘enhance human possibilities for action’ (Simmler and Markwalder 2019, p. 5). The vision of the future is ‘increased convenience, comfort, companionship and greater security’ for human users of robots (Urquhart et al. 2019, p. 246). Bart Verheij summarises this neatly: ‘In short, AI should be good for us’ (2020, p. 181). In the context of criminal law, the idea of fully autonomous robots capable of the necessary mens rea for a criminal offense is dismissed, but robots are conceived as extensions or tools of human criminality and negligence (Pagallo 2017). This scenario is inverted in one imagining by Pagallo (2017), where robots eventually replicate themselves (another popular science fiction plot) and ‘use’ humans to commit crimes in the real world. The roles may be reversed, but the distinction remains."
+  }, {
+    "type" : "paragraph",
+    "id" : 276,
+    "page number" : 15,
+    "bounding box" : [ 51.024, 130.12, 388.35, 201.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The theme of human treatment of robots and its implications (familiar from science fiction such as Westworld) appears in the debates around sex robots. One of the anxieties regarding the use of sex robots is the unease around treating a robot only as an ‘object’ and ‘nonhuman’ (Gersen 2019, p. 1802; see also Rigotti 2020). The tension between the separation of humans and robots in this context is captured by Gersen (2019, p. 1809):"
+  }, {
+    "type" : "paragraph",
+    "id" : 277,
+    "page number" : 15,
+    "bounding box" : [ 62.362, 58.12, 377.018, 117.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The more we attribute an involuntarily servile, nonhuman ‘nature’ to robots, the more unease we may feel about using them for sex, given our norms and culture of sexual consent. But also, the more that we come to think of robots as having human-like consciousness, will, sentience, and desire, the more wrong it may seem to use them simply to satisfy human sexual desire."
+  }, {
+    "type" : "footer",
+    "id" : 279,
+    "page number" : 15,
+    "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 66,
+      "page number" : 15,
+      "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 280,
+    "page number" : 16,
+    "bounding box" : [ 51.024, 624.126, 388.35, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 106,
+      "page number" : 16,
+      "bounding box" : [ 51.024, 624.126, 62.424, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "330"
+    }, {
+      "type" : "paragraph",
+      "id" : 107,
+      "page number" : 16,
+      "bounding box" : [ 325.52, 624.126, 388.35, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "V. Goding, K. Tranter"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 282,
+    "page number" : 16,
+    "bounding box" : [ 51.024, 502.12, 388.355, 609.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The debate on sex robots is important in the way it shows understanding and thoughts around robots are anchored in preexisting human constructs. For example, sex robots might be thought of as ‘bad’ if they replicate unequal human power relationships (Gersen 2019). Similarly, in considering whether to extend ‘rights to be protected from mistreatment’ to social robots, one of the reasons in support is the potential to ‘reinforce social norms against mistreatment that are valued in society’ (Bennett and Daly 2020, p. 78)17 In this sense, robots are tools and the ultimate recipient of the benefits they offer are humans. The concern is the implications for existing senses of humanity."
+  }, {
+    "type" : "paragraph",
+    "id" : 283,
+    "page number" : 16,
+    "bounding box" : [ 51.024, 310.12, 389.089, 501.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The significance of human distinction and separation is also emphasised where scholars raise concerns with the slippage of human separation and distinction. There is speculation of how robotic prostheses ‘problematize the distinction between therapy and enhancement’ (Leenes et al. 2017, pp. 10–11), blurring the lines between human and machine. Wright, in considering the case of extending constitutional rights to robots, raises the question of whether, by doing so (or rather the basis on which such a move might be justified), ‘the constitutional rights of humans would be no less imperiled’ (Wright 2018, pp. 633–334). Might giving legal personhood to robots even lead to a loss of ‘human control,’ precipitating a ‘robot uprising’ (Genderen, 2018, p. 15)? As in science fiction, lawyers envisage a future (albeit a distant future) where a ‘master algorithm,’ by being able to ‘code its own progeny,’ might achieve that defining capacity of humanness: reproduction (Pasquale 2019, p. 5). Michael Froomkin and colleagues (2019) touch on the distinction differently by warning of a future where increased reliance on robot doctors reduces not only the number of human doctors in practice but, in turn, the number of human doctors available to train/program robot doctors."
+  }, {
+    "type" : "paragraph",
+    "id" : 284,
+    "page number" : 16,
+    "bounding box" : [ 51.024, 106.12, 389.089, 309.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Robot law scholarship also firmly secured humans and humanness as the referent against which robots and AI are viewed and measured. The ‘human’ was deployed in ways that problematise the perceived inadequacy of robots. For example, a difficulty for the law is thought of as being that robots ‘may not learn or reason like humans do’ (Barfield 2018, p. 193). Or put another way, the reason why scholars do not consider criminal responsibility attributable to robots is because of a fundamental orientation to not recognise robots as ‘equal to us’ on the basis that they lack human capacities (Simmler and Markwalder 2019, p. 20). However, humanness is also used as the bar or standard by which robots ultimately should be measured, reminiscent of Data’s progression towards increasing humanness in the Star Trek universe. In the context of extending human rights to robots, the threshold test is whether the ‘gap’ between humans and robots can be closed; it is those robots that ‘possess human-like qualities’ or AI that (though it may not be like a person) can ‘act’ like a person, to whom/ which legal rights can and should be extended (Katarzyna 2020; Abbott 2021).18 In considering the possibility of AI in litigation and judgment, Volokh (2018, p. 1137) imagines robots conversing or arguing in a way ‘indistinguishable’ from humans. Humanness is the end goal. Conversely, the literature reminds us that robots are less"
+  }, {
+    "type" : "list",
+    "id" : 286,
+    "level" : "1",
+    "page number" : 16,
+    "bounding box" : [ 51.024, 58.271, 388.353, 90.026 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 269,
+    "next list id" : 297,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 51.024, 80.105, 262.456, 90.026 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "17 Bennett and Daly reference Darling (2016) for this proposition.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 51.024, 58.271, 388.353, 77.691 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "18 Though see also Abbott’s (2021) interesting argument that the law should not distinguish between humans and AI, but adopt a principle of ‘AI legal neutrality.’",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 288,
+    "page number" : 16,
+    "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 67,
+      "page number" : 16,
+      "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 289,
+    "page number" : 17,
+    "bounding box" : [ 51.359, 624.126, 388.682, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 108,
+      "page number" : 17,
+      "bounding box" : [ 51.359, 624.126, 261.18, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "The Robot and Human Futures: Visualising Autonomy in Law and…"
+    }, {
+      "type" : "paragraph",
+      "id" : 109,
+      "page number" : 17,
+      "bounding box" : [ 377.282, 624.126, 388.682, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "331"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 291,
+    "page number" : 17,
+    "bounding box" : [ 51.024, 598.12, 388.348, 609.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "than, apart from, and which seek to ‘emulate’ human intelligence (Lemley and Casey"
+  }, {
+    "type" : "list",
+    "id" : 292,
+    "level" : "1",
+    "page number" : 17,
+    "bounding box" : [ 51.024, 562.12, 389.119, 597.195 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 320,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 17,
+      "bounding box" : [ 51.024, 562.12, 389.119, 597.195 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 1.0]",
+      "content" : "2019, p. 1327). Indeed, Evtimov and Calo \\ describe AI as being understood ‘as a set of techniques aimed at approximating some aspect of human or animal cognition’ (Evtimov et al. 2019, pp. 895–896).19",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 293,
+    "page number" : 17,
+    "bounding box" : [ 51.024, 322.12, 389.094, 561.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Of course, this distinction and separation are at times challenged, even where the trope is also reinforced. Pasquale (2019), for instance, advocates for a ‘complementary vision of human-machine cooperation’ (pp. 54–55). A simple example of such cooperation has been imagined (and is already being implemented) in terms of using AI assistants to support human judges in their decision-making.20 Casey and Lemley have made the point that the lines have blurred, such that entities we think of as being robot or human are often ‘better understood as hybrids falling somewhere in between’ (Casey and Lemley 2020, p. 292–293). Though reinforcing the separation of human and robot in another way, they argue this very blurring necessitates a bright line in regulation delineating the intended subject, human or robot (Casey and Lemley 2020; cf. Abbott 2021). Chesterman (2021), in a pushing back against human-centrism, has suggested that increasingly autonomous AI ‘calls into question long-standing assumptions that humans are the source, the means, and the purpose’ of attempts to regulate this developing technology (p. 60). This ‘question(s) the assumption of our own centrality’, the warning and reaffirmation of our separation are included in that ‘it is not yet time to relinquish it’ (Chesterman 2021, p. 246). While not a coherent vision of a posthuman world, these views at least conceive of something approaching human-robot hybridity, However, this tendency is an undercurrent, and remains inform by the human paradigm of human futures, material bodies and distinction between humans and robots."
+  }, {
+    "type" : "heading",
+    "id" : 294,
+    "level" : "Subtitle",
+    "page number" : 17,
+    "bounding box" : [ 51.024, 297.783, 200.952, 309.223 ],
+    "heading level" : 4,
+    "font" : "MyriadPro-BoldSemiCn",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Talking Robots but Seeing ‘The Man’"
+  }, {
+    "type" : "paragraph",
+    "id" : 295,
+    "page number" : 17,
+    "bounding box" : [ 51.024, 130.12, 388.358, 285.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "What this part has traced is that the legal literature considering robots has as its touchstone humans. To quote Hendrickx (2018): ‘The ultimate central factor in the debate about robots and AI is the human factor … ultimately human freedom is at stake’ (p. 387). There is nothing challenging nor surprising in the fact that human lawyers writing about human law in the context of human technologists developing robots for use by humans, are focused on what this means for humans, their world, and their future. However, identifying this human-centrism through mainstream science fiction’s cultural imagination of artificial beings reveals that this human focus has deeper implications. The male science fiction authors of the twentieth-century robot canon and their mainstream televisual popularisers seemingly were unable—or unwilling—to imagine robots as fundamentally different. This meant that the popular narrations and representations of robots were as juridical beings, beings requiring law and bans (the R.U.R. robot) or internal ethical/legal constraints (the Asimov-ian robot) to ensure"
+  }, {
+    "type" : "list",
+    "id" : 297,
+    "level" : "1",
+    "page number" : 17,
+    "bounding box" : [ 51.024, 58.271, 388.35, 118.526 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 286,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 17,
+      "bounding box" : [ 51.024, 89.605, 388.35, 118.526 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "19 See also the definitional choice in Genderen (2018, p. 31). Though some contributors have pointed out that human-intelligence may not be the best referent for the progress of artificial intelligence (see e.g., Chesterman 2021, pp. 141–142).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 17,
+      "bounding box" : [ 51.024, 58.271, 388.349, 87.191 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "20 Though the discussion of this hybrid possibility typically follows an introduction to the question anchored in our fear and anxiety of robots taking over human jobs (see e.g., Ulenaers 2020). See also Abbott (2021, p. 17).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 299,
+    "page number" : 17,
+    "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 68,
+      "page number" : 17,
+      "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 300,
+    "page number" : 18,
+    "bounding box" : [ 51.024, 624.126, 388.35, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 110,
+      "page number" : 18,
+      "bounding box" : [ 51.024, 624.126, 62.424, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "332"
+    }, {
+      "type" : "paragraph",
+      "id" : 111,
+      "page number" : 18,
+      "bounding box" : [ 325.52, 624.126, 388.35, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "V. Goding, K. Tranter"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 302,
+    "page number" : 18,
+    "bounding box" : [ 51.024, 562.12, 388.358, 609.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "conservative human futures; that is, futures where the human as embodied, separate, and distinct endures. Given this cultural orientation, it is not surprising that legal scholars have embraced robots as objects of the juridical imagination—as something that requires law and professionalised legal thought, so to legislate for this future."
+  }, {
+    "type" : "paragraph",
+    "id" : 303,
+    "page number" : 18,
+    "bounding box" : [ 51.024, 370.12, 388.36, 561.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "However, the human supposed by twentieth-century science fiction’s imagination of artificial beings and reified in robot law scholarship is not without its contestations. The human, particularly as materially embodied and distinct, presents as a conception of humanity that is deeply gendered and contested (West 1988). There is not just an human-centrism but an androcentrism to the ways that robots have been imaged in fiction and in law. This is at the fore in the sex robot discourses. The idea that androids styled as women could be used for sex runs deep in the teenage male daydreams of science fiction. It is implicit in R.U.R, entirely explicit in Dick’s textual and screened replicants, and now in the emerging sextech industry (Oliveira 2020). It is therefore not surprising that there has developed a substantial theme within the robot law scholarship of sexbots and the legalities and ethics of allowing another vector for hyper, propertied, hetero-normative masculinity. What this means is the human that the robot is consistently imagined through in popular culture and legal discourse is itself highly particular, less human, and in its dreams and nightmares of bodily, distinct futures, much more the man. This does make for main/male stream culturally aligned legal scholarship, but it is also enclosing and constraining."
+  }, {
+    "type" : "heading",
+    "id" : 304,
+    "level" : "Subtitle",
+    "page number" : 18,
+    "bounding box" : [ 51.024, 333.533, 331.267, 347.162 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The Enclosing and Constraining of Robot Law Scholarship"
+  }, {
+    "type" : "paragraph",
+    "id" : 305,
+    "page number" : 18,
+    "bounding box" : [ 51.024, 262.12, 388.354, 321.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This part identifies that the human-centrism manifest in the robot law scholarship encloses and limits the legal imagery. By not clearly appreciating the complex, fluxing hybridity of humans and the digital, robot law scholarship speaks past its subject. There are two dimensions to this. The first is the digital and its relationship with the material. The second is the misconception of the human within the digital."
+  }, {
+    "type" : "paragraph",
+    "id" : 306,
+    "page number" : 18,
+    "bounding box" : [ 51.024, 58.12, 388.374, 261.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The first is the emphasis on robots as having distinct material bodies—that digital automation is in a physical entity, in a specific time and place—seems highly contested. While a trait within Asimov was robots ascending to a god-like immaterial, all-knowing master system, actual robots and automated digital technologies tend to be less embodied than imagined in science fiction but fall short of the alternative imagining of transcendent omnipresence. There are fears and dreams for the technototal overlord. In the West, there are concerns that, lurking behind the innocuous voices of Siri or Alexa, there is an ever-present master AI datafy-ing human life to be exploited and monetarised by surveillance capitalism (Zuboff 2019). In the East, behind a digital great wall, a similar totality is being imagined and built to ensure that the party endures (Wong & Dobson, 2019). These desires of corporate and authoritarian data-lords for a version of mainstreams science fiction’s master robot, keeps being heralded, but seemingly remains on the horizon. The total robot overlord’s arrival in world history is entangled with the ontological dilemma of digital data. While textbooks define data as ‘collections of facts’ (Shukla et al. 2022, p. 1), this misses a critical dimensions. To extract a fact from the real into the digital, to collect it, to engage in datafication, strips the fact from its context (Crawford 2021, p. 93). The process of"
+  }, {
+    "type" : "footer",
+    "id" : 308,
+    "page number" : 18,
+    "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 69,
+      "page number" : 18,
+      "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 309,
+    "page number" : 19,
+    "bounding box" : [ 51.359, 624.126, 388.682, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 112,
+      "page number" : 19,
+      "bounding box" : [ 51.359, 624.126, 261.18, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "The Robot and Human Futures: Visualising Autonomy in Law and…"
+    }, {
+      "type" : "paragraph",
+      "id" : 113,
+      "page number" : 19,
+      "bounding box" : [ 377.282, 624.126, 388.682, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "333"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 311,
+    "page number" : 19,
+    "bounding box" : [ 51.024, 442.12, 388.357, 609.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "collection transmutes fact to data according to the collection parameters. Data has no inherent referent beyond its structural relationship to other data within the digital and those structural relations can be reprogrammed, deleted and corrupted: ‘the digital shows us unavoidably that nothing is permanent. Data are immaterial. They exist but they are no-thing’ (Coeckelbergh 2023, p. 9). The alignment of ones and zeros on a digital device can be a credit card number, a saved game, or a junk app. For the total robot to be, data and the real must correspond. To be exploitable for control and profit digital twins must reflect the data-producer (Goriunova 2019). This is why the data lords in the West and East are so keen on data accuracy, of correspondence between user and human unfettered by privacy screens (Tranter 2019), because without correspondence the total robot is partial and incomplete. It goes from techno-totality, with all the visions of power and control, to something less—a game of chance with probabilities of being right. This is not the digital Big Brother, but the digital Weird Uncle, who sometimes is right and meaningful but more often gets it so very wrong."
+  }, {
+    "type" : "paragraph",
+    "id" : 312,
+    "page number" : 19,
+    "bounding box" : [ 51.024, 334.12, 388.372, 441.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The problem of data for the arrived of science fiction’s imagined techno-total AI overlord is further compounded by technics. The capacity to datafy keeps eclipsing both storage and processing. This does suggest for the data-lords more investment in technical solutions (Schwarz 2018)—smarter recognition algorithms, even bigger data, quantum computing, DNA storage (Naeem et al. 2022)—to capture and render in the digital the totality of life. Yet there is always an excess, a vitality and exceptionalness to life that confounds representation (Braidotti 2019). Technics can approach the limit but will consistently be butting against the law of diminishing marginal returns."
+  }, {
+    "type" : "paragraph",
+    "id" : 313,
+    "page number" : 19,
+    "bounding box" : [ 51.024, 58.12, 388.357, 333.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "What this means is that the disembodied master robot that knows all, as anticipated by mainstream twentieth century science fiction is delayed. The digital is experienced as both highly material and immaterial (Coeckelbergh 2023, p. 12). The robot has a material presence, encased in a physical form, the automated car, the auto-vacuum, and the sexbot, but this is also connected and immaterial. Data flows from the machine in the material to data nodes to be feasted upon by hungry AIs, which, in turn, inform the algorithms that animate the machine. This is the everyday of contemporary human life with the digital; the supposed seamless interactions between personal digital devices and various clouds, of the anxieties of access, backups, and bandwidth. There is continuous flow experienced through the televisual of the graphical user interface and the ubiquitous swiping right (Coeckelbergh 2023, pp. 10− 2). Present in the materiality of touchscreens and digits is the immaterial of the digital archive and its AI predators. Not so much a ‘ghost in a shell’ (Giddens 2015; Bolton et al. 2007) but, to mix metaphors (and continents of origin), the ‘king’s two bodies’ (Kantorowicz 2016; Fukushima 2015). An intense embodied experience that is profoundly disembodied. A being there and everywhere instantaneously. This is the place where mainstream science fiction’s cultural imaginary of robots, and the ways that it informs legal discourse, fails. The robots are in the material. But also elsewhere, an avatar for a partial digital totality. This requires a distinctly different imaginary and lexicon than bequeathed by twentieth-century science fiction. Concerns with distinct categories—human, machine, embodiment, separation—needs to give way to concepts and terms of becoming, such as flux, flow, emergent (Gennaro & Kellner, 2022)."
+  }, {
+    "type" : "footer",
+    "id" : 315,
+    "page number" : 19,
+    "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 70,
+      "page number" : 19,
+      "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 316,
+    "page number" : 20,
+    "bounding box" : [ 51.024, 624.126, 388.35, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 114,
+      "page number" : 20,
+      "bounding box" : [ 51.024, 624.126, 62.424, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "334"
+    }, {
+      "type" : "paragraph",
+      "id" : 115,
+      "page number" : 20,
+      "bounding box" : [ 325.52, 624.126, 388.35, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "V. Goding, K. Tranter"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 318,
+    "page number" : 20,
+    "bounding box" : [ 51.024, 466.12, 388.364, 609.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This follows to the second limitation. Not only is the robot misconceived, but so too is the human. There is an intimacy to the digital. The boundaries of the self and self-actualisation are changed (Englezos 2022). The precariat delivery rider is less envisaged as an individual human in the way that the man is presented in the robot law scholarship and more an assemblage composed of bicycle-human-deviceplatform (Standing 2018). Automated driving technology, as sold and experienced, is a hybrid form where the human and robot cooperate and share the dynamic driving tasks over a journey (Van Wynsberghe & Guimarães Pereira, 2022). The field of neural implants promises transhumanist dreams of a hardwired digitality (Lima 2022). As Ana Oliveria (2020) articulates, there is a ‘dematerialization of human bodies to the counter-materialization of digital bodies’ (p. 7). The real of the human and the artifice of the digital are bleeding and blurring (Hildebrandt 2015)."
+  }, {
+    "type" : "paragraph",
+    "id" : 319,
+    "page number" : 20,
+    "bounding box" : [ 51.024, 262.12, 388.363, 465.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Furthermore, while the digital was challenging the embodied experience of what it means to be human, the traditional conceptions of the human as understood as the legal subject has been critiqued as a historical and political construct. Rather than an adequate encapsulating of the human experiences, it has been identified as based on conception of humans as rights bearing autonomous individualists that aligns with privileged, white masculinity (Cooke 2017). The embodied experiences of women, children, the less abled, the aged, and those with colored bodies have rarely been the proper subjects of law as the bearer of rights and legal protections (Naffine 2003, pp 363-7). Rather, there has been a negotiation of legalities that shift and interpose between a rights-bearing subject of law and an owned legal object (Kang 2011, pp. 111-2). Hybridity and transience between subjectivity and objectivity, of having to struggle to be a self-narrator within a loud semiotic field of discourses that define, constrain, and own, has been inimical to human experiences for all the others that did not correspond to the white man that has masqueraded as the human in legal discourses (Adebisi 2022; Käll 2022a). The human, even in modernity with its surface hard distinctions, has always been hybrid and transitory (Latour 1993), features that are becoming more obvious with the blurring of boundaries in the digital (Braidotti"
+  }, {
+    "type" : "list",
+    "id" : 320,
+    "level" : "1",
+    "page number" : 20,
+    "bounding box" : [ 51.024, 154.12, 388.36, 261.195 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 292,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 20,
+      "bounding box" : [ 51.024, 154.12, 388.36, 261.195 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 1.0]",
+      "content" : "2020, p. 1182). Indeed, robot law scholarship’s anxieties for the future of separate humans distinct from the robots who serve is dangerous mythmaking that tries to stabilise a subject and his law whose time has passed. This is the effect when mainstream science fiction’s robot tropes form the imagery for robot law scholars, it denies addressing the actual forms of life and power that are making the world. The robot is not to be feared or subjugated but is kin. Another assemblage of natureculture—to use Donna Haraway’s (2003) phrase that embraces the hybridity of the immaterialmaterial ‘all the way down’ (p. 12)—to interface with a posthuman present that is potentially new and different.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 321,
+    "page number" : 20,
+    "bounding box" : [ 51.024, 58.12, 388.36, 153.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "What this means for law, or more precisely for the normative orders of law, regulation and technological management (Brownsword 2019, 2020) that are being deployed in the present to secure preferred technological futures, is a need for critical re-examination of what is being ordered, for who and to what ends. To address this need there is a twofold task. The first is understanding of the ordering of human life with and through the digital. How are hybrid lives with and the through the digital being ordered, what values can be discerned, what processes identified, how is power constituted and circulating? Legal scholars are beginning to progress this agenda"
+  }, {
+    "type" : "footer",
+    "id" : 323,
+    "page number" : 20,
+    "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 71,
+      "page number" : 20,
+      "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 324,
+    "page number" : 21,
+    "bounding box" : [ 51.359, 624.126, 388.682, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 116,
+      "page number" : 21,
+      "bounding box" : [ 51.359, 624.126, 261.18, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "The Robot and Human Futures: Visualising Autonomy in Law and…"
+    }, {
+      "type" : "paragraph",
+      "id" : 117,
+      "page number" : 21,
+      "bounding box" : [ 377.282, 624.126, 388.682, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "335"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 326,
+    "page number" : 21,
+    "bounding box" : [ 51.024, 454.12, 388.36, 609.195 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "(See generally Hildebrandt 2015; Hildebrandt and O’Hara 2021; Noll 2019; Käll 2018, 2022b; Arvidsson 2018). The second task is imagining better futures for the hybrid lives of entities that are after the human. In this task the cultural imaginary of science fiction is significant. Science fiction has contained divergent imaginings that reacted and critiqued the male-stream projections of mainstream populist science fiction (Larbalestier 2006; Cashbaugh 2016; Cox-Palmer-White 2021). Science fiction also as a global genre is creating lived in worlds beyond the Western cultural mindset (Bisschoff 2020; Banerjee 2020; Langer 2011). There is also an emerging scholarship beginning this process of connecting these alternative imaginings to issues of justice, judgement and normative ordering (Sharma 2022; Travis 2022). This critical re-examination presents opportunities for ordering hybrids of digital and the real into the future, rather than looking back to tropes of separate humans and discrete robots that has been the predominate perspective within robot law scholarship."
+  }, {
+    "type" : "paragraph",
+    "id" : 327,
+    "page number" : 21,
+    "bounding box" : [ 51.024, 432.783, 326.874, 441.912 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Acknowledgements We would like to thank Hannah Murphy for editing of this paper."
+  }, {
+    "type" : "paragraph",
+    "id" : 328,
+    "page number" : 21,
+    "bounding box" : [ 51.024, 411.283, 349.642, 420.412 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Funding Open Access funding enabled and organized by CAUL and its Member Institutions"
+  }, {
+    "type" : "paragraph",
+    "id" : 329,
+    "page number" : 21,
+    "bounding box" : [ 51.024, 314.054, 388.354, 399.696 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/ licenses/by/4.0/."
+  }, {
+    "type" : "heading",
+    "id" : 330,
+    "level" : "Subtitle",
+    "page number" : 21,
+    "bounding box" : [ 51.024, 273.533, 104.572, 287.162 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "References"
+  }, {
+    "type" : "list",
+    "id" : 331,
+    "level" : "2",
+    "page number" : 21,
+    "bounding box" : [ 51.024, 224.553, 388.352, 261.912 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 21,
+      "bounding box" : [ 51.024, 243.553, 388.352, 261.912 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Abbott, Ryan. 2020. The reasonable robot: Artificial intelligence and the law. Cambridge: Cambridge University Press.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 21,
+      "bounding box" : [ 51.024, 224.553, 388.348, 242.912 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Abbott, Ryan. 2021. Machine rights and reasonable robots, remarks. Washburn Law Journal 60(3): 429–444.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 332,
+    "page number" : 21,
+    "bounding box" : [ 51.024, 205.553, 388.347, 223.912 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Abrahm, Paul M., Stuart Kenter. 1978. Tik-Tok and the three laws of robotics. Science Fiction Studies 5: 67–80."
+  }, {
+    "type" : "paragraph",
+    "id" : 333,
+    "page number" : 21,
+    "bounding box" : [ 51.024, 177.053, 388.348, 204.912 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Adebisi, F. 2022. Black/African Science Fiction and the Quest for Racial Justice through Legal Knowledge: How Can We Unsettle Euro-modern Time and Temporality in Our Teaching? Law, Technology and Humans. 4: 24–37."
+  }, {
+    "type" : "paragraph",
+    "id" : 334,
+    "page number" : 21,
+    "bounding box" : [ 51.024, 167.553, 388.349, 176.412 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Anderson, Susan Leigh. 2008. Asimov’s ‘Three Laws of Robotics’ and machine metaethics. AI and Society"
+  }, {
+    "type" : "paragraph",
+    "id" : 335,
+    "page number" : 21,
+    "bounding box" : [ 51.024, 139.053, 388.346, 166.912 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "22: 477–493. Angell, Norman. 1944. Robot bombs and robot minds. Free World 8: 211–213. Arvidsson, Matilda. 2018. Targeting, gender, and International Posthumanitarian Law and Practice: fram-"
+  }, {
+    "type" : "paragraph",
+    "id" : 336,
+    "page number" : 21,
+    "bounding box" : [ 68.032, 120.053, 388.351, 138.412 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ing the question of the human in International Humanitarian Law. Australian Feminist Law Journal 44: 9–28."
+  }, {
+    "type" : "paragraph",
+    "id" : 337,
+    "page number" : 21,
+    "bounding box" : [ 51.024, 63.053, 299.438, 119.412 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Asimov, Isaac. 1960. The naked sun. London: Grafton. Asimov, Isaac. 1967. Introduction. In The rest of the robots, London: Panther. Asimov, Isaac. 1969. The rest of the robots. London: Panther. Asimov, Isaac. 1976. The bicentennial man. New York: Ballantine Books. Asimov, Isaac. 1983. The caves of steel. New York: Ballantine Books. Asimov, Isaac. 1986. Foundation and Earth. London: Grafton Books."
+  }, {
+    "type" : "footer",
+    "id" : 339,
+    "page number" : 21,
+    "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 72,
+      "page number" : 21,
+      "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 340,
+    "page number" : 22,
+    "bounding box" : [ 51.024, 624.126, 388.35, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 118,
+      "page number" : 22,
+      "bounding box" : [ 51.024, 624.126, 62.424, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "336"
+    }, {
+      "type" : "paragraph",
+      "id" : 119,
+      "page number" : 22,
+      "bounding box" : [ 325.52, 624.126, 388.35, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "V. Goding, K. Tranter"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 342,
+    "page number" : 22,
+    "bounding box" : [ 51.024, 585.998, 388.347, 613.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Asimov, Isaac. 2008. I, Robot. New York: Bantman. August, Raymond. 1987. Corpus juris roboticum. Computer Law Journal 8: 375–388. Banerjee, Suparno. 2020. Indian science fiction: patterns, history and hybridity. Cardiff: University of"
+  }, {
+    "type" : "paragraph",
+    "id" : 343,
+    "page number" : 22,
+    "bounding box" : [ 51.024, 566.998, 388.346, 585.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Wales Press. Barfield, Woodrow. 2018. Liability for autonomous and artificially intelligent robots. Paladyn, Journal of"
+  }, {
+    "type" : "paragraph",
+    "id" : 344,
+    "page number" : 22,
+    "bounding box" : [ 51.024, 538.498, 388.349, 566.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Behavioral Robotics 9: 193–203. Barrett, Michèle, Duncan Barrett. 2017. Star Trek: the Human Frontier. New York: Routledge. Beebe, Barton. 1999. Law’s empire and the final frontier: legalizing the future in the early corpus juris"
+  }, {
+    "type" : "paragraph",
+    "id" : 345,
+    "page number" : 22,
+    "bounding box" : [ 51.024, 500.498, 388.347, 537.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "spatialis. Yale Law Journal 108: 1737–1773. Bennett, Belinda, Angela Daly. 2020. Recognising rights for robots: can we? Will we? Should we? Law. Innovation and Technology 12: 60–80. Bisschoff, Lizelle. 2020. African cyborgs: females and feminists in african science fiction film. Interven-"
+  }, {
+    "type" : "paragraph",
+    "id" : 346,
+    "page number" : 22,
+    "bounding box" : [ 51.024, 471.998, 388.344, 499.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "tions 22(5): 606–623. Blake, Valarie K. 2019. Regulating care robots. Temple Law Review 92: 551–594. Bolton, Christopher, Istvan Csicsery-Ronay, and Takayuki Tatsumi. eds. 2007. Robot ghosts and wired"
+  }, {
+    "type" : "paragraph",
+    "id" : 347,
+    "page number" : 22,
+    "bounding box" : [ 68.032, 452.998, 388.347, 471.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "dreams: japanese science fiction from origins to anime. Minneapolis and Saint Paul: University of Minnesota Press."
+  }, {
+    "type" : "paragraph",
+    "id" : 348,
+    "page number" : 22,
+    "bounding box" : [ 51.024, 433.998, 388.346, 452.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Botting, Fred. 1991. Making monstrous: Frankenstein, criticism and theory. Manchester: Manchester University Press."
+  }, {
+    "type" : "list",
+    "id" : 349,
+    "level" : "3",
+    "page number" : 22,
+    "bounding box" : [ 51.024, 414.998, 331.473, 433.358 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 22,
+      "bounding box" : [ 51.024, 424.498, 278.132, 433.358 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Braidotti, Rosi. 2019. Posthuman knowledge. Cambridge: Polity Press.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 22,
+      "bounding box" : [ 51.024, 414.998, 331.473, 423.858 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Braidotti, Rosi. 2020. Transversal Posthumanities Philosophy Today 63(4): 1181–1195.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 350,
+    "level" : "4",
+    "page number" : 22,
+    "bounding box" : [ 51.024, 376.998, 388.35, 414.358 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 22,
+      "bounding box" : [ 51.024, 395.998, 388.346, 414.358 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Brownsword, Roger. 2019. Law, technology and society: re-imagining the regulatory environment. Abingdon: Routledge.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 22,
+      "bounding box" : [ 51.024, 376.998, 388.35, 395.358 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Brownsword, Roger. 2020. Law 3.0: rules, regulation, and technology. Abingdon: Routledge. Bryson, Joanna J. 2010. Robots should be slaves. In Close engagements with artificial companions:",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 351,
+    "page number" : 22,
+    "bounding box" : [ 68.032, 357.998, 388.345, 376.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "key social, psychological, ethical and design issues, ed. Yorick Wilks. 63–74. Amsterdam: John Benjamins."
+  }, {
+    "type" : "paragraph",
+    "id" : 352,
+    "page number" : 22,
+    "bounding box" : [ 51.024, 348.498, 276.162, 357.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Calo, Ryan. 2011. Open robotics. Maryland Law Review 70: 571–613."
+  }, {
+    "type" : "list",
+    "id" : 353,
+    "level" : "5",
+    "page number" : 22,
+    "bounding box" : [ 51.024, 310.498, 388.347, 347.858 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 22,
+      "bounding box" : [ 51.024, 338.998, 355.49, 347.858 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Calo, Ryan. 2015. Robotics and the lessons of cyberlaw. California Law Review 103: 513–564.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 22,
+      "bounding box" : [ 51.024, 310.498, 388.347, 338.358 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Calo, Ryan. 2016. Robots as legal metaphors. Harvard Journal of Law and Technology 30: 209–237. Čapek. Josef, and Karel Čapek. 1961. R.U.R. and the insect play. London: Oxford University Press. Cardiell, Lucas. 2021. A robot is watching you’: humanoid robots and the different impacts on privacy.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 354,
+    "page number" : 22,
+    "bounding box" : [ 51.024, 272.498, 388.346, 309.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Masaryk University Journal of Law and Technology 15: 247–278. Casey, Bryan. 2020. Robot ipsa loquitur. Georgetown Law Journal 108(2): 225–287. Casey, Bryan, and Mark A. Lemley. 2020. You might be a robot. Cornell Law Review 105: 287–382. Cashbaugh, Sean. 2016. A paradoxical, discrepant, and mutant Marxism: imagining a radical science fic-"
+  }, {
+    "type" : "paragraph",
+    "id" : 355,
+    "page number" : 22,
+    "bounding box" : [ 51.024, 224.998, 388.346, 271.858 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "tion in the american popular front’. Journal for the Study of Radicalism 10(1): 63–106. Chesterman, Simon. 2021. We the robots? Regulating artificial intelligence and the limits of the law. Cambridge University Press. Coeckelbergh, Mark. 2023. Digital technologies, temporality, and the politics of co-existence. Cham: Palgrave Macmillan."
+  }, {
+    "type" : "paragraph",
+    "id" : 356,
+    "page number" : 22,
+    "bounding box" : [ 51.024, 196.498, 388.356, 224.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Coleman, Stephen, Richard Hanley. 2009. Homo sapiens, robots, and persons in I, Robot and Bicentennial Man. In Bioethics at the movies, ed. Sandra Shapshay. 44–55. Baltimore: Johns Hopkins University Press."
+  }, {
+    "type" : "paragraph",
+    "id" : 357,
+    "page number" : 22,
+    "bounding box" : [ 51.024, 177.498, 388.346, 195.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Columbus, Chris. 1999. Bicentennial man [Film]. United States: Buena Vista Pictures. Cooke, Taina. 2017. Seeing past the liberal legal subject: cultural defence, agency and women. Suomen"
+  }, {
+    "type" : "paragraph",
+    "id" : 358,
+    "page number" : 22,
+    "bounding box" : [ 51.024, 139.498, 388.35, 176.858 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Antropologi: Journal of the Finnish Anthropological Society 42(3): 23–40. Cox-Palmer-White, Emily. 2021. The biopolitics of gender in science fiction: feminism and female machines. Abingdon: Routledge. Crawford, Kate. 2021. The atlas of ai: power, politics, and the planetary costs of artificial intelligence."
+  }, {
+    "type" : "paragraph",
+    "id" : 359,
+    "page number" : 22,
+    "bounding box" : [ 51.024, 91.998, 388.346, 138.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "New Haven: Yale University Press. Crichton, Michael. 1973. Westworld [Film]. United States: Metro-Goldwyn-Mayer. Csicsery-Ronay, I. 2008. The Seven Beauties of Science Fiction Wesleyan University Press. Danaher, John. 2016. Robots, law and the retribution gap. Ethics and Information Technology 18: 299–309. Darling, Kate. 2016. Extending legal protection to social robots: the effects of anthropomorphism, empa-"
+  }, {
+    "type" : "paragraph",
+    "id" : 360,
+    "page number" : 22,
+    "bounding box" : [ 68.032, 72.998, 388.346, 91.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "thy, and violent behavior towards robotic objects. In Ryan Calo, a Michael Froomkin and Ian Kerr, ed. Robot law. 213–234. Cheltenham: Edward Elgar Publishing."
+  }, {
+    "type" : "paragraph",
+    "id" : 361,
+    "page number" : 22,
+    "bounding box" : [ 51.024, 63.498, 320.405, 72.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Dick, Philip K. 1972. Do androids dream of electric sheep. London: Grafton Books."
+  }, {
+    "type" : "footer",
+    "id" : 363,
+    "page number" : 22,
+    "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 73,
+      "page number" : 22,
+      "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 364,
+    "page number" : 23,
+    "bounding box" : [ 51.359, 624.126, 388.682, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 120,
+      "page number" : 23,
+      "bounding box" : [ 51.359, 624.126, 261.18, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "The Robot and Human Futures: Visualising Autonomy in Law and…"
+    }, {
+      "type" : "paragraph",
+      "id" : 121,
+      "page number" : 23,
+      "bounding box" : [ 377.282, 624.126, 388.682, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "337"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 366,
+    "page number" : 23,
+    "bounding box" : [ 51.024, 595.498, 388.346, 613.858 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Dick, Philip K. 2011. A scanner darkly. Boston: Houghton Mifflin Harcourt. Disch, Thomas. M. 1998. The Dreams our Stuff is made of: how Science Fiction conquered the World."
+  }, {
+    "type" : "paragraph",
+    "id" : 367,
+    "page number" : 23,
+    "bounding box" : [ 51.024, 509.998, 388.349, 594.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "New York: The Free Press. Englezos, Elizabeth. 2022. Sign of the times: legal persons, digitality and the impact on personal autonomy. International Journal for the Semiotics of Law 36: 441–456. Evtimov, Ivan, David O’Hair, Earlence Fernandes, Ryan Calo, and Tadayoshi Kobno. 2019. Is tricking a robot hacking? Berkeley Technology Law Journal 34: 891–917. Froomkin, A., Ian Michael, Kerr, and Joelle Pineau. 2019. When AIs outperform doctors: confronting the challenges of a tort-induced over-reliance on machine learning. Arizona Law Review 61: 33–100. Fukushima, Masato. 2015. Corpus mysticum digitale (mystical body digital)? On the concept of two bodies in the era of digital technology. Mortality 20: 303–318."
+  }, {
+    "type" : "paragraph",
+    "id" : 368,
+    "page number" : 23,
+    "bounding box" : [ 51.024, 481.498, 388.352, 509.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Gennaro, Steven., Douglas, and Kellner. 2022. Digital culture, media, and the challenges of contemporary cyborg youth. In Bioinformational philosophy and knowledge ecologies, eds. Michael A Peters, Petar Jandrić and Sarah Hayes, 223–236. Cham: Springer."
+  }, {
+    "type" : "paragraph",
+    "id" : 369,
+    "page number" : 23,
+    "bounding box" : [ 51.024, 462.498, 388.344, 480.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Gersen, Jeannie Suk. 2019. Sex lex machina. Columbia Law Review 119: 1793–1810. Gibson, Alicia. 2010. Astro Boy and the atomic age. In Anime and philosophy: Wide eyed wonder, eds."
+  }, {
+    "type" : "paragraph",
+    "id" : 370,
+    "page number" : 23,
+    "bounding box" : [ 51.024, 424.498, 388.35, 461.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Josef Steiff and Tristam D Tamplin, 181–192. Chicago: Open Court. Gibson, Alicia. 2012. Atomic pop! Astro boy, the dialectic of enlightenment, and machinic modes of being. Cultural Critique 80: 183–204. Giddens, Thomas. 2015. Law and the machine: fluid and mechanical selfhood in the ghost in the Shell. In"
+  }, {
+    "type" : "paragraph",
+    "id" : 371,
+    "page number" : 23,
+    "bounding box" : [ 51.024, 405.498, 388.352, 423.858 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Graphic Justice: intersections of Comics and Law, ed. Thomas Giddens. 89–106. London: Routledge. Goodrich, Peter. 1996. Law in the courts of love: literature and other minor jurisprudences. London:"
+  }, {
+    "type" : "paragraph",
+    "id" : 372,
+    "page number" : 23,
+    "bounding box" : [ 51.024, 338.998, 388.348, 404.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Routledge. Goriunova, Olga. 2019. The digital subject: people as data as persons. Theory Culture & Society 36(6): 125–145. Green, Alex, Mitchell Travis, and Kieran Tranter. 2022. Jurisprudence of the future. Law Technology and Humans 4: 1–4. Guihot, Michael, Lyria Bennett Moses. 2020. Artificial Intelligence, robots and the law. Sydney: LexisNexis."
+  }, {
+    "type" : "paragraph",
+    "id" : 373,
+    "page number" : 23,
+    "bounding box" : [ 51.024, 310.498, 388.345, 338.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Guihot, Michael, Anne F. Matthew, and Nicolas P. Suzor. 2017. Nudging robots: innovative solutions to regulate artificial intelligence. Vanderbilt Journal of Entertainment and Technology Law 20: 385–456."
+  }, {
+    "type" : "paragraph",
+    "id" : 374,
+    "page number" : 23,
+    "bounding box" : [ 51.024, 281.998, 388.346, 309.858 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Haraway, Donna. 2003. The companion species manifesto: dogs, people, and significant otherness. Chicago: Prickly Paradigm Press. Hayles, N Katherine. 1999. How we become posthuman: virtual bodies in cybernetics, literature and"
+  }, {
+    "type" : "paragraph",
+    "id" : 375,
+    "page number" : 23,
+    "bounding box" : [ 51.024, 253.498, 388.347, 281.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "informatics. Chicago: Chicago University Press. Henderson, Stephen E. 2019. Should robots prosecute and defend? Oklahoma Law Review 72: 1–20. Hendrickx, Frank. 2018. From digits to robots: the privacy-autonomy nexus in new labor law machinery."
+  }, {
+    "type" : "paragraph",
+    "id" : 376,
+    "page number" : 23,
+    "bounding box" : [ 51.024, 224.998, 388.356, 252.858 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Comparative Labor Law & Policy Journal 40: 365–388. Hildebrandt, Mireille. 2015. Smart technologies and the end(s) of Law: novel entanglements of law and technology. Cheltenham: Edward Elgar Publishing."
+  }, {
+    "type" : "paragraph",
+    "id" : 377,
+    "page number" : 23,
+    "bounding box" : [ 51.024, 196.498, 388.353, 224.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Hildebrandt, Mireille, and O’Hara Kieron. 2021. Introduction: Life and the law in the Era of data-driven agency. In Life and the Law in the Era of Data-Driven Agency, eds. Mireille Hildebrandt and Kieron O’Hara, 1–15. Cheltenham: Edward Elgar Publishing."
+  }, {
+    "type" : "paragraph",
+    "id" : 378,
+    "page number" : 23,
+    "bounding box" : [ 51.024, 158.498, 388.352, 195.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Hillegas, Mark R. 1961. Dystopian science fiction: New index to the human situation. New Mexico Quarterly 31: 238–249. Hockstein, Neil G., C. G. Gourin, R. A. Faust, and David J. Terris. 2007. A history of robots: from science fiction to surgical robotics. Journal of Robotic Surgery 1: 113–118."
+  }, {
+    "type" : "paragraph",
+    "id" : 379,
+    "page number" : 23,
+    "bounding box" : [ 51.024, 139.498, 388.35, 157.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Ishii, Kaori. 2019. Comparative legal study on privacy and personal data protection for robots equipped with artificial intelligence: looking at functional and technological aspects. AI & Society 34: 509–533."
+  }, {
+    "type" : "paragraph",
+    "id" : 380,
+    "page number" : 23,
+    "bounding box" : [ 51.024, 110.998, 388.348, 138.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Jones, Meg Leta, and Jason Millar. 2017. Hacking metaphors in the anticipatory governance of emerging technology. In The Oxford Handbook of Law, Regulation, and Technology, eds. Roger Brownsword, Eloise Scotford, and Karen Yeung, 597–619. Oxford: Oxford University Press."
+  }, {
+    "type" : "paragraph",
+    "id" : 381,
+    "page number" : 23,
+    "bounding box" : [ 51.024, 91.998, 388.346, 110.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Jonze, Spike. 2013. Her [Film]. United States: Warner Bros. Pictures. Kader, Stephanie. 2015. ‘When in Rome… Convergence culture in science fiction fandom. In Conver-"
+  }, {
+    "type" : "paragraph",
+    "id" : 382,
+    "page number" : 23,
+    "bounding box" : [ 68.032, 72.998, 388.353, 91.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "gence Culture Reconsidered: Media - Participation – Environment, eds. Claudia Georgi and Brigitte Johanna Glaser, 139–159. Göttingen: Universitätsverlag."
+  }, {
+    "type" : "paragraph",
+    "id" : 383,
+    "page number" : 23,
+    "bounding box" : [ 51.024, 63.498, 291.884, 72.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Käll, Jannice. 2018. Blockchain control. Law and Critique 29(1): 133–140."
+  }, {
+    "type" : "footer",
+    "id" : 385,
+    "page number" : 23,
+    "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 74,
+      "page number" : 23,
+      "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 386,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 624.126, 388.35, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 122,
+      "page number" : 24,
+      "bounding box" : [ 51.024, 624.126, 62.424, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "338"
+    }, {
+      "type" : "paragraph",
+      "id" : 123,
+      "page number" : 24,
+      "bounding box" : [ 325.52, 624.126, 388.35, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "V. Goding, K. Tranter"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 388,
+    "level" : "6",
+    "page number" : 24,
+    "bounding box" : [ 51.024, 567.006, 388.353, 613.865 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 24,
+      "bounding box" : [ 51.024, 586.006, 388.348, 613.865 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Käll, Jannice. 2022a. Critical posthumanism, justice, and law. In Palgrave Handbook of Critical Posthumanism, eds. Stefan Herbrechter, Ivan Callus, Manuela Rossini, Marija Grech, Megen de BruinMolé and Christopher John Müller, 629–650. https://doi.org/10.1007/978-3-030-42681-1: Springer.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 24,
+      "bounding box" : [ 51.024, 567.006, 388.353, 585.365 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Käll, Jannice. 2022b. Posthuman property and law: commodification and control through information, smart spaces and artificial intelligence. Abingdon: Routledge.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 389,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 538.506, 388.356, 566.365 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Kang, Hyo Yoon. 2011. Autonomic computing, genomic data and human agency: the case for embodiment. In Law, human agency and autonomic computing: the philosophy of law meets the philosophy of technology, eds. Mireille Hildebrandt and Antoinette Rouvroy, 104–118. Abingdon: Routledge."
+  }, {
+    "type" : "paragraph",
+    "id" : 390,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 519.506, 388.346, 537.865 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Kantorowicz, Ernst. 2016. The King’s two bodies: a study in medieval political theology. Princeton: Princeton University Press."
+  }, {
+    "type" : "paragraph",
+    "id" : 391,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 491.006, 388.35, 518.866 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Katarzyna, Ginszt. 2020. Incorporating robots into human law - an analysis of robot prototyping in Ridley Scott’s Blade Runner and Alex Proyas’ I, Robot. New Horizons in English Studies 5: 172–185. Księżak, Paweł, and Sylwia Wojtczak. 2020. AI versus robot: in search of a domain for the new european"
+  }, {
+    "type" : "paragraph",
+    "id" : 392,
+    "page number" : 24,
+    "bounding box" : [ 68.032, 481.506, 246.541, 490.366 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "civil law. Law Innovation and Technology 12: 297–317."
+  }, {
+    "type" : "paragraph",
+    "id" : 393,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 462.506, 388.351, 480.866 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Landsberg, Alison. 1995. Prosthetic memory: Total Recall and Blade Runner. Body and Society 1: 175–189. Langer, Jessica. 2011. Postcolonialism and science fiction. Houndmills, Basingstoke: Pallgrave"
+  }, {
+    "type" : "paragraph",
+    "id" : 394,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 434.006, 388.346, 461.866 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Macmillian. Larbalestier, Justine. 2006. Daughters of Earth: feminist science fiction in the twentieth century. Middletown: Wesleyan University Press."
+  }, {
+    "type" : "paragraph",
+    "id" : 395,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 415.006, 388.348, 433.366 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Latour, Bruno. 1993. We have never been modern. Cambridge, Massachusetts: Harvard University Press. Le, Vincent. 2017. These violent delights have violent ends’: decrypting Westworld as dual coding and"
+  }, {
+    "type" : "paragraph",
+    "id" : 396,
+    "page number" : 24,
+    "bounding box" : [ 68.032, 405.506, 269.095, 414.366 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "corruption of Nick Land’s accelerationism. Colloquy 34: 3–23."
+  }, {
+    "type" : "paragraph",
+    "id" : 397,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 377.006, 388.356, 404.866 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Leenes, Ronald, Erica Palmerini, Bert-Jaap Koops, Andrea Bertolini, Pericle Salvini, and Federica Lucivero. 2017. Regulatory challenges of robotics: some guidelines for addressing legal and ethical issues. Law Innovation and Technology 9: 1–44."
+  }, {
+    "type" : "paragraph",
+    "id" : 398,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 339.006, 388.348, 376.366 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Lemley, Mark A., Bryan Casey. 2019. Remedies for robots. University of Chicago Law Review 86: 1311–1396. Leslie-McCarthy, Sage. 2007. Asimov’s posthuman Pharisees: the letter of the law versus the spirit of the law in Isaac Asimov’s robot novels. Law Culture and the Humanities 3: 398–415."
+  }, {
+    "type" : "paragraph",
+    "id" : 399,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 310.506, 388.349, 338.366 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Lima, Victor. M. 2022. Transhumanism and the phenomenology of cyborg senses. In The Routledge Handbook of Digital Consumption, eds. Rosa Llamas and Russell Belk, 47–59. Abigdon: Routledge. Longinović, Tomislav Z. 2011. Vampire Nation: violence as cultural imaginary. Durham: Duke University"
+  }, {
+    "type" : "paragraph",
+    "id" : 400,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 291.506, 388.349, 309.866 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Press. MacNeil, William P. 2007. Lex populi: the jurisprudence of popular culture. Stanford: Stanford University"
+  }, {
+    "type" : "paragraph",
+    "id" : 401,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 263.006, 388.356, 290.866 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Press. Mazur, Orly. 2018. Taxing the Robots. Pepperdine Law Review 46: 277–330. McCauley, Lee. 2007. AI armageddon and the three laws of robotics. Ethics and Information Technology"
+  }, {
+    "type" : "paragraph",
+    "id" : 402,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 225.006, 388.35, 262.366 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "9: 153–164. Morse, Susan C. 2019. When robots make legal mistakes. Oklahoma Law Review 72: 213–230. Mulligan, Christina. 2018. Revenge against robots. South Carolina Law Review 69: 579–596. Murphy, Robin, David D. Woods. 2009. Beyond Asimov: the three laws of responsible robotics. IEEE"
+  }, {
+    "type" : "paragraph",
+    "id" : 403,
+    "page number" : 24,
+    "bounding box" : [ 68.032, 215.506, 164.462, 224.366 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Intelligent Systems 24: 14–20."
+  }, {
+    "type" : "paragraph",
+    "id" : 404,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 187.006, 388.349, 214.866 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Naeem, Muhammad, and Tauseef Jamal et al. 2022. Trends and future perspective challenges in big data. Advances in Intelligent Data Analysis and Applications: Proceeding of the Sixth Euro-China Conference on Intelligent Data Analysis and Applications, 15–18 October 2019, Arad, Romania."
+  }, {
+    "type" : "paragraph",
+    "id" : 405,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 177.506, 388.347, 186.366 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Naffine, Ngaire. 2003. Who are Law’s persons? From Cheshire cats to responsible subjects. Modern Law"
+  }, {
+    "type" : "paragraph",
+    "id" : 406,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 149.006, 388.347, 176.866 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Review 66(3): 346–367. Nelson, Victoria. 2009. The secret life of puppets. Cambridge, Massachusetts: Harvard University Press. Noll, Gregor. 2019. War by slgorithm: The end of law? In War and Algorithm, eds. Max Liljefors, Gregor"
+  }, {
+    "type" : "paragraph",
+    "id" : 407,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 120.506, 388.347, 148.366 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Noll and Daniel Steuer, 75–104. London: Rowen & Littlefield. Oliveira, Ana. 2020. Subject (in) trouble: humans, robots, and legal imagination. Laws 9: 10. Pagallo, Ugo. 2017. When morals ain’t enough: Robots, ethics, and the rules of the law. Minds and"
+  }, {
+    "type" : "paragraph",
+    "id" : 408,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 92.006, 388.35, 119.866 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Machines 27: 625–638. Palumbo, Donald. 2000. Reiterated plots and themes in the robot novels: getting away with murder and overcoming programming. Foundation 80: 19–40."
+  }, {
+    "type" : "paragraph",
+    "id" : 409,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 63.506, 388.349, 91.366 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Parrinder, Patrick. 2000. Introduction: learning from other worlds. In Learning from other worlds: estrangement, cognition and the politics of science fiction and utopia, ed. Patrick Parrinder. 1–16. Liverpool: Liverpool University Press."
+  }, {
+    "type" : "footer",
+    "id" : 411,
+    "page number" : 24,
+    "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 75,
+      "page number" : 24,
+      "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 412,
+    "page number" : 25,
+    "bounding box" : [ 51.359, 624.126, 388.682, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 124,
+      "page number" : 25,
+      "bounding box" : [ 51.359, 624.126, 261.18, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "The Robot and Human Futures: Visualising Autonomy in Law and…"
+    }, {
+      "type" : "paragraph",
+      "id" : 125,
+      "page number" : 25,
+      "bounding box" : [ 377.282, 624.126, 388.682, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "339"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 414,
+    "page number" : 25,
+    "bounding box" : [ 51.024, 557.498, 388.351, 613.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Pasquale, Frank. 2019. A rule of persons, not machines: the limits of legal automation. George Washington Law Review 87: 1–55. Peters, Timothy D. 2022. A theological jurisprudence of speculative cinema: superheroes, science fictions and fantasies of modern law. Edinburgh: Edinburgh University Press. Portelli, Alessandro. 1980. The three laws of robotics: laws of the text, laws of production, laws of society. Science Fiction Studies 7: 150–156."
+  }, {
+    "type" : "paragraph",
+    "id" : 415,
+    "page number" : 25,
+    "bounding box" : [ 51.024, 528.998, 388.353, 556.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Poulsen, Adam, Eduard Fosch-Villaronga, and K Burmeister Oliver. 2020. Cybersecurity, value sensing robots for LGBTIQ + elderly, and the need for revised codes of conduct. Australasian Journal of Information Systems DOI. https://doi.org/10.3127/ajis.v24i0.2789."
+  }, {
+    "type" : "paragraph",
+    "id" : 416,
+    "page number" : 25,
+    "bounding box" : [ 51.024, 509.998, 388.347, 528.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Proyas, Alex. 2004. I, Robot [Film]. United States: 20th Century Fox. Rachum-Twaig, Omri. 2020. Whose robot is it anyway? Liability for artificial-intelligence-based robots."
+  }, {
+    "type" : "paragraph",
+    "id" : 417,
+    "page number" : 25,
+    "bounding box" : [ 51.024, 490.998, 388.344, 509.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "University of Illinois Law Review, 1141–1176. Richards, Neil M., and William D. Smart. 2016. How should the law think about robots? In Robot law, eds."
+  }, {
+    "type" : "paragraph",
+    "id" : 418,
+    "page number" : 25,
+    "bounding box" : [ 51.024, 462.498, 388.346, 490.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Ryan Calo, a Michael Froomkin and Ian Kerr, 3–24. Cheltenham: Edward Elgar. Rigotti, Carlotta. 2020. How to apply Asimov’s first law to sex robots. Paladyn (Warsaw) 11: 161–170. Robb, Lachlan, and Kieran Tranter. forthcoming 2023. Hype and Cultural Imaginary in Law and Tech-"
+  }, {
+    "type" : "paragraph",
+    "id" : 419,
+    "page number" : 25,
+    "bounding box" : [ 68.032, 443.498, 388.348, 461.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "nology. In Research Handbook of Law and Technology, eds. Bartosz Brożek, Olia Kanevskaia and Przemysław Pałka. Cheltenham: Edward Elgar."
+  }, {
+    "type" : "paragraph",
+    "id" : 420,
+    "page number" : 25,
+    "bounding box" : [ 51.024, 329.498, 388.353, 442.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Roberts, Adam. 2005. The history of science fiction. Houndmills, Basingstoke, Hampshire: Palgrave Macmillan. Rose, Margaret. 2015. Cyborg selves in Battlestar Galactica and Star Trek: the Next Generation: Genre, hybridity, identity. Journal of Popular Culture 48: 1193–1210. Rymer, Michael. 2003. Battlestar Galactica Mini-series. In Battlestar Galactica [Television], United States of America: Sci Fi Channel/NBC Universal. Rymer, Michael. 2009. Daybreak part I. In Battlestar Galactica [Television], United States of America: Sci Fi Channel/ NBC Universal. Scheerer, Robert. 1989. The measure of Man. In Star Trek: the Next Generation [Television], United States of America: Paramount Television. Schofield-Georgeson, Eugene. 2020. Regulating the automation of employment through redundancy law: a comparative policy approach. Australian Journal of Labour Law 32: 263–289."
+  }, {
+    "type" : "paragraph",
+    "id" : 421,
+    "page number" : 25,
+    "bounding box" : [ 51.024, 300.998, 388.346, 328.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Schwarz, Jonas Andersson. 2018. Umwelt and individuation: Digital signals and technical being. In Digital existence: Ontology, Ethics and Transcendence in Digital Culture, ed. Amanda Lagerkvist, Abingdon: Routledge."
+  }, {
+    "type" : "paragraph",
+    "id" : 422,
+    "page number" : 25,
+    "bounding box" : [ 51.024, 281.998, 388.346, 300.358 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Scott, Ridley. 1982. Blade Runner [Film]. United States of America: Warner Bros. Segel, Harold B. 1995. Pinocchio’s progeny: puppets, marionettes, automatons and robots in modernist"
+  }, {
+    "type" : "paragraph",
+    "id" : 423,
+    "page number" : 25,
+    "bounding box" : [ 51.024, 262.998, 388.346, 281.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "and avant-garde drama. Baltimore: John Hopkins University Press. Sharma, Kritika. 2022. What if feminist judgments were written on earth 616? A tale of feminism and sci-"
+  }, {
+    "type" : "paragraph",
+    "id" : 424,
+    "page number" : 25,
+    "bounding box" : [ 51.024, 234.498, 388.352, 262.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ence fiction. Law Technology and Humans 4(2): 81–94. Shelley, Mary. 1965. Frankenstein: or, the modern Prometheus. New York: Signet. Short, Sue. 2003. The measure of ‘a man’ Asimov’s Bicentennial Man, Star Trek’s data and being human."
+  }, {
+    "type" : "paragraph",
+    "id" : 425,
+    "page number" : 25,
+    "bounding box" : [ 51.024, 196.498, 388.352, 233.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Extrapolation 44: 209–223. Shukla, Samiksha. Jossy P. George, Kapil Tiwari, and Joseph Varghese Kureethara. 2022. Data ethics and challenges. Singapore: Springer. Simmler, Monika, Nora Markwalder. 2019. Guilty Robots?–Rethinking the nature of culpability and legal"
+  }, {
+    "type" : "paragraph",
+    "id" : 426,
+    "page number" : 25,
+    "bounding box" : [ 51.024, 167.998, 388.345, 195.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "personhood in an age of artificial intelligence. Criminal Law Forum 30: 1–31. Smith, Fred L. 1938. National airport problems. Journal of Air Law 9: 57–64. Sobchack, Vivian. 1997. Screening space: The american science fiction film (2nd, enlarged ed.). New"
+  }, {
+    "type" : "paragraph",
+    "id" : 427,
+    "page number" : 25,
+    "bounding box" : [ 51.024, 139.498, 388.35, 167.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Brunswick: Rutgers University Press. Sone, Yuji. 2017. Japanese robot culture: performance, imagination, and modernity. New York: Palgrave Macmillan."
+  }, {
+    "type" : "paragraph",
+    "id" : 428,
+    "page number" : 25,
+    "bounding box" : [ 51.024, 110.998, 388.351, 138.858 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Standing, Guy. 2018. Taskers in the precariat: confronting an emerging dystopia. In Confronting dystopia: the new technologies revolution and the future of work, ed. Eva Paus. 115–133. Ithaca: Cornell University Press."
+  }, {
+    "type" : "paragraph",
+    "id" : 429,
+    "page number" : 25,
+    "bounding box" : [ 51.024, 72.998, 388.345, 110.358 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Subramanian, Ramesh. 2017. Emergent AI, social robots and the law: security, privacy and policy issues. Journal of International Technology and Information Management 26: 81–107. Suvin, Darko. 1979. Metamorphoses of science fiction; on the poetics and history of a literary genre. New Haven: Yale University Press."
+  }, {
+    "type" : "footer",
+    "id" : 431,
+    "page number" : 25,
+    "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 76,
+      "page number" : 25,
+      "bounding box" : [ 347.777, 24.341, 388.682, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 432,
+    "page number" : 26,
+    "bounding box" : [ 51.024, 624.126, 388.35, 633.134 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 126,
+      "page number" : 26,
+      "bounding box" : [ 51.024, 624.126, 62.424, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "340"
+    }, {
+      "type" : "paragraph",
+      "id" : 127,
+      "page number" : 26,
+      "bounding box" : [ 325.52, 624.126, 388.35, 633.134 ],
+      "font" : "MyriadPro-SemiCn",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "V. Goding, K. Tranter"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 434,
+    "page number" : 26,
+    "bounding box" : [ 51.024, 605.006, 388.346, 613.865 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Telotte, J. P. 1995. Replications: a robotic history of the science fiction film. Urbana and Chicago: Univer-"
+  }, {
+    "type" : "paragraph",
+    "id" : 435,
+    "page number" : 26,
+    "bounding box" : [ 51.024, 576.506, 360.986, 604.365 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "sity of Illinois Press. Telotte, J. P. 2001. Science Fiction Film. Cambridge: Cambridge University Press. Tranter, Kieran. 2002. Terror in the texts: technology - law - future. Law and Critique 13: 75–99."
+  }, {
+    "type" : "list",
+    "id" : 436,
+    "level" : "7",
+    "page number" : 26,
+    "bounding box" : [ 51.024, 538.506, 388.348, 575.865 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 26,
+      "bounding box" : [ 51.024, 557.506, 388.347, 575.865 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Tranter, Kieran. 2011a. The law and technology enterprise: uncovering the template to legal scholarship on technology. Law Innovation and Technology 3: 31–83.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 26,
+      "bounding box" : [ 51.024, 538.506, 388.348, 556.865 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Tranter, Kieran. 2011b. The speculative jurisdiction: the science fictionality of law and technology. Griffith Law Review 20: 817–850.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 437,
+    "level" : "8",
+    "page number" : 26,
+    "bounding box" : [ 51.024, 481.506, 388.353, 537.865 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 26,
+      "bounding box" : [ 51.024, 500.506, 388.353, 537.865 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Tranter, Kieran. 2018a. Doing right in the world with 100,000 horsepower: Osamu Tezuka’s Tetsuwan Atomu (Astro Boy), essence, posthumanity and techno-humanism. In Law and justice in japanese popular culture: crime fighting robots to duelling pocket monsters, 95–111. Abingdon: Routledge: eds. Ashley Pearson, Thomas Giddens and Kieran Tranter.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 26,
+      "bounding box" : [ 51.024, 481.506, 388.348, 499.866 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Tranter, Kieran. 2018b. Living in technical legality: Science fiction and law as technology. Edinburgh: University of Edinburgh Press.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 438,
+    "page number" : 26,
+    "bounding box" : [ 51.024, 405.506, 388.348, 480.866 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Tranter, Kieran. 2019. Die Buribunken as science fiction: the self and informational existence. Griffith Law Review 28: 118–137. Travis, Mitchell. 2022. Jurisprudence, temporality and science fiction. Law Technology and Humans 4(2): 5–23. Travis, Mitchell, and Kieran Tranter. forthcoming 2024. Law and science fiction. In Elgar Concise Encyclopedias in Law and Literature, eds. Robert Spoo and Simon Stern. Cheltenham: Edward Elgar. Ulenaers, Jasper. 2020. The impact of artificial intelligence on the right to a fair trial: towards a robot judge? Asian Journal of Law and Economics 11(2): 1–38."
+  }, {
+    "type" : "paragraph",
+    "id" : 439,
+    "page number" : 26,
+    "bounding box" : [ 51.024, 377.006, 388.35, 404.866 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Urquhart, Lachlan, Dominic Reedman-Flint, and Natalie Leesakul. 2019. Responsible domestic robotics: exploring ethical implications of robots in the home. Journal of Information Communication and Ethics in Society 17: 246–272."
+  }, {
+    "type" : "paragraph",
+    "id" : 440,
+    "page number" : 26,
+    "bounding box" : [ 51.024, 348.506, 388.348, 376.366 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "van den Genderen, Robert Hoven van. 2018. Do we need new legal personhood in the age of robots and AI? In Robotics, AI and the future of law, eds. Marcelo Corrales, M. Fenwick and N. Forgó ., 15–56. Cham: Springer."
+  }, {
+    "type" : "paragraph",
+    "id" : 441,
+    "page number" : 26,
+    "bounding box" : [ 51.024, 339.006, 388.346, 347.866 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Van Wynsberghe. Axelle and Ânegla Guimarães Pereira 2022. The politics and imaginary of ‘autonomous"
+  }, {
+    "type" : "paragraph",
+    "id" : 442,
+    "page number" : 26,
+    "bounding box" : [ 51.024, 310.506, 388.346, 338.366 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "vehicles’ a participatory journey. Humanities and Social Sciences Communications, 9: 1–10. Verheij, Bart. 2020. Artificial intelligence as law. Artificial Intelligence and Law 28: 181–206. Villaronga, Eduard Fosch. 2020. Robots, healthcare, and the law: regulating automation in personal care."
+  }, {
+    "type" : "paragraph",
+    "id" : 443,
+    "page number" : 26,
+    "bounding box" : [ 51.024, 272.506, 388.346, 309.866 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Routledge. Villeneuve, Denis. 2017. Blade Runner 2049 [Film]. United States: Warner Bros Pictures. Volokh, Eugene. 2018. Chief Justice robots. Duke Law Journal 68: 1135–1193. Walter, Nicholas J. 2020. You may kiss the AI: an analysis of whether rationales for legalizing some non-"
+  }, {
+    "type" : "paragraph",
+    "id" : 444,
+    "page number" : 26,
+    "bounding box" : [ 51.024, 244.006, 388.348, 271.866 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "traditional marriages also justify legalizing human-robot marriage. Jurimetrics 60: 353–380. West, Robin. 1988. Jurisprudence and gender. University of Chicago Law Review 55: 1–72. Winckler, Reto. This great stage of androids: Westworld, Shakespeare and the world as stage. Journal of"
+  }, {
+    "type" : "paragraph",
+    "id" : 445,
+    "page number" : 26,
+    "bounding box" : [ 68.032, 234.506, 226.908, 243.366 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Adaptation in Film and Performance 2: 169–188."
+  }, {
+    "type" : "paragraph",
+    "id" : 446,
+    "page number" : 26,
+    "bounding box" : [ 51.024, 206.006, 388.353, 233.866 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Wong, Karen Li, and Xan and Amy Shield Dobson. 2019. We’re just data: exploring china’s social credit system in relation to digital platform ratings cultures in westernised democracies. Global Media and China 4: 220–232."
+  }, {
+    "type" : "paragraph",
+    "id" : 447,
+    "page number" : 26,
+    "bounding box" : [ 51.024, 187.006, 388.346, 205.366 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Wright, R., and George. 2018. The constitutional rights of advanced robots (and of human beings). Arkansas Law Review 71: 613–646."
+  }, {
+    "type" : "paragraph",
+    "id" : 448,
+    "page number" : 26,
+    "bounding box" : [ 51.024, 158.506, 388.354, 186.366 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Yaszek, Lisa. 2023. Introduction: A brief history of gender, science fiction, and the science fiction anthology. In The routledge companion to gender and science fiction, eds. Lisa Yaszek, Sonja. Fritzsche, Karen Omry and Wendy Gay Pearson, 3–10. Abingdon: Routledge."
+  }, {
+    "type" : "paragraph",
+    "id" : 449,
+    "page number" : 26,
+    "bounding box" : [ 51.024, 120.506, 388.352, 157.866 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Ződi, Zsolt. 2020. What will robot laws look like? The code of AI and human laws. Acta Universitatis Sapientiae Legal Studies 8: 253–268. Zuboff, Shoshana. 2019. The age of surveillance capitalism: the fight for a human future at the new frontier of power. New York: PublicAffairs."
+  }, {
+    "type" : "paragraph",
+    "id" : 450,
+    "page number" : 26,
+    "bounding box" : [ 51.024, 92.256, 388.351, 110.616 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations."
+  }, {
+    "type" : "footer",
+    "id" : 452,
+    "page number" : 26,
+    "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 77,
+      "page number" : 26,
+      "bounding box" : [ 51.024, 24.341, 91.929, 43.181 ],
+      "heading level" : 1,
+      "font" : "Springnew",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1 3"
+    } ]
+  } ]
+}

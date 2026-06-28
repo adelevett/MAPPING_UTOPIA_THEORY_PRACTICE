@@ -1,0 +1,67 @@
+{
+  "references": [
+    {
+      "id": "bloch_1986",
+      "citation_raw": "Bloch, E. (1986). The Principle of Hope (3 vols., trans. N. Plaice, S. Plaice & P. Knight). MIT Press. (Original work published 1954–1959)",
+      "applied_codes": [
+        {
+          "category_id": "C1",
+          "justification": "Ernst Bloch frames human aspiration toward a better future as a product of 'anticipatory consciousness' that looks beyond current limitations and alienation.",
+          "verbatim_evidence": "arguing that humanity harbors an anticipatory consciousness of a more perfect future."
+        },
+        {
+          "category_id": "C7",
+          "justification": "Bloch introduces a unique epistemic mode that synthesizes the objective, socio-economic 'cold stream' of analysis with the subjective, imaginative 'warm stream' of hope, giving rise to 'docta spes' (comprehended hope).",
+          "verbatim_evidence": "He synthesizes the 'cold stream' of Marxist social and economic analysis with the 'warm stream' of forward-dreaming utopian speculation to define 'concrete utopia'—a vision rooted in material drives to overcome alienation"
+        },
+        {
+          "category_id": "C5",
+          "justification": "The functional purpose of Bloch's speculative philosophy is active transformation. He positions concrete utopia not as passive speculation, but as a practice of changing the world through Marxist framework.",
+          "verbatim_evidence": "This road is and remains that of socialism, it is the practice of concrete utopia. Everything that is non-illusory, real-possible about the hope-images leads to Marx, works – as always, in different ways, rationed according to the situation – as part of socialist changing of the world."
+        }
+      ]
+    },
+    {
+      "id": "booker_1994",
+      "citation_raw": "Booker, M.K. (1994). The Dystopian Impulse in Modern Literature: Fiction as Social Criticism. Greenwood Press.",
+      "applied_codes": [
+        {
+          "category_id": "C2",
+          "justification": "The text frames dystopian literature not as literal prediction, but as a cautionary, warning-oriented forecast designed to highlight modern institutional and political risks by exaggerating contemporary trends.",
+          "verbatim_evidence": "Dystopian literature is not a depiction of what will be, but a warning of what might be if contemporary trends continue."
+        },
+        {
+          "category_id": "C8",
+          "justification": "The theoretical methodology utilized by Booker relies on classical philosophical and psychoanalytic frameworks (Nietzsche and Freud) to analyze the systemic pathologies, anxieties, and power structures of modern societies.",
+          "verbatim_evidence": "Drawing upon the theoretical works of Friedrich Nietzsche and Sigmund Freud, Booker contrasts the optimism of utopian literature with the critical warning systems of dystopias..."
+        },
+        {
+          "category_id": "C6",
+          "justification": "The functional purpose identified for speculative/dystopian narratives is to defamiliarize real-world practices and institutions to foster critical reflection and social critique, rather than proposing a blueprint for direct institutional replacement.",
+          "verbatim_evidence": "By defamiliarizing the familiar, it allows us to see our own social and political practices with fresh, critical eyes, serving as an indispensable mode of social criticism."
+        }
+      ]
+    },
+    {
+      "id": "claeys_2017",
+      "citation_raw": "Claeys, G. (2017). Dystopia: A Natural History. Oxford University Press.",
+      "applied_codes": [
+        {
+          "category_id": "C2",
+          "justification": "The text adopts a cautionary anticipatory stance, warning that modern scientific and technological advancements carry profound, latent destructive capabilities that offset their apparent benefits.",
+          "verbatim_evidence": "Fear of the science which takes away with one hand even more than what it so profusely gives with the other."
+        },
+        {
+          "category_id": "C9",
+          "justification": "The text relies on an epistemic framework that bridges fictional speculation with real-world history, evaluating modern technological anxieties through the lens of empirical historical collapses and historical despotisms.",
+          "verbatim_evidence": "He broadens the concept of dystopia beyond literary totalitarians to encompass real-world despotisms and societies experiencing collapse."
+        },
+        {
+          "category_id": "C6",
+          "justification": "The functional intent of analyzing dystopian evolution is to construct an intellectual critique of modernity's crises, interrogating societal structures by tracing how fear is mobilized historically.",
+          "verbatim_evidence": "traces the chronological evolution of dystopian thought from its early nineteenth-century literary origins to the modern era, viewing dystopia as a response to the crisis of modernity."
+        }
+      ]
+    }
+  ]
+}

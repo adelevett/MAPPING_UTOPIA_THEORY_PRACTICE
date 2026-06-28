@@ -1,0 +1,2162 @@
+{
+  "file name" : "S._2024_Speculative_futures_for_higher_education.pdf",
+  "number of pages" : 19,
+  "author" : " Sian Bayne ",
+  "title" : "Speculative futures for higher education",
+  "creation date" : "D:20240515092854Z",
+  "modification date" : "D:20240515133610+02'00'",
+  "kids" : [ {
+    "type" : "paragraph",
+    "id" : 41,
+    "page number" : 1,
+    "bounding box" : [ 56.622, 739.531, 255.164, 759.155 ],
+    "font" : "MyriadPro-Regular",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 https://doi.org/10.1186/s41239-024-00469-y"
+  }, {
+    "type" : "paragraph",
+    "id" : 43,
+    "page number" : 1,
+    "bounding box" : [ 354.025, 730.256, 538.586, 760.113 ],
+    "font" : "MyriadPro-Regular2",
+    "font size" : 12.43,
+    "text color" : "[0.02, 0.008, 0.0]",
+    "content" : "International Journal of Educational Technology in Higher Education"
+  }, {
+    "type" : "heading",
+    "id" : 38,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 463.287, 687.25, 534.748, 703.357 ],
+    "heading level" : 2,
+    "font" : "MyriadPro-Bold",
+    "font size" : 13.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Open Access"
+  }, {
+    "type" : "paragraph",
+    "id" : 40,
+    "page number" : 1,
+    "bounding box" : [ 62.488, 686.949, 188.379, 703.056 ],
+    "font" : "MyriadPro-Bold",
+    "font size" : 13.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "RESEARCH ARTICLE"
+  }, {
+    "type" : "heading",
+    "id" : 45,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 56.622, 646.582, 457.345, 675.43 ],
+    "heading level" : 1,
+    "font" : "MyriadPro-Regular",
+    "font size" : 24.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Speculative futures for higher education"
+  }, {
+    "type" : "paragraph",
+    "id" : 46,
+    "page number" : 1,
+    "bounding box" : [ 56.622, 619.036, 182.492, 632.985 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Sian Bayne1* and Jen Ross1"
+  }, {
+    "type" : "paragraph",
+    "id" : 56,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 56.622, 572.286, 117.62, 589.784 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "*Correspondence: sian.bayne@ed.ac.uk"
+  }, {
+    "type" : "paragraph",
+    "id" : 57,
+    "page number" : 1,
+    "bounding box" : [ 56.619, 513.036, 149.243, 567.547 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "1 Centre for Research in Digital Education, Moray House School of Education and Sport, University of Edinburgh, Holyrood Road, Edinburgh EH8 8AQ, Scotland"
+  }, {
+    "type" : "heading",
+    "id" : 48,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 185.083, 575.769, 224.017, 588.531 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 10.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Abstract"
+  }, {
+    "type" : "paragraph",
+    "id" : 49,
+    "page number" : 1,
+    "bounding box" : [ 185.083, 392.844, 528.9, 572.174 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This paper uses speculative methods as a way of imagining futures for higher education in open, non-predictive ways. The complexity and ‘unknowability’ of the highly technologised, environmentally damaged and politically degraded futures we seem to be facing can mean that our conversations about the future of higher education have a tendency to spiral too quickly into dystopianism and hopelessness. Speculative methods can help open up new kinds of conversation capable of supporting active and fundamental hope. Working within a postqualitative framework, we argue that such approaches support the collaborative imagining of multiple alternatives, and represent a way of advocating for those that are preferable. The paper presents a series of speculative scenarios and microfictions focusing on worlds ruptured by climate change, artificial intelligence, revolution and the technological enhancement of humans, connecting each of these to current critical research focused on climate crisis, ‘big tech’, rising global injustice and ‘big pharma’. It emphasises the vital contribution and place of higher education within such futures, and advocates for speculative methods as an approach to maintaining hope."
+  }, {
+    "type" : "paragraph",
+    "id" : 50,
+    "page number" : 1,
+    "bounding box" : [ 185.083, 376.844, 487.37, 389.064 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Keywords: Futures, Speculation, Digital education, Higher education, Hope"
+  }, {
+    "type" : "heading",
+    "id" : 52,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 178.583, 350.544, 236.643, 363.306 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 10.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Introduction"
+  }, {
+    "type" : "paragraph",
+    "id" : 53,
+    "page number" : 1,
+    "bounding box" : [ 178.579, 206.395, 538.621, 348.279 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This paper is about how speculation, imagination and the politics and histories of the present can help us maintain hope for the future of higher education. A general impulse to work against current – instrumentalising, economistic, reductive – imaginaries of higher education has been a defining feature of critical scholarship in this area for many decades. Since the turn of the 21st century, however, a sense of despair is increasingly evident as advanced capitalism, human exceptionalism and technology acceleration make it increasingly difficult to imagine higher education – or indeed the world – differently (Bayne, 2023). The work discussed in this paper is aimed at supporting our capacity and desire to keep imagining better, more hopeful futures. There are three areas of scholarship which have shaped and informed the approach taken in this paper."
+  }, {
+    "type" : "paragraph",
+    "id" : 54,
+    "page number" : 1,
+    "bounding box" : [ 178.583, 121.487, 538.645, 206.777 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "First, it works with speculation as a post-qualitative method (Ross, 2023), taking an approach which aligns with what Boyd (2022a, b) sees as an ‘opening up…to the non-representational, sensory, and creative’ (2) in the conduct and representation of research. Post-qualitative methods (St Pierre, 2018) push against the anthropocentric, procedural aspects of conventional method, emphasising the entangled nature of the human, the technological and the planetary. In this sense they align with contemporary"
+  }, {
+    "type" : "paragraph",
+    "id" : 39,
+    "page number" : 1,
+    "bounding box" : [ 178.561, 48.781, 538.632, 105.46 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "© The Author(s) 2024.Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visithttp:// creativecommons.org/licenses/by/4.0/."
+  }, {
+    "type" : "header",
+    "id" : 58,
+    "page number" : 2,
+    "bounding box" : [ 56.694, 749.016, 538.662, 759.16 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 19,
+      "page number" : 2,
+      "bounding box" : [ 56.694, 749.016, 538.662, 759.16 ],
+      "heading level" : 5,
+      "font" : "MyriadPro-It",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 Page 2 of 19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 59,
+    "page number" : 2,
+    "bounding box" : [ 117.638, 661.555, 477.648, 704.391 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "posthumanist (Bayne, 2016), post-digital (Jandrić, 2024) and radical eco-pedagogical (Khan, 2011) shifts within education research – all themes that are responded to and developed through the scenarios and microfictions which constitute this paper."
+  }, {
+    "type" : "paragraph",
+    "id" : 60,
+    "page number" : 2,
+    "bounding box" : [ 117.638, 449.306, 477.699, 661.937 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Second, in considering higher education for the future, we need also to question the role and place of universities in the present. Collini, in What are Universities for? (Collini, 2012), pointed out that ‘never before in human history have [universities] been so numerous or so important, yet never before have they suffered from such a disabling lack of confidence and loss of identity’ (p.3). Fourteen years later in the UK, and following an intense period of marketisation and expansion of the sector, there is a sense that these crises of identity and confidence are even more profound. Within this context, it is perhaps helpful to return to what Collini (2012) saw as a defining characteristic of universities – their ability to nurture ‘ungovernable’ enquiry, or ‘enquiry under the sign of limitlessness’ (p.55) – forms of knowing that are not tied to a particular outcome, that cannot be instrumentalised, that have the space to freely expand, morph and flow. More than a decade later, as researchers based within the troubled UK system, we see it as still being possible to identify and work with this opening for ‘limitlessness’ and ungovernability. In this paper we develop this idea through its alignment with post-qualitative, speculative method."
+  }, {
+    "type" : "paragraph",
+    "id" : 61,
+    "page number" : 2,
+    "bounding box" : [ 117.638, 293.656, 477.696, 449.688 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Finally, openness as a location for the ‘purpose’ of education is a vital theme developed by Osberg and Biesta over recent years, from their 2010 chapter on complexity theory and the politics of education (Biesta & Osberg, 2010) to their 2021 paper focused on development of a ‘non-instrumental theory of education’ (Osberg & Biesta, 2021). This latter offers increased impetus for speculative re-imaginings of higher education which are open to seeing education itself not as an instrument, but as an emergent entity, constituted by the intra-action of the symbolic, the individual and the political (p.64). Such a framing allows us to maintain and develop the idea of higher education as a space of openness within which we retain the freedom to speculate, to work with the limitlessness of imagination, to acknowledge the unknowability of the future, and to creatively experiment with what does not yet seem possible."
+  }, {
+    "type" : "heading",
+    "id" : 62,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 117.638, 262.833, 216.496, 275.595 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 10.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Methods: speculation"
+  }, {
+    "type" : "paragraph",
+    "id" : 63,
+    "page number" : 2,
+    "bounding box" : [ 117.638, 132.833, 477.676, 260.568 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Futures are being put into motion all the time. In higher education and digital education contexts, promissory organisations and data-driven processes produce predictions that make the future appear calculable (Ross, 2023), and ‘anticipatory regimes’ try to eliminate possible future risks at the expense of ‘collective action and forward dreaming’ (Amsler & Facer, 2017, p. 10). The futures for education that seem most ‘inevitable’ may in fact be the ones that require most critical scrutiny, because claims to know what is probable mask normative accounts of what education is for. Rather than reducing complexity and attempting to ‘fix’ the future, there is a need instead for multiple alternative imaginaries – a need we respond to in this paper."
+  }, {
+    "type" : "paragraph",
+    "id" : 64,
+    "page number" : 2,
+    "bounding box" : [ 117.638, 62.085, 477.638, 133.218 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Speculative methods can provide a way to scrutinise and contest dominant imaginaries, and create new, perhaps preferable ones. A speculative approach works with the future as a space of uncertainty, and uses that uncertainty creatively. It does this by engaging with emergence and complexity in educational futures, refusing to settle for what seems least risky or most probable. Speculative work values playful,"
+  }, {
+    "type" : "header",
+    "id" : 65,
+    "page number" : 3,
+    "bounding box" : [ 56.693, 749.016, 538.584, 759.157 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 20,
+      "page number" : 3,
+      "bounding box" : [ 56.693, 749.016, 538.584, 759.157 ],
+      "heading level" : 5,
+      "font" : "MyriadPro-It",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 Page 3 of 19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 66,
+    "page number" : 3,
+    "bounding box" : [ 117.638, 562.504, 477.661, 704.391 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "imaginative, glitchy and strange encounters, while acting responsibly towards participants and towards the future itself (Ross, 2023). A number of speculative methods and approaches are currently used in digital education research. In this paper we draw on speculative fiction – or ‘fabulation’ (Cerratto Pargman et al., 2022) – an approach which has been used to examine a variety of educational themes and objects, including textbooks (Costello et al., 2022), deschooling (Costello & Girme, 2022), biotechnology (Jandrić & Hayes, 2023) and artificial intelligence (for example Cox, 2021). This connects with current research seeking to understand how fictional methods can or should contribute to hopeful and emancipatory futures for education (Houlden & Veletsianos, 2022; Suoranta et al., 2022)."
+  }, {
+    "type" : "paragraph",
+    "id" : 67,
+    "page number" : 3,
+    "bounding box" : [ 117.638, 449.302, 477.671, 562.886 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "As an antidote to predictive, closed forms of future-making, speculative scenariobuilding and storytelling – as used in this paper – can function as ‘a medium to aid imaginative thought… [they can] loosen, even just a bit, reality’s grip on our imagination’ (Dunne & Raby, 2013, p. 3). However, these methods themselves require critical caution. As imaginaries work to shape higher education policy, practice, investment and theory in a range of ways, they can come to seem inevitable, thus producing and reifying particular realities. We need to remain sensitive to the fact that speculative storytelling is not guaranteed to generate creative, free-flowing futures – as Markham"
+  }, {
+    "type" : "list",
+    "id" : 68,
+    "level" : "2",
+    "page number" : 3,
+    "bounding box" : [ 117.638, 350.244, 477.697, 449.685 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 112,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 117.638, 350.244, 477.697, 449.685 ],
+      "font" : "WarnockPro-Regular",
+      "font size" : 9.8,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "(2021) points out, in creating these we encounter ‘discursive closures’ and the limits of our own experience and realities. And as Osberg (2010) reminds us, working with a singular ‘vision’ of the future runs the risk of domesticating the idea of the future itself, becoming ‘a denial of the future in its radical futurity’ [author’s italics] (p. 166). One way to begin to address these limitations is to support futures to proliferate, to work with many stories, each of which helps to unsettle imaginaries in different ways, an approach we take in this paper.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 69,
+    "page number" : 3,
+    "bounding box" : [ 117.638, 166.304, 477.666, 350.626 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The speculative scenarios that we describe in this article were written in 2022 by the authors and a third colleague, as prompts for discussion about higher education and its possible futures. They build on two short review articles written in 2017 to support a previous project on digital education futures (Bayne & Gallagher, 2021), and focused on the scientific/technological and educational/social trajectories currently shaping the field. In 2022, we returned to these reviews to update them. Many of the issues identified in 2017 were still relevant in 2022, though some (such as a rethinking of student mobility in light of the COVID-19 pandemic) had changed. Others, like climate change, were not new but had become even more urgent. Through developing and discussing these two reviews, we identified the key themes and trajectories we wished to develop further. These became eight new speculative scenarios which provided sketches of possible futures for higher education. We do not have space to expand on all eight in this paper, so have chosen four to further develop here:"
+  }, {
+    "type" : "paragraph",
+    "id" : 70,
+    "page number" : 3,
+    "bounding box" : [ 137.64, 111.531, 477.659, 154.406 ],
+    "font" : "WarnockPro-Light",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Extinction-era universities: Climate disaster is well underway with catastrophic weather events and mass movement of people. Universities lead the global response through delivery of mass public survival education."
+  }, {
+    "type" : "paragraph",
+    "id" : 71,
+    "page number" : 3,
+    "bounding box" : [ 137.64, 69.078, 477.638, 111.953 ],
+    "font" : "WarnockPro-Light",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "AI academy: Surveillance is pervasive. Behavioural data is constantly harvested by AIs and delivered to administrators with infinite granularity. AIs provide instant categorisation of students’ capacities through analysis of their personal data."
+  }, {
+    "type" : "header",
+    "id" : 72,
+    "page number" : 4,
+    "bounding box" : [ 56.694, 749.016, 538.662, 759.16 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 21,
+      "page number" : 4,
+      "bounding box" : [ 56.694, 749.016, 538.662, 759.16 ],
+      "heading level" : 5,
+      "font" : "MyriadPro-It",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 Page 4 of 19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 73,
+    "page number" : 4,
+    "bounding box" : [ 137.638, 661.585, 477.638, 704.459 ],
+    "font" : "WarnockPro-Light",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Justice-driven innovation: Unrest prompts radical political change. Transdisciplinary research focusing on specific social challenge areas is prioritised. Globallyaccessible, open learning is woven through local, autonomous ecoversities."
+  }, {
+    "type" : "paragraph",
+    "id" : 74,
+    "page number" : 4,
+    "bounding box" : [ 137.638, 619.132, 477.646, 662.007 ],
+    "font" : "WarnockPro-Light",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Enhanced enhancement: Routine cognitive enhancement is now normal. Almost all students and staff use smart drugs and electronic neuro-stimulation, as cultures of performance, productivity and metricisation intensify in universities."
+  }, {
+    "type" : "paragraph",
+    "id" : 75,
+    "page number" : 4,
+    "bounding box" : [ 117.646, 564.007, 477.615, 606.842 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "An additional four scenarios were also developed which are not included for reasons of space. However these are all available for download and re-use (Centre for Research in Digital Education, 2022) and summarised here:"
+  }, {
+    "type" : "paragraph",
+    "id" : 76,
+    "page number" : 4,
+    "bounding box" : [ 137.638, 495.087, 477.638, 552.109 ],
+    "font" : "WarnockPro-Light",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The universal university: Attendance at campus-based universities has ended – the student body is online. Advances in virtual reality enable dynamic community-building as if you were there. Everyone can participate as new routes to access are mandated by governments across all continents."
+  }, {
+    "type" : "paragraph",
+    "id" : 77,
+    "page number" : 4,
+    "bounding box" : [ 137.638, 438.482, 477.678, 495.508 ],
+    "font" : "WarnockPro-Light",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Extreme unbundling: Teaching is sold directly to individuals by academics selling their expertise freelance. People learn through life, accumulating credit validated through performance analytics. Academics are loosely affiliated to industry-funded research collectives of varying prestige and no physical location."
+  }, {
+    "type" : "paragraph",
+    "id" : 78,
+    "page number" : 4,
+    "bounding box" : [ 137.638, 381.885, 477.65, 438.903 ],
+    "font" : "WarnockPro-Light",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Return to the ivory tower: Widening participation policies have failed as automation decimates semi-skilled work. In-depth academic study is now only for a small number likely to move into ‘elite’ roles. The gated physical campus is once again the locus of university life."
+  }, {
+    "type" : "paragraph",
+    "id" : 79,
+    "page number" : 4,
+    "bounding box" : [ 137.638, 339.432, 477.667, 382.307 ],
+    "font" : "WarnockPro-Light",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The university of ennui: Automation has taken all the jobs. Paid work has ceased to be the defining activity of adult humans. Everyone now has time for lifelong higher education. However humans are struggling to understand what they are for."
+  }, {
+    "type" : "paragraph",
+    "id" : 80,
+    "page number" : 4,
+    "bounding box" : [ 117.638, 199.406, 477.687, 327.143 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The scenario-writing process was an iterative one, with all three researchers discussing, sketching and commenting on drafts until we had arrived at what we considered to be eight distinctive worlds and sets of possibilities that reflected the issues we wanted to explore. Speculative methods do not attempt to predict what will happen – they are aimed at unsettling assumed futures and imagining new ones, and are told from a particular time and place, speaking to present concerns and hopes. Presenting a cluster of radically alternative futures was one way we were able to critique tendencies toward the colonisation and domestication of the future identified by researchers within and beyond education (for example Webb (2016), Simon (2021) and Death (2022))."
+  }, {
+    "type" : "paragraph",
+    "id" : 81,
+    "page number" : 4,
+    "bounding box" : [ 117.638, 72.052, 477.688, 199.794 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The short fictions that accompany these scenarios were created somewhat differently. Each one was written by one of the two authors of this paper, with each scenario a jumping-off point and a touchstone for context. Following a first draft, each was further developed through discussion and feedback between the authors. Fiction writing has been increasingly valued as a form of scholarship and research (Clough, 2002; Watson, 2021; Watson & Gullion, 2021), and in the case of these stories the characters, contexts and emotions expressed are intended to illuminate, complicate and deepen the sense of what it would be like to live and learn in these future worlds. While there was no brief in our storytelling process to write specifically hopeful futures, we have worked with the"
+  }, {
+    "type" : "header",
+    "id" : 82,
+    "page number" : 5,
+    "bounding box" : [ 56.693, 749.016, 538.584, 759.157 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 22,
+      "page number" : 5,
+      "bounding box" : [ 56.693, 749.016, 538.584, 759.157 ],
+      "heading level" : 5,
+      "font" : "MyriadPro-It",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 Page 5 of 19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 83,
+    "page number" : 5,
+    "bounding box" : [ 117.638, 661.555, 477.628, 704.391 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "scenarios with a range of groups in workshop formats since writing them, and in those settings we have explicitly asked people to consider ‘where hope lies’. This question has been taken forward into this paper."
+  }, {
+    "type" : "heading",
+    "id" : 84,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 117.638, 632.798, 269.769, 645.56 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 10.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Four futures for higher education"
+  }, {
+    "type" : "paragraph",
+    "id" : 85,
+    "page number" : 5,
+    "bounding box" : [ 117.638, 531.1, 477.678, 630.533 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In this section, we present four of our scenarios, and their accompanying microfictions, connecting each to the body of critical research which sits behind and around them. The intention here is to illustrate how speculative scenarios can be woven through creative methods and more conventional research to build a rich and compelling imaginary of alternative futures. In doing this, we have tried to emphasise locations for hope, advocacy and activism, with the goal of emphasising how these methods can support a collective sense of agency for the future."
+  }, {
+    "type" : "paragraph",
+    "id" : 86,
+    "page number" : 5,
+    "bounding box" : [ 117.638, 487.966, 221.552, 513.708 ],
+    "font" : "MyriadPro-Semibold",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Extinction-era universities The scenario"
+  }, {
+    "type" : "paragraph",
+    "id" : 87,
+    "page number" : 5,
+    "bounding box" : [ 128.976, 450.491, 466.331, 479.176 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Climate disaster is well underway, resulting in global food and water insecurity, uprisings and mass movements of people."
+  }, {
+    "type" : "paragraph",
+    "id" : 88,
+    "page number" : 5,
+    "bounding box" : [ 128.976, 381.39, 466.32, 438.378 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Universities lead the global response. They no longer compete for funding or prestige, but work through global research networks focused on coordinated responses to planetary crises. The internet persists, enabled by green power, but it is restricted to research, education, community and government uses only."
+  }, {
+    "type" : "paragraph",
+    "id" : 89,
+    "page number" : 5,
+    "bounding box" : [ 128.976, 269.842, 466.338, 369.277 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Borders are erased to support mass migration. Money no longer exists: collective assets are redistributed to empower sustainable local management. All activity operates according to an ‘eco bottom line’ in which value accumulates to individuals, organisations and regions on the basis of the work they do to support survival and enable renewability. University teaching is transformed into mass public survival education and is conducted through open education networks and local learning collectives."
+  }, {
+    "type" : "paragraph",
+    "id" : 90,
+    "page number" : 5,
+    "bounding box" : [ 117.638, 234.608, 231.652, 245.85 ],
+    "font" : "MyriadPro-SemiboldIt",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Reflection on current research"
+  }, {
+    "type" : "paragraph",
+    "id" : 91,
+    "page number" : 5,
+    "bounding box" : [ 117.638, 104.335, 477.679, 232.068 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "What might global higher education look like in a context of climate catastrophe? Most discussion in the public sphere, and much research, is currently focused on trying to understand the implications and effects of temperature rises of 1.5°C or 2°C, in dialogue with international benchmark targets (Paris Agreement to the United Nations Framework Convention on Climate Change, 2015). However in the face of the lack of progress toward achieving these targets, and of the political will for prioritising them, the case is increasingly being made for the urgency of understanding, planning and mitigating for a ‘climate endgame’ (Kemp et al., 2022) in which temperatures of 3°C and above are anticipated (Raftery et al., 2017)."
+  }, {
+    "type" : "paragraph",
+    "id" : 92,
+    "page number" : 5,
+    "bounding box" : [ 117.638, 61.885, 477.684, 104.717 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Such a future would likely bring with it layers of intersecting and accelerating risk, in which human and societal adaptive capacity would become overwhelmed as ‘synchronous failures’ (Homer-Dixon et al., 2015) in food security, access to clean water,"
+  }, {
+    "type" : "header",
+    "id" : 93,
+    "page number" : 6,
+    "bounding box" : [ 56.694, 749.016, 538.662, 759.16 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 23,
+      "page number" : 6,
+      "bounding box" : [ 56.694, 749.016, 538.662, 759.16 ],
+      "heading level" : 5,
+      "font" : "MyriadPro-It",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 Page 6 of 19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 94,
+    "page number" : 6,
+    "bounding box" : [ 117.638, 619.102, 477.638, 704.391 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "availability of land and effective public health cascade into disease and infection, conflict, mass migration, political unrest and economic collapse. Such collapse could bring with it the possibility of mass human morbidity and mortality (Ord, 2020), alongside many other devastating losses in the biosphere. This would be a world in which higher education would be very much needed, but in which the infrastructures and institutions which support it in its current forms would be impossible to maintain."
+  }, {
+    "type" : "paragraph",
+    "id" : 95,
+    "page number" : 6,
+    "bounding box" : [ 117.638, 435.148, 477.687, 619.485 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Trying to imagine a ‘hopeful’ higher education in such a context is challenging, but could focus on maintaining the value of ungovernable intellectual enquiry, discussed in our introduction. The current marketised higher education systems originating in the global North but increasingly becoming normalised in the South, which impose hierarchical and competitive relations between stable institutions, would likely fall apart as scholars prioritise a more spontaneous mobilisation of their global research networks and learning collectives. Universities as closed institutions might give way to a radically different imaginary of higher education as a series of ‘waystations’ (Connell, 2019a) – physical and intellectual stopping-points opportunistically woven through lives of declining possibility. Many of these networks would be virtual, though maintained only by low-bandwidth, green technologies – there would no longer be the energy, labour or natural resources available to maintain the internet in its current form (see also Boyd, 2022a, b)."
+  }, {
+    "type" : "paragraph",
+    "id" : 96,
+    "page number" : 6,
+    "bounding box" : [ 117.638, 293.655, 477.687, 435.541 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "We imagined in this scenario – and its accompanying microfiction – a possibly contradictory political context in which borders and nation states have become much weaker or have disappeared, while participatory democratic governance and internationalist political will are strong enough to establish a radically different economic order, organised around need and reciprocity rather than extraction and competition. A powerful element of the speculative approach is, however, its ability to support the imagining of such futures of ‘radical alterity’ (Osberg, 2010). It is perhaps also indicative of our current plight that the radical change needed to build a higher education foregrounding free mobility, economic equality and an intellectual commons currently – at least for the West and North – only seems possible in the context of catastrophe."
+  }, {
+    "type" : "paragraph",
+    "id" : 97,
+    "page number" : 6,
+    "bounding box" : [ 117.638, 265.858, 220.087, 277.1 ],
+    "font" : "MyriadPro-SemiboldIt",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Microfiction: love migrants"
+  }, {
+    "type" : "paragraph",
+    "id" : 98,
+    "page number" : 6,
+    "bounding box" : [ 128.976, 185.935, 466.339, 257.068 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "6am in the compound, day 3 of the Food School microdoctorate and Cou-Cou wakes to a pallet wet from the sweat of another night in the 30s. “Are you ready to start up again?” whispers Bearsden. Three days in, they are close to breaking through on the AltProtein™ sponsored topic: whether sonic-seasoning is a feasible strategy for countering public resistance to cockroach-derived proteins."
+  }, {
+    "type" : "paragraph",
+    "id" : 99,
+    "page number" : 6,
+    "bounding box" : [ 128.976, 159.285, 466.299, 173.822 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Two coffees outside the crannog as the sun rises over the loch. Cou-Cou’s yayba-"
+  }, {
+    "type" : "list",
+    "id" : 100,
+    "level" : "3",
+    "page number" : 6,
+    "bounding box" : [ 128.976, 88.53, 466.348, 159.668 ],
+    "numbering style" : "english letters",
+    "number of list items" : 1,
+    "next list id" : 154,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 128.976, 88.53, 466.348, 159.668 ],
+      "font" : "WarnockPro-It",
+      "font size" : 9.8,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "har has a broken string. “It’s my last spare, Bearsden”, they whisper. “We’ll find you another.” “But they are only making them in Istanbul now – it’s a month’s walk, and the heat.” “We go via Vienna? And the Alpine Acoustics festival on the way. They’ll have cool-suits for lease if we manage to get that far. You earned the points for one months ago.”",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 101,
+    "page number" : 7,
+    "bounding box" : [ 56.693, 749.016, 538.584, 759.157 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 24,
+      "page number" : 7,
+      "bounding box" : [ 56.693, 749.016, 538.584, 759.157 ],
+      "heading level" : 5,
+      "font" : "MyriadPro-It",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 Page 7 of 19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 102,
+    "page number" : 7,
+    "bounding box" : [ 128.976, 647.404, 466.281, 704.391 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Bearsden enters the techhut and fires up the Food School’s micro-frame and the OpenProtein shared notebook. They have three brilliant graduates about to wake up and begin another day of mining the sonic studies database for the food psychology patterns that Cou-Cou and their intern can shape into sound."
+  }, {
+    "type" : "paragraph",
+    "id" : 103,
+    "page number" : 7,
+    "bounding box" : [ 128.976, 592.455, 466.271, 635.291 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Two more days at the Food School and they will need to leave anyway. Access to the Northern Learning Hub is on strict rotation and it’s time to make room for new scholars on the waiting list for heat relief."
+  }, {
+    "type" : "paragraph",
+    "id" : 104,
+    "page number" : 7,
+    "bounding box" : [ 128.976, 565.809, 227.054, 580.342 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Ready to move on again."
+  }, {
+    "type" : "paragraph",
+    "id" : 105,
+    "page number" : 7,
+    "bounding box" : [ 117.638, 516.345, 165.873, 542.087 ],
+    "font" : "MyriadPro-SemiboldIt",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "AI academy The scenario"
+  }, {
+    "type" : "paragraph",
+    "id" : 106,
+    "page number" : 7,
+    "bounding box" : [ 128.976, 464.718, 466.336, 507.554 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Machine learning and AI are university infrastructure. AIs working across massive linked databases do all the heavy lifting of academic work from literature reviews to student assessment."
+  }, {
+    "type" : "paragraph",
+    "id" : 107,
+    "page number" : 7,
+    "bounding box" : [ 128.976, 381.467, 466.338, 452.606 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Surveillance is pervasive, from the movement of staff around campus to students’ attendance, engagement and behaviours. Acceptance of this is high because the gains are significant and very few care about eroded privacy rights. Information is continually sifted, sorted and pushed to students, academics and administrators on a just-in-time basis and with infinite granularity."
+  }, {
+    "type" : "paragraph",
+    "id" : 108,
+    "page number" : 7,
+    "bounding box" : [ 128.976, 312.368, 466.345, 369.355 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Conventional student assignments are no longer required as AI-enabled analysis of historic, behavioural and neuro data provides an instant categorisation of their capacities. No-one writes essays or reports any more, because AI does it better via instantaneous search and synthesis of massive amounts of data and complex texts."
+  }, {
+    "type" : "paragraph",
+    "id" : 109,
+    "page number" : 7,
+    "bounding box" : [ 117.638, 277.058, 231.652, 288.3 ],
+    "font" : "MyriadPro-SemiboldIt",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Reflection on current research"
+  }, {
+    "type" : "paragraph",
+    "id" : 110,
+    "page number" : 7,
+    "bounding box" : [ 117.638, 175.085, 477.658, 274.518 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This scenario reflects influential educational imaginaries currently circulating (see Eynon & Young, 2021): that we are on the cusp of seeing artificial intelligence not only enhancing but perhaps surpassing human educators and administrators in tracking, measuring and assessment. AI Academy takes the promises made for personalised learning to their extreme. Here, the university’s infrastructure is fully given over to data-driven decisionmaking and the kind of ‘anticipatory governance’ critiqued by Webb et al. (2020) as locking ‘educated subjects’ into particular (reductive and repetitive) futures (286)."
+  }, {
+    "type" : "paragraph",
+    "id" : 111,
+    "page number" : 7,
+    "bounding box" : [ 117.638, 76.032, 477.677, 175.468 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "What would such a university be like? First, we imagine, it is a place of constant surveillance of staff and students. By necessity, this has become acceptable to the people involved – this university could not exist without highly granular flows of information about people’s behaviour, and beyond this, their capacities. The risks of injustice associated with such a shift have been well-documented in research in recent years, through vital work which has set out how such systems have intensified injustice and exclusion in relation to gender, race, disability and socioeconomic status. For example, Beetham et al."
+  }, {
+    "type" : "list",
+    "id" : 112,
+    "level" : "2",
+    "page number" : 7,
+    "bounding box" : [ 117.638, 61.881, 477.648, 76.414 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 68,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 117.638, 61.881, 477.648, 76.414 ],
+      "font" : "WarnockPro-Regular",
+      "font size" : 9.8,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "(2022) emphasise how surveillance architectures work to reinforce models of extraction",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 113,
+    "page number" : 8,
+    "bounding box" : [ 56.694, 749.016, 538.662, 759.16 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 25,
+      "page number" : 8,
+      "bounding box" : [ 56.694, 749.016, 538.662, 759.16 ],
+      "heading level" : 5,
+      "font" : "MyriadPro-It",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 Page 8 of 19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 114,
+    "page number" : 8,
+    "bounding box" : [ 117.638, 590.806, 477.669, 704.391 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "and inequality in education, while Gilliard & saheli singh (2021) draw our attention to the ways in which the designed function of such systems works to the detriment of ‘marginalized and vulnerable populations’ (no page). Multiple scholars have foregrounded the ways in which artificial intelligence and data-driven technologies reflect and amplify the racist, patriarchal, colonising and exclusionary histories of the West. A very real concern within a speculative future such as the ‘AI Academy’ is that such systems will automatically exclude already-marginalised people, or that those who are actively resistant to them will opt out of higher education entirely."
+  }, {
+    "type" : "paragraph",
+    "id" : 115,
+    "page number" : 8,
+    "bounding box" : [ 117.638, 463.445, 477.685, 591.188 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Intellectual work in the AI Academy looks very different from what we currently see in higher education. Students are not assessed according to what they do and produce, but according to what they know and who they are (at least, at the extent to which this is measurable by the AI-infrastructures of the day). So the question here is what students and teachers actually do from day to day. Perhaps cynicism reigns supreme and people are kept busy helping each other learn ‘hacks’ to optimise their behaviour and cognition to fit desired categories. Or, more optimistically, perhaps the capabilities of the system to rapidly synthesise complex data sources does genuinely allow greater intellectual progress to be made in the time people spend at university (for example see Cope et al., 2021)."
+  }, {
+    "type" : "paragraph",
+    "id" : 116,
+    "page number" : 8,
+    "bounding box" : [ 117.638, 208.756, 477.689, 463.841 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Finally, the possibilities and limitations of personalisation are fully exposed in a setting like this. Ultimately, how dystopian such a system becomes hinges on whose interests it is designed to serve. If collective flourishing and diversification of knowledge are the underpinning ethos, the ability to rapidly shape and re-shape curricula, feedback and teaching to meet individual need and preference could be transformative. Similarly, instantaneous access to representations from diverse cultures and highly sensitive machine translation could drive the decolonisation of knowledge and support students to radically diversify their understanding of what it means to ‘know’. However, if the needs of the workplace or of profit are paramount, then personalisation could quickly become a nightmare of fragmentation, utilitarianism and reduction. Both visions of higher education are in play at the time of writing (for example Hansen & Komljenovic, 2023; Pelletier, 2023; Swauger & Kalir, 2023), though we might suppose from our vantage point in 2024 that the resources needed to achieve a high-tech university like this would be more likely to be mobilised in the service of economic growth than social justice. Nevertheless, increasingly interconnected critical voices and perspectives on AI in education (for example Holmes et al., 2022) are producing conditions for forward dreaming and imagining of different kinds of relationships between human and non-human intelligence."
+  }, {
+    "type" : "paragraph",
+    "id" : 117,
+    "page number" : 8,
+    "bounding box" : [ 117.638, 138.004, 477.641, 209.141 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The microfiction accompanying this scenario is not exactly utopian, but it is not completely dystopic either. The negotiations and compromises between the student, Alex, and one manifestation of a university AI system (a literature-service interface in the library) show how curiosity-driven deviations might turn the system’s capacities toward unexpected outcomes."
+  }, {
+    "type" : "paragraph",
+    "id" : 118,
+    "page number" : 8,
+    "bounding box" : [ 117.638, 99.781, 253.125, 111.023 ],
+    "font" : "MyriadPro-SemiboldIt",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Microfiction: 10% of the topic space"
+  }, {
+    "type" : "paragraph",
+    "id" : 119,
+    "page number" : 8,
+    "bounding box" : [ 128.976, 62.306, 466.29, 90.991 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "[camera 2455gar] students 405666 and 255512 entered library, trajectory suggests route to litserv desk."
+  }, {
+    "type" : "header",
+    "id" : 120,
+    "page number" : 9,
+    "bounding box" : [ 56.693, 749.016, 538.584, 759.157 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 26,
+      "page number" : 9,
+      "bounding box" : [ 56.693, 749.016, 538.584, 759.157 ],
+      "heading level" : 5,
+      "font" : "MyriadPro-It",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 Page 9 of 19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 121,
+    "page number" : 9,
+    "bounding box" : [ 128.976, 661.555, 466.33, 704.391 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "[records bot 6463] updating and crosslinking with lecture period 355. Attendance confirmed. Attendance rate for 255512 borderline at 87% - warning message sent. Approval for library access with limitations 57 and 258 recorded."
+  }, {
+    "type" : "paragraph",
+    "id" : 122,
+    "page number" : 9,
+    "bounding box" : [ 128.976, 592.457, 466.31, 649.442 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "[litserv desk ai1] facial scanning reads heightened emotion from 405666. Reviewing email inbox and outbox from past 48 hours. Litserv ai 7 communicated with 405666 at 21:42 yesterday. Camera and microphone enabled. Potential conflict protocol 4 activated. HOW CAN I HELP YOU ALEX?"
+  }, {
+    "type" : "paragraph",
+    "id" : 123,
+    "page number" : 9,
+    "bounding box" : [ 128.976, 537.509, 466.309, 580.344 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Alex: Hi, yes, I’m here about the email I got last night. It said my lit review for intro to cultural studies has been put on hold pending review. What’s going on? I need it today. I’m going to meet my tutor later to design the project."
+  }, {
+    "type" : "paragraph",
+    "id" : 124,
+    "page number" : 9,
+    "bounding box" : [ 128.976, 496.711, 466.29, 525.396 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "I HEAR YOU ALEX, THAT SOUNDS FRUSTRATING. LET ME CHECK MY RECORDS, I’LL JUST BE A SECOND. CAN I OFFER YOU A GLASS OF WATER?"
+  }, {
+    "type" : "paragraph",
+    "id" : 125,
+    "page number" : 9,
+    "bounding box" : [ 128.976, 470.065, 347.798, 484.598 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Alex: No thanks, I just need to know what’s happening."
+  }, {
+    "type" : "paragraph",
+    "id" : 126,
+    "page number" : 9,
+    "bounding box" : [ 128.976, 358.512, 466.327, 457.952 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "OK, WHAT’S GOING ON HERE IS THAT YOU’VE ASKED FOR A LIT REVIEW THAT DEVIATES 40% FROM THE TOPICS AGREED IN YOUR PRE-COURSE CHECKUP. AS YOU KNOW, THOSE TOPICS WERE DETERMINED FROM YOUR PREVIOUS STUDY AND YOUR MOST RECENT COMPREHENSION AND APTITUDE SCANS. IF YOU REFER TO YOUR CONTRACT ON THE SCREEN HERE, YOU’LL SEE THAT YOU AGREED TO STAY WITHIN 10% OF THE TOPIC SPACE."
+  }, {
+    "type" : "paragraph",
+    "id" : 127,
+    "page number" : 9,
+    "bounding box" : [ 128.976, 317.714, 466.31, 346.399 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Alex: okay, yeah. What happened was, I went to this talk last week, and it was about consumer culture…"
+  }, {
+    "type" : "paragraph",
+    "id" : 128,
+    "page number" : 9,
+    "bounding box" : [ 128.976, 262.766, 466.298, 305.601 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "SORRY ALEX, CAN I INTERRUPT. WAS THIS ON 2 OCTOBER WHEN YOU LEFT CAMPUS FOR 3 HOURS AND 22 MINUTES FOR WHAT YOU DESCRIBED AS A ‘CULTURAL EVENT’?"
+  }, {
+    "type" : "paragraph",
+    "id" : 129,
+    "page number" : 9,
+    "bounding box" : [ 128.976, 236.119, 173.987, 250.653 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Alex: Yeah."
+  }, {
+    "type" : "paragraph",
+    "id" : 130,
+    "page number" : 9,
+    "bounding box" : [ 128.976, 167.02, 466.287, 224.007 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "NOTED. IN ORDER TO PROCEED WITH THIS DISCUSSION, I’LL NEED ACCESS TO YOUR FULL GEOLOCATION DATA FOR THAT PERIOD OF TIME, DO YOU CONSENT? Alex: Um, yeah, okay."
+  }, {
+    "type" : "paragraph",
+    "id" : 131,
+    "page number" : 9,
+    "bounding box" : [ 128.976, 140.373, 282.02, 154.907 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "THANK YOU. YOU WERE SAYING?"
+  }, {
+    "type" : "paragraph",
+    "id" : 132,
+    "page number" : 9,
+    "bounding box" : [ 128.976, 71.274, 466.339, 128.261 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Alex: yes, so I got talking to this other person who was there, and they told me about this theory of cultural ideology and commodification, so I thought I’d ask for the lit review to cover that as well as the fashion topic space, so I could maybe see how they go together."
+  }, {
+    "type" : "header",
+    "id" : 133,
+    "page number" : 10,
+    "bounding box" : [ 56.694, 749.016, 538.662, 759.16 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 27,
+      "page number" : 10,
+      "bounding box" : [ 56.694, 749.016, 538.662, 759.16 ],
+      "heading level" : 5,
+      "font" : "MyriadPro-It",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 Page 10 of 19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 134,
+    "page number" : 10,
+    "bounding box" : [ 128.976, 633.257, 466.317, 704.391 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "THANK YOU. A TUTORBOT WILL REVIEW YOUR RATIONALE. PLEASE GIVE ME A MOMENT… OKAY ALEX, I’M HAPPY TO REPORT THAT YOUR TUTORBOT HAS APPROVED THIS TOPIC DEVIATION. HOWEVER, YOU NEED TO LOG IN FOR A TUTORIAL WITH THEM TOMORROW TO DISCUSS PARAMETERS. DO YOU CONSENT?"
+  }, {
+    "type" : "paragraph",
+    "id" : 135,
+    "page number" : 10,
+    "bounding box" : [ 128.976, 606.611, 224.044, 621.144 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Alex: Yes, okay. Thanks."
+  }, {
+    "type" : "paragraph",
+    "id" : 136,
+    "page number" : 10,
+    "bounding box" : [ 128.976, 551.662, 466.308, 594.498 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "YOUR REQUESTED LIT REVIEW HAS BEEN CREATED AND A MEETING ENTERED INTO YOUR CALENDAR. IS THERE ANYTHING ELSE I CAN HELP YOU WITH TODAY?"
+  }, {
+    "type" : "paragraph",
+    "id" : 137,
+    "page number" : 10,
+    "bounding box" : [ 128.976, 525.016, 336.313, 539.55 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Alex: no, but Beth wanted to ask you something too."
+  }, {
+    "type" : "paragraph",
+    "id" : 138,
+    "page number" : 10,
+    "bounding box" : [ 128.976, 470.057, 466.339, 512.903 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "[litserv desk ai1] Student 255512 library restrictions checked. 255512 does not have permissions for a real-time decision exchange with litserv AI. Potential conflict protocol 2 activated. HELLO BETH, HOW CAN I HELP YOU?"
+  }, {
+    "type" : "paragraph",
+    "id" : 139,
+    "page number" : 10,
+    "bounding box" : [ 117.638, 418.945, 213.879, 444.687 ],
+    "font" : "MyriadPro-Semibold",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Enhanced enhancement The scenario"
+  }, {
+    "type" : "paragraph",
+    "id" : 140,
+    "page number" : 10,
+    "bounding box" : [ 128.976, 353.171, 466.321, 410.154 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cognitive and other forms of physical ‘enhancement’ are now normal. ‘Big pharma’ and the AI and robotics industries have effectively lobbied for changes to law and regulation, amplifying their ability to roll-out enhancement technologies and pharmaceuticals across all sectors from education to health and sport."
+  }, {
+    "type" : "paragraph",
+    "id" : 141,
+    "page number" : 10,
+    "bounding box" : [ 128.976, 241.62, 466.302, 341.058 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Almost all students and staff use smart drugs to enable the extreme focus and endurance needed to complete academic work, as cultures of performance, productivity and metricisation intensify in universities. Cognitive training tools, braincomputer interfaces and electronic neurostimulators are also widely used. ‘Brain data’ dominates the data industry and is worth billions. Enhanced campuses incorporating routine use of facial, engagement and emotion recognition technologies are mainstream across all education sectors."
+  }, {
+    "type" : "paragraph",
+    "id" : 142,
+    "page number" : 10,
+    "bounding box" : [ 128.976, 200.821, 466.299, 229.507 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Off-grid citizen and freedom movements are gaining in power, however, as the implications of this for freedom, mental privacy and cognitive liberty become clearer."
+  }, {
+    "type" : "paragraph",
+    "id" : 143,
+    "page number" : 10,
+    "bounding box" : [ 117.638, 163.858, 231.652, 175.1 ],
+    "font" : "MyriadPro-SemiboldIt",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Reflection on current research"
+  }, {
+    "type" : "paragraph",
+    "id" : 144,
+    "page number" : 10,
+    "bounding box" : [ 117.638, 61.877, 477.677, 161.318 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This scenario focuses on a speculative future in which forms of human enhancement which are currently troublesome in an ethical sense have become widely tolerated, adopted and even required. Focusing on cognitive enhancement in particular, this is a future in which the profiteering innovations rolled out by ‘big pharma’ and ‘big tech’ have outpaced democratic control, civic scrutiny and regulatory ethics. These industries are now using their overwhelming economic, technological and political power to set the terms through which human enhancement is understood, desired and adopted."
+  }, {
+    "type" : "header",
+    "id" : 145,
+    "page number" : 11,
+    "bounding box" : [ 56.693, 749.016, 538.584, 759.157 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 28,
+      "page number" : 11,
+      "bounding box" : [ 56.693, 749.016, 538.584, 759.157 ],
+      "heading level" : 5,
+      "font" : "MyriadPro-It",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 Page 11 of 19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 146,
+    "page number" : 11,
+    "bounding box" : [ 117.638, 590.807, 477.69, 704.391 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Big pharma is currently one of the most powerful industries in the world, generating $1.48 trillion in worldwide revenue in 2022 (Mikulic, n.d.). In the US, it is the biggest industry spender on political lobbying ($374 million in 2022, according to Statista (n.d.)), paying 1,378 lobbyists to push its agendas on Capitol Hill (Drugwatch, 2023). Meanwhile in the UK, an investigative report by the Observer in 2023 revealed that in the previous year the industry spent £200 million on direct payments to healthcare professionals and organisations in donations, consultancy fees and payments for contracted services (Ungoed-Thomas et al., 2023)."
+  }, {
+    "type" : "paragraph",
+    "id" : 147,
+    "page number" : 11,
+    "bounding box" : [ 117.638, 463.455, 477.667, 591.191 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In addition to these direct incursions and connections to policy agendas and professional practice, big pharma exerts a high level of ‘invisible’ control over the political economy of medical knowledge itself – its production, circulation and consumption (Sismondo, 2018). To achieve this, it uses its powerful networks ‘to gather, create, control and disseminate information…from contract research organizations (which perform the bulk of pharma’s research) to publication planners (who direct the production of ghostwritten medical journal articles) to key opinion leaders (who are deployed to educate physicians about drugs) and beyond’ (pp.8-9). Sismondo (2021) describes this as a form of ‘epistemic corruption’ of medical knowledge."
+  }, {
+    "type" : "paragraph",
+    "id" : 148,
+    "page number" : 11,
+    "bounding box" : [ 117.638, 293.648, 477.673, 463.837 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The lockdown of big tech on global economic, social and political infrastructure is even more well documented. This is an industry which also spends generously on lobbying. For example, as the EU works to rein in the power of big tech via the embedding and enforcing of the Digital Services Act (European Commission, 2023), so the industry is increasing its lobbying effort within the Commission, spending over €97 million annually and achieving ‘disproportionate access’ to EU policy-makers (Bank et al., 2021). Where big pharma exerts largely invisible control over the medical knowledge project, the immense power of big tech’s platforms and infrastructures is minutely woven through almost every aspect of the private, political and economic spheres. It sits ‘at the center of a new socio-technical system, functioning as its core operating system’, and ‘subjecting the rest of the world to its intrusive control drift’ (Hendrikse et al., 2022, p. 66)."
+  }, {
+    "type" : "paragraph",
+    "id" : 149,
+    "page number" : 11,
+    "bounding box" : [ 117.638, 67.256, 477.672, 294.03 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "It is not difficult to imagine how these levels of industry power and influence might cascade into the normalisation of routine use of smart drugs, and dependence on extractive, data-intensive technologies in education institutions – indeed, it is already doing so. While it is difficult to pin down precise data on smart drug usage, for example, one large, cross-sectional study found that pharmacological cognitive enhancement medication had been used by 18.7% of respondents in the US (Maier et al., 2018). In a recent study specifically among UK students in higher education (McDermott et al., 2021), 19% of respondents had used cognitive enhancers like modafinil (for wakefulness), and methylphenidate and dextroamphetamine (for increased attention span and concentration). While research suggests that use of study drugs might be seen as a logical response to the intense competitiveness of neoliberalised, competitive educational environments (Steward & Pickersgill, 2019; Mann, 2021), their routine use can also be understood as an example of the wider ‘pharmaceuticalisation’ of society, defined as ‘the translation or transformation of human conditions, capabilities, and capacities into opportunities for pharmaceutical intervention’ (Williams et al., 2011)."
+  }, {
+    "type" : "header",
+    "id" : 150,
+    "page number" : 12,
+    "bounding box" : [ 56.694, 749.016, 538.662, 759.16 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 29,
+      "page number" : 12,
+      "bounding box" : [ 56.694, 749.016, 538.662, 759.16 ],
+      "heading level" : 5,
+      "font" : "MyriadPro-It",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 Page 12 of 19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 151,
+    "page number" : 12,
+    "bounding box" : [ 117.638, 619.105, 477.688, 704.391 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In the case of digital technology, we are seeing a growth of interest and investment in forms of advanced educational neurotechnology designed to work with ‘brain data’, ‘supporting’ learning and teaching by enabling new forms of ‘direct connection of technical components with the nervous system’ (Müller & Rotter, 2017, p. 1). As Williamson (2019) has pointed out, this has the potential to open up new forms of data monetisation and control by allowing:"
+  }, {
+    "type" : "paragraph",
+    "id" : 152,
+    "page number" : 12,
+    "bounding box" : [ 128.976, 570.406, 466.299, 613.241 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "businesses and governments to enact new techniques of neurogovernance by ‘scanning’ the brain, ‘scraping’ it for data and then ‘sculpting’ [it] toward particular capacities. (p.65)"
+  }, {
+    "type" : "paragraph",
+    "id" : 153,
+    "page number" : 12,
+    "bounding box" : [ 125.635, 550.002, 477.637, 564.536 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "While there are many forms of neurotechnology, a common focus in education to date"
+  }, {
+    "type" : "list",
+    "id" : 154,
+    "level" : "3",
+    "page number" : 12,
+    "bounding box" : [ 117.638, 479.256, 477.685, 550.385 ],
+    "numbering style" : "english letters",
+    "number of list items" : 1,
+    "previous list id" : 100,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 12,
+      "bounding box" : [ 117.638, 479.256, 477.685, 550.385 ],
+      "font" : "WarnockPro-Regular",
+      "font size" : 9.8,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "has been the use of modified EEG (electroencephalogram – the application of electrodes to the scalp to monitor brain activity) to measure students’ cognitive state. This has been most widely applied to the measurement of student attention, ‘likely due to the well supported relationship between attentional states and specific EEG frequency bands, and the influence of attention on educational outcomes’ (Privitera & Hao, 2022, pp. 1–2).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 155,
+    "page number" : 12,
+    "bounding box" : [ 117.638, 380.198, 477.666, 479.638 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The microfiction attached to this scenario – below – speculates on a future usage of such technology to scrape, measure and monetise the datafied cognition of a gifted child. It also tries to imagine what resistance to such intrusive technologies might look like. As Ienca and Andorno (2017) have pointed out, such applications ‘raise important challenges to human rights principles that need to be addressed’, particularly in terms of ‘the right to cognitive liberty, the right to mental privacy, the right to mental integrity, and the right to psychological continuity’ (p.1)."
+  }, {
+    "type" : "paragraph",
+    "id" : 156,
+    "page number" : 12,
+    "bounding box" : [ 117.638, 341.981, 272.381, 353.223 ],
+    "font" : "MyriadPro-SemiboldIt",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Microfiction: Mama, do I have to wear it?"
+  }, {
+    "type" : "paragraph",
+    "id" : 157,
+    "page number" : 12,
+    "bounding box" : [ 128.976, 318.657, 242.372, 333.191 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Mama, do I have to wear it?"
+  }, {
+    "type" : "paragraph",
+    "id" : 158,
+    "page number" : 12,
+    "bounding box" : [ 128.976, 277.86, 466.358, 306.544 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Yes darling, I’m sorry but if you don’t we won’t get our credit upload this month and you’ll have to change schools."
+  }, {
+    "type" : "paragraph",
+    "id" : 159,
+    "page number" : 12,
+    "bounding box" : [ 128.976, 251.214, 272.543, 265.747 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Other kids don’t have to wear them."
+  }, {
+    "type" : "paragraph",
+    "id" : 160,
+    "page number" : 12,
+    "bounding box" : [ 128.976, 224.567, 337.577, 239.101 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "I know, but they don’t have special brains like yours."
+  }, {
+    "type" : "paragraph",
+    "id" : 161,
+    "page number" : 12,
+    "bounding box" : [ 128.976, 183.77, 466.273, 212.455 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "It’s true, Luca got in trouble yesterday because they forgot their medicament and lost focus in maths."
+  }, {
+    "type" : "paragraph",
+    "id" : 162,
+    "page number" : 12,
+    "bounding box" : [ 128.976, 157.124, 400.964, 171.657 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "You see? That’s why everyone loves you and needs to learn from you!"
+  }, {
+    "type" : "paragraph",
+    "id" : 163,
+    "page number" : 12,
+    "bounding box" : [ 128.976, 130.478, 228.208, 145.011 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "It hurts my head though."
+  }, {
+    "type" : "paragraph",
+    "id" : 164,
+    "page number" : 12,
+    "bounding box" : [ 128.976, 89.68, 466.301, 118.365 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Do you remember Dr Advantis promised us a new one? It’s going to be so much more comfortable. No-one will even be able to see it."
+  }, {
+    "type" : "paragraph",
+    "id" : 165,
+    "page number" : 12,
+    "bounding box" : [ 128.976, 63.034, 348.063, 77.567 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "That’s good I guess. Will Papa come when it gets fitted?"
+  }, {
+    "type" : "header",
+    "id" : 166,
+    "page number" : 13,
+    "bounding box" : [ 56.693, 749.016, 538.584, 759.157 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 30,
+      "page number" : 13,
+      "bounding box" : [ 56.693, 749.016, 538.584, 759.157 ],
+      "heading level" : 5,
+      "font" : "MyriadPro-It",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 Page 13 of 19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 167,
+    "page number" : 13,
+    "bounding box" : [ 128.976, 689.857, 411.254, 704.391 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "I don’t think he’ll be able to. He’s not too happy with us at the moment."
+  }, {
+    "type" : "paragraph",
+    "id" : 168,
+    "page number" : 13,
+    "bounding box" : [ 128.976, 663.211, 203.456, 677.744 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Is he coming back?"
+  }, {
+    "type" : "paragraph",
+    "id" : 169,
+    "page number" : 13,
+    "bounding box" : [ 128.976, 636.565, 292.106, 651.098 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "I’m not sure. I think he’s still in Lammas."
+  }, {
+    "type" : "paragraph",
+    "id" : 170,
+    "page number" : 13,
+    "bounding box" : [ 128.976, 609.919, 249.448, 624.452 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "What’s he doing there Mama?"
+  }, {
+    "type" : "paragraph",
+    "id" : 171,
+    "page number" : 13,
+    "bounding box" : [ 128.976, 583.272, 311.656, 597.806 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Something called ‘off-grid governance’ I think."
+  }, {
+    "type" : "paragraph",
+    "id" : 172,
+    "page number" : 13,
+    "bounding box" : [ 128.976, 556.626, 209.777, 571.16 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "What’s that Mama?"
+  }, {
+    "type" : "paragraph",
+    "id" : 173,
+    "page number" : 13,
+    "bounding box" : [ 128.976, 529.98, 345.772, 544.513 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Don’t worry sweetie, nothing you need to worry about."
+  }, {
+    "type" : "paragraph",
+    "id" : 174,
+    "page number" : 13,
+    "bounding box" : [ 128.976, 503.334, 363.536, 517.867 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "I’m not worried, I just want to know. I’m smart, remember."
+  }, {
+    "type" : "paragraph",
+    "id" : 175,
+    "page number" : 13,
+    "bounding box" : [ 128.976, 476.688, 359.967, 491.221 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Oh, here’s the school loop! Quick, jump on – you’ll be late!"
+  }, {
+    "type" : "paragraph",
+    "id" : 176,
+    "page number" : 13,
+    "bounding box" : [ 117.638, 429.32, 218.727, 455.062 ],
+    "font" : "MyriadPro-Semibold",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Justice-driven innovation The scenario"
+  }, {
+    "type" : "paragraph",
+    "id" : 177,
+    "page number" : 13,
+    "bounding box" : [ 128.976, 377.696, 466.335, 420.529 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Unrest arising from acute societal division and unequal access to wealth prompts radical political change and pressure to develop new economic, social and governance models."
+  }, {
+    "type" : "paragraph",
+    "id" : 178,
+    "page number" : 13,
+    "bounding box" : [ 128.976, 308.595, 466.33, 365.583 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Universities’ ‘third mission’ – to create and share knowledge to address societal challenges – becomes their first mission. In the large, research-intensive universities, disciplinary structures give way to radical transdisciplinarity focused on specific social challenge areas: poverty, climate, equality, governance and justice."
+  }, {
+    "type" : "paragraph",
+    "id" : 179,
+    "page number" : 13,
+    "bounding box" : [ 128.976, 225.345, 466.311, 296.482 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Universities collaborate to build their own open learning platforms as there is a mass move away from for-profit, data-extractive big tech infrastructure. This globally-accessible, digital open learning is woven through local, context-specific autonomous ecoversities and there are many strong, activist partnerships between higher education and community-based movements."
+  }, {
+    "type" : "paragraph",
+    "id" : 180,
+    "page number" : 13,
+    "bounding box" : [ 117.638, 192.158, 231.652, 203.4 ],
+    "font" : "MyriadPro-SemiboldIt",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Reflection on current research"
+  }, {
+    "type" : "paragraph",
+    "id" : 181,
+    "page number" : 13,
+    "bounding box" : [ 117.638, 104.333, 477.687, 189.618 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This scenario presents a hopeful future for higher education, as universities find ways to reimagine themselves following something like a revolution: endemic injustice and inequality globally have provoked radical social change and a fundamental shift in how the project of ‘knowledge’ is conceived. It suggests a shifting political landscape that triggers the development and adoption of new models of research, teaching and systems infrastructure in universities."
+  }, {
+    "type" : "paragraph",
+    "id" : 182,
+    "page number" : 13,
+    "bounding box" : [ 117.638, 61.885, 477.666, 104.716 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Here, the actions that lead to more justice-driven universities might be understood not as external forces but as driven by students, staff and the communities and activist groups with which they work. These are groups that have long recognised and"
+  }, {
+    "type" : "header",
+    "id" : 183,
+    "page number" : 14,
+    "bounding box" : [ 56.694, 749.016, 538.662, 759.16 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 31,
+      "page number" : 14,
+      "bounding box" : [ 56.694, 749.016, 538.662, 759.16 ],
+      "heading level" : 5,
+      "font" : "MyriadPro-It",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 Page 14 of 19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 184,
+    "page number" : 14,
+    "bounding box" : [ 117.638, 520.049, 477.656, 704.391 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "resisted injustice both within academia and beyond it. University students have often been pivotal in radical political movements around the world (Boren, 2019), with student activists demanding political and economic change and greater action towards social justice. University staff are also often part of wider social movements, and have struggled with the tensions between working in and against neoliberal and colonising institutions (Blomley, 1994; Callahan & Elliott, 2020; Connell, 2019b; Meyerhoff, 2019; Nørgård & Bengtsen, 2021). This has been a contributing factor to multiple labour disputes in the UK and elsewhere over the past decade, as industrial action in the sector has exposed wider questions about the purposes of higher education. It is possible to imagine how action and solidarity among students and staff, working in and across their wider movements, might put these groups in a position to drive the models of transdisciplinary knowledge, collectivism and open learning described here."
+  }, {
+    "type" : "paragraph",
+    "id" : 185,
+    "page number" : 14,
+    "bounding box" : [ 117.638, 392.706, 477.677, 520.431 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The necessary shift toward alternative forms of knowledge-sharing and creation beyond and outside the broken institutions of formal education in the global North is a theme consistently developed by Sarah Amsler, who has written on how the organisation of learning ‘outside hegemonic institutions and their regimes of recognition, worth and value’ (Amsler, 2019, p. 927) opens up new possibilities for democratic education beyond European modernity (p. 926). Directly influencing this scenario, her work locates progressive possibility elsewhere, in ‘autonomous movements in the global South’, ecoversities and a ‘radical political imaginary which enables movements not just for social change but for the immanent creation of a radically other reality’ (Amsler, 2016, p. 20)."
+  }, {
+    "type" : "paragraph",
+    "id" : 186,
+    "page number" : 14,
+    "bounding box" : [ 117.638, 251.194, 477.665, 393.088 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The notion of ‘radical transdisciplinarity’ framed in this scenario points to issues surrounding current university organisation around rigid disciplinarity, but also touches on curriculum transformation for knowledge diversity, an area of work that is growing in importance in higher education (Tight, 2023). Critiques of design and its epistemological commitments (Escobar, 2018) are already underpinning new thinking about how curricula are made and enacted (Inusah, 2023), while work on inclusion and decolonisation in the academy through curricular change shows that one route to radical transdisciplinarity may be through these ideas (Arthur, 2016; Parker et al., 2010; Rodríguez, 2022). Many researchers are currently engaging with the ‘radical curriculum river’, as Paraskeva (2022) terms it, in explicitly decolonial ways."
+  }, {
+    "type" : "paragraph",
+    "id" : 187,
+    "page number" : 14,
+    "bounding box" : [ 117.638, 67.256, 477.687, 251.576 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This future vision also involves a shift in technological infrastructure and governance. No matter how radical the curriculum, reliance on extractive, big tech platforms will always compromise academic efforts toward justice-driven innovation. Platform capitalism and surveillance (Srnicek, 2016; Zuboff, 2019) are among the many issues that such a shift would have to address. Data justice activism is emergent in a number of universities and education systems, attempting to reframe digital and data practices to be more sustainable (Selwyn, 2023), decolonial (Zembylas, 2023), and privacy-centred (Brown & Klein, 2020). It is tackling the implications of emerging technologies such as the ones discussed in the ‘enhanced enhancement’ scenario, with bioethics and neuro-rights coming to the fore (Williamson, 2019). Learning to desire differently, and better, in digital education may push us beyond what currently seems most ‘feasible’ (for example, alternative digital spaces and platforms that only replicate extractive models) towards different temporalities and affinities that allow us to advocate for profound change (Bayne, 2023)."
+  }, {
+    "type" : "header",
+    "id" : 188,
+    "page number" : 15,
+    "bounding box" : [ 56.693, 749.016, 538.584, 759.157 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 32,
+      "page number" : 15,
+      "bounding box" : [ 56.693, 749.016, 538.584, 759.157 ],
+      "heading level" : 5,
+      "font" : "MyriadPro-It",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 Page 15 of 19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 189,
+    "page number" : 15,
+    "bounding box" : [ 117.638, 693.083, 316.687, 704.326 ],
+    "font" : "MyriadPro-SemiboldIt",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Microfiction: this afternoon at Brainery Convocation"
+  }, {
+    "type" : "paragraph",
+    "id" : 190,
+    "page number" : 15,
+    "bounding box" : [ 128.976, 584.86, 466.314, 684.294 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Principal Vivendi was uneasy. Years of pressure from the union federation Activocacy, and now the unexpected win by one of Brainery’s students of the Ecovision Song Contest, meant that he could no longer ignore the pressure to focus this semester’s Convocation meeting on the terms of partnership with the radical climate action group MonkeyWrenchX. The winning song, Verde este Mundo, was now an international hit and even seemed to be becoming the City State’s informal anti-national anthem."
+  }, {
+    "type" : "paragraph",
+    "id" : 191,
+    "page number" : 15,
+    "bounding box" : [ 128.976, 459.156, 466.299, 572.747 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "How to frame the meeting though? Clearly the days of being able to vaguely signpost strategic intention were past, the partnership was inevitable, and the challenge now was how to work with @MWX without risking legal challenges or – god forbid – arrest. It was already borderline impossible to fly in and out of Brainery City State following several years of direct and barely legal hacktion at the airport, which Principal Vivendi had been obliged to publicly support. @MWX’s disturbingly compelling leader Stella Vide would be attending by holo-drop, as would half the Professoriate."
+  }, {
+    "type" : "paragraph",
+    "id" : 192,
+    "page number" : 15,
+    "bounding box" : [ 128.976, 347.603, 466.301, 447.044 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A few years back his counterpart at Flexi Tech had quietly arranged the deepfaking of the activist leader Sandeep Mahai in order to moderate the partnership terms with Wealth Share Action. Their Vice Chancellor was now doing five years community service in New New York, so that wasn’t an option for Brainery. A partnership in good faith was the only way to go with this one, even though the Shareholders weren’t going to like it. Vivendi picked up his tablet and shut his office door."
+  }, {
+    "type" : "paragraph",
+    "id" : 193,
+    "page number" : 15,
+    "bounding box" : [ 128.976, 320.957, 208.572, 335.49 ],
+    "font" : "WarnockPro-It",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Tempora mutantur."
+  }, {
+    "type" : "heading",
+    "id" : 194,
+    "level" : "Subtitle",
+    "page number" : 15,
+    "bounding box" : [ 117.638, 276.708, 236.881, 289.47 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 10.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Conclusion: forms of hope"
+  }, {
+    "type" : "paragraph",
+    "id" : 195,
+    "page number" : 15,
+    "bounding box" : [ 117.638, 175.009, 477.667, 274.444 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The focus of this special issue is on re-imagining the futures of higher education through the scholarship of speculation – the call for articles asked us to focus on ‘the intersection of justice, hope, and educational technology’ (Veletsianos et al., 2023). In responding to the call we have so far discussed futures, justice and technology, but we have not described our position on hope. In the methods, futures and fictions we have discussed, the search for it is implicit, but it is fleeting and at times difficult to either find or maintain."
+  }, {
+    "type" : "paragraph",
+    "id" : 196,
+    "page number" : 15,
+    "bounding box" : [ 117.638, 61.806, 477.677, 175.391 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "However, for the scholarship of speculation to be something more than a cluster of more-or-less evocative narratives, it does require us to articulate how – and in what ways – speculation is a starting point for action. One way through this is to understand how speculation enables active hope. Terry Eagleton’s (2015) book Hope without Optimism is both an extended analysis of the nature of hope, and an avowal of its absolute necessity. For Eagleton, hope is a bringing together of ‘desire plus expectancy’ (p.59) – it is ‘to project oneself imaginatively into a future that is grasped as possible’ (p.52) and that can be worked towards. It is also performative: ‘to have confidence in a particular"
+  }, {
+    "type" : "header",
+    "id" : 197,
+    "page number" : 16,
+    "bounding box" : [ 56.694, 749.016, 538.662, 759.16 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 33,
+      "page number" : 16,
+      "bounding box" : [ 56.694, 749.016, 538.662, 759.16 ],
+      "heading level" : 5,
+      "font" : "MyriadPro-It",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 Page 16 of 19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 198,
+    "page number" : 16,
+    "bounding box" : [ 117.638, 675.706, 477.684, 704.391 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "future may help to usher it in. … On this view, hope is not simply an anticipation of the future but an active force in its constitution.’ (p.84)"
+  }, {
+    "type" : "paragraph",
+    "id" : 199,
+    "page number" : 16,
+    "bounding box" : [ 117.638, 505.902, 477.689, 676.088 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Eagleton argues that it is not enough to locate hope in speculative futures based only in present yearning – we must also understand and acknowledge our often catastrophic histories if such speculation is to be anything more than a mask for complacency and quietism. Within the constraints of this short paper, we have tried throughout to anchor our speculative work in the growing body of research which interrogates the often troublesome histories and complicities of education technology, and higher education itself. However more work is always needed to connect our desire for better futures to the colonising, extractive, oppressive and ecocidal models of social organisation that constitute our past. To do this work is to engage in what Eagleton calls ‘fundamental’ hope – a form of hope that ‘acknowledges the realities of failure and defeat, but refuses to capitulate in the face of them and preserves an unspecified, nonpurposive openness to the future.’ (p.65)"
+  }, {
+    "type" : "paragraph",
+    "id" : 200,
+    "page number" : 16,
+    "bounding box" : [ 117.638, 307.798, 477.687, 506.285 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Speculative methods offer a space in which it is possible to discuss hope, but such hope needs to be active, strenuous and able to maintain itself in the face of the radical unknowability of our futures. Eagleton addresses this issue at length in his discussion of Lear’s (2006) text on the cultural devastation of the Native American Crow Nation. Radical Hope: ethics in the face of cultural devastation examines the visionary leadership of the last elected chief of the Crow, Plenty Coups, as he negotiated the catastrophic effects of white settlement including the appropriation of lands, the elimination of the Crow’s hunter-warrior way of life and being, their confinement to reservations and the necessity of problematic political alliances. In the context of such cultural devastation and historical rupture, the issue of hope becomes, for Lear, ‘critical for an ethical inquiry into life at the horizons of one’s understanding’ (p.105). This maintenance of hope in the context of an unknowable future is what Lear calls ‘radical hope’, a ‘daunting form of commitment: to a goodness in the world that transcends one’s current ability to grasp what it is’ (p.100)."
+  }, {
+    "type" : "paragraph",
+    "id" : 201,
+    "page number" : 16,
+    "bounding box" : [ 117.638, 251.193, 477.652, 308.18 ],
+    "font" : "WarnockPro-Regular",
+    "font size" : 9.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This paper has attempted to show how critical, speculative methods within a postqualitative framework can be used in research to support the vital work of keeping the future open, of building our collective capacities for action. In our time of crisis, it offers and advocates for active and radical hope for the future of education."
+  }, {
+    "type" : "paragraph",
+    "id" : 202,
+    "page number" : 16,
+    "bounding box" : [ 117.638, 216.406, 471.465, 234.571 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Authors’ contributions The two paper authors jointly conceived, designed and completed the research described, and jointly wrote the paper."
+  }, {
+    "type" : "paragraph",
+    "id" : 203,
+    "page number" : 16,
+    "bounding box" : [ 117.638, 183.406, 470.982, 210.571 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Availability of data and materials The datasets generated as part of this study are available in the Higher Education Futures repository [link: https://www. de.ed.ac.uk/project/higher-education-futures]."
+  }, {
+    "type" : "heading",
+    "id" : 204,
+    "level" : "Subtitle",
+    "page number" : 16,
+    "bounding box" : [ 117.638, 154.681, 167.52, 165.923 ],
+    "heading level" : 4,
+    "font" : "MyriadPro-Semibold",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Declarations"
+  }, {
+    "type" : "paragraph",
+    "id" : 205,
+    "page number" : 16,
+    "bounding box" : [ 117.638, 131.106, 293.813, 149.271 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Competing interests The authors declare that they have no competing interests."
+  }, {
+    "type" : "caption",
+    "id" : 206,
+    "page number" : 16,
+    "bounding box" : [ 117.638, 113.106, 279.502, 122.121 ],
+    "linked content id" : 207,
+    "font" : "MyriadPro-Regular",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Received: 27 October 2023 Accepted: 22 April 2024"
+  }, {
+    "type" : "image",
+    "id" : 207,
+    "page number" : 16,
+    "bounding box" : [ 117.638, 100.831, 249.638, 111.631 ]
+  }, {
+    "type" : "header",
+    "id" : 208,
+    "page number" : 17,
+    "bounding box" : [ 56.693, 749.016, 538.584, 759.157 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 34,
+      "page number" : 17,
+      "bounding box" : [ 56.693, 749.016, 538.584, 759.157 ],
+      "heading level" : 5,
+      "font" : "MyriadPro-It",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 Page 17 of 19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 209,
+    "page number" : 17,
+    "bounding box" : [ 117.638, 685.783, 468.186, 703.948 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "References Amsler, S. (2016). Learning hope. An epistemology of possibility for advanced capitalist society. In A. C. Dinerstein (Ed.),"
+  }, {
+    "type" : "paragraph",
+    "id" : 210,
+    "page number" : 17,
+    "bounding box" : [ 132.638, 667.783, 471.951, 685.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Social sciences for an other politics: Women theorizing without parachutes (pp. 19–32). Springer International Publishing. https://doi.org/10.1007/978-3-319-47776-3_2"
+  }, {
+    "type" : "paragraph",
+    "id" : 211,
+    "page number" : 17,
+    "bounding box" : [ 117.638, 541.783, 475.371, 667.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Amsler, S. (2019). Gesturing towards radical futurity in education for alternative futures. Sustainability Science, 14(4), 925–930. https://doi.org/10.1007/s11625-019-00679-8 Amsler, S., & Facer, K. (2017). Contesting anticipatory regimes in education: Exploring alternative educational orientations to the future. Futures, 94, 6–14. https://doi.org/10.1016/j.futures.2017.01.001 Arthur, M. L. (2016). Student activism and curricular change in higher education. Routledge. https://doi.org/10.4324/97813 15611129 Bank, M., Duffy, F., Leyendecker, V., & Silva, M. (2021). The lobby network: Big tech’s web of influence in the EU. Corporate Europe Observatory. Bayne, S., Gallagher M. (2021). Near Future Teaching: Practice, policy and digital education futures. Policy Futures in Education, 19(5), 607–625. Bayne, S. (2016). Posthumanism and research in digital education. SAGE handbook of e-learning research (pp. 82–100). SAGE. Bayne, S. (2023). Digital education utopia. Learning, Media and Technology, 0(0), 1–16. https://doi.org/10.1080/17439 884.2023.2262382"
+  }, {
+    "type" : "paragraph",
+    "id" : 212,
+    "page number" : 17,
+    "bounding box" : [ 117.638, 514.783, 475.851, 541.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Beetham, H., Collier, A., Czerniewicz, L., Lamb, B., Lin, Y., Ross, J., Scott, A.-M., & Wilson, A. (2022). Surveillance practices, risks and responses in the post pandemic university. Digital Culture & Education, 14(1), 16–37. https://www.digit alcultureandeducation.com/volume-14-1"
+  }, {
+    "type" : "paragraph",
+    "id" : 213,
+    "page number" : 17,
+    "bounding box" : [ 117.638, 487.783, 467.063, 514.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Biesta, G., & Osberg, D. (2010). Complexity, education and politics from the inside-out and the outside-in: an introduction. Complexity theory and the politics of education (pp. 1–3). Brill. https://brill.com/downloadpdf/book/ 9789460912405/BP000002.pdf"
+  }, {
+    "type" : "paragraph",
+    "id" : 214,
+    "page number" : 17,
+    "bounding box" : [ 117.638, 478.783, 458.348, 487.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Blomley, N. K. (1994). Activism and the academy. Environment and Planning D: Society and Space, 12(4), 383–385."
+  }, {
+    "type" : "paragraph",
+    "id" : 215,
+    "page number" : 17,
+    "bounding box" : [ 117.638, 451.783, 430.545, 478.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "https://doi.org/10.1068/d120383 Boren, M. E. (2019). Student resistance: A history of the unruly subject. Routledge. Boyd, S. (2022a). Solar-powered scholarship. Postdigital Science and Education. https://doi.org/10.1007/"
+  }, {
+    "type" : "paragraph",
+    "id" : 216,
+    "page number" : 17,
+    "bounding box" : [ 117.638, 424.783, 468.158, 451.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "s42438-022-00372-7 Boyd, C. P. (2022b). Postqualitative geographies. Geography Compass, 16(10), e12661. https://doi.org/10.1111/gec3. 12661"
+  }, {
+    "type" : "paragraph",
+    "id" : 217,
+    "page number" : 17,
+    "bounding box" : [ 117.645, 397.783, 476.07, 424.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Brown, M., & Klein, C. (2020). Whose data? Which rights? Whose power? A policy discourse analysis of student privacy policy documents. The Journal of Higher Education, 91(7), 1149–1178. https://doi.org/10.1080/00221546.2020. 1770045"
+  }, {
+    "type" : "paragraph",
+    "id" : 218,
+    "page number" : 17,
+    "bounding box" : [ 117.653, 352.783, 471.762, 397.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Callahan, J. L., & Elliott, C. (2020). Fantasy spaces and emotional derailment: Reflections on failure in academic activism. Organization, 27(3), 506–514. https://doi.org/10.1177/1350508419831925 Cerratto Pargman, T., Lindberg, Y., & Buch, A. (2022). Automation is coming! Exploring future(s)-oriented methods in education. Postdigital Science and Education, 5(1), 171–94. https://doi.org/10.1007/s42438-022-00349-6 Centre for Research in Digital Education. (2022). Higher Education Futures. https://www.de.ed.ac.uk/project/higher-"
+  }, {
+    "type" : "paragraph",
+    "id" : 219,
+    "page number" : 17,
+    "bounding box" : [ 117.653, 320.503, 460.718, 352.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "education-futures Clough, P. (2002). In P. Sikes (Ed.), Narratives and fictions in educational research. Open University Press. Collini, S. (2012). What are universities for? Penguin UK. https://books.google.com/books?hl= en&lr= &id=_k3pZx"
+  }, {
+    "type" : "paragraph",
+    "id" : 220,
+    "page number" : 17,
+    "bounding box" : [ 132.653, 307.783, 464.97, 325.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 1.0]",
+    "content" : "mPSVUC&oi= fnd&pg= PA7&dq= collini+ what+ are+ universities+ for&ots= OzBmUQV6mW&sig= ttiugP_p2jPHGUvn0546d2_bks"
+  }, {
+    "type" : "list",
+    "id" : 221,
+    "level" : "3",
+    "page number" : 17,
+    "bounding box" : [ 117.66, 253.783, 475.446, 307.281 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 17,
+      "bounding box" : [ 117.66, 275.503, 473.445, 307.281 ],
+      "font" : "MyriadPro-Light",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Connell, R. (2019a). The good university: What universities actually do and why it’s time for radical change. Bloomsbury Publishing. https://books.google.com/books?hl= en&lr= &id=r_80EAAAQBAJ&oi= fnd&pg= PP1&dq= raewyn+ connell+ university&ots= jexBBhuxA9&sig= tKRQp_HWY5B_MRLsuFzEA_VUv5g",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 17,
+      "bounding box" : [ 117.668, 253.783, 475.446, 280.281 ],
+      "font" : "MyriadPro-Light",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Connell, R. (2019b). Thoughts on social justice and universities. In K. Freebody, S. Goodwin, & H. Proctor (Eds.), Higher education, pedagogy and social justice: Politics and practice (pp. 23–36). Springer International Publishing. https:// doi.org/10.1007/978-3-030-26484-0_2",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 222,
+    "page number" : 17,
+    "bounding box" : [ 117.668, 226.783, 468.54, 253.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cope, B., Kalantzis, M., & Searsmith, D. (2021). Artificial intelligence for education: Knowledge and its assessment in AI-enabled learning ecologies. Educational Philosophy and Theory, 53(12), 1229–1245. https://doi.org/10.1080/ 00131857.2020.1728732"
+  }, {
+    "type" : "paragraph",
+    "id" : 223,
+    "page number" : 17,
+    "bounding box" : [ 117.675, 190.783, 475.92, 226.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Costello, E., & Girme, P. (2022). Edge school: A speculative design fiction. Postdigital Science and Education. https://doi. org/10.1007/s42438-022-00368-3 Costello, E., Soverino, T., & Girme, P. (2022). Books (are not like people): A postdigital fable. Postdigital Science and Education, 4(2), 519–539. https://doi.org/10.1007/s42438-021-00256-2"
+  }, {
+    "type" : "paragraph",
+    "id" : 224,
+    "page number" : 17,
+    "bounding box" : [ 117.675, 163.783, 476.445, 190.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cox, A. M. (2021). Exploring the impact of Artificial Intelligence and robots on higher education through literaturebased design fictions. International Journal of Educational Technology in Higher Education, 18(3), 1–19. https://doi. org/10.1186/s41239-020-00237-8"
+  }, {
+    "type" : "paragraph",
+    "id" : 225,
+    "page number" : 17,
+    "bounding box" : [ 117.675, 136.783, 464.586, 163.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Death, C. (2022). Climate fiction, climate theory: Decolonising imaginations of global futures. Millennium, 50(2), 430–455. https://doi.org/10.1177/03058298211063926 Drugwatch. (2023). Big Pharma and medical device manufacturers. Drugwatch.Com. https://www.drugwatch.com/"
+  }, {
+    "type" : "paragraph",
+    "id" : 226,
+    "page number" : 17,
+    "bounding box" : [ 117.675, 100.783, 468.84, 136.281 ],
+    "font" : "MyriadPro-LightIt",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "manufacturers/ Dunne, A., & Raby, F. (2013). Speculative everything: Design, fiction, and social dreaming. MIT Press. Eagleton, T. (2015). Hope without optimism. Yale University Press. https://doi.org/10.12987/9780300220254 Escobar, A. (2018). Designs for the pluriverse: Radical interdependence, autonomy, and the making of worlds. Duke Uni-"
+  }, {
+    "type" : "paragraph",
+    "id" : 227,
+    "page number" : 17,
+    "bounding box" : [ 117.683, 73.783, 474.667, 100.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 1.0]",
+    "content" : "versity Press. http://ebookcentral.proquest.com/lib/ed/detail.action?docID= 5322528 European Commission. (2023). The Digital Services Act package | Shaping Europe’s digital future. https://digital-strategy. ec.europa.eu/en/policies/digital-services-act-package"
+  }, {
+    "type" : "header",
+    "id" : 228,
+    "page number" : 18,
+    "bounding box" : [ 56.694, 749.016, 538.662, 759.16 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 35,
+      "page number" : 18,
+      "bounding box" : [ 56.694, 749.016, 538.662, 759.16 ],
+      "heading level" : 5,
+      "font" : "MyriadPro-It",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 Page 18 of 19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 229,
+    "page number" : 18,
+    "bounding box" : [ 117.638, 676.783, 475.223, 703.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Eynon, R., & Young, E. (2021). Methodology, legend, and rhetoric: The constructions of AI by academia, industry, and policy groups for lifelong learning. Science, Technology, & Human Values, 46(1), 166–191. https://doi.org/10.1177/ 0162243920906475"
+  }, {
+    "type" : "paragraph",
+    "id" : 230,
+    "page number" : 18,
+    "bounding box" : [ 117.638, 613.783, 474.013, 676.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Gilliard, C., & saheli singh, sava. (2021). Introduction, themed issue: Surveillance and educational technology. The Journal of Interactive Technology and Pedagogy, 20. https://jitp.commons.gc.cuny.edu/?p Hansen, M., & Komljenovic, J. (2023). Automating learning situations in EdTech: Techno-commercial logic of assetisation. Postdigital Science and Education, 5(1), 100–116. https://doi.org/10.1007/s42438-022-00359-4 Hendrikse, R., Adriaans, I., Klinge, T. J., & Fernandez, R. (2022). The big techification of everything. Science as Culture, 31(1), 59–71. https://doi.org/10.1080/09505431.2021.1984423 Holmes, W., Porayska-Pomsta, K., Holstein, K., Sutherland, E., Baker, T., Shum, S. B., Santos, O. C., Rodrigo, M. T.,"
+  }, {
+    "type" : "paragraph",
+    "id" : 231,
+    "page number" : 18,
+    "bounding box" : [ 132.638, 586.783, 465.045, 613.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cukurova, M., Bittencourt, I. I., & Koedinger, K. R. (2022). Ethics of AI in education: Towards a community-wide framework. International Journal of Artificial Intelligence in Education, 32(3), 504–526. https://doi.org/10.1007/ s40593-021-00239-1"
+  }, {
+    "type" : "paragraph",
+    "id" : 232,
+    "page number" : 18,
+    "bounding box" : [ 117.645, 559.783, 476.435, 586.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Homer-Dixon, T., Walker, B., Biggs, R., Crépin, A.-S., Folke, C., Lambin, E. F., Peterson, G. D., Rockström, J., Scheffer, M., Steffen, W., & Troell, M. (2015). Synchronous failure: The emerging causal architecture of global crisis. Ecology and Society, 20(3). https://www.jstor.org/stable/26270255"
+  }, {
+    "type" : "paragraph",
+    "id" : 233,
+    "page number" : 18,
+    "bounding box" : [ 117.645, 523.783, 476.573, 559.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Houlden, S., & Veletsianos, G. (2022). Impossible dreaming: On speculative education fiction and hopeful learning futures. Postdigital Science and Education. https://doi.org/10.1007/s42438-022-00348-7 Ienca, M., & Andorno, R. (2017). Towards new human rights in the age of neuroscience and neurotechnology. Life Sciences, Society and Policy, 13(1), 5. https://doi.org/10.1186/s40504-017-0050-1"
+  }, {
+    "type" : "paragraph",
+    "id" : 234,
+    "page number" : 18,
+    "bounding box" : [ 117.645, 487.783, 476.97, 523.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Inusah, H. (2023). Epistemic decolonisation in African higher education: Beyond current curricular and pedagogical reformation. In B. Okyere-Manu, S. N. Morgan, & O. Nwosimiri (Eds.), Contemporary development ethics from an African perspective: Selected readings (pp. 197–212). Springer International Publishing. https://doi.org/10.1007/978-3-03132898-5_14"
+  }, {
+    "type" : "paragraph",
+    "id" : 235,
+    "page number" : 18,
+    "bounding box" : [ 117.645, 451.783, 472.695, 487.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Jandrić, P. (2024). Postdigital critical education research. In M. T. Winn & L. T. Winn (Eds.), The Bloomsbury encyclopedia of social justice in education. Bloomsbury. Jandrić, P., & Hayes, S. (2023). Postdigital education in a biotech future. Policy Futures in Education, 21(5), 503–513. https:// doi.org/10.1177/14782103211049915"
+  }, {
+    "type" : "paragraph",
+    "id" : 236,
+    "page number" : 18,
+    "bounding box" : [ 117.645, 424.783, 475.241, 451.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Kemp, L., Xu, C., Depledge, J., Ebi, K. L., Gibbins, G., Kohler, T. A., Rockström, J., Scheffer, M., Schellnhuber, H. J., Steffen, W., & Lenton, T. M. (2022). Climate endgame: Exploring catastrophic climate change scenarios. Proceedings of the National Academy of Sciences, 119(34), e2108146119. https://doi.org/10.1073/pnas.2108146119"
+  }, {
+    "type" : "paragraph",
+    "id" : 237,
+    "page number" : 18,
+    "bounding box" : [ 117.645, 415.783, 469.634, 424.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Khan, R. (2011). For a multiple-armed love: Ecopedagogy for a posthuman age. In C. S. Mallott & B. Porfilio (Eds.), Critical"
+  }, {
+    "type" : "paragraph",
+    "id" : 238,
+    "page number" : 18,
+    "bounding box" : [ 117.645, 388.783, 475.626, 415.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "pedagogy in the twenty-first century: A new generation of scholars (pp. 109–131). Information Age Publishing. Lear, J. (2006). Radical hope ethics in the face of cultural devastation / Jonathan Lear. Harvard University Press. Maier, L. J., Ferris, J. A., & Winstock, A. R. (2018). Pharmacological cognitive enhancement among non-ADHD individuals-A"
+  }, {
+    "type" : "paragraph",
+    "id" : 239,
+    "page number" : 18,
+    "bounding box" : [ 132.645, 370.783, 473.99, 388.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "cross-sectional study in 15 countries. The International Journal on Drug Policy, 58, 104–112. https://doi.org/10.1016/j. drugpo.2018.05.009"
+  }, {
+    "type" : "paragraph",
+    "id" : 240,
+    "page number" : 18,
+    "bounding box" : [ 117.645, 343.783, 470.668, 370.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Mann, J. (2021). Cognitive enhancing drug use by students in the context of neoliberalism: Cheating? Or, a legitimate expression of competitive entrepreneurialism? The International Journal on Drug Policy, 95, 102907. https://doi.org/ 10.1016/j.drugpo.2020.102907"
+  }, {
+    "type" : "paragraph",
+    "id" : 241,
+    "page number" : 18,
+    "bounding box" : [ 117.645, 316.783, 468.884, 343.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Markham, A. (2021). The limits of the imaginary: Challenges to intervening in future speculations of memory, data, and algorithms. New Media & Society, 23(2), 382–405. https://doi.org/10.1177/1461444820929322 McDermott, H., Lane, H., & Alonso, M. (2021). Working smart: The use of ‘cognitive enhancers’ by UK university students."
+  }, {
+    "type" : "paragraph",
+    "id" : 242,
+    "page number" : 18,
+    "bounding box" : [ 117.645, 289.783, 466.666, 316.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Journal of Further and Higher Education, 45(2), 270–283. https://doi.org/10.1080/0309877X.2020.1753179 Meyerhoff, E. (2019). Beyond education radical studying for another world. University of Minnesota Press. Mikulic, M. (n.d.). Global pharmaceutical industry—Statistics and facts. Statista. Retrieved 16 October 2023, from https://"
+  }, {
+    "type" : "paragraph",
+    "id" : 243,
+    "page number" : 18,
+    "bounding box" : [ 117.645, 253.783, 466.844, 289.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "www.statista.com/topics/1764/global-pharmaceutical-industry/ Müller, O., & Rotter, S. (2017). Neurotechnology: Current developments and ethical issues. Frontiers in Systems Neuroscience, 11, 93. Nørgård, R. T., & Bengtsen, S. S. E. (2021). The activist university and university activism – An editorial. Policy Futures in"
+  }, {
+    "type" : "paragraph",
+    "id" : 244,
+    "page number" : 18,
+    "bounding box" : [ 117.645, 226.783, 475.844, 253.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Education, 19(5), 507–512. https://doi.org/10.1177/14782103211026584 Ord, T. (2020). The precipice: Existential risk and the future of humanity. Hachette Books. Osberg, D. (2010). Taking care of the future? The complex responsibility of education and politics. In D. Osberg & G. Biesta"
+  }, {
+    "type" : "paragraph",
+    "id" : 245,
+    "page number" : 18,
+    "bounding box" : [ 117.645, 158.503, 471.044, 226.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "(Eds.), Complexity theory and the politics of education. Brill. https://doi.org/10.1163/9789460912405 Osberg, D., & Biesta, G. (2021). Beyond curriculum: Groundwork for a non-instrumental theory of education. Educational Philosophy and Theory, 53(1), 57–70. https://doi.org/10.1080/00131857.2020.1750362 Paraskeva, J. M. (2022). The generation of the utopia: Itinerant curriculum theory towards a ‘futurable future.’Discourse: Studies in the Cultural Politics of Education, 43(3), 347–366. https://doi.org/10.1080/01596306.2022.2030594 Paris Agreement to the United Nations Framework Convention on Climate Change. (2015). https://heinonline.org/holcgi-bin/get_pdf.cgi?handle= hein.journals/intlm55&section= 46"
+  }, {
+    "type" : "paragraph",
+    "id" : 246,
+    "page number" : 18,
+    "bounding box" : [ 117.645, 140.503, 465.71, 163.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Parker, J. D., Samantrai, R., & Romero, M. (2010). Interdisciplinarity and Social Justice: Revisioning Academic Accountability. State University of New York Press. http://ebookcentral.proquest.com/lib/ed/detail.action?docID= 3407093"
+  }, {
+    "type" : "paragraph",
+    "id" : 247,
+    "page number" : 18,
+    "bounding box" : [ 117.645, 91.783, 475.738, 145.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Pelletier, C. (2023). Against personalised learning. International Journal of Artificial Intelligence in Education. https://doi.org/ 10.1007/s40593-023-00348-z Privitera, A. J., & Hao, D. (2022). Educational neurotechnology: Where do we go from here? Trends in Neuroscience and Education, 29, 100195. Raftery, A. E., Zimmer, A., Frierson, D. M. W., Startz, R., & Liu, P. (2017). Less than 2 °C warming by 2100 unlikely. Nature Climate Change, 7(9), 9. https://doi.org/10.1038/nclimate3352"
+  }, {
+    "type" : "paragraph",
+    "id" : 248,
+    "page number" : 18,
+    "bounding box" : [ 117.645, 64.783, 457.965, 91.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Rodríguez, D. (2022). Transdisciplinarity and epistemic communities: Knowledge decolonisation through university extension programmes. Geographical Research, 60(1), 113–125. https://doi.org/10.1111/1745-5871.12524 Ross, J. (2023). Digital futures for learning: Speculative methods and pedagogies. Routledge."
+  }, {
+    "type" : "header",
+    "id" : 249,
+    "page number" : 19,
+    "bounding box" : [ 56.693, 749.016, 538.584, 759.157 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 36,
+      "page number" : 19,
+      "bounding box" : [ 56.693, 749.016, 538.584, 759.157 ],
+      "heading level" : 5,
+      "font" : "MyriadPro-It",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Bayne and Ross Int J Educ Technol High Educ (2024) 21:39 Page 19 of 19"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 250,
+    "page number" : 19,
+    "bounding box" : [ 117.638, 595.783, 472.47, 703.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Selwyn, N. (2023). Digital degrowth: Toward radically sustainable education technology. Learning, Media and Technology, 1–14. https://doi.org/10.1080/17439884.2022.2159978 Simon, Z. B. (2021). Domesticating the future through history. Time & Society, 30(4), 494–516. https://doi.org/10.1177/ 0961463X211014804 Sismondo, S. (2018). Ghost-managed medicine: Big Pharma’s invisible hands. Mattering Press. https://doi.org/10.28938/ 9780995527775 Sismondo, S. (2021). Epistemic corruption, the pharmaceutical industry, and the body of medical science. Frontiers in Research Metrics and Analytics, 6, 614013. https://doi.org/10.3389/frma.2021.614013 Srnicek, N. (2016). Platform capitalism. Polity Press. http://ebookcentral.proquest.com/lib/ed/detail.action?docID= 47738 43 St Pierre, E. A. (2018). Writing post qualitative inquiry. Qualitative Inquiry, 24(9), 603–608. https://doi.org/10.1177/10778 00417734567"
+  }, {
+    "type" : "paragraph",
+    "id" : 251,
+    "page number" : 19,
+    "bounding box" : [ 117.638, 568.783, 474.705, 595.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Steward, A., & Pickersgill, M. (2019). Developing expertise, customising sleep, enhancing study practices: Exploring the legitimisation of modafinil use within the accounts of UK undergraduate students. Drugs (Abingdon, England), 26(4), 347–355. https://doi.org/10.1080/09687637.2018.1555231"
+  }, {
+    "type" : "paragraph",
+    "id" : 252,
+    "page number" : 19,
+    "bounding box" : [ 117.638, 541.783, 475.77, 568.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Suoranta, J., Teräs, M., Teräs, H., Jandrić, P., Ledger, S., Macgilchrist, F., & Prinsloo, P. (2022). Speculative social science fiction of digitalization in higher education: From what is to what could be. Postdigital Science and Education, 4(2), 224–236. https://doi.org/10.1007/s42438-021-00260-6"
+  }, {
+    "type" : "paragraph",
+    "id" : 253,
+    "page number" : 19,
+    "bounding box" : [ 117.638, 505.783, 475.312, 541.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Swauger, S., & Kalir, R. (2023). Learning analytics and the abolitionist imagination. Journal of Learning Analytics, 10(1), 1. https://doi.org/10.18608/jla.2023.7813 Tight, M. (2023). The curriculum in higher education research: A review of the research literature. Innovations in Education and Teaching International, 0(0), 1–14. https://doi.org/10.1080/14703297.2023.2166560"
+  }, {
+    "type" : "paragraph",
+    "id" : 254,
+    "page number" : 19,
+    "bounding box" : [ 117.638, 451.783, 473.963, 505.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Ungoed-Thomas, J., Das, S., & Goodier, M. (2023). ‘It’s naive to think this is in the best interests of the NHS.’ How Big Pharma’s millions are influencing healthcare. The Observer. https://www.theguardian.com/business/2023/jul/08/itsnaive-to-think-this-is-in-the-best-interests-of-the-nhs-how-big-pharmas-millions-are-influencing-healthcare Veletsianos, G., Houlden, S., Ross, J., Alhadad, S., & Dickson-Deane, C. (2023). Call for Papers—Higher Education Futures at the intersection of justice, hope, and educational technology. International Journal of Educational Technology in Higher Education. https://www.springeropen.com/collections/hefjhet"
+  }, {
+    "type" : "paragraph",
+    "id" : 255,
+    "page number" : 19,
+    "bounding box" : [ 117.638, 343.783, 476.406, 451.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Watson, A., & Gullion, J. S. (2021). Fiction as research: Writing beyond the boundary lines. Art/Research International: A Transdisciplinary Journal, 6(1), i–vi. https://doi.org/10.18432/ari29609 Watson, A. (2021). Writing sociological fiction. Qualitative Research, 1468794120985677. https://doi.org/10.1177/14687 94120985677 Webb, D. (2016). Educational studies and the domestication of Utopia. British Journal of Educational Studies, 64(4), 431–448. https://doi.org/10.1080/00071005.2016.1143085 Webb, P. T., Sellar, S., & Gulson, K. N. (2020). Anticipating education: Governing habits, memories and policy-futures. Learning, Media and Technology, 45(3), 284–297. https://doi.org/10.1080/17439884.2020.1686015 Williams, S. J., Martin, P., & Gabe, J. (2011). The pharmaceuticalisation of society? A framework for analysis. Sociology of Health & Illness, 33(5), 710–725. https://doi.org/10.1111/j.1467-9566.2011.01320.x Williamson, B. (2019). Brain data: Scanning, scraping and sculpting the plastic learning brain through neurotechnology. Postdigital Science and Education, 1(1), 65–86. https://doi.org/10.1007/s42438-018-0008-5"
+  }, {
+    "type" : "paragraph",
+    "id" : 256,
+    "page number" : 19,
+    "bounding box" : [ 117.638, 316.783, 471.494, 343.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Zembylas, M. (2023). A decolonial approach to AI in higher education teaching and learning: Strategies for undoing the ethics of digital neocolonialism. Learning, Media and Technology, 48(1), 25–37. https://doi.org/10.1080/17439884. 2021.2010094"
+  }, {
+    "type" : "paragraph",
+    "id" : 257,
+    "page number" : 19,
+    "bounding box" : [ 117.638, 307.783, 468.638, 316.281 ],
+    "font" : "MyriadPro-LightIt",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Zuboff, S. (2019). The age of surveillance capitalism: The fight for a human future at the new frontier of power. Profile Books."
+  }, {
+    "type" : "heading",
+    "id" : 258,
+    "level" : "Subtitle",
+    "page number" : 19,
+    "bounding box" : [ 117.638, 283.083, 191.839, 295.845 ],
+    "heading level" : 3,
+    "font" : "MyriadPro-Bold",
+    "font size" : 10.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Publisher’s Note"
+  }, {
+    "type" : "paragraph",
+    "id" : 259,
+    "page number" : 19,
+    "bounding box" : [ 117.638, 274.783, 457.83, 283.281 ],
+    "font" : "MyriadPro-Light",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations."
+  } ]
+}
