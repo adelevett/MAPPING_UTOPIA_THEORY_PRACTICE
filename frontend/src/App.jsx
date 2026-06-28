@@ -1,71 +1,104 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import GeoMap from './components/GeoMap';
-import NetworkGraph from './components/NetworkGraph';
+import ConceptAtlas from './components/ConceptAtlas';
+import ConceptFilterRail from './components/ConceptFilterRail';
+import StorySheet from './components/StorySheet';
+import TheorySlideOver from './components/TheorySlideOver';
 import StatsDashboard from './components/StatsDashboard';
-import DetailPanel from './components/DetailPanel';
-import { Compass, Network, RefreshCw, Layers } from 'lucide-react';
+import { Compass, BookOpen, RefreshCw, Layers } from 'lucide-react';
 import './App.css';
 
 function App() {
+  // ── Data state ──────────────────────────────────────────────
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(false);
   const [practices, setPractices] = useState([]);
   const [categories, setCategories] = useState([]);
-  const [references, setReferences] = useState([]);
-  const [edges, setEdges] = useState([]);
-  
-  // Shared Selection State: { type: 'practice' | 'category' | 'reference' | null, id: string | null }
-  const [selection, setSelection] = useState({ type: null, id: null });
-  const [activeTab, setActiveTab] = useState('map'); // 'map' | 'network'
+  const [ontology, setOntology] = useState(null);
+  const [codedMatrix, setCodedMatrix] = useState([]);
+  const [referencesResolved, setReferencesResolved] = useState([]);
+  const [nextBestThings, setNextBestThings] = useState({});
 
-  // Fetch all data static files in parallel
+  // ── Unified UI state ─────────────────────────────────────────
+  const [view, setView] = useState('map'); // 'map' | 'concepts'
+  const [activeFilters, setActiveFilters] = useState(new Set());
+  const [activeStoryPracticeId, setActiveStoryPracticeId] = useState(null);
+  const [activeReferenceId, setActiveReferenceId] = useState(null);
+  const [expandedConceptId, setExpandedConceptId] = useState(null);
+
+  // ── Data loading ─────────────────────────────────────────────
   useEffect(() => {
     Promise.all([
-      fetch('/data/practices.json').then(res => {
-        if (!res.ok) throw new Error('Failed to load practices.json');
-        return res.json();
-      }),
-      fetch('/data/category_index.json').then(res => {
-        if (!res.ok) throw new Error('Failed to load category_index.json');
-        return res.json();
-      }),
-      fetch('/data/reference_index.json').then(res => {
-        if (!res.ok) throw new Error('Failed to load reference_index.json');
-        return res.json();
-      }),
-      fetch('/data/graph_edges.json').then(res => {
-        if (!res.ok) throw new Error('Failed to load graph_edges.json');
-        return res.json();
-      })
+      fetch('/data/practices.json').then(r => { if (!r.ok) throw new Error(); return r.json(); }),
+      fetch('/data/category_index.json').then(r => { if (!r.ok) throw new Error(); return r.json(); }),
+      fetch('/data/ontology.json').then(r => { if (!r.ok) throw new Error(); return r.json(); }),
+      fetch('/data/coded_matrix.json').then(r => { if (!r.ok) throw new Error(); return r.json(); }),
+      fetch('/data/references_resolved.json').then(r => { if (!r.ok) throw new Error(); return r.json(); }),
+      fetch('/data/next_best_things.json').then(r => { if (!r.ok) throw new Error(); return r.json(); }),
     ])
-      .then(([practicesData, categoriesData, referencesData, edgesData]) => {
+      .then(([practicesData, categoriesData, ontologyData, matrixData, refsData, nbtData]) => {
         setPractices(practicesData);
         setCategories(categoriesData);
-        setReferences(referencesData);
-        setEdges(edgesData);
+        setOntology(ontologyData);
+        // coded_matrix.json has a "references" key
+        setCodedMatrix(matrixData.references || matrixData);
+        setReferencesResolved(refsData);
+        setNextBestThings(nbtData);
         setLoading(false);
       })
       .catch(err => {
-        console.error('Data Fetch Error:', err);
+        console.error('Data load error:', err);
         setError(true);
         setLoading(false);
       });
   }, []);
 
-  const handleSelect = (newSelection) => {
-    setSelection(newSelection);
-  };
+  // ── State handlers ────────────────────────────────────────────
+  const handleSelectPractice = useCallback((practiceId) => {
+    setActiveStoryPracticeId(practiceId);
+    // Don't clear the reference if one is already open
+  }, []);
 
-  const handleClearSelection = () => {
-    setSelection({ type: null, id: null });
-  };
+  const handleCloseStory = useCallback(() => {
+    setActiveStoryPracticeId(null);
+  }, []);
 
+  const handleOpenReference = useCallback((refId) => {
+    setActiveReferenceId(refId);
+  }, []);
+
+  const handleCloseReference = useCallback(() => {
+    setActiveReferenceId(null);
+  }, []);
+
+  const handleFilterByCategory = useCallback((categoryId) => {
+    setActiveFilters(prev => {
+      const next = new Set(prev);
+      if (next.has(categoryId)) next.delete(categoryId);
+      else next.add(categoryId);
+      return next;
+    });
+  }, []);
+
+  const handleSeeOnMap = useCallback((categoryId) => {
+    setActiveFilters(new Set([categoryId]));
+    setView('map');
+    setExpandedConceptId(null);
+  }, []);
+
+  // Navigate story sheet to a different practice without closing
+  const handleNavigatePractice = useCallback((practiceId) => {
+    setActiveStoryPracticeId(practiceId);
+    // Keep reference panel open if it was open
+  }, []);
+
+  // ── Loading / Error screens ───────────────────────────────────
   if (loading) {
     return (
       <div className="loading-screen">
         <div className="spinner-wrapper">
           <RefreshCw className="loading-spinner animate-spin" />
-          <p>Analyzing Ontological Structures...</p>
+          <p>Mapping utopian practices…</p>
         </div>
       </div>
     );
@@ -77,7 +110,9 @@ function App() {
         <div className="error-box glass-panel">
           <h2>Data Load Error</h2>
           <p className="text-secondary text-sm">
-            Could not fetch data assets. Please run the build script `build_practices_json.py` to populate static data in the `public/data` directory, or check your console logs.
+            Could not fetch data assets. Check that <code>public/data/</code> contains
+            practices.json, category_index.json, ontology.json, coded_matrix.json,
+            references_resolved.json, and next_best_things.json.
           </p>
         </div>
       </div>
@@ -86,7 +121,7 @@ function App() {
 
   return (
     <div className="app-container">
-      {/* Top Banner / Header */}
+      {/* Header */}
       <header className="app-header glass-panel">
         <div className="header-brand">
           <div className="brand-logo animate-pulse-slow">
@@ -95,81 +130,131 @@ function App() {
           <div className="brand-text">
             <h1>MAPPING UTOPIA</h1>
             <p className="text-xs text-secondary">
-              Digital Education Theory & Practice Ontology Vis Layer
+              {practices.length} practices · {categories.length} concepts · {referencesResolved.length} texts
             </p>
           </div>
         </div>
 
-        {/* Tab switch control */}
         <div className="header-controls">
           <div className="tab-control-group glass-panel">
-            <button 
-              onClick={() => setActiveTab('map')} 
-              className={`tab-btn ${activeTab === 'map' ? 'active' : ''}`}
+            <button
+              id="tab-btn-map"
+              onClick={() => setView('map')}
+              className={`tab-btn ${view === 'map' ? 'active' : ''}`}
             >
               <Compass className="tab-icon" />
-              <span>Geo Map View</span>
+              <span>The Map</span>
             </button>
-            <button 
-              onClick={() => setActiveTab('network')} 
-              className={`tab-btn ${activeTab === 'network' ? 'active' : ''}`}
+            <button
+              id="tab-btn-concepts"
+              onClick={() => setView('concepts')}
+              className={`tab-btn ${view === 'concepts' ? 'active' : ''}`}
             >
-              <Network className="tab-icon" />
-              <span>Network Graph View</span>
+              <BookOpen className="tab-icon" />
+              <span>Concept Atlas</span>
             </button>
           </div>
-          
-          {selection.id && (
-            <button onClick={handleClearSelection} className="reset-btn hover-grow">
-              Reset Focus
+
+          {(activeFilters.size > 0 || activeStoryPracticeId) && (
+            <button
+              id="reset-all-btn"
+              className="reset-btn hover-grow"
+              onClick={() => {
+                setActiveFilters(new Set());
+                setActiveStoryPracticeId(null);
+                setActiveReferenceId(null);
+              }}
+            >
+              Reset
             </button>
           )}
         </div>
       </header>
 
-      {/* Main visualization grid */}
-      <main className="app-main">
-        {/* Left Side: Active Visualization tab */}
-        <section className="visualization-section glass-panel">
-          {activeTab === 'map' ? (
-            <GeoMap 
+      {/* Main canvas */}
+      <main className="app-main" id="app-main">
+        {view === 'map' ? (
+          // ── MAP VIEW ──────────────────────────────────────────
+          <div className="map-canvas" id="map-canvas">
+            <GeoMap
               practices={practices}
-              selection={selection}
-              onSelect={handleSelect}
+              activeFilters={activeFilters}
+              activeStoryPracticeId={activeStoryPracticeId}
+              onSelectPractice={handleSelectPractice}
             />
-          ) : (
-            <NetworkGraph 
-              practices={practices}
-              categories={categories}
-              references={references}
-              edges={edges}
-              selection={selection}
-              onSelect={handleSelect}
-            />
-          )}
-        </section>
 
-        {/* Right Side: Sidebar panels */}
-        <section className="sidebar-section glass-panel scrollbar-custom">
-          {selection.id ? (
-            <DetailPanel 
-              selection={selection}
-              practices={practices}
+            {/* Left: Concept Filter Rail */}
+            <ConceptFilterRail
               categories={categories}
-              references={references}
-              edges={edges}
-              onSelect={handleSelect}
-              onClear={handleClearSelection}
-            />
-          ) : (
-            <StatsDashboard 
               practices={practices}
-              categories={categories}
-              references={references}
-              onSelect={handleSelect}
+              activeFilters={activeFilters}
+              onFiltersChange={setActiveFilters}
             />
-          )}
-        </section>
+
+            {/* Bottom-left empty-state stats card */}
+            {!activeStoryPracticeId && activeFilters.size === 0 && (
+              <div className="map-empty-state">
+                <StatsDashboard
+                  practices={practices}
+                  categories={categories}
+                  references={referencesResolved}
+                  onSelect={({ id }) => handleSelectPractice(id)}
+                  compact
+                />
+              </div>
+            )}
+
+            {/* Right: Story Sheet */}
+            {activeStoryPracticeId && (
+              <StorySheet
+                practiceId={activeStoryPracticeId}
+                practices={practices}
+                codedMatrix={codedMatrix}
+                onClose={handleCloseStory}
+                onNavigate={handleNavigatePractice}
+                onFilterByCategory={handleFilterByCategory}
+                onOpenReference={handleOpenReference}
+                onShowOnMap={() => setView('map')}
+              />
+            )}
+          </div>
+        ) : (
+          // ── CONCEPT ATLAS VIEW ────────────────────────────────
+          <div className="atlas-canvas" id="atlas-canvas">
+            <ConceptAtlas
+              categories={categories}
+              ontology={ontology}
+              codedMatrix={codedMatrix}
+              practices={practices}
+              expandedConceptId={expandedConceptId}
+              onExpandConcept={setExpandedConceptId}
+              onOpenReference={handleOpenReference}
+              onNavigatePractice={(practiceId) => {
+                setActiveStoryPracticeId(practiceId);
+                setView('map');
+              }}
+              onSeeOnMap={handleSeeOnMap}
+            />
+          </div>
+        )}
+
+        {/* Theory Slide-Over — global overlay, appears over map or atlas */}
+        {activeReferenceId && (
+          <TheorySlideOver
+            referenceId={activeReferenceId}
+            referencesResolved={referencesResolved}
+            codedMatrix={codedMatrix}
+            nextBestThings={nextBestThings}
+            practices={practices}
+            categories={categories}
+            onClose={handleCloseReference}
+            onNavigatePractice={(practiceId) => {
+              setActiveReferenceId(null);
+              setActiveStoryPracticeId(practiceId);
+              setView('map');
+            }}
+          />
+        )}
       </main>
     </div>
   );

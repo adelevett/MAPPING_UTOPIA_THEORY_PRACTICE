@@ -1,0 +1,308 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Digital Education Utopianism/Dystopianism Ontology",
+  "type": "object",
+  "perspectives": [
+    {
+      "perspective_id": "P1",
+      "perspective_name": "Typologies of Visionary Constructs",
+      "perspective_definition": "Categorizes the theoretical and ontological nature of the imagined futures, distinguishing between different classifications of utopian, anti-utopian, and dystopian constructs based on their sociopolitical orientation and structural characteristics.",
+      "categories": [
+        {
+          "category_id": "P1-C1",
+          "category_name": "Concrete and Affirmative Utopianism",
+          "category_definition": "Visions grounded in material drives, repressed desires, or affirmative sociopolitical transformations that transcend the 'blueprint vs. real' dichotomy to offer a holistic, hopeful alternative to current realities.",
+          "coding_rule": "Apply when the text discusses utopia as a material, affirmative, or holistic alternative that actively seeks to overcome current alienation and achieve a better society.",
+          "anchor_example": "a vision rooted in material drives to overcome alienation and achieve a classless, humane society."
+        },
+        {
+          "category_id": "P1-C2",
+          "category_name": "Critical Dystopianism",
+          "category_definition": "Negative or warning visions of society that, despite their dark depiction of exaggerated negative trends, deliberately maintain a site of resistance, agency, or 'utopian pessimism'.",
+          "coding_rule": "Apply when the text describes a negative or cautionary future vision that explicitly retains a space for hope, critique, or resistance.",
+          "anchor_example": "characterized by a 'utopian pessimism'—a critical stance that, despite its darkness, maintains a space of hope and potential resistance."
+        },
+        {
+          "category_id": "P1-C3",
+          "category_name": "Anti-Utopianism",
+          "category_definition": "Pessimistic frameworks or narratives characterized by absolute hopelessness, total control without resistance, or anthropological essentialism that deems utopia either unattainable or human nature too frail.",
+          "coding_rule": "Apply when the text references pessimistic visions with no space for resistance, or arguments that claim utopia is impossible due to human frailty.",
+          "anchor_example": "anti-utopian anthropological essentialism—which claims that human nature is too frail or that utopia is unattainable"
+        },
+        {
+          "category_id": "P1-C4",
+          "category_name": "Domesticated / Real Utopianism",
+          "category_definition": "Pragmatic, experimental forms of thought that attempt to harness the transgressive force of traditional utopianism while avoiding its dangers, often critiqued for diluting the transformative power of the concept.",
+          "coding_rule": "Apply when the text critiques or discusses scaled-down, pragmatic, or 'realistic' utopias that temper radical imagination.",
+          "anchor_example": "experimental forms of thought and practice intended to harness the transgressive force of traditional utopianism while avoiding its associated dangers."
+        },
+        {
+          "category_id": "P1-C5",
+          "category_name": "Historical and Realized Dystopianism",
+          "category_definition": "The conceptualization of dystopia not merely as a speculative or literary warning, but as an empirical historical reality characterized by real-world despotisms and societal collapse.",
+          "coding_rule": "Apply when the text frames dystopia as a realized historical phenomenon or actual sociopolitical condition, bridging literary tradition with historical reality.",
+          "anchor_example": "broadens the concept of dystopia beyond literary totalitarians to encompass real-world despotisms and societies experiencing collapse."
+        },
+        {
+          "category_id": "P1-C6",
+          "category_name": "Open Speculative Futures",
+          "category_definition": "Visionary constructs characterized by open-ended 'what if' scenarios and social dreaming, explicitly rejecting predictive forecasting in favor of exploring a multiplicity of potential futures to stimulate public debate.",
+          "coding_rule": "Apply when the text conceptualizes the future not as a definitive utopian blueprint or dystopian warning, but as a pluralistic space for visualizing and debating multiple possibilities of what could be.",
+          "anchor_example": "Dunne and Raby pose 'what if' questions that are intended to open debate and discussion about the kind of future people want (and do not want)."
+        },
+        {
+          "category_id": "P1-C7",
+          "category_name": "Ruptural and Catalytic Utopianism",
+          "category_definition": "Visionary constructs that conceptualize the future as a gateway or portal emerging from a systemic crisis or historical rupture, framing catastrophic events as necessary catalysts to break from the status quo and imagine society anew.",
+          "coding_rule": "Apply when the text frames a systemic crisis, pandemic, or catastrophe as a 'portal' or rupture that demands a definitive break from the past and provides a unique gateway for utopian reimagining.",
+          "anchor_example": "Historically, pandemics have forced humans to break with the past and imagine their world anew. This one is no different. It is a portal, a gateway between one world and the next."
+        },
+        {
+          "category_id": "P1-C8",
+          "category_name": "Alternative Imaginative Frameworks (Novum-Driven)",
+          "category_definition": "Visionary constructs conceptualized as distinct alternative environments, structurally anchored by a 'novum' (an imaginative innovation or societal shift) that fundamentally separates them from the author's empirical reality.",
+          "coding_rule": "Apply when the text defines speculative constructs structurally as alternative imaginative frameworks driven by an innovation (the novum) rather than defining them explicitly by their sociopolitical utopic or dystopic teleology.",
+          "anchor_example": "an imaginative framework alternative to the author's empirical environment."
+        },
+        {
+          "category_id": "P1-C9",
+          "category_name": "Critical Utopianism",
+          "category_definition": "Visionary constructs that reject static blueprints and the preservation of status-quo ideologies, instead conceptualizing utopia as a dynamic, historical process anchored in critical consciousness and active social transformation.",
+          "coding_rule": "Apply when the text explicitly refers to 'critical utopianism' or frames the utopian vision as an active, historical, and transformative process meant to critique and dismantle hegemonic structures like capitalist ideology.",
+          "anchor_example": "converge on a shared commitment to critical utopianism. Both reject conventional, contemplative education that maintains status quo structures"
+        },
+        {
+          "category_id": "P1-C10",
+          "category_name": "Liberatory Visionary Fiction (Hopepunk/Solarpunk)",
+          "category_definition": "Visionary constructs anchored in contemporary speculative genres like hopepunk and solarpunk that actively reject apocalyptic and pessimistic narratives to focus on community connection, agency, and hopeful, liberatory futures.",
+          "coding_rule": "Apply when the text explicitly proposes hopepunk, solarpunk, or visionary fiction as models to counteract apocalyptic pessimism and imagine equitable, liberatory futures.",
+          "anchor_example": "suggest a turn to the genres of hopepunk, solarpunk and visionary fiction as models of storytelling grounded in hope which imagines more liberatory education and learning futures."
+        },
+        {
+          "category_id": "P1-C11",
+          "category_name": "Epistemological Utopianism (Utopian Knowledge)",
+          "category_definition": "Visionary constructs that conceptualize utopia primarily as a typology of knowledge or an epistemological mode, enabling learners to navigate complex, uncertain futures through a structured understanding of themselves and their world.",
+          "coding_rule": "Apply when the text frames utopia explicitly as a 'typology of utopian knowledge' or an epistemological mode for understanding oneself and the world, particularly in the context of crises.",
+          "anchor_example": "introduces a typology of utopian knowledge into the practice of CCE... forms in which learners can get to know themselves and their worlds in utopian ways"
+        },
+        {
+          "category_id": "P1-C12",
+          "category_name": "Affirmative Multi-Normative Utopianism",
+          "category_definition": "A typology of visionary constructs that conceptualizes utopias based on an ethico-political normative stance, explicitly transcending the 'real versus blueprint' dichotomy by distinguishing between prescriptive, incriminatory models and multi-normative, affirmative models.",
+          "coding_rule": "Apply when the text categorizes utopias into affirmative versus incriminatory frameworks, explicitly rejecting the real/blueprint dichotomy in favor of a multiplicity of normativities beyond strict prescriptivism.",
+          "anchor_example": "first I introduce the concepts of incriminatory and affirmative utopianism... utopian thought involves multiple normativities rather than prescriptivism alone."
+        },
+        {
+          "category_id": "P1-C13",
+          "category_name": "Techno-Deterministic and Predictive Utopianism",
+          "category_definition": "Visionary constructs driven by institutional and corporate actors that rely on datafication, big data, learning analytics, and artificial intelligence to promise highly efficient, managed, and predictable educational futures.",
+          "coding_rule": "Apply when the text describes or critiques future scenarios that are technologically deterministic, data-driven, and aimed at maximizing educational efficiency and predictability.",
+          "anchor_example": "In these future scenarios, datafication, big data, learning analytics, and artificial intelligence promise more efficient and predictable higher education."
+        },
+        {
+          "category_id": "P1-C14",
+          "category_name": "Political-Ideological Visionary Constructs",
+          "category_definition": "Visionary constructs, including classical utopian, anti-utopian, and dystopian literatures, conceptualized primarily as narrative expressions or critiques of political ideology that serve to evaluate state structures and impart political aspirations.",
+          "coding_rule": "Apply when the text conceptualizes utopian or dystopian literature predominantly as artifacts of political philosophy that offer nuanced perspectives on political ideology.",
+          "anchor_example": "arguing that We offers a more nuanced and valuable perspective on political ideology."
+        }
+      ]
+    },
+    {
+      "perspective_id": "P2",
+      "perspective_name": "Speculative Methodologies in Education",
+      "perspective_definition": "Captures the structured approaches, tools, and narrative devices deployed by researchers and educators to actively generate, explore, and analyze alternative educational futures.",
+      "categories": [
+        {
+          "category_id": "P2-C1",
+          "category_name": "Utopia as Method",
+          "category_definition": "A formal, reflexive analytical framework comprising distinct phases (e.g., archaeological, ontological, architectural) used to systematically imagine the reconstitution of society and educational institutions.",
+          "coding_rule": "Apply when utopian thinking is explicitly operationalized as a structured methodology or analytical framework with distinct phases or modes.",
+          "anchor_example": "encompassing the archaeological, ontological, and architectural phases—we can approach the histor"
+        },
+        {
+          "category_id": "P2-C2",
+          "category_name": "Speculative Fiction and Design",
+          "category_definition": "The use of narrative storytelling, 'what if' scenarios, and design practices to debate alternatives, keep futures open, and prevent lock-in to predetermined technological trajectories.",
+          "coding_rule": "Apply when the text discusses using fiction, creative writing, or speculative design artifacts to imagine and discuss non-predictive educational futures.",
+          "anchor_example": "using design as a medium to debate and discuss alternative futures, ideas, and values. It is a form of social dreaming"
+        },
+        {
+          "category_id": "P2-C3",
+          "category_name": "Cognitive Estrangement",
+          "category_definition": "A literary and analytical device that makes the familiar unfamiliar through an imaginative innovation (the 'novum'), enabling rational, critical exploration of contemporary environments.",
+          "coding_rule": "Apply when the text focuses on the mechanism of defamiliarizing reality or using an alternative imaginative framework to critically observe the present.",
+          "anchor_example": "interaction of estrangement (making the familiar unfamiliar through an alternative environment) and cognition"
+        },
+        {
+          "category_id": "P2-C4",
+          "category_name": "Historical and Genealogical Analysis",
+          "category_definition": "An analytical approach that traces the historical evolution, emotional substrata, and literary origins of speculative concepts across time to understand responses to modernity.",
+          "coding_rule": "Apply when the text utilizes a chronological, historical, or interdisciplinary study to trace the evolution and reality of dystopian or utopian thought.",
+          "anchor_example": "traces the chronological evolution of dystopian thought from its early nineteenth-century literary origins to the modern era"
+        },
+        {
+          "category_id": "P2-C5",
+          "category_name": "Narrative Mapping of Social Realities",
+          "category_definition": "A methodological conceptualization that views dystopian or speculative fiction as a functional 'narrative machine' which actively maps, reflects, and critiques contemporary social realities through the portrayal of exaggerated alternative societies.",
+          "coding_rule": "Apply when the text conceptualizes literature or fiction as a functional mechanism or mapping tool used to analytically critique current sociopolitical realities via exaggerated scenarios.",
+          "anchor_example": "Dystopian fiction is a narrative machine that maps contemporary social realities by portraying exaggerated, worse imaginary societies."
+        },
+        {
+          "category_id": "P2-C6",
+          "category_name": "Philosophical Anthropological Analysis",
+          "category_definition": "An analytical approach that evaluates utopian and anti-utopian constructs through the lens of human nature, plasticity, and perfectibility, investigating how underlying assumptions about humanity (e.g., essentialism vs. malleability) shape educational and political visions.",
+          "coding_rule": "Apply when the text grounds its analysis of utopia/dystopia in philosophical anthropology, debates about human nature, or the perfectibility/plasticity of humanity to determine the scope of educational ambition.",
+          "anchor_example": "relies on a philosophical anthropology that undertakes to explore human nature and human potentiality"
+        },
+        {
+          "category_id": "P2-C7",
+          "category_name": "Empirical Didactics and Curricular Implementation",
+          "category_definition": "An approach focused on the empirical investigation and practical challenges of teaching speculative and dystopian literature in formal educational settings, addressing didactic issues such as text selection, accessibility, and alignment with curriculum policies.",
+          "coding_rule": "Apply when the text examines the practical, pedagogical, or policy-related challenges of executing speculative methodologies in the classroom, including teacher experiences and curricular alignment.",
+          "anchor_example": "identifying four main areas of challenge: text and resource selection, text accessibility, the versatility of teaching literature, and the role of curriculum policy documents."
+        },
+        {
+          "category_id": "P2-C8",
+          "category_name": "Postqualitative and Posthumanist Speculation",
+          "category_definition": "Speculative research methodologies rooted in postqualitative, posthumanist, or postdigital paradigms that challenge anthropocentric, procedural conventions by using creative, non-representational, and sensory approaches to explore human-technology-planetary entanglements.",
+          "coding_rule": "Apply when the text explicitly frames speculative methods (such as scenarios or microfictions) within postqualitative or posthumanist frameworks, emphasizing methodological shifts toward entanglement, non-representation, and moving beyond anthropocentric conventions.",
+          "anchor_example": "works with speculation as a post-qualitative method... emphasising the entangled nature of the human, the technological and the planetary."
+        },
+        {
+          "category_id": "P2-C9",
+          "category_name": "Utopian Integration in Climate Change Education (CCE)",
+          "category_definition": "A pedagogical methodology that introduces typologies of utopian knowledge directly into the practice of Climate Change Education (CCE) to help learners navigate ecological crises and practice new ways of being.",
+          "coding_rule": "Apply when the text operationalizes utopian thinking as a practical framework or typology integrated specifically into Climate Change Education (CCE).",
+          "anchor_example": "introduces a typology of utopian knowledge into the practice of CCE... exemplary reflections on how the modes of utopian knowledge might be practiced in CCE."
+        },
+        {
+          "category_id": "P2-C10",
+          "category_name": "Speculative Social Science Fiction",
+          "category_definition": "A methodological approach that integrates critical social science concepts and theoretical frameworks with speculative fiction to analytically transition from current empirical realities ('what is') to imagined alternatives ('what could be').",
+          "coding_rule": "Apply when the text explicitly identifies 'speculative social science fiction' as a method to critically explore the potentials and challenges of digital technologies by blending social theory with speculative narrative.",
+          "anchor_example": "Speculative social science fiction of digitalization in higher education is a method to move from 'what is' to 'what could be'"
+        },
+        {
+          "category_id": "P2-C11",
+          "category_name": "Comparative Literary Analysis for Political Education",
+          "category_definition": "An analytical and pedagogical methodology that relies on the comparative reading and contrast of classical utopian and dystopian literary texts to evaluate their utility in civic or political education.",
+          "coding_rule": "Apply when the methodology explicitly centers on comparing specific classical literary works (e.g., Orwell, Zamyatin) to extract lessons for political education.",
+          "anchor_example": "provides a comparative analysis of George Orwell's Nineteen Eighty-Four and Yevgeny Zamyatin's We... to evaluate its role in political education"
+        },
+        {
+          "category_id": "P2-C12",
+          "category_name": "Theoretical Synthesis of Emancipatory Philosophies",
+          "category_definition": "A methodological approach that relies on integrating and synthesizing classical critical, utopian, and emancipatory theories to construct new conceptual or pedagogical frameworks for social transformation.",
+          "coding_rule": "Apply when the text builds its methodological or conceptual framework by explicitly synthesizing the theoretical insights of distinct critical and utopian philosophers.",
+          "anchor_example": "integrates the insights of Herbert Marcuse (aesthetic education and utopian dreaming), Ernst Bloch (philosophy of hope and utopian imagination), and Paulo Freire (conscientization and action) to build a pedagogy of hope"
+        },
+        {
+          "category_id": "P2-C13",
+          "category_name": "Critical Evaluation of Utopian Realism",
+          "category_definition": "A theoretical and methodological approach focused on evaluating and critiquing the application of pragmatic or 'real' utopias in educational studies to demonstrate their conceptual domestication and to defend traditional, holistic utopian frameworks.",
+          "coding_rule": "Apply when the text methodologically critiques 'real utopias' or 'utopian realism' by assessing their success and arguing for a return to expansive, holistic utopian conceptualizations.",
+          "anchor_example": "evaluates a selection of educational real utopias to assess whether they can, in fact, be said to have succeeded in the task of harnessing the intellectual force while overcoming the dangers of traditional utopianism."
+        }
+      ]
+    },
+    {
+      "perspective_id": "P3",
+      "perspective_name": "Pedagogical Affects and Orientations",
+      "perspective_definition": "Identifies the emotional, psychological, and critical drivers leveraged in educational contexts to shape human plasticity, promote conscientization, and inspire social transformation.",
+      "categories": [
+        {
+          "category_id": "P3-C1",
+          "category_name": "Educated Hope and Anticipatory Consciousness",
+          "category_definition": "An active, forward-dreaming dialectical force that rejects naive optimism, striving instead to tap into repressed desires and nurture a belief in the possibility of a better future.",
+          "coding_rule": "Apply when the text emphasizes hope as an active, learned capability that drives transformation and prevents cynicism.",
+          "anchor_example": "Educated hope is not a naive optimism, nor is educated fear a paralyzing pessimism. They are dialectical forces that shape the plasticity of humanity."
+        },
+        {
+          "category_id": "P3-C2",
+          "category_name": "Educated Fear and Dystopian Warning",
+          "category_definition": "The deliberate pedagogical mobilization of fear or worst-case scenarios to radicalize critique, exaggerate negative contemporary trends, and serve as a warning system.",
+          "coding_rule": "Apply when the text focuses on utilizing fear, dystopian warnings, or the exaggeration of current negative trends to awaken critical consciousness.",
+          "anchor_example": "a warning of what might be if contemporary trends continue. By defamiliarizing the familiar, it allows us to see our own social and political practices with fresh, critical eyes"
+        },
+        {
+          "category_id": "P3-C3",
+          "category_name": "Critical Transformative Pedagogy",
+          "category_definition": "An educational approach that moves beyond mere critique of existing structures to incorporate active social dreaming, conscientization, and the pursuit of political ideals and change.",
+          "coding_rule": "Apply when the text links utopian/dystopian thought to active, transformative pedagogical action designed to overcome contemplative, status quo education.",
+          "anchor_example": "an active pedagogy of hope rooted in critical consciousness and social transformation."
+        },
+        {
+          "category_id": "P3-C4",
+          "category_name": "Existential Fear and Affective Substrata",
+          "category_definition": "The examination of deep-seated emotional responses, particularly fear and hatred, as pervasive, existential foundations of modern life rather than just instrumental pedagogical tools, often arising as reactions to technological paradoxes.",
+          "coding_rule": "Apply when the text emphasizes fear, hatred, or affective substrata as the actual foundation of modern human behavior and technological anxiety, rather than just a deliberate educational warning.",
+          "anchor_example": "Fear, my good friends, fear is the very basis and foundation of modern life. Fear of the much touted technology"
+        },
+        {
+          "category_id": "P3-C5",
+          "category_name": "Imaginative Provocation and Social Dreaming",
+          "category_definition": "An orientation that leverages imaginative exploration and the visualization of alternatives to provoke debate and reflection on values, rather than prescribing explicit hopes, fears, or specific political blueprints.",
+          "coding_rule": "Apply when the text focuses on unlocking imaginative capacities and sparking discursive debate (e.g., via 'what if' questions and social dreaming) as the primary critical and psychological driver.",
+          "anchor_example": "It is a form of social dreaming, a way to visualize what could be, rather than merely what is."
+        },
+        {
+          "category_id": "P3-C6",
+          "category_name": "Crisis-Catalyzed Awakening and Reimagination",
+          "category_definition": "An affective orientation that leverages profound collective despair and the shock of systemic rupture as psychological catalysts, compelling individuals to refuse a return to 'normality' and actively rethink destructive societal structures.",
+          "coding_rule": "Apply when the text emphasizes using a state of terrible despair, crisis, or systemic rupture as the primary emotional and psychological driver for reimagining the world and rejecting the status quo.",
+          "anchor_example": "And in the midst of this terrible despair, it offers us a chance to rethink the doomsday machine we have built for ourselves."
+        },
+        {
+          "category_id": "P3-C7",
+          "category_name": "Utopian Pessimism and Resistant Hope",
+          "category_definition": "An affective and critical orientation that embraces a dark or pessimistic assessment of reality while deliberately maintaining a space for hope, agency, and potential resistance.",
+          "coding_rule": "Apply when the text describes a critical stance or emotional orientation that explicitly balances dystopian darkness (pessimism) with the preservation of hope and resistance.",
+          "anchor_example": "characterized by a 'utopian pessimism'—a critical stance that, despite its darkness, maintains a space of hope and potential resistance."
+        },
+        {
+          "category_id": "P3-C8",
+          "category_name": "Cognitive and Rational Exploration",
+          "category_definition": "An orientation that prioritizes intellectual distancing and the logical, rational exploration of new realities over purely emotional or affective drivers.",
+          "coding_rule": "Apply when the text emphasizes rational analysis, logic, and cognition as the primary psychological or critical mechanisms for processing speculative environments.",
+          "anchor_example": "rational, logical exploration of new realities"
+        },
+        {
+          "category_id": "P3-C9",
+          "category_name": "Radical Imagination and Liberatory Hope",
+          "category_definition": "An affective orientation that mobilizes radical imagination and active hope to counteract apocalyptic, pessimistic narratives, aiming to dismantle systemic inequalities (such as settler colonialism) and foster connection, agency, and community flourishing.",
+          "coding_rule": "Apply when the text emphasizes radical imagination and hopeful storytelling as affective tools to resist pessimism and promote liberatory, equitable educational futures.",
+          "anchor_example": "a method which has the potential for radical imagination... storytelling grounded in hope which imagines more liberatory education and learning futures."
+        },
+        {
+          "category_id": "P3-C10",
+          "category_name": "Pedagogical Utopianism and Human Plasticity",
+          "category_definition": "An educational and affective orientation that explicitly counters anti-utopian despondency by asserting the malleability, pliability, and perfectibility of human nature as the foundational prerequisite for radical pedagogical vision and human redirection.",
+          "coding_rule": "Apply when the text frames its pedagogical orientation around the rejection of anthropological essentialism, instead advocating for educational ambition based on the plasticity and perfectibility of humanity.",
+          "anchor_example": "assert a pedagogical utopianism that recognizes the malleability of human nature."
+        },
+        {
+          "category_id": "P3-C11",
+          "category_name": "Speculative Unsettling and Narrative Disruption",
+          "category_definition": "An affective and critical orientation that utilizes speculative pedagogy to unsettle, disrupt, or destabilize dominant, deterministic narratives (such as Big Tech inevitability) and conventional rhetorical patterns, prompting critical engagement with issues of trust, surveillance, and agency.",
+          "coding_rule": "Apply when the text highlights the pedagogical goal of using speculative methods specifically to unsettle or disrupt predetermined, dominant technological trajectories or rhetorical patterns in educational research.",
+          "anchor_example": "unsettle common rhetorical patterns in educational technology research and explore digital futures in terms of trust, surveillance, and agency."
+        },
+        {
+          "category_id": "P3-C12",
+          "category_name": "Active Subjectification and Unleashing Imagination",
+          "category_definition": "An affective and critical orientation that seeks to unleash the imagination of educators and learners to resist technological determinism, transforming them from passive objects of data-driven systems into active subjects who shape digital futures.",
+          "coding_rule": "Apply when the text explicitly focuses on freeing teachers' or students' imagination to counteract their reduction to mere objects of digitalization, emphasizing their agency as active subjects.",
+          "anchor_example": "reduce teachers and the students in higher education to mere objects of digitalization, rather than seeing them as active subjects participating in the shaping of digital futures"
+        },
+        {
+          "category_id": "P3-C13",
+          "category_name": "Holistic Transgressive Pedagogical Orientation",
+          "category_definition": "A pedagogical orientation that relies on the expansive and complete conception of utopian systems to maintain transgressive power and generate potent educational impacts, rejecting pragmatic domestication.",
+          "coding_rule": "Apply when the text explicitly links the 'most potent pedagogical effects' or 'transgressive power' of utopia to its conceptualization as a holistic system rather than a scaled-down realism.",
+          "anchor_example": "only when utopia is understood as a holistic system is it able to produce its most potent pedagogical effects."
+        }
+      ]
+    }
+  ]
+}
