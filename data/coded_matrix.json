@@ -1,0 +1,487 @@
+{
+  "references": [
+    {
+      "id": "bloch_1986",
+      "citation_raw": "Bloch, E. (1986). The Principle of Hope (3 vols., trans. N. Plaice, S. Plaice & P. Knight). MIT Press. (Original work published 1954–1959)",
+      "applied_codes": [
+        {
+          "category_id": "P1-C1",
+          "justification": "The text explicitly defines and advocates for 'concrete utopia', emphasizing a materialist, dialectical vision that actively seeks to overcome alienation and achieve a classless, humane society.",
+          "verbatim_evidence": "He synthesizes the 'cold stream' of Marxist social and economic analysis with the 'warm stream' of forward-dreaming utopian speculation to define 'concrete utopia'—a vision rooted in material drives to overcome alienation and achieve a classless, humane society."
+        },
+        {
+          "category_id": "P2-C1",
+          "justification": "Bloch operationalizes utopian exploration as a systematic analytical methodology, utilizing distinct phases including an 'ontology of the Not-Yet' and an architectural 'construction' phase that evaluates technological and geographical utopias.",
+          "verbatim_evidence": "From the anticipatory, therefore, knowledge is to be gained on the basis of an ontology of the Not-Yet. [...] They comprise the fourth part: construction, with historically rich content which does not merely remain historical. It develops in the medical and social, the technological, architectural and geographical utopias..."
+        },
+        {
+          "category_id": "P3-C1",
+          "justification": "The text frames hope as an active, teachable dialectical capability ('docta spes' or comprehended hope) that rejects passivity and cultivates anticipatory consciousness toward a better future.",
+          "verbatim_evidence": "It is a question of learning hope. Its work does not renounce, it is in love with success rather than failure. Hope, superior to fear, is neither passive like the latter, nor locked into nothingness. [...] This other part has hoping at its core, and is teachable."
+        }
+      ]
+    },
+    {
+      "id": "booker_1994",
+      "citation_raw": "Booker, M.K. (1994). The Dystopian Impulse in Modern Literature: Fiction as Social Criticism. Greenwood Press.",
+      "applied_codes": [
+        {
+          "category_id": "P1-C2",
+          "justification": "The text identifies dystopian narratives as instruments of critique that challenge the status quo rather than expressions of absolute hopelessness, framing them as a deliberate site for critical social examination.",
+          "verbatim_evidence": "explores how dystopian literature functions as a vital form of social and political critique."
+        },
+        {
+          "category_id": "P2-C3",
+          "justification": "The text explicitly points to 'defamiliarization' as a formal literary device used to render present realities unfamiliar in order to evaluate them critically.",
+          "verbatim_evidence": "By defamiliarizing the familiar, it allows us to see our own social and political practices with fresh, critical eyes"
+        },
+        {
+          "category_id": "P3-C2",
+          "justification": "The text characterizes the dystopian impulse as an active warning system, designed to extrapolate and exaggerate contemporary trends to alert and awaken the reader.",
+          "verbatim_evidence": "Dystopian literature is not a depiction of what will be, but a warning of what might be if contemporary trends continue."
+        }
+      ]
+    },
+    {
+      "id": "claeys_2017",
+      "citation_raw": "Claeys, G. (2017). Dystopia: A Natural History. Oxford University Press.",
+      "applied_codes": [
+        {
+          "category_id": "P1-C5",
+          "justification": "The text redefines dystopia by moving beyond its traditional boundaries as speculative literary fiction, classifying it instead as an empirical historical reality characterized by real-world despotisms and societal collapse.",
+          "verbatim_evidence": "broadens the concept of dystopia beyond literary totalitarians to encompass real-world despotisms and societies experiencing collapse."
+        },
+        {
+          "category_id": "P2-C4",
+          "justification": "The author explicitly employs an interdisciplinary historical methodology, subtitled a 'natural history,' which tracks the chronology of dystopia from its literary origins to empirical modernity.",
+          "verbatim_evidence": "traces the chronological evolution of dystopian thought from its early nineteenth-century literary origins to the modern era"
+        },
+        {
+          "category_id": "P3-C4",
+          "justification": "The text posits fear not just as a pedagogical warning tool, but as an existential, foundational condition and emotional substratum underlying the human response to modern technological advancement.",
+          "verbatim_evidence": "Fear, my good friends, fear is the very basis and foundation of modern life. Fear of the much touted technology"
+        }
+      ]
+    },
+    {
+      "id": "dunne_2013",
+      "citation_raw": "Dunne, A. & Raby, F. (2013). Speculative Everything: Design, Fiction and Social Dreaming. MIT Press.",
+      "applied_codes": [
+        {
+          "category_id": "P1-C6",
+          "justification": "The text does not propose a definitive utopian or dystopian vision, but inductively requires a new category for visionary constructs oriented around open-ended speculation and debate about multiple possible futures.",
+          "verbatim_evidence": "Instead, Dunne and Raby pose \"what if\" questions that are intended to open debate and discussion about the kind of future people want (and do not want)."
+        },
+        {
+          "category_id": "P2-C2",
+          "justification": "The text directly defines speculative design as an explicit methodological tool utilizing design artifacts and 'what if' prompts to debate alternatives and prevent predictive lock-in.",
+          "verbatim_evidence": "Speculative design, on the other hand, is about using design as a medium to debate and discuss alternative futures, ideas, and values."
+        },
+        {
+          "category_id": "P3-C5",
+          "justification": "The psychological and critical driver used here isn't the prescriptive hope or fear found in existing categories, but rather an orientation toward unlocking imagination and prompting discussion through 'social dreaming'.",
+          "verbatim_evidence": "It is a form of social dreaming, a way to visualize what could be, rather than merely what is."
+        }
+      ]
+    },
+    {
+      "id": "levitas_2013",
+      "citation_raw": "Levitas, R. (2013). Utopia as Method: The Imaginary Reconstitution of Society. Palgrave Macmillan.",
+      "applied_codes": [
+        {
+          "category_id": "P1-C7",
+          "justification": "The text conceptualizes the visionary future specifically through the lens of a historical rupture (the pandemic), framing the catastrophic crisis not merely as an endpoint but as a forced 'portal' or gateway that breaks historical continuity and enables society to imagine itself anew.",
+          "verbatim_evidence": "Historically, pandemics have forced humans to break with the past and imagine their world anew. This one is no different. It is a portal, a gateway between one world and the next."
+        },
+        {
+          "category_id": "P2-C1",
+          "justification": "The text explicitly defines utopia as a reflexive analytical method rather than a static blueprint, detailing its structured deployment through three distinct modes: the archaeological, ontological, and architectural.",
+          "verbatim_evidence": "As a method, it is not a static blueprint of a perfect world, but an open, dialogic, and reflexive practice that helps us explore alternative possible futures through three modes: the archaeological (excavating fragments of utopian desire), the ontological (focusing on the changing human subject), and the architectural (designing the institutional space of a good society)."
+        },
+        {
+          "category_id": "P3-C6",
+          "justification": "The text highlights 'terrible despair' and the refusal to acknowledge rupture as key affective states, positioning profound collective despair not as paralyzing pessimism, but as the precise emotional catalyst needed to refuse 'normality' and rethink destructive societal machinery.",
+          "verbatim_evidence": "And in the midst of this terrible despair, it offers us a chance to rethink the doomsday machine we have built for ourselves. Nothing could be worse than a return to normality."
+        }
+      ]
+    },
+    {
+      "id": "moylan_2000",
+      "citation_raw": "Moylan, T. (2000). Scraps of the Untainted Sky: Science Fiction, Utopia, Dystopia. Westview Press.",
+      "applied_codes": [
+        {
+          "category_id": "P1-C2",
+          "justification": "The text explicitly defines 'true dystopias' (or critical dystopias) as visionary constructs that, in contrast to hopeless anti-utopias, maintain a site of resistance and hope within a negative framework.",
+          "verbatim_evidence": "true dystopias, which are characterized by a 'utopian pessimism'—a critical stance that, despite its darkness, maintains a space of hope and potential resistance."
+        },
+        {
+          "category_id": "P2-C5",
+          "justification": "Moylan methodologically conceptualizes dystopian literature as a functional apparatus ('narrative machine') designed to map and critique current sociopolitical realities using exaggerated, pessimistic scenarios.",
+          "verbatim_evidence": "Dystopian fiction is a narrative machine that maps contemporary social realities by portraying exaggerated, worse imaginary societies."
+        },
+        {
+          "category_id": "P3-C7",
+          "justification": "The text identifies 'utopian pessimism' specifically as an affective 'critical stance' that balances a dark, pessimistic assessment of reality with the deliberate preservation of hope and agency.",
+          "verbatim_evidence": "a 'utopian pessimism'—a critical stance that, despite its darkness, maintains a space of hope and potential resistance."
+        }
+      ]
+    },
+    {
+      "id": "papastephanou_2009",
+      "citation_raw": "Papastephanou, M. (2009). Educated Fear and Educated Hope: Dystopia, Utopia and the Plasticity of Humanity. Sense Publishers (Educational Futures, vol. 40).",
+      "applied_codes": [
+        {
+          "category_id": "P1-C3",
+          "justification": "The text explicitly defines and explores 'anti-utopian anthropological essentialism', mapping out the arguments of human frailty and utopian unattainability in order to understand and critique the limitations they place on radical educational vision.",
+          "verbatim_evidence": "Two main anti-utopian arguments are then investigated: the one of human frailty and that of utopian unattainability."
+        },
+        {
+          "category_id": "P2-C6",
+          "justification": "The author inducts a methodological framework based on philosophical anthropology and etymology to evaluate how assumptions concerning human malleability (or essentialism) govern the scope of utopian educational efforts.",
+          "verbatim_evidence": "That is, it relies on a philosophical anthropology that undertakes to explore human nature and human potentiality."
+        },
+        {
+          "category_id": "P3-C1",
+          "justification": "The text frames educated hope as a conscious, dynamic driver that explicitly rejects naive optimism to cultivate human plasticity, acting alongside educated fear in a dialectical manner.",
+          "verbatim_evidence": "Educated hope is not a naive optimism, nor is educated fear a paralyzing pessimism. They are dialectical forces that shape the plasticity of humanity."
+        }
+      ]
+    },
+    {
+      "id": "suvin_1979",
+      "citation_raw": "Suvin, D. (1979). Metamorphoses of Science Fiction: On the Poetics and History of a Literary Genre. Yale University Press.",
+      "applied_codes": [
+        {
+          "category_id": "P1-C8",
+          "justification": "Suvin classifies the nature of the genre structurally not strictly as utopian or dystopian teleology, but universally as an 'alternative imaginative framework' anchored by a 'novum' (imaginative innovation) that distances itself from the empirical environment.",
+          "verbatim_evidence": "whose main formal device is an imaginative framework alternative to the author's empirical environment."
+        },
+        {
+          "category_id": "P2-C3",
+          "justification": "The text explicitly introduces 'cognitive estrangement' as the definitive literary and methodological framework of the genre, utilizing an alternative environment to make the familiar unfamiliar while retaining cognitive logic.",
+          "verbatim_evidence": "interaction of estrangement (making the familiar unfamiliar through an alternative environment) and cognition"
+        },
+        {
+          "category_id": "P3-C8",
+          "justification": "The dominant orientation driving the engagement with the speculative construct in Suvin's theory is purely cognitive—focusing on rational and logical exploration rather than affective drivers like fear or hope.",
+          "verbatim_evidence": "rational, logical exploration of new realities"
+        }
+      ]
+    },
+    {
+      "id": "alfes_2021",
+      "citation_raw": "Alfes, L., Guttke, J., Lipari, A.C. & Wilden, E. (2021). 'Who controls the past controls the future': Benefits and challenges of teaching young adult dystopian fiction. CLELE Journal, 9(1), 12–31.",
+      "applied_codes": [
+        {
+          "category_id": "P1-C2",
+          "justification": "The text frames YA dystopian fiction as constructs that exaggerate negative trends while actively serving a critical function (raising critical awareness), aligning with the concept of Critical Dystopianism which warns about negative trajectories while maintaining agency and pedagogical value.",
+          "verbatim_evidence": "YA dystopian fiction serves as a valuable resource for raising students' critical awareness by exaggerating negative societal trends, allowing readers to reflect on potential trajectories."
+        },
+        {
+          "category_id": "P2-C7",
+          "justification": "The text explicitly investigates the empirical and practical pedagogical challenges of teaching dystopian literature in formal schooling, dealing with curriculum policies, text selection, and accessibility, requiring a new inductive category for empirical didactics.",
+          "verbatim_evidence": "identifying four main areas of challenge: text and resource selection, text accessibility, the versatility of teaching literature, and the role of curriculum policy documents."
+        },
+        {
+          "category_id": "P3-C2",
+          "justification": "The pedagogical approach leverages dystopian scenarios as a warning system, purposefully exaggerating current negative trends to awaken critical consciousness and prompt reflection on the future, which is the exact definition of Educated Fear and Dystopian Warning.",
+          "verbatim_evidence": "raising students' critical awareness by exaggerating negative societal trends, allowing readers to reflect on potential trajectories."
+        }
+      ]
+    },
+    {
+      "id": "bayne_2024",
+      "citation_raw": "Bayne, S. (2024). Digital education utopia. Learning, Media and Technology, 49(3), 506–521. https://doi.org/10.1080/17439884.2023.2262382",
+      "applied_codes": [
+        {
+          "category_id": "P1-C6",
+          "justification": "The text explicitly utilizes speculation not as predictive forecasting, but as a pluralistic framework designed to maintain multiple open paths and alternative collaborative possibilities for higher education futures.",
+          "verbatim_evidence": "imagining futures for higher education in open, non-predictive ways... support the collaborative imagining of multiple alternatives"
+        },
+        {
+          "category_id": "P2-C1",
+          "justification": "The conceptual framework is securely anchored in Levitas's 'utopia as method', directly employing its distinctive trifold phases (archaeological, ontological, and architectural) to analytically approach the histories and possibilities of digital education.",
+          "verbatim_evidence": "This paper uses Levitas’s (2013) ‘utopia as method’... encompassing the archaeological, ontological, and architectural phases—we can approach the histories and futures of digital education."
+        },
+        {
+          "category_id": "P3-C1",
+          "justification": "The central pedagogical and psychological affect driven by the text is the deliberate maintenance of a forward-looking, active, and deeply rooted sense of hope explicitly meant to counter spirals of hopelessness and dystopian despair.",
+          "verbatim_evidence": "Speculative methods can help open up new kinds of conversation capable of supporting active and fundamental hope."
+        }
+      ]
+    },
+    {
+      "id": "bayne_ross_2024",
+      "citation_raw": "Bayne, S. & Ross, J. (2024). Speculative futures for higher education. International Journal of Educational Technology in Higher Education, 21(39), 1–19. https://doi.org/10.1186/s41239-024-00469-y",
+      "applied_codes": [
+        {
+          "category_id": "P1-C6",
+          "justification": "The text explicitly categorizes its visionary constructs as open and non-predictive, focusing on the collaborative imagining of a multiplicity of alternative futures rather than definitive blueprints or singular dystopian warnings.",
+          "verbatim_evidence": "This paper uses speculative methods as a way of imagining futures for higher education in open, non-predictive ways."
+        },
+        {
+          "category_id": "P2-C8",
+          "justification": "The paper's methodological approach is explicitly grounded in a postqualitative framework that uses microfictions to push against conventional, anthropocentric research, focusing instead on the entangled nature of human, technological, and planetary domains.",
+          "verbatim_evidence": "First, it works with speculation as a post-qualitative method... emphasising the entangled nature of the human, the technological and the planetary."
+        },
+        {
+          "category_id": "P3-C1",
+          "justification": "The affective orientation of the paper deliberately counters dystopian despair by mobilizing speculative methods to cultivate an 'active and fundamental hope' that drives the desire for better futures.",
+          "verbatim_evidence": "Speculative methods can help open up new kinds of conversation capable of supporting active and fundamental hope."
+        }
+      ]
+    },
+    {
+      "id": "cemiloglu_2019",
+      "citation_raw": "Cemiloglu, N. (2019). 'Flaschenpost' from the past: The critical utopian pedagogies of Ernst Bloch and Paulo Freire. ResearchGate [preprint/working paper]. https://www.researchgate.net/publication/344508630",
+      "applied_codes": [
+        {
+          "category_id": "P1-C9",
+          "justification": "The text explicitly introduces 'critical utopianism' as a distinct visionary construct. This required inductive generation of a new category because it deliberately separates itself from mere material or blueprint alternatives by emphasizing an ongoing historical process designed to reject static capitalist ideologies and foster active transformation.",
+          "verbatim_evidence": "converge on a shared commitment to critical utopianism. Both reject conventional, contemplative education that maintains status quo structures"
+        },
+        {
+          "category_id": "P2-C6",
+          "justification": "The article's methodological approach evaluates these utopian constructs fundamentally through the lens of the philosophers' views on human nature and history, which maps directly to philosophical anthropological analysis.",
+          "verbatim_evidence": "rooted in their respective understandings of human nature, history, and social transformation."
+        },
+        {
+          "category_id": "P3-C3",
+          "justification": "The text firmly situates the affective and psychological orientation of the pedagogies as moving beyond static facts toward an active, transformative approach rooted in critical consciousness.",
+          "verbatim_evidence": "proposing instead an active pedagogy of hope rooted in critical consciousness and social transformation."
+        }
+      ]
+    },
+    {
+      "id": "houlden_2022",
+      "citation_raw": "Houlden, S. & Veletsianos, G. (2022). Impossible dreaming: On speculative education fiction and hopeful learning futures. Postdigital Science and Education, 5(3), 605–622. https://doi.org/10.1007/s42438-022-00348-7",
+      "applied_codes": [
+        {
+          "category_id": "P1-C10",
+          "justification": "The text explicitly advocates for specific visionary constructs (hopepunk, solarpunk, visionary fiction) to move away from over-represented pessimistic and apocalyptic visions that risk reinforcing settler colonial injustice.",
+          "verbatim_evidence": "we propose using this method to help develop hopeful futures... suggest a turn to the genres of hopepunk, solarpunk and visionary fiction as models of storytelling grounded in hope which imagines more liberatory education and learning futures."
+        },
+        {
+          "category_id": "P2-C2",
+          "justification": "The text focuses on the methodological use of speculative education fiction and storytelling to rethink educational futures.",
+          "verbatim_evidence": "arguing for the continued use of speculative education fiction in critical education studies, a method which has the potential for radical imagination."
+        },
+        {
+          "category_id": "P3-C9",
+          "justification": "The text identifies 'radical imagination' and storytelling 'grounded in hope' as the primary affective drivers needed to counteract apocalyptic narratives and imagine liberatory futures.",
+          "verbatim_evidence": "a method which has the potential for radical imagination... storytelling grounded in hope which imagines more liberatory education and learning futures."
+        }
+      ]
+    },
+    {
+      "id": "lewis_2006",
+      "citation_raw": "Lewis, T.E. (2006). Utopia and education in critical theory. Policy Futures in Education, 4(1), 6–17. https://doi.org/10.2304/pfie.2006.4.1.6",
+      "applied_codes": [
+        {
+          "category_id": "P1-C9",
+          "justification": "The target text aligns perfectly with critical utopianism by using Frankfurt School critical theory to conceptualize utopia as a dynamic process that anticipates alternative futures, explicitly rejecting the mere reinforcement of existing status-quo structures.",
+          "verbatim_evidence": "anticipating alternative futures rather than merely reinforcing existing structures"
+        },
+        {
+          "category_id": "P2-C1",
+          "justification": "The text references 'educational archaeology' as an active process used to piece together future possibilities from the present landscape, mapping directly onto the archaeological phase of operationalizing utopia as a method.",
+          "verbatim_evidence": "introduces the concept of 'educational archaeology,' described as the process of piecing together 'flashes of the future' or utopian possibilities present within our current, challenging educational landscape."
+        },
+        {
+          "category_id": "P3-C3",
+          "justification": "The text positions education fundamentally as a transformative space that goes beyond merely contemplating or reinforcing current realities, leveraging utopian thought for active pedagogical transformation.",
+          "verbatim_evidence": "we can conceptualize education as a space of anticipation and transformation."
+        }
+      ]
+    },
+    {
+      "id": "liebhaber_2024",
+      "citation_raw": "Liebhaber, N., Garforth, L., Frick, M. & Keller, L. (2024). Utopia and climate change education: modes of utopian knowledge in times of climate crisis. Pedagogy, Culture & Society, 33(4), 1299–1316. https://doi.org/10.1080/14681366.2024.2359464",
+      "applied_codes": [
+        {
+          "category_id": "P1-C11",
+          "justification": "The target text conceptualizes utopia not merely as an alternative society, but distinctly as an epistemological framework ('typology of utopian knowledge') that enables learners to explore complex, uncertain futures and better understand their worlds.",
+          "verbatim_evidence": "introduces a typology of utopian knowledge into the practice of CCE. It starts by linking utopia and the climate crisis noting that both are oriented to complex futures"
+        },
+        {
+          "category_id": "P2-C9",
+          "justification": "The authors present a methodological integration wherein theoretical models of utopian knowledge are brought directly into the practical application and instructional routines of Climate Change Education (CCE).",
+          "verbatim_evidence": "introduces a typology of utopian knowledge into the practice of CCE... present exemplary reflections on how the modes of utopian knowledge might be practiced in CCE."
+        },
+        {
+          "category_id": "P3-C1",
+          "justification": "The text demonstrates an orientation rooted in educated, anticipatory hope, actively striving to harness the learners' desires for alternative, better ways of living to emotionally and practically prepare them for future crises.",
+          "verbatim_evidence": "emotionally and practically preparing young people for the changes ahead... in ways that are informed by the desire for a better way of living."
+        }
+      ]
+    },
+    {
+      "id": "papastephanou_2008",
+      "citation_raw": "Papastephanou, M. (2008). Dystopian reality, utopian thought and educational practice. Studies in Philosophy and Education, 27(2), 89–102. https://doi.org/10.1007/s11217-007-9092-9",
+      "applied_codes": [
+        {
+          "category_id": "P1-C3",
+          "justification": "The text systematically references and critically investigates anti-utopian anthropological essentialism, explicitly dealing with arguments regarding human frailty and the unattainability of utopia.",
+          "verbatim_evidence": "anti-utopian anthropological essentialism... Two main anti-utopian arguments are then investigated: the one of human frailty and that of utopian unattainability."
+        },
+        {
+          "category_id": "P2-C6",
+          "justification": "The text grounds its conceptual approach in philosophical anthropology, investigating how differing views of human nature and potentiality define the ambition and scope of education.",
+          "verbatim_evidence": "relies on a philosophical anthropology that undertakes to explore human nature and human potentiality."
+        },
+        {
+          "category_id": "P3-C7",
+          "justification": "The text advocates for an affective orientation that maintains awareness of a dark 'dystopian reality' to radicalize critique, while deliberately guarding and preserving the core of utopian hope.",
+          "verbatim_evidence": "Awareness of the lurking dystopian reality also helps to avoid the pitfalls of utopianism while preserving the core of utopian hope in educational practice."
+        }
+      ]
+    },
+    {
+      "id": "papastephanou_2013",
+      "citation_raw": "Papastephanou, M. (2013). Utopian education and anti-utopian anthropology. International Education Studies, 6(2), 22–32.",
+      "applied_codes": [
+        {
+          "category_id": "P1-C3",
+          "justification": "The text directly engages with and critiques Anti-Utopian constructs centered on arguments of human frailty and the idea that utopia is unattainable, demonstrating the framework's characteristics.",
+          "verbatim_evidence": "We must stave off anti-utopian anthropological essentialism in education—which claims that human nature is too frail or that utopia is unattainable"
+        },
+        {
+          "category_id": "P2-C6",
+          "justification": "The methodological approach utilizes philosophical anthropology to evaluate utopian thought, focusing specifically on discussions regarding human potentiality, essentialism, and perfectibility in shaping educational visions.",
+          "verbatim_evidence": "That is, it relies on a philosophical anthropology that undertakes to explore human nature and human potentiality."
+        },
+        {
+          "category_id": "P3-C10",
+          "justification": "The text adopts a unique orientation that combats anti-utopian despondency by firmly asserting the malleability and plasticity of human nature as the core affective foundation for driving radical pedagogical utopianism.",
+          "verbatim_evidence": "We must stave off anti-utopian anthropological essentialism in education... and instead assert a pedagogical utopianism that recognizes the malleability of human nature."
+        }
+      ]
+    },
+    {
+      "id": "papastephanou_2024",
+      "citation_raw": "Papastephanou, M. (2024). Educational utopianism beyond the \"real versus blueprint\" dichotomy. Studies in Philosophy and Education. https://doi.org/10.1007/s11217-024-09951-6",
+      "applied_codes": [
+        {
+          "category_id": "P1-C12",
+          "justification": "The text explicitly introduces a new typology of visionary constructs based on 'incriminatory' versus 'affirmative' utopianism, arguing that affirmative models transcend the 'real versus blueprint' dichotomy by utilizing a rich set of normativities beyond mere prescriptivism.",
+          "verbatim_evidence": "Ethico-politically and educationally, it is crucial to have affirmative rather than incriminatory utopias, regardless of their being real or blueprint. To argue this out, first I introduce the concepts of incriminatory and affirmative utopianism."
+        },
+        {
+          "category_id": "P2-C6",
+          "justification": "The methodology centers on examining utopianism and anti-utopianism through the analytical lens of philosophical anthropology, specifically analyzing how assumptions about human nature or essentialism impact educational ambition and intervention.",
+          "verbatim_evidence": "That is, it relies on a philosophical anthropology that undertakes to explore human nature and human potentiality."
+        },
+        {
+          "category_id": "P3-C10",
+          "justification": "The text adopts an affective and pedagogical orientation that fiercely defends a 'radical pedagogical vision' against anti-utopian despondency by anchoring educational ambition in the 'pliability and perfectibility of humanity'.",
+          "verbatim_evidence": "Thought through this entails that education presupposes the pliability and perfectibility of humanity – at least to an important degree. [...] critical counter-arguments will be produced in order to prove that anti-utopianism poses more questions than it answers and is in no position to effectively undermine radical pedagogical vision."
+        }
+      ]
+    },
+    {
+      "id": "ross_2025",
+      "citation_raw": "Ross, J. (2025). Stories from the future of lifelong learning: fiction, technology and speculative pedagogies. Learning, Media and Technology. https://doi.org/10.1080/17439884.2025.2591697",
+      "applied_codes": [
+        {
+          "category_id": "P1-C6",
+          "justification": "The text conceptualizes visionary constructs as a means to keep futures open and actively prevent being locked into predetermined paths, which aligns directly with the 'Open Speculative Futures' category.",
+          "verbatim_evidence": "helps 'keep digital education futures open' rather than locked into predetermined, Big Tech-dominated trajectories."
+        },
+        {
+          "category_id": "P2-C2",
+          "justification": "The methodology employed involves engaging students in speculative fiction writing as a pedagogical approach to explore and debate alternative digital futures, directly fitting the 'Speculative Fiction and Design' definition.",
+          "verbatim_evidence": "engaging university students in speculative fiction writing is a valuable pedagogical approach"
+        },
+        {
+          "category_id": "P3-C11",
+          "justification": "The pedagogical orientation uses speculative pedagogy to actively disrupt and unsettle deterministic Big Tech narratives and common rhetoric in educational technology research, prompting the inductive creation of a new category for narrative disruption.",
+          "verbatim_evidence": "unsettle common rhetorical patterns in educational technology research and explore digital futures in terms of trust, surveillance, and agency."
+        }
+      ]
+    },
+    {
+      "id": "suoranta_2021",
+      "citation_raw": "Suoranta, J., Teräs, M., Teräs, H., Jandrić, P., Ledger, S., Macgilchrist, F. & Prinsloo, P. (2021). Speculative social science fiction of digitalization in higher education: From what is to what could be. Postdigital Science and Education. https://doi.org/10.1007/s42438-021-00260-6",
+      "applied_codes": [
+        {
+          "category_id": "P1-C6",
+          "justification": "The text rejects the deterministic, data-driven 'predict and prepare' future scenarios of intergovernmental organizations, instead advocating for open exploration to move 'from what is to what could be'.",
+          "verbatim_evidence": "attempts to predict and prepare for future scenarios in education are driven by intergovernmental organization reports... Speculative social science fiction of digitalization in higher education is a method to move from 'what is' to 'what could be'"
+        },
+        {
+          "category_id": "P2-C10",
+          "justification": "The authors inductively introduce 'speculative social science fiction' as a distinct methodology combining social science with speculative fiction to critically explore digital futures.",
+          "verbatim_evidence": "Speculative social science fiction of digitalization in higher education is a method to move from 'what is' to 'what could be,' allowing us to critically explore the potentials and challenges of digital technologies in academic life."
+        },
+        {
+          "category_id": "P3-C12",
+          "justification": "The pedagogical and affective orientation is explicitly framed around 'unleashing' imagination to reclaim the agency of educators and students, resisting their reduction to passive objects within a technologically deterministic system.",
+          "verbatim_evidence": "visions and practices of data-driven education tend to reduce teachers and the students in higher education to mere objects of digitalization, rather than seeing them as active subjects participating in the shaping of digital futures"
+        }
+      ]
+    },
+    {
+      "id": "sypnowich_2018",
+      "citation_raw": "Sypnowich, C. (2018). Lessons from dystopia: Critique, hope and political education. Journal of Philosophy of Education, 52(4), 660–676. https://doi.org/10.1111/1467-9752.12328",
+      "applied_codes": [
+        {
+          "category_id": "P1-C14",
+          "justification": "The text categorizes utopian and dystopian literature primarily as ideological constructs that can be contrasted to extract and evaluate perspectives on political ideology.",
+          "verbatim_evidence": "arguing that We offers a more nuanced and valuable perspective on political ideology."
+        },
+        {
+          "category_id": "P2-C11",
+          "justification": "The core methodology relies on a comparative analytical reading of classical dystopian texts to evaluate their specific role and pedagogical value in political education.",
+          "verbatim_evidence": "provides a comparative analysis of George Orwell's Nineteen Eighty-Four and Yevgeny Zamyatin's We... to evaluate its role in political education"
+        },
+        {
+          "category_id": "P3-C3",
+          "justification": "The text explicitly outlines a pedagogical orientation that uses speculative narratives to nurture critical thinking, impart utopian aspiration, and encourage active pursuit of political change and ideals.",
+          "verbatim_evidence": "advocates for a pedagogical approach that uses the contrast between dystopian warnings and utopian aspirations to help students develop critical thinking and maintain hope for political change."
+        }
+      ]
+    },
+    {
+      "id": "van_heertum_2006",
+      "citation_raw": "Van Heertum, R. (2006). Marcuse, Bloch and Freire: Reinvigorating a pedagogy of hope. Policy Futures in Education, 4(1). https://doi.org/10.2304/pfie.2006.4.1.45",
+      "applied_codes": [
+        {
+          "category_id": "P1-C1",
+          "justification": "The text conceptualizes visionary constructs as provisional alternative visions that tap into repressed desires to galvanize social change, aligning with concrete and affirmative utopianism.",
+          "verbatim_evidence": "taps into repressed desires and offers provisional alternative visions to galvanize social change."
+        },
+        {
+          "category_id": "P2-C12",
+          "justification": "The text methodologically relies on synthesizing multiple theoretical and philosophical perspectives (Marcuse, Bloch, Freire) to construct its pedagogy of hope.",
+          "verbatim_evidence": "integrates the insights of Herbert Marcuse (aesthetic education and utopian dreaming), Ernst Bloch (philosophy of hope and utopian imagination), and Paulo Freire (conscientization and action) to build a pedagogy of hope"
+        },
+        {
+          "category_id": "P3-C1",
+          "justification": "The text identifies hope as a vital affective complement to critique, driving social transformation by nurturing a genuine belief in a better future and unlocking repressed desires.",
+          "verbatim_evidence": "proposes 'hope' as a vital complement to critique, arguing that for change to occur, people must truly believe that a better future is possible."
+        }
+      ]
+    },
+    {
+      "id": "webb_2016",
+      "citation_raw": "Webb, D. (2016). Educational studies and the domestication of utopia. British Journal of Educational Studies, 64(4), 431–448. https://doi.org/10.1080/00071005.2016.1143085",
+      "applied_codes": [
+        {
+          "category_id": "P1-C4",
+          "justification": "The text directly critiques 'educational real utopias', arguing they attempt to harness utopian force while avoiding dangers, resulting in a domesticated concept that dilutes traditional transgressive power.",
+          "verbatim_evidence": "This paper offers a critique of educational real utopias. Real Utopias are experimental forms of thought and practice intended to harness the transgressive force of traditional utopianism while avoiding its associated dangers... arguing that the concept of utopia has become thoroughly domesticated."
+        },
+        {
+          "category_id": "P2-C13",
+          "justification": "The methodology is the critical evaluation of educational real utopias to assess their intellectual force and limitations against traditional, holistic utopian constructs.",
+          "verbatim_evidence": "evaluates a selection of educational real utopias to assess whether they can, in fact, be said to have succeeded in the task of harnessing the intellectual force while overcoming the dangers of traditional utopianism."
+        },
+        {
+          "category_id": "P3-C13",
+          "justification": "The text explicitly links the pedagogical potency and transgressive power of utopia to its understanding as an expansive, complete, holistic system, rather than a pragmatic or domesticated compromise.",
+          "verbatim_evidence": "only when utopia is understood as a holistic system is it able to produce its most potent pedagogical effects."
+        }
+      ]
+    }
+  ]
+}
