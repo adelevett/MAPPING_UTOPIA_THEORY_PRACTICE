@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from 'react';
+import React, { useMemo } from 'react';
 import { ChevronRight, MapIcon } from 'lucide-react';
 
 const P1_COLORS = {

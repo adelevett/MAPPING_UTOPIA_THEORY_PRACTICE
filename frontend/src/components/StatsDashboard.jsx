@@ -3,7 +3,7 @@ import { MapPin, BookOpen, Compass } from 'lucide-react';
 
 // compact=true → small floating card for map empty-state
 // compact=false (default) → not used in new layout, kept for compatibility
-export default function StatsDashboard({ practices, categories, references, onSelect, compact }) {
+export default function StatsDashboard({ practices, categories, compact }) {
   const stats = useMemo(() => {
     const total = practices.length;
     const geocoded = practices.filter(p => p.geocoded).length;

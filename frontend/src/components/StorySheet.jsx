@@ -1,5 +1,5 @@
 import React, { useMemo, useRef } from 'react';
-import { ArrowLeft, X, MapPin, ExternalLink, ChevronRight } from 'lucide-react';
+import { X, MapPin, ExternalLink, ChevronRight } from 'lucide-react';
 import OstromNarrative from './OstromNarrative';
 
 const P1_COLORS = {
@@ -63,7 +63,6 @@ export default function StorySheet({
   onNavigate,           // (practiceId) → navigate sheet to another practice
   onFilterByCategory,   // (categoryId) → sets activeFilters
   onOpenReference,      // (referenceId) → opens TheorySlideOver
-  onShowOnMap,          // () → switches to map view
 }) {
   const relatedScrollRef = useRef(null);
 
