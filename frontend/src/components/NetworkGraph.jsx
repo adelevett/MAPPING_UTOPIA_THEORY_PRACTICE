@@ -172,6 +172,18 @@ export default function NetworkGraph({ practices, categories, references, edges,
           }
         },
         {
+          selector: 'node[node_type="category"][perspective_id="P2"]',
+          style: {
+            'color': '#022c22'
+          }
+        },
+        {
+          selector: 'node[node_type="category"][perspective_id="P3"]',
+          style: {
+            'color': '#451a03'
+          }
+        },
+        {
           selector: 'node[node_type="reference"]',
           style: {
             'shape': 'round-rectangle',
@@ -180,7 +192,7 @@ export default function NetworkGraph({ practices, categories, references, edges,
             'height': '22px',
             'font-size': '9px',
             'font-weight': '500',
-            'color': '#ffffff'
+            'color': '#083344'
           }
         },
         {

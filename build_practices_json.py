@@ -118,8 +118,13 @@ def build_practice_record(
     lat = extraction.get("lat") or extraction.get("latitude")
     lng = extraction.get("lng") or extraction.get("lon") or extraction.get("longitude")
 
+    # If nested under coordinates key
+    if lat is None and "coordinates" in extraction and isinstance(extraction["coordinates"], dict):
+        lat = extraction["coordinates"].get("latitude") or extraction["coordinates"].get("lat")
+        lng = extraction["coordinates"].get("longitude") or extraction["coordinates"].get("lng") or extraction["coordinates"].get("lon")
+
     # If nested under geocode key
-    if lat is None and "geocode" in extraction:
+    if lat is None and "geocode" in extraction and isinstance(extraction["geocode"], dict):
         lat = extraction["geocode"].get("lat")
         lng = extraction["geocode"].get("lng") or extraction["geocode"].get("lon")
 
@@ -149,23 +154,42 @@ def build_practice_record(
     })
 
     # --- Ostrom summary (safe extraction) ---
-    def safe_get(d, *keys):
-        for k in keys:
-            if isinstance(d, dict):
-                d = d.get(k)
-            else:
-                return None
-        return d
+    def flatten_ostrom_dict(d):
+        if not isinstance(d, dict):
+            return ""
+        parts = []
+        for sub_key, sub_val in sorted(d.items()):
+            if isinstance(sub_val, dict):
+                val = sub_val.get("value")
+                if val:
+                    clean_key = sub_key.replace('_', ' ')
+                    clean_key = clean_key[0].upper() + clean_key[1:] if clean_key else ""
+                    parts.append(f"{clean_key}: {val}")
+        return "; ".join(parts)
 
     ostrom_summary = {
-        "resource_system": safe_get(extraction, "resource_systems"),
-        "governance":      safe_get(extraction, "governance_systems"),
-        "users":           safe_get(extraction, "users"),
-        "interactions":    safe_get(extraction, "interactions"),
-        "outcomes":        safe_get(extraction, "outcomes"),
+        "resource_system": flatten_ostrom_dict(extraction.get("resource_systems")),
+        "governance":      flatten_ostrom_dict(extraction.get("governance_systems")),
+        "users":           flatten_ostrom_dict(extraction.get("users")),
+        "interactions":    flatten_ostrom_dict(extraction.get("interactions")),
+        "outcomes":        flatten_ostrom_dict(extraction.get("outcomes")),
     }
-    # Strip null values from ostrom_summary
+    # Strip empty values from ostrom_summary
     ostrom_summary = {k: v for k, v in ostrom_summary.items() if v}
+
+    # Location
+    loc = extraction.get("location_string") or extraction.get("location")
+    if isinstance(loc, dict):
+        location_string = loc.get("value") or loc.get("location") or ""
+    else:
+        location_string = loc or ""
+
+    # Temporal
+    temp = extraction.get("temporal_classification") or extraction.get("temporal") or extraction.get("temporal_nature")
+    if isinstance(temp, dict):
+        temporal = temp.get("value") or ""
+    else:
+        temporal = temp or "undetermined"
 
     return {
         # Identity
@@ -181,17 +205,13 @@ def build_practice_record(
         ),
 
         # Location
-        "location_string": extraction.get("location_string") or extraction.get("location"),
+        "location_string": location_string,
         "lat":  lat,
         "lng":  lng,
         "geocoded": geocoded,
 
         # Temporal
-        "temporal": (
-            extraction.get("temporal_classification")
-            or extraction.get("temporal")
-            or "undetermined"
-        ),
+        "temporal": temporal,
 
         # Evidence
         "evidence": extraction.get("evidence", ""),
@@ -364,7 +384,7 @@ def main():
     print(f"Loading {CODED_MATRIX_PATH}...")
     coded_matrix  = load_json(CODED_MATRIX_PATH)
     cat_to_refs   = build_category_to_references(coded_matrix)
-    print(f"  Inverse lookup: {len(cat_to_refs)} categories → references.\n")
+    print(f"  Inverse lookup: {len(cat_to_refs)} categories -> references.\n")
 
     # Build practice records
     print("Building practice records...")

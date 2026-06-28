@@ -301,8 +301,7 @@ export default function DetailPanel({ selection, practices, categories, referenc
         <div className="category-details">
           <div className="detail-header-section">
             <span 
-              className="type-badge perspective-badge"
-              style={{ backgroundColor: details.data.colour }}
+              className={`type-badge perspective-badge p${details.data.perspective_id.toLowerCase()}-bg`}
             >
               Perspective {details.data.perspective_id}
             </span>

@@ -422,8 +422,9 @@ def main():
             print(f"  [Token refresh at call {token_refresh_counter}]")
             token = get_access_token()
 
+        practice_name_clean = practice.get('practice_name', '')[:60].encode('ascii', errors='replace').decode('ascii')
         print(f"Coding [{processed + skipped + failed + 1}/{len(practices)}] "
-              f"{practice_id} — {practice.get('practice_name', '')[:60]}...")
+              f"{practice_id} - {practice_name_clean}...")
 
         system_prompt, user_prompt = build_prompt(practice, ontology_categories)
 

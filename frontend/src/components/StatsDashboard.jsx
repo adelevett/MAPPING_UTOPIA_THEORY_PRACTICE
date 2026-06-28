@@ -129,7 +129,7 @@ export default function StatsDashboard({ practices, categories, references, onSe
       <div className="perspectives-list">
         {Object.entries(stats.catByPersp).map(([id, info]) => (
           <div key={id} className="perspective-row glass-panel">
-            <div className="perspective-badge" style={{ backgroundColor: info.color }}>
+            <div className={`perspective-badge p${id.toLowerCase()}-bg`}>
               {id}
             </div>
             <div className="perspective-details">

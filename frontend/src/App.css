@@ -212,15 +212,15 @@
 .stat-icon {
   width: 18px;
   height: 18px;
-  color: #fff;
+  color: currentColor;
 }
 
-.p1-bg { background-color: var(--p1-color); }
-.p2-bg { background-color: var(--p2-color); }
-.p3-bg { background-color: var(--p3-color); }
-.ref-bg { background-color: var(--ref-color); }
-.cyan-bg { background-color: #06b6d4; }
-.grey-bg { background-color: #374151; }
+.p1-bg { background-color: var(--p1-color); color: #ffffff; }
+.p2-bg { background-color: var(--p2-color); color: #022c22; }
+.p3-bg { background-color: var(--p3-color); color: #451a03; }
+.ref-bg { background-color: var(--ref-color); color: #083344; }
+.cyan-bg { background-color: #06b6d4; color: #083344; }
+.grey-bg { background-color: #374151; color: #ffffff; }
 
 .stat-info {
   display: flex;
@@ -292,7 +292,7 @@
   border-radius: 4px;
   font-size: 11px;
   font-weight: 700;
-  color: #fff;
+  color: currentColor;
 }
 
 .perspective-details h4 {
@@ -552,7 +552,7 @@
   border-radius: 3px;
   font-size: 9px;
   font-weight: 700;
-  color: #fff;
+  color: currentColor;
 }
 
 .code-name-btn {

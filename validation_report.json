@@ -1,0 +1,226 @@
+{
+  "summary": {
+    "total_practices": 803,
+    "failed_extractions": 3,
+    "null_p1_count": 294,
+    "null_p1_pct": 36.8,
+    "total_p3_assignments": 578,
+    "issue_count": 33
+  },
+  "p1_distribution": {
+    "P1-C1": 342,
+    "P1-C6": 104,
+    "P1-C4": 17,
+    "P1-C2": 11,
+    "P1-C9": 10,
+    "P1-C8": 9,
+    "P1-C5": 6,
+    "P1-C7": 3,
+    "P1-C10": 2,
+    "P1-C3": 1,
+    "P1-C11": 1
+  },
+  "p2_distribution": {
+    "P2-C2": 45
+  },
+  "p3_distribution": {
+    "P3-C5": 230,
+    "P3-C1": 154,
+    "P3-C3": 97,
+    "P3-C9": 25,
+    "P3-C7": 21,
+    "P3-C6": 13,
+    "P3-C12": 12,
+    "P3-C2": 10,
+    "P3-C8": 8,
+    "P3-C10": 5,
+    "P3-C11": 1,
+    "P3-C4": 1,
+    "P3-C13": 1
+  },
+  "issues": {
+    "high_null_p1_rate": [
+      {
+        "null_p1_count": 294,
+        "pct": 36.8,
+        "threshold": 15
+      }
+    ],
+    "potentially_spurious_p2": [
+      {
+        "practice_id": "3099__0",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "We time travelled, we played games, we dived into the power of longing and why time travel is an activist’s best friend."
+      },
+      {
+        "practice_id": "3081__1",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "I had the book's ‘What If’ chapter headings on big cards and used hardly any slides."
+      },
+      {
+        "practice_id": "2990__2",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "where we will take you on a journey to 2035, the 2035 that turned out the best it possibly could and then we will build that world with cardboard, sti"
+      },
+      {
+        "practice_id": "2771__0",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "played ‘Yes, But/Yes, And, had a Walk of What If. worked up some great ready-to-go transformational ideas"
+      },
+      {
+        "practice_id": "2622__1",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "development of Disbelief suspenders, Cynicism Overrider circuits and much more, and we now have perfected a fully working actual Time Machine!"
+      },
+      {
+        "practice_id": "2244__0",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "explore a different What If question, ideally a question sent in by a listener."
+      },
+      {
+        "practice_id": "2166__0",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "I tell people that I have a Time Machine, and that I am inviting them to travel with me to 2030. ... And I invite them to step into that world, to tak"
+      },
+      {
+        "practice_id": "2166__1",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "In my ‘From What If to What Next’ podcast, I start every episode by asking my guests to travel with me to 2030 in the context of whatever the What If "
+      },
+      {
+        "practice_id": "1927__1",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "The invitation was to come up with as many ‘What If’ questions they could in response to the overarching What If question “what if, in everything that"
+      },
+      {
+        "practice_id": "1917__0",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "They went out in groups of 6, with the invitation to think of as many ideas for how Patagonia could act, in everything it does, as though this was a c"
+      },
+      {
+        "practice_id": "1815__1",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "I took them to an alternative Lyme Regis. I walked them down a high street with a farmers market where our excess fruit and veg could be bought with l"
+      },
+      {
+        "practice_id": "1678__0",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "we time travelled, we explored all kinds of different things, we reflected in pairs on the question \"what if I were to act, right now, as though this "
+      },
+      {
+        "practice_id": "1573__0",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "explore potential connections, relationships, possibilities, opportunities. Some people stayed behind as hosts to explain what they had created, and o"
+      },
+      {
+        "practice_id": "1522__2",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "speaking about my forthcoming book ‘From What Is to What If’... exploring with audiences, through interactive activities, that possibility that maybe,"
+      },
+      {
+        "practice_id": "1261__2",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "when you play and open up different possibilities, you’re rehearsing what sort of ideas of what could happen."
+      },
+      {
+        "practice_id": "1099__2",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "No, let’s find our way in following the children’s ideas, following the children’s leads, and let’s see what’s in here through the children’s eyes"
+      },
+      {
+        "practice_id": "1087__4",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "convening meetings, community meetings... to basically ask that question. What does Just Transition in the realm of agriculture look like?"
+      },
+      {
+        "practice_id": "931__0",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "We put 550 people into four different versions of Hawaii in the year 2050."
+      },
+      {
+        "practice_id": "566__2",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "Okay, it’s the zombie apocalypse. We’ve lost all electricity. You have 48 hours to find a way to reconnect and rewire humanity so we can save ourselve"
+      },
+      {
+        "practice_id": "379__1",
+        "p2_id": "P2-C2",
+        "evidence_snippet": "a big blackboard that we drew out in the shape of the Silk Mill floor plan, with a, 'What could we do here?' question."
+      }
+    ],
+    "long_verbatim_evidence": [
+      {
+        "practice_id": "2545__0",
+        "category_id": "P3-C5",
+        "length": 305,
+        "snippet": "After the groups had time travelled in their imaginations, I put them into pairs to reflect on what "
+      },
+      {
+        "practice_id": "2442__0",
+        "category_id": "P3-C7",
+        "length": 310,
+        "snippet": "Retreating indoors in the face of the car’s domination of our city spaces, and a perception of the l"
+      },
+      {
+        "practice_id": "1522__2",
+        "category_id": "P3-C1",
+        "length": 308,
+        "snippet": "But every night, during Q&A, there are always several questions along the lines of “yes, but surely "
+      },
+      {
+        "practice_id": "1452__0",
+        "category_id": "P3-C6",
+        "length": 322,
+        "snippet": "Our town, district and county councils have now all declared climate emergencies... the purpose of t"
+      },
+      {
+        "practice_id": "1438__0",
+        "category_id": "P3-C1",
+        "length": 306,
+        "snippet": "beaver reintroduction is potentially going to inform the reintroduction of other creatures like Lynx"
+      },
+      {
+        "practice_id": "1261__4",
+        "category_id": "P3-C5",
+        "length": 349,
+        "snippet": "one had to work across many, many sectors of the police, and the fire officers, all the agencies tha"
+      },
+      {
+        "practice_id": "1038__3",
+        "category_id": "P3-C9",
+        "length": 318,
+        "snippet": "We have a particular lens on equity and making sure that those who have been left out in the old eco"
+      },
+      {
+        "practice_id": "931__0",
+        "category_id": "P3-C5",
+        "length": 336,
+        "snippet": "each of these environments was an immersive scenario. An instantiation of a different theory of chan"
+      },
+      {
+        "practice_id": "795__0",
+        "category_id": "P3-C3",
+        "length": 330,
+        "snippet": "It was fascinating how hard it was to coax people away from their key peeves, their soap box issues."
+      },
+      {
+        "practice_id": "693__0",
+        "category_id": "P3-C5",
+        "length": 406,
+        "snippet": "Get people to tell each other those stories, and to understand that there are a number of different "
+      },
+      {
+        "practice_id": "504__0",
+        "category_id": "P3-C3",
+        "length": 306,
+        "snippet": "by sitting together with people, by listening to experts... listening to what has been sharing as te"
+      },
+      {
+        "practice_id": "163__0",
+        "category_id": "P3-C12",
+        "length": 374,
+        "snippet": "It was fascinating to see how naturally most of the kids in the Rotherfold slipped into the mode of "
+      }
+    ]
+  }
+}

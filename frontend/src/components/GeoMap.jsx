@@ -75,8 +75,8 @@ export default function GeoMap({ practices, selection, onSelect }) {
       attributionControl: true
     });
 
-    // Dark Matter map tiles (CartoDB) - matches premium dark theme
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    // Positron light map tiles (CartoDB) - high contrast light theme
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
       subdomains: 'abcd',
       maxZoom: 18
@@ -110,19 +110,19 @@ export default function GeoMap({ practices, selection, onSelect }) {
       const isActive = activePracticeIds === null || activePracticeIds.has(p.practice_id);
       const isSelected = selection && selection.type === 'practice' && selection.id === p.practice_id;
 
-      // Style active markers vs dimmed markers
+      // Style active markers vs dimmed markers - high contrast for light map
       const markerOptions = {
         radius: isSelected ? 10 : (isActive ? 7 : 4.5),
-        fillColor: isSelected ? '#a78bfa' : (isActive ? '#6366f1' : '#4b5563'), // violet, indigo, grey
-        color: isSelected ? '#ffffff' : (isActive ? '#818cf8' : '#374151'),
-        weight: isSelected ? 2 : 1,
-        opacity: isActive ? 0.9 : 0.4,
-        fillOpacity: isActive ? 0.75 : 0.2
+        fillColor: isSelected ? '#5b21b6' : (isActive ? '#3730a3' : '#6b7280'), // violet-800, indigo-800, grey-500
+        color: '#ffffff',
+        weight: isSelected ? 2.5 : (isActive ? 1.5 : 1),
+        opacity: isActive ? 1.0 : 0.6,
+        fillOpacity: isActive ? 0.85 : 0.35
       };
 
       const marker = L.circleMarker([p.lat, p.lng], markerOptions);
 
-      // Simple tooltip
+      // Simple tooltip on hover
       marker.bindTooltip(`
         <div class="map-tooltip">
           <strong>${p.practice_name}</strong><br/>
@@ -132,6 +132,47 @@ export default function GeoMap({ practices, selection, onSelect }) {
         direction: 'top',
         offset: [0, -5],
         className: 'custom-tooltip'
+      });
+
+      // Rich popup on click exposing related projects
+      marker.bindPopup(() => {
+        const related = practices
+          .filter(other => other.p1_id === p.p1_id && other.practice_id !== p.practice_id)
+          .slice(0, 3);
+        
+        const relatedList = related.map(other => `<li>${other.practice_name}</li>`).join('');
+        const relatedSection = related.length > 0 
+          ? `<div style="margin-top: 8px; border-top: 1px solid #e5e7eb; padding-top: 6px;">
+               <strong style="display: block; font-size: 10px; color: #4b5563; text-transform: uppercase; letter-spacing: 0.05em;">Related Projects (Same Speculative Model):</strong>
+               <ul style="margin: 4px 0 0 0; padding-left: 14px; font-size: 11px; color: #1f2937; line-height: 1.3;">
+                 ${relatedList}
+               </ul>
+             </div>`
+          : '';
+
+        const affectTags = p.p3_names && p.p3_names.length > 0
+          ? `<div style="display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px;">
+               ${p.p3_names.slice(0, 3).map(name => `<span style="background-color: #f3f4f6; color: #374151; font-size: 9px; padding: 2px 6px; border-radius: 4px; font-weight: 500;">${name}</span>`).join('')}
+             </div>`
+          : '';
+
+        return `
+          <div style="font-family: Inter, sans-serif; padding: 2px; max-width: 250px; line-height: 1.4;">
+            <h4 style="margin: 0 0 2px 0; font-size: 13px; font-weight: 700; color: #1e1b4b;">${p.practice_name}</h4>
+            <div style="font-size: 11px; color: #6b7280; font-weight: 500; margin-bottom: 6px;">${p.location_string || 'No fixed location'}</div>
+            
+            <div style="font-size: 11px; color: #374151;">
+              <strong>Speculative Construct:</strong>
+              <div style="color: #4f46e5; font-weight: 600; margin-top: 1px;">${p.p1_name || 'Uncoded'}</div>
+            </div>
+            
+            ${affectTags}
+            ${relatedSection}
+          </div>
+        `;
+      }, {
+        maxWidth: 260,
+        className: 'leaflet-custom-popup'
       });
 
       marker.on('click', () => {

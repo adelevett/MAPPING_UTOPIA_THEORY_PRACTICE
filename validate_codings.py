@@ -196,11 +196,11 @@ def main():
         print(f"  {cid}: {count}")
 
     if issues:
-        print(f"\n⚠️  Issues written to {REPORT_PATH}")
+        print(f"\n[WARNING] Issues written to {REPORT_PATH}")
         for issue_type, items in issues.items():
             print(f"  {issue_type}: {len(items)}")
     else:
-        print(f"\n✓ No issues detected. Report written to {REPORT_PATH}")
+        print(f"\n[OK] No issues detected. Report written to {REPORT_PATH}")
 
 
 if __name__ == "__main__":
