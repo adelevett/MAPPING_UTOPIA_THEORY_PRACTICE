@@ -8,14 +8,14 @@ This project was built for **EDTECH 569**.
 
 ## 1. Directory Structure
 
-*   **[Module-01/scripts/fetch_posts.py](file:///C:/Users/delevetta/Documents/Su26/EDTECH569/Module-01/scripts/fetch_posts.py)**: Crawls all blog posts from the WordPress API with rate-limiting and outputs raw JSON cache.
-*   **[Module-01/scripts/extract_all.py](file:///C:/Users/delevetta/Documents/Su26/EDTECH569/Module-01/scripts/extract_all.py)**: Main extraction pipeline script. Parses the cache via Vertex AI, resolves coordinates, and writes output.
-*   **[ses_extraction_schema.json](file:///C:/Users/delevetta/Documents/Su26/EDTECH569/ses_extraction_schema.json)**: JSON schema defining Ostrom SES variables grouped under a `practices` array.
-*   **[ses_extraction_prompt.md](file:///C:/Users/delevetta/Documents/Su26/EDTECH569/ses_extraction_prompt.md)**: Strict system prompt defining extraction rules, evidence requirements, and temporal classifications.
-*   **[posts_cache.json](file:///C:/Users/delevetta/Documents/Su26/EDTECH569/posts_cache.json)**: Cached raw JSON payload of all 324 ingested blog posts.
-*   **[extractions_output.json](file:///C:/Users/delevetta/Documents/Su26/EDTECH569/extractions_output.json)**: Fully populated extracted database of 803 practices in Ostrom SES format.
-*   **[geocode_cache.json](file:///C:/Users/delevetta/Documents/Su26/EDTECH569/geocode_cache.json)**: Local cache mapping location text to latitude and longitude coordinates.
-*   **[PROGRESS_SUMMARY.md](file:///C:/Users/delevetta/Documents/Su26/EDTECH569/PROGRESS_SUMMARY.md)**: Technical execution summary and metrics.
+*   **Module-01/scripts/fetch_posts.py**: Crawls all blog posts from the WordPress API with rate-limiting and outputs raw JSON cache.
+*   **Module-01/scripts/extract_all.py**: Main extraction pipeline script. Parses the cache via Vertex AI, resolves coordinates, and writes output.
+*   **ses_extraction_schema.json**: JSON schema defining Ostrom SES variables grouped under a `practices` array.
+*   **ses_extraction_prompt.md**: Strict system prompt defining extraction rules, evidence requirements, and temporal classifications.
+*   **posts_cache.json**: Cached raw JSON payload of all 324 ingested blog posts.
+*   **extractions_output.json**: Fully populated extracted database of 803 practices in Ostrom SES format.
+*   **geocode_cache.json**: Local cache mapping location text to latitude and longitude coordinates.
+*   **PROGRESS_SUMMARY.md**: Technical execution summary and metrics.
 
 ---
 

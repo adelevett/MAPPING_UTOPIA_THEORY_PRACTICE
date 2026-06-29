@@ -26,10 +26,10 @@ Final-Project/
 
 ## 2. Deliverables Description
 
-The deliverables are located under [04-ai-artifacts/](file:///C:/Users/delevetta/Documents/Su26/EDTECH575/Final-Project/04-ai-artifacts):
+The deliverables are located under `04-ai-artifacts/`:
 
-*   **[ontology.json](file:///C:/Users/delevetta/Documents/Su26/EDTECH575/Final-Project/04-ai-artifacts/ontology.json)**: A valid JSON Schema representation of the qualitative extraction ontology. It defines 3 distinct analytical perspectives (*Typologies of Visionary Constructs*, *Speculative Methodologies*, and *Pedagogical Affects*) containing 40 total categories. Each category contains a definition, coding rule, and verbatim anchor quote.
-*   **[coded_matrix.json](file:///C:/Users/delevetta/Documents/Su26/EDTECH575/Final-Project/04-ai-artifacts/coded_matrix.json)**: A JSON dataset containing the classification mapping of the 23 core references. Every reference contains justifications and verbatim evidence snippets.
+*   **ontology.json**: A valid JSON Schema representation of the qualitative extraction ontology. It defines 3 distinct analytical perspectives (*Typologies of Visionary Constructs*, *Speculative Methodologies*, and *Pedagogical Affects*) containing 40 total categories. Each category contains a definition, coding rule, and verbatim anchor quote.
+*   **coded_matrix.json**: A JSON dataset containing the classification mapping of the 23 core references. Every reference contains justifications and verbatim evidence snippets.
 
 ---
 
@@ -42,16 +42,16 @@ The deliverables are located under [04-ai-artifacts/](file:///C:/Users/delevetta
     gcloud auth application-default login
     ```
 2.  **Virtual Environment Setup:**
-    Activate the Python virtual environment located in `Module-06`:
+    Activate the Python virtual environment:
     ```powershell
     # In PowerShell:
-    & "C:\Users\delevetta\Documents\Su26\EDTECH575\Module-06\.venv\Scripts\Activate.ps1"
+    .venv\Scripts\Activate.ps1
     ```
 
 ### Running the Rolling Extraction
 To execute the pipeline and re-generate the deliverables:
 1.  Navigate to the scratch directory where the pipeline script is kept:
-    `C:\Users\delevetta\.gemini\antigravity-cli\brain\43343593-9c56-4792-bbf8-f78f04772ba3\scratch\`
+    `scratch/`
 2.  Run the pipeline:
     ```bash
     python extract_ontology_adc.py

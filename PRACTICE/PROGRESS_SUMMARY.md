@@ -51,4 +51,4 @@ Each extracted practice was classified based on explicit text evidence:
 
 *   **Evidence Bindings**: Every populated field in `social_economic_political_settings`, `resource_systems`, `governance_systems`, `users`, `interactions`, and `outcomes` is strictly bound to a direct text quote in the `evidence` field.
 *   **Ostrom Schema Fidelity**: Zero hallucinations observed. The model strictly set missing resource parameters (e.g. S1–S6 settings, operational rules GS5, property rights GS4) to `null` when no explicit evidence existed.
-*   **Geocoding Accuracy**: The geocoding cache [geocode_cache.json](file:///C:/Users/delevetta/Documents/Su26/EDTECH569/geocode_cache.json) successfully resolved 100% of standard localized cities (e.g., Marseille, Arles, Akron, Lisbon) and correctly skipped abstract strings.
+*   **Geocoding Accuracy**: The geocoding cache `geocode_cache.json` successfully resolved 100% of standard localized cities (e.g., Marseille, Arles, Akron, Lisbon) and correctly skipped abstract strings.
