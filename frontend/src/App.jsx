@@ -5,7 +5,8 @@ import ConceptFilterRail from './components/ConceptFilterRail';
 import StorySheet from './components/StorySheet';
 import TheorySlideOver from './components/TheorySlideOver';
 import StatsDashboard from './components/StatsDashboard';
-import { Compass, BookOpen, RefreshCw, Layers } from 'lucide-react';
+import AboutView from './components/AboutView';
+import { Compass, BookOpen, RefreshCw, Layers, Info } from 'lucide-react';
 import './App.css';
 
 function App() {
@@ -153,6 +154,14 @@ function App() {
               <BookOpen className="tab-icon" />
               <span>Concept Atlas</span>
             </button>
+            <button
+              id="tab-btn-about"
+              onClick={() => setView('about')}
+              className={`tab-btn ${view === 'about' ? 'active' : ''}`}
+            >
+              <Info className="tab-icon" />
+              <span>About</span>
+            </button>
           </div>
 
           {(activeFilters.size > 0 || activeStoryPracticeId) && (
@@ -218,6 +227,9 @@ function App() {
               />
             )}
           </div>
+        ) : view === 'about' ? (
+          // ── ABOUT VIEW ────────────────────────────────────────
+          <AboutView />
         ) : (
           // ── CONCEPT ATLAS VIEW ────────────────────────────────
           <div className="atlas-canvas" id="atlas-canvas">
