@@ -44,10 +44,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -135,14 +135,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -234,15 +234,15 @@
       }
     ],
     "linked_references": [
-      "papastephanou_2009",
-      "cemiloglu_2019",
       "sypnowich_2018",
+      "bloch_1986",
+      "papastephanou_2009",
+      "bayne_ross_2024",
+      "cemiloglu_2019",
       "liebhaber_2024",
       "van_heertum_2006",
-      "bayne_ross_2024",
-      "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -337,12 +337,12 @@
     ],
     "linked_references": [
       "suvin_1979",
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -434,10 +434,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "levitas_2013",
       "bayne_2024"
     ],
@@ -495,14 +495,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -549,10 +549,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -608,16 +608,16 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
+      "papastephanou_2009",
+      "bloch_1986",
       "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -666,11 +666,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -718,11 +718,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -770,11 +770,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -821,11 +821,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -1046,8 +1046,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -1136,12 +1136,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -1199,12 +1199,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -1295,16 +1295,16 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
+      "papastephanou_2009",
+      "bloch_1986",
       "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -1353,8 +1353,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -1417,19 +1417,19 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
+      "houlden_2022",
       "papastephanou_2009",
+      "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
       "cemiloglu_2019",
-      "lewis_2006",
       "sypnowich_2018",
       "liebhaber_2024",
-      "houlden_2022",
-      "bayne_ross_2024",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "lewis_2006",
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -1484,14 +1484,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -1610,10 +1610,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -1660,8 +1660,8 @@
       }
     ],
     "linked_references": [
-      "booker_1994",
       "papastephanou_2008",
+      "booker_1994",
       "moylan_2000",
       "alfes_2021"
     ],
@@ -1718,14 +1718,14 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "cemiloglu_2019",
-      "lewis_2006",
       "sypnowich_2018",
       "bayne_ross_2024",
+      "dunne_2013",
+      "cemiloglu_2019",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "lewis_2006",
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -1781,12 +1781,12 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
-      "lewis_2006",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
-      "levitas_2013"
+      "cemiloglu_2019",
+      "van_heertum_2006",
+      "levitas_2013",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -1874,8 +1874,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -1922,10 +1922,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -1974,12 +1974,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -2026,12 +2026,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -2118,8 +2118,8 @@
       }
     ],
     "linked_references": [
-      "suvin_1979",
       "dunne_2013",
+      "suvin_1979",
       "houlden_2022"
     ],
     "coding_failed": false
@@ -2176,16 +2176,16 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
+      "papastephanou_2009",
+      "bloch_1986",
       "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -2298,10 +2298,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -2382,11 +2382,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -2496,12 +2496,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -2556,15 +2556,15 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
+      "bloch_1986",
       "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -2611,11 +2611,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -2705,14 +2705,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -2794,11 +2794,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -2847,10 +2847,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -3022,12 +3022,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -3083,12 +3083,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -3136,11 +3136,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -3254,10 +3254,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -3304,10 +3304,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -3355,11 +3355,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -3413,12 +3413,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -3473,15 +3473,15 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
-      "van_heertum_2006",
-      "bayne_ross_2024",
+      "papastephanou_2009",
       "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -3537,12 +3537,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -3628,8 +3628,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -3678,10 +3678,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -3730,10 +3730,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -4140,12 +4140,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -4232,12 +4232,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -4535,10 +4535,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -4589,10 +4589,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -4673,12 +4673,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -4765,15 +4765,15 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
-      "van_heertum_2006",
-      "bayne_ross_2024",
+      "papastephanou_2009",
       "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -4958,14 +4958,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -5046,10 +5046,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -5096,11 +5096,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -5150,10 +5150,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -5286,12 +5286,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -5338,12 +5338,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -5401,14 +5401,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -5501,10 +5501,10 @@
       }
     ],
     "linked_references": [
+      "levitas_2013",
       "cemiloglu_2019",
       "lewis_2006",
-      "sypnowich_2018",
-      "levitas_2013"
+      "sypnowich_2018"
     ],
     "coding_failed": false
   },
@@ -5813,8 +5813,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
       "van_heertum_2006",
+      "dunne_2013",
       "houlden_2022"
     ],
     "coding_failed": false
@@ -6012,12 +6012,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -6073,12 +6073,12 @@
       }
     ],
     "linked_references": [
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
-      "van_heertum_2006",
-      "bayne_ross_2024",
+      "papastephanou_2009",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -6129,10 +6129,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -6183,10 +6183,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -6421,15 +6421,15 @@
     ],
     "linked_references": [
       "suvin_1979",
-      "dunne_2013",
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
-      "bayne_ross_2024",
-      "van_heertum_2006",
+      "papastephanou_2009",
       "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -6486,11 +6486,11 @@
       }
     ],
     "linked_references": [
+      "sypnowich_2018",
+      "bloch_1986",
       "dunne_2013",
       "cemiloglu_2019",
-      "sypnowich_2018",
       "van_heertum_2006",
-      "bloch_1986",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -6618,11 +6618,11 @@
       }
     ],
     "linked_references": [
+      "sypnowich_2018",
+      "bloch_1986",
       "dunne_2013",
       "cemiloglu_2019",
-      "sypnowich_2018",
       "van_heertum_2006",
-      "bloch_1986",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -6704,10 +6704,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -6765,12 +6765,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
+      "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
       "liebhaber_2024",
       "van_heertum_2006",
-      "bayne_ross_2024",
-      "bloch_1986",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -6828,14 +6828,14 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "cemiloglu_2019",
-      "lewis_2006",
       "sypnowich_2018",
       "bayne_ross_2024",
+      "dunne_2013",
+      "cemiloglu_2019",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "lewis_2006",
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -6923,11 +6923,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -6984,14 +6984,14 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "cemiloglu_2019",
-      "lewis_2006",
       "sypnowich_2018",
       "bayne_ross_2024",
+      "dunne_2013",
+      "cemiloglu_2019",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "lewis_2006",
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -7048,16 +7048,16 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
+      "papastephanou_2009",
+      "bloch_1986",
       "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -7106,8 +7106,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -7192,11 +7192,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -7291,9 +7291,9 @@
     ],
     "linked_references": [
       "papastephanou_2008",
-      "webb_2016",
       "levitas_2013",
-      "moylan_2000"
+      "moylan_2000",
+      "webb_2016"
     ],
     "coding_failed": false
   },
@@ -7375,8 +7375,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -7422,10 +7422,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -7587,12 +7587,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -7641,10 +7641,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -7727,8 +7727,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -7785,12 +7785,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
+      "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
       "liebhaber_2024",
       "van_heertum_2006",
-      "bayne_ross_2024",
-      "bloch_1986",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -7838,8 +7838,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -7918,11 +7918,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -8063,11 +8063,11 @@
       }
     ],
     "linked_references": [
+      "sypnowich_2018",
+      "bloch_1986",
       "dunne_2013",
       "cemiloglu_2019",
-      "sypnowich_2018",
       "van_heertum_2006",
-      "bloch_1986",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -8299,10 +8299,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -8630,10 +8630,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -8718,8 +8718,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -8797,8 +8797,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -8845,8 +8845,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -8956,11 +8956,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -9007,11 +9007,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -9059,10 +9059,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -9109,11 +9109,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -9479,8 +9479,8 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "dunne_2013",
+      "cemiloglu_2019",
       "lewis_2006",
       "sypnowich_2018"
     ],
@@ -9564,8 +9564,8 @@
       }
     ],
     "linked_references": [
-      "booker_1994",
       "papastephanou_2008",
+      "booker_1994",
       "moylan_2000",
       "alfes_2021"
     ],
@@ -9688,8 +9688,8 @@
       }
     ],
     "linked_references": [
-      "booker_1994",
       "papastephanou_2008",
+      "booker_1994",
       "moylan_2000",
       "alfes_2021"
     ],
@@ -9739,8 +9739,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -9885,8 +9885,8 @@
     ],
     "linked_references": [
       "papastephanou_2008",
-      "webb_2016",
-      "moylan_2000"
+      "moylan_2000",
+      "webb_2016"
     ],
     "coding_failed": false
   },
@@ -9934,8 +9934,8 @@
       }
     ],
     "linked_references": [
-      "booker_1994",
       "papastephanou_2008",
+      "booker_1994",
       "moylan_2000",
       "alfes_2021"
     ],
@@ -10018,11 +10018,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -10068,10 +10068,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -10117,12 +10117,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -10168,10 +10168,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -10219,10 +10219,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -10373,12 +10373,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -10602,11 +10602,11 @@
       }
     ],
     "linked_references": [
-      "papastephanou_2008",
+      "bloch_1986",
       "dunne_2013",
-      "moylan_2000",
       "van_heertum_2006",
-      "bloch_1986"
+      "papastephanou_2008",
+      "moylan_2000"
     ],
     "coding_failed": false
   },
@@ -10722,10 +10722,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -10775,12 +10775,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -10827,10 +10827,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -10986,11 +10986,11 @@
     "linked_references": [
       "booker_1994",
       "papastephanou_2009",
-      "alfes_2021",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "alfes_2021",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -11113,11 +11113,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -11238,15 +11238,15 @@
       }
     ],
     "linked_references": [
+      "houlden_2022",
+      "sypnowich_2018",
+      "bayne_ross_2024",
       "dunne_2013",
       "cemiloglu_2019",
-      "lewis_2006",
-      "sypnowich_2018",
-      "houlden_2022",
-      "bayne_ross_2024",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "lewis_2006",
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -11294,12 +11294,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -11346,11 +11346,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -11405,16 +11405,16 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
+      "papastephanou_2009",
+      "bloch_1986",
       "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -11461,12 +11461,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -11618,11 +11618,11 @@
       }
     ],
     "linked_references": [
+      "sypnowich_2018",
+      "bloch_1986",
       "dunne_2013",
       "cemiloglu_2019",
-      "sypnowich_2018",
       "van_heertum_2006",
-      "bloch_1986",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -11703,10 +11703,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -11885,10 +11885,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -12172,12 +12172,12 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "claeys_2017",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "claeys_2017"
     ],
     "coding_failed": false
   },
@@ -12233,8 +12233,8 @@
       }
     ],
     "linked_references": [
-      "papastephanou_2008",
       "cemiloglu_2019",
+      "papastephanou_2008",
       "levitas_2013",
       "moylan_2000",
       "lewis_2006"
@@ -12285,10 +12285,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -12402,10 +12402,10 @@
       }
     ],
     "linked_references": [
+      "houlden_2022",
+      "sypnowich_2018",
       "dunne_2013",
       "cemiloglu_2019",
-      "sypnowich_2018",
-      "houlden_2022",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -12528,10 +12528,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -12589,14 +12589,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -12651,14 +12651,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -12743,10 +12743,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -12802,11 +12802,11 @@
       }
     ],
     "linked_references": [
+      "sypnowich_2018",
+      "bloch_1986",
       "dunne_2013",
       "cemiloglu_2019",
-      "sypnowich_2018",
       "van_heertum_2006",
-      "bloch_1986",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -12864,12 +12864,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
+      "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
       "liebhaber_2024",
       "van_heertum_2006",
-      "bayne_ross_2024",
-      "bloch_1986",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -12918,8 +12918,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "houlden_2022",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "houlden_2022"
     ],
     "coding_failed": false
   },
@@ -12998,12 +12998,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -13187,12 +13187,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -13306,11 +13306,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -13357,10 +13357,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -13486,12 +13486,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
+      "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
       "liebhaber_2024",
       "van_heertum_2006",
-      "bayne_ross_2024",
-      "bloch_1986",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -13578,10 +13578,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -13811,11 +13811,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -13992,11 +13992,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -14143,8 +14143,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -14194,10 +14194,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -14254,15 +14254,15 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
-      "van_heertum_2006",
-      "bayne_ross_2024",
+      "papastephanou_2009",
       "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -14533,8 +14533,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
       "van_heertum_2006",
+      "dunne_2013",
       "houlden_2022"
     ],
     "coding_failed": false
@@ -14589,12 +14589,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
+      "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
       "liebhaber_2024",
       "van_heertum_2006",
-      "bayne_ross_2024",
-      "bloch_1986",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -14644,8 +14644,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -14694,11 +14694,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -14744,11 +14744,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -14805,15 +14805,15 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
-      "van_heertum_2006",
-      "bayne_ross_2024",
+      "papastephanou_2009",
       "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -14955,11 +14955,11 @@
       }
     ],
     "linked_references": [
+      "sypnowich_2018",
+      "bloch_1986",
       "dunne_2013",
       "cemiloglu_2019",
-      "sypnowich_2018",
       "van_heertum_2006",
-      "bloch_1986",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -15041,11 +15041,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -15091,11 +15091,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -15177,11 +15177,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -15302,10 +15302,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -15355,10 +15355,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -15408,10 +15408,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -15470,8 +15470,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
       "van_heertum_2006",
+      "dunne_2013",
       "levitas_2013"
     ],
     "coding_failed": false
@@ -15527,10 +15527,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "levitas_2013",
       "bayne_2024"
     ],
@@ -15715,11 +15715,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -15773,16 +15773,16 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
+      "papastephanou_2009",
+      "bloch_1986",
       "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -16013,10 +16013,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -16064,11 +16064,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -16123,15 +16123,15 @@
       }
     ],
     "linked_references": [
+      "houlden_2022",
+      "sypnowich_2018",
+      "bayne_ross_2024",
       "dunne_2013",
       "cemiloglu_2019",
-      "lewis_2006",
-      "sypnowich_2018",
-      "houlden_2022",
-      "bayne_ross_2024",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "lewis_2006",
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -16285,13 +16285,13 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
-      "levitas_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "levitas_2013",
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -16348,12 +16348,12 @@
       }
     ],
     "linked_references": [
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
-      "van_heertum_2006",
-      "bayne_ross_2024",
+      "papastephanou_2009",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -16404,10 +16404,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -16465,10 +16465,10 @@
       }
     ],
     "linked_references": [
-      "suoranta_2021",
       "bloch_1986",
+      "van_heertum_2006",
       "dunne_2013",
-      "van_heertum_2006"
+      "suoranta_2021"
     ],
     "coding_failed": false
   },
@@ -16525,11 +16525,11 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
+      "bloch_1986",
+      "cemiloglu_2019",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -16587,15 +16587,15 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
-      "van_heertum_2006",
-      "bayne_ross_2024",
+      "papastephanou_2009",
       "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -16642,8 +16642,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -16766,16 +16766,16 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
+      "papastephanou_2009",
+      "bloch_1986",
       "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -16865,16 +16865,16 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
+      "papastephanou_2009",
+      "bloch_1986",
       "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -17125,11 +17125,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -17175,11 +17175,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -17233,12 +17233,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -17294,14 +17294,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -17567,11 +17567,11 @@
       }
     ],
     "linked_references": [
+      "sypnowich_2018",
+      "bloch_1986",
       "dunne_2013",
       "cemiloglu_2019",
-      "sypnowich_2018",
       "van_heertum_2006",
-      "bloch_1986",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -17621,8 +17621,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -17671,11 +17671,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -17764,14 +17764,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -17828,16 +17828,16 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
+      "papastephanou_2009",
+      "bloch_1986",
       "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -17892,12 +17892,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -17955,11 +17955,11 @@
       }
     ],
     "linked_references": [
-      "papastephanou_2008",
+      "bloch_1986",
       "dunne_2013",
-      "moylan_2000",
       "van_heertum_2006",
-      "bloch_1986"
+      "papastephanou_2008",
+      "moylan_2000"
     ],
     "coding_failed": false
   },
@@ -18006,11 +18006,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -18090,11 +18090,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -18283,8 +18283,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -18518,12 +18518,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -18598,10 +18598,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -18647,10 +18647,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -18708,12 +18708,12 @@
       }
     ],
     "linked_references": [
-      "webb_2016",
-      "cemiloglu_2019",
-      "sypnowich_2018",
       "papastephanou_2024",
-      "lewis_2006",
-      "papastephanou_2013"
+      "papastephanou_2013",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "webb_2016",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -18832,16 +18832,16 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
+      "papastephanou_2009",
+      "bloch_1986",
       "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -18914,17 +18914,17 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "levitas_2013",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "levitas_2013",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -18971,9 +18971,9 @@
       }
     ],
     "linked_references": [
-      "moylan_2000",
       "bloch_1986",
       "van_heertum_2006",
+      "moylan_2000",
       "papastephanou_2008"
     ],
     "coding_failed": false
@@ -19060,11 +19060,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -19145,10 +19145,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -19195,8 +19195,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -19307,11 +19307,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -19425,10 +19425,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -19484,12 +19484,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -19538,10 +19538,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -19597,14 +19597,14 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "cemiloglu_2019",
-      "lewis_2006",
       "sypnowich_2018",
       "bayne_ross_2024",
+      "dunne_2013",
+      "cemiloglu_2019",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "lewis_2006",
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -19659,15 +19659,15 @@
       }
     ],
     "linked_references": [
-      "papastephanou_2009",
-      "cemiloglu_2019",
       "sypnowich_2018",
+      "bloch_1986",
+      "papastephanou_2009",
+      "bayne_ross_2024",
+      "cemiloglu_2019",
       "liebhaber_2024",
       "van_heertum_2006",
-      "bayne_ross_2024",
-      "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -19722,12 +19722,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -19808,10 +19808,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -19859,8 +19859,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -20006,10 +20006,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -20198,10 +20198,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -20283,10 +20283,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -20344,14 +20344,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -20438,10 +20438,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -20499,14 +20499,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -20624,11 +20624,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -21009,10 +21009,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -21132,12 +21132,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "levitas_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "levitas_2013",
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -21194,15 +21194,15 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
+      "bloch_1986",
       "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -21258,16 +21258,16 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
+      "papastephanou_2009",
+      "bloch_1986",
       "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -21356,8 +21356,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -21415,12 +21415,12 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
-      "suoranta_2021",
       "bloch_1986",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "suoranta_2021"
     ],
     "coding_failed": false
   },
@@ -21587,12 +21587,12 @@
       }
     ],
     "linked_references": [
+      "sypnowich_2018",
+      "bloch_1986",
       "dunne_2013",
       "cemiloglu_2019",
-      "sypnowich_2018",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -21709,8 +21709,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -21843,12 +21843,12 @@
       }
     ],
     "linked_references": [
+      "houlden_2022",
+      "sypnowich_2018",
+      "bloch_1986",
       "dunne_2013",
       "cemiloglu_2019",
-      "sypnowich_2018",
-      "houlden_2022",
       "van_heertum_2006",
-      "bloch_1986",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -21905,11 +21905,11 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "levitas_2013",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
+      "levitas_2013",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -21966,12 +21966,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -22021,10 +22021,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -22073,10 +22073,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -22149,17 +22149,17 @@
       }
     ],
     "linked_references": [
-      "booker_1994",
-      "papastephanou_2008",
       "suvin_1979",
-      "bayne_2024",
-      "papastephanou_2009",
-      "liebhaber_2024",
-      "moylan_2000",
-      "bayne_ross_2024",
-      "van_heertum_2006",
+      "booker_1994",
+      "alfes_2021",
       "bloch_1986",
-      "alfes_2021"
+      "papastephanou_2009",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "papastephanou_2008",
+      "van_heertum_2006",
+      "bayne_2024",
+      "moylan_2000"
     ],
     "coding_failed": false
   },
@@ -22209,8 +22209,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -22295,11 +22295,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -22349,10 +22349,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -22402,11 +22402,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -22455,10 +22455,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -22656,9 +22656,9 @@
     "p3_names": [],
     "p3_items": [],
     "linked_references": [
-      "papastephanou_2009",
       "papastephanou_2008",
-      "papastephanou_2013"
+      "papastephanou_2013",
+      "papastephanou_2009"
     ],
     "coding_failed": false
   },
@@ -22715,8 +22715,8 @@
     ],
     "linked_references": [
       "papastephanou_2008",
-      "houlden_2022",
-      "moylan_2000"
+      "moylan_2000",
+      "houlden_2022"
     ],
     "coding_failed": false
   },
@@ -22781,18 +22781,18 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
+      "houlden_2022",
       "papastephanou_2009",
+      "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
       "cemiloglu_2019",
-      "lewis_2006",
       "sypnowich_2018",
       "liebhaber_2024",
-      "houlden_2022",
       "van_heertum_2006",
-      "bayne_ross_2024",
-      "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "lewis_2006",
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -22839,12 +22839,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -22984,12 +22984,12 @@
       }
     ],
     "linked_references": [
+      "sypnowich_2018",
+      "bloch_1986",
       "dunne_2013",
       "cemiloglu_2019",
-      "sypnowich_2018",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -23104,10 +23104,10 @@
       }
     ],
     "linked_references": [
-      "ross_2025",
-      "suvin_1979",
       "dunne_2013",
-      "houlden_2022"
+      "suvin_1979",
+      "houlden_2022",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -23165,14 +23165,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -23294,10 +23294,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -23346,12 +23346,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -23459,10 +23459,10 @@
       }
     ],
     "linked_references": [
-      "ross_2025",
       "bloch_1986",
+      "van_heertum_2006",
       "dunne_2013",
-      "van_heertum_2006"
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -23556,8 +23556,8 @@
     ],
     "linked_references": [
       "liebhaber_2024",
-      "suoranta_2021",
-      "dunne_2013"
+      "dunne_2013",
+      "suoranta_2021"
     ],
     "coding_failed": false
   },
@@ -23606,10 +23606,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -23704,13 +23704,13 @@
       }
     ],
     "linked_references": [
-      "webb_2016",
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "webb_2016",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -23767,12 +23767,12 @@
       }
     ],
     "linked_references": [
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
-      "van_heertum_2006",
-      "bayne_ross_2024",
+      "papastephanou_2009",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -23820,10 +23820,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -23871,10 +23871,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -23959,10 +23959,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -24021,14 +24021,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -24077,10 +24077,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -24171,11 +24171,11 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
-      "sypnowich_2018",
       "houlden_2022",
-      "van_heertum_2006",
+      "sypnowich_2018",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -24256,11 +24256,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -24317,13 +24317,13 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "van_heertum_2006",
       "papastephanou_2024",
+      "sypnowich_2018",
       "bloch_1986",
-      "lewis_2006",
-      "papastephanou_2013"
+      "papastephanou_2013",
+      "cemiloglu_2019",
+      "van_heertum_2006",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -24373,8 +24373,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "houlden_2022",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "houlden_2022"
     ],
     "coding_failed": false
   },
@@ -24423,8 +24423,8 @@
       }
     ],
     "linked_references": [
-      "suvin_1979",
-      "dunne_2013"
+      "dunne_2013",
+      "suvin_1979"
     ],
     "coding_failed": false
   },
@@ -24482,14 +24482,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -24538,10 +24538,10 @@
       }
     ],
     "linked_references": [
-      "ross_2025",
-      "suvin_1979",
       "dunne_2013",
-      "houlden_2022"
+      "suvin_1979",
+      "houlden_2022",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -24597,15 +24597,15 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
+      "bloch_1986",
       "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -24727,12 +24727,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -24778,11 +24778,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -24870,12 +24870,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -24967,8 +24967,8 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "dunne_2013",
+      "cemiloglu_2019",
       "lewis_2006",
       "sypnowich_2018"
     ],
@@ -25019,9 +25019,9 @@
       }
     ],
     "linked_references": [
-      "papastephanou_2024",
       "bloch_1986",
       "van_heertum_2006",
+      "papastephanou_2024",
       "papastephanou_2013"
     ],
     "coding_failed": false
@@ -25112,15 +25112,15 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
+      "bloch_1986",
       "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -25169,11 +25169,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -25258,10 +25258,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -25310,12 +25310,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -25363,12 +25363,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -25416,12 +25416,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -25467,10 +25467,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -25521,10 +25521,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -25581,12 +25581,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -25634,10 +25634,10 @@
       }
     ],
     "linked_references": [
-      "ross_2025",
-      "suvin_1979",
       "dunne_2013",
-      "houlden_2022"
+      "suvin_1979",
+      "houlden_2022",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -25719,11 +25719,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -25811,13 +25811,13 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
-      "papastephanou_2024",
       "bloch_1986",
+      "bayne_ross_2024",
       "papastephanou_2013",
-      "bayne_2024"
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "papastephanou_2024"
     ],
     "coding_failed": false
   },
@@ -25867,10 +25867,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -25919,8 +25919,8 @@
       }
     ],
     "linked_references": [
-      "suvin_1979",
-      "dunne_2013"
+      "dunne_2013",
+      "suvin_1979"
     ],
     "coding_failed": false
   },
@@ -25975,12 +25975,12 @@
       }
     ],
     "linked_references": [
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
-      "bayne_ross_2024",
-      "van_heertum_2006",
+      "papastephanou_2009",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -26068,11 +26068,11 @@
       }
     ],
     "linked_references": [
-      "papastephanou_2008",
+      "bloch_1986",
       "dunne_2013",
-      "moylan_2000",
       "van_heertum_2006",
-      "bloch_1986"
+      "papastephanou_2008",
+      "moylan_2000"
     ],
     "coding_failed": false
   },
@@ -26126,16 +26126,16 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
+      "papastephanou_2009",
+      "bloch_1986",
       "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
       "van_heertum_2006",
       "suoranta_2021",
-      "bloch_1986",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -26191,8 +26191,8 @@
       }
     ],
     "linked_references": [
-      "booker_1994",
       "suvin_1979",
+      "booker_1994",
       "moylan_2000",
       "alfes_2021"
     ],
@@ -26309,8 +26309,8 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "dunne_2013",
+      "cemiloglu_2019",
       "lewis_2006",
       "sypnowich_2018"
     ],
@@ -26438,11 +26438,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -26489,11 +26489,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -26539,8 +26539,8 @@
       }
     ],
     "linked_references": [
-      "booker_1994",
       "papastephanou_2008",
+      "booker_1994",
       "moylan_2000",
       "alfes_2021"
     ],
@@ -26654,10 +26654,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -26715,11 +26715,11 @@
       }
     ],
     "linked_references": [
+      "sypnowich_2018",
+      "bloch_1986",
       "dunne_2013",
       "cemiloglu_2019",
-      "sypnowich_2018",
       "van_heertum_2006",
-      "bloch_1986",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -26883,11 +26883,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -26974,10 +26974,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -27035,14 +27035,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -27325,10 +27325,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -27478,10 +27478,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -27673,12 +27673,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -27794,10 +27794,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -28233,9 +28233,9 @@
       }
     ],
     "linked_references": [
+      "dunne_2013",
       "suvin_1979",
-      "webb_2016",
-      "dunne_2013"
+      "webb_2016"
     ],
     "coding_failed": false
   },
@@ -28281,10 +28281,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -28331,10 +28331,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -28416,8 +28416,8 @@
       }
     ],
     "linked_references": [
-      "booker_1994",
       "papastephanou_2008",
+      "booker_1994",
       "moylan_2000",
       "alfes_2021"
     ],
@@ -28626,10 +28626,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -28679,8 +28679,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -28802,14 +28802,14 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
-      "cemiloglu_2019",
-      "lewis_2006",
       "sypnowich_2018",
       "bayne_ross_2024",
+      "dunne_2013",
+      "cemiloglu_2019",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "lewis_2006",
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -28864,8 +28864,8 @@
       }
     ],
     "linked_references": [
-      "booker_1994",
       "papastephanou_2008",
+      "booker_1994",
       "moylan_2000",
       "alfes_2021"
     ],
@@ -28913,11 +28913,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -29169,12 +29169,12 @@
     ],
     "linked_references": [
       "booker_1994",
-      "dunne_2013",
       "alfes_2021",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -29221,8 +29221,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -29277,10 +29277,10 @@
       }
     ],
     "linked_references": [
-      "suoranta_2021",
       "bloch_1986",
+      "van_heertum_2006",
       "dunne_2013",
-      "van_heertum_2006"
+      "suoranta_2021"
     ],
     "coding_failed": false
   },
@@ -29327,11 +29327,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -29630,10 +29630,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -29712,10 +29712,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -29762,10 +29762,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -29850,8 +29850,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "houlden_2022",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "houlden_2022"
     ],
     "coding_failed": false
   },
@@ -29937,12 +29937,12 @@
       }
     ],
     "linked_references": [
-      "webb_2016",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "webb_2016",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -30027,11 +30027,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -30222,10 +30222,10 @@
       }
     ],
     "linked_references": [
-      "ross_2025",
-      "dunne_2013",
+      "levitas_2013",
       "houlden_2022",
-      "levitas_2013"
+      "dunne_2013",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -30273,10 +30273,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -30407,10 +30407,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -30458,10 +30458,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -30519,12 +30519,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -30688,14 +30688,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -30787,14 +30787,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -30928,8 +30928,8 @@
       }
     ],
     "linked_references": [
-      "webb_2016",
-      "dunne_2013"
+      "dunne_2013",
+      "webb_2016"
     ],
     "coding_failed": false
   },
@@ -31021,11 +31021,11 @@
     ],
     "linked_references": [
       "suvin_1979",
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -31082,8 +31082,8 @@
       }
     ],
     "linked_references": [
-      "suvin_1979",
-      "dunne_2013"
+      "dunne_2013",
+      "suvin_1979"
     ],
     "coding_failed": false
   },
@@ -31243,10 +31243,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -31297,8 +31297,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -31389,12 +31389,12 @@
       }
     ],
     "linked_references": [
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
-      "bayne_ross_2024",
-      "van_heertum_2006",
+      "papastephanou_2009",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -31562,10 +31562,10 @@
       }
     ],
     "linked_references": [
-      "suoranta_2021",
       "bloch_1986",
+      "van_heertum_2006",
       "dunne_2013",
-      "van_heertum_2006"
+      "suoranta_2021"
     ],
     "coding_failed": false
   },
@@ -31621,12 +31621,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -31676,10 +31676,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -31729,10 +31729,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -31816,10 +31816,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -31875,12 +31875,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -32039,11 +32039,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -32091,12 +32091,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "houlden_2022",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -32193,11 +32193,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -32244,11 +32244,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -32298,8 +32298,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -32381,10 +32381,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -32441,11 +32441,11 @@
       }
     ],
     "linked_references": [
+      "sypnowich_2018",
+      "bloch_1986",
       "dunne_2013",
       "cemiloglu_2019",
-      "sypnowich_2018",
       "van_heertum_2006",
-      "bloch_1986",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -32496,8 +32496,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -32651,8 +32651,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -32700,10 +32700,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -32899,14 +32899,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -33037,11 +33037,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -33126,8 +33126,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -33186,11 +33186,11 @@
     "linked_references": [
       "booker_1994",
       "papastephanou_2009",
+      "bloch_1986",
+      "bayne_ross_2024",
       "alfes_2021",
       "liebhaber_2024",
-      "bayne_ross_2024",
       "van_heertum_2006",
-      "bloch_1986",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -33325,12 +33325,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -33379,8 +33379,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "houlden_2022",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "houlden_2022"
     ],
     "coding_failed": false
   },
@@ -33429,10 +33429,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -33481,10 +33481,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -33535,8 +33535,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -33650,10 +33650,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -33703,8 +33703,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -33761,12 +33761,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
+      "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
       "liebhaber_2024",
       "van_heertum_2006",
-      "bayne_ross_2024",
-      "bloch_1986",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -33824,12 +33824,12 @@
       }
     ],
     "linked_references": [
-      "papastephanou_2009",
-      "liebhaber_2024",
       "houlden_2022",
-      "van_heertum_2006",
-      "bayne_ross_2024",
+      "papastephanou_2009",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -34082,10 +34082,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -34181,12 +34181,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -34237,8 +34237,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -34324,8 +34324,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "houlden_2022",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "houlden_2022"
     ],
     "coding_failed": false
   },
@@ -34437,8 +34437,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -34495,12 +34495,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -34596,12 +34596,12 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "dunne_2013",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -34651,9 +34651,9 @@
       }
     ],
     "linked_references": [
-      "suoranta_2021",
       "bloch_1986",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "suoranta_2021"
     ],
     "coding_failed": false
   },
@@ -34710,8 +34710,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
       "van_heertum_2006",
+      "dunne_2013",
       "houlden_2022"
     ],
     "coding_failed": false
@@ -34767,14 +34767,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -34822,8 +34822,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "houlden_2022",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "houlden_2022"
     ],
     "coding_failed": false
   },
@@ -34869,11 +34869,11 @@
       }
     ],
     "linked_references": [
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -34953,9 +34953,9 @@
       }
     ],
     "linked_references": [
-      "papastephanou_2024",
       "bloch_1986",
       "van_heertum_2006",
+      "papastephanou_2024",
       "papastephanou_2013"
     ],
     "coding_failed": false
@@ -35047,14 +35047,14 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "cemiloglu_2019",
-      "sypnowich_2018",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
-      "lewis_2006",
-      "bayne_2024"
+      "bayne_ross_2024",
+      "sypnowich_2018",
+      "cemiloglu_2019",
+      "liebhaber_2024",
+      "van_heertum_2006",
+      "bayne_2024",
+      "lewis_2006"
     ],
     "coding_failed": false
   },
@@ -35102,10 +35102,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -35153,10 +35153,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -35205,8 +35205,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -35256,10 +35256,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -35377,10 +35377,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -35541,10 +35541,10 @@
     ],
     "linked_references": [
       "papastephanou_2009",
-      "liebhaber_2024",
-      "bayne_ross_2024",
-      "van_heertum_2006",
       "bloch_1986",
+      "bayne_ross_2024",
+      "liebhaber_2024",
+      "van_heertum_2006",
       "bayne_2024"
     ],
     "coding_failed": false
@@ -35638,8 +35638,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -35687,9 +35687,9 @@
       }
     ],
     "linked_references": [
-      "webb_2016",
       "bloch_1986",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "webb_2016"
     ],
     "coding_failed": false
   },
@@ -35737,10 +35737,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -35799,11 +35799,11 @@
     ],
     "linked_references": [
       "suvin_1979",
-      "dunne_2013",
       "bayne_ross_2024",
+      "dunne_2013",
       "suoranta_2021",
-      "ross_2025",
-      "bayne_2024"
+      "bayne_2024",
+      "ross_2025"
     ],
     "coding_failed": false
   },
@@ -35887,10 +35887,10 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "sypnowich_2018",
-      "van_heertum_2006",
       "bloch_1986",
+      "cemiloglu_2019",
+      "van_heertum_2006",
       "lewis_2006"
     ],
     "coding_failed": false
@@ -35988,8 +35988,8 @@
     ],
     "linked_references": [
       "bloch_1986",
-      "dunne_2013",
-      "van_heertum_2006"
+      "van_heertum_2006",
+      "dunne_2013"
     ],
     "coding_failed": false
   },
@@ -36104,10 +36104,10 @@
       }
     ],
     "linked_references": [
-      "suoranta_2021",
       "bloch_1986",
+      "van_heertum_2006",
       "dunne_2013",
-      "van_heertum_2006"
+      "suoranta_2021"
     ],
     "coding_failed": false
   },
@@ -36189,8 +36189,8 @@
       }
     ],
     "linked_references": [
-      "cemiloglu_2019",
       "dunne_2013",
+      "cemiloglu_2019",
       "lewis_2006"
     ],
     "coding_failed": false
