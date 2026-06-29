@@ -50,7 +50,7 @@ export default function AboutView() {
                     <h1 className="about-title">Mapping Utopia</h1>
                     <p className="about-subtitle">
                         A conceptual map connecting community-led practices of resilience and
-                        reimagination with the theoretical frameworks that help us understand them.
+                        reimagination with the theoretical frameworks that anticipated them.
                     </p>
                 </div>
 
@@ -60,12 +60,7 @@ export default function AboutView() {
                     <p>
                         <strong>Mapping Utopia</strong> visualises the work of communities around the world
                         who are building resilience, experimenting with alternatives, and
-                        practicing the futures they want to inhabit — drawing on the extensive
-                        empirical documentation of <strong>Rob Hopkins</strong> and the
-                        Transition Town movement. Hopkins’ most recent book, <em>How to Fall in Love with the Future</em> (2025),
-                        deepens this work by examining how communities throughout history
-                        have used visions of the future to inspire large-scale positive
-                        change — and invites us to do the same.
+                        practicing the futures they want to inhabit — drawing on the blog archives of <a href="https://robbhopkins.org/" target="_blank" rel="noreferrer">Rob Hopkins</a>.
                     </p>
                     <p>
                         Each marker on the map represents a real practice extracted from one of
@@ -78,23 +73,22 @@ export default function AboutView() {
                         dystopianism, and speculative futures in education.
                     </p>
                     <p>
-                        As Papastephanou, Antonacopoulou, and Drousioti (2024) observe,
-                        there is a &ldquo;resurgent and fruitful interest in utopian thought
-                        across disciplines,&rdquo; and communities are actively engaged in
-                        rethinking &ldquo;what counts as a desirable future.&rdquo;
+                        As Papastephanou (2024) observes, educational utopianism should not be
+                        dichotomized between &ldquo;real versus blueprint&rdquo; forms, and
+                        a richer set of normativities is required to help communities rethink
+                        what constitutes a desirable future.
                         <sup>
                             <a
-                                href="https://doi.org/10.1177/14782103241283192"
+                                href="https://doi.org/10.1007/s11217-024-09951-6"
                                 target="_blank"
                                 rel="noreferrer"
                                 className="about-ref-link"
-                                title="Papastephanou et al., 2024"
+                                title="Papastephanou, 2024"
                             >
                                 [1]
                             </a>
                         </sup>
-                        This project makes those visions visible — and traceable to the
-                        theory that helps name them.
+                        This project explores the shape those imaginaries take, both in the real world and in theory.
                     </p>
                 </section>
 
@@ -239,7 +233,7 @@ export default function AboutView() {
                         <li>
                             <strong>Theory Slide-Over</strong> — Click &ldquo;explore&rdquo;
                             on any reference to see the full citation, key passages, the
-                            concepts it theorises, and suggested open-access further reading.
+                            concepts it theorises, and suggested open-access further reading where available.
                         </li>
                     </ul>
                 </section>
@@ -277,12 +271,7 @@ export default function AboutView() {
 
                     <p>
                         <strong>Empirical corpus:</strong> Practices were extracted from
-                        robhopkins.net,
-                        covering {STATS.posts} posts. Hopkins’ recent book
-                        <em>How to Fall in Love with the Future</em> (Chelsea Green, 2025)
-                        explores the power of imaginative time-travel as a tool for
-                        transformation — the same practice that animates many of the
-                        projects on this map.
+                        robhopkins.net, covering {STATS.posts} posts as of June 2026.
                     </p>
                     <p>
                         <strong>Theoretical corpus:</strong> {STATS.references} peer-reviewed
@@ -300,11 +289,10 @@ export default function AboutView() {
                         <h3>References</h3>
                         <ol className="about-ref-list">
                             <li>
-                                Papastephanou, M., Antonacopoulou, E., & Drousioti, K.
-                                (2024). Educational utopianism beyond the &ldquo;real versus
-                                blueprint&rdquo; dichotomy. <em>Policy Futures in Education</em>.
+                                Papastephanou, M. (2024). Educational utopianism beyond the
+                                &ldquo;real versus blueprint&rdquo; dichotomy. <em>Studies in Philosophy and Education</em>.
                                 <a
-                                    href="https://doi.org/10.1177/14782103241283192"
+                                    href="https://doi.org/10.1007/s11217-024-09951-6"
                                     target="_blank"
                                     rel="noreferrer"
                                 >
@@ -324,8 +312,15 @@ export default function AboutView() {
                                 </a>
                             </li>
                             <li>
-                                Hopkins, R. (2008). <em>The Transition Handbook: From Oil
-                                    Dependency to Local Resilience</em>. Green Books.
+                                Hopkins, R. (2025). <em>How to Fall in Love with the Future</em>.
+                                Chelsea Green Publishing UK. ISBN: 9781915294517.
+                                <a
+                                    href="https://www.chelseagreen.com/product/how-to-fall-in-love-with-the-future/"
+                                    target="_blank"
+                                    rel="noreferrer"
+                                >
+                                    <ExternalLink size={12} />
+                                </a>
                             </li>
                             <li>
                                 Ostrom, E. (2009). A general framework for analyzing
@@ -339,17 +334,7 @@ export default function AboutView() {
                                     <ExternalLink size={12} />
                                 </a>
                             </li>
-                            <li>
-                                Hopkins, R. (2025). <em>How to Fall in Love with the Future</em>.
-                                Chelsea Green Publishing UK.
-                                <a
-                                    href="https://www.chelseagreen.com/product/how-to-fall-in-love-with-the-future/"
-                                    target="_blank"
-                                    rel="noreferrer"
-                                >
-                                    <ExternalLink size={12} />
-                                </a>
-                            </li>
+
                         </ol>
                     </div>
                 </section>
@@ -357,8 +342,7 @@ export default function AboutView() {
                 {/* ── Footer ────────────────────────────────────────── */}
                 <div className="about-footer">
                     <p>
-                        Mapping Utopia — Theory & Practice &middot;{' '}
-                        EDTECH575, Penn State University &middot; 2026
+                        Mapping Utopia — Theory & Practice
                     </p>
                 </div>
             </div>
