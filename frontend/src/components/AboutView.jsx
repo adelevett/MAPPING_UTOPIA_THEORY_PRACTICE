@@ -277,9 +277,8 @@ export default function AboutView() {
 
                     <p>
                         <strong>Empirical corpus:</strong> Practices were extracted from
-                        the Transition Network community blog (transitionnetwork.org),
-                        covering {STATS.posts} posts published between 2014 and 2025,
-                        curated by Rob Hopkins and contributors. Hopkins’ recent book
+                        robhopkins.net,
+                        covering {STATS.posts} posts. Hopkins’ recent book
                         <em>How to Fall in Love with the Future</em> (Chelsea Green, 2025)
                         explores the power of imaginative time-travel as a tool for
                         transformation — the same practice that animates many of the
@@ -294,7 +293,7 @@ export default function AboutView() {
                     <p>
                         <strong>Coding pipeline:</strong> For a full technical description of the
                         ontology extraction, practice correlation, and validation pipeline,
-                        see the <a href="https://github.com/delevetat/MAPPING_UTOPIA_THEORY_PRACTICE#readme" target="_blank" rel="noreferrer">project README</a>.
+                        see the <a href="https://github.com/adelevett/MAPPING_UTOPIA_THEORY_PRACTICE#readme" target="_blank" rel="noreferrer">project README</a>.
                     </p>
 
                     <div className="about-refs">
