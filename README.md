@@ -1,7 +1,7 @@
 # Correlation Pipeline
 
 **Status: COMPLETED**  
-All 803 practices have been successfully coded, validated, and built into frontend graph and map data files. Detailed execution logs and QA statistics can be reviewed in the **[PROGRESS_REPORT.md](file:///C:/Users/delevetta/Documents/Su26/EDTECH575/MAPPING_UTOPIA_THEORY_PRACTICE/PROGRESS_REPORT.md)**.
+All 803 practices have been successfully coded, validated, and built into frontend graph and map data files. Detailed execution logs and QA statistics can be reviewed in the PROGRESS_REPORT.md.
 
 The pipeline compiles the raw empirical data (`extractions_output.json`) and CSR qualitative ontology (`ontology.json` / `coded_matrix.json`) into the final structured formats consumed by the React + Vite frontend.
 

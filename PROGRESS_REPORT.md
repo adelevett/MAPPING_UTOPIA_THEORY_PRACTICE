@@ -19,7 +19,7 @@ The correlation pipeline was executed in two sequential, resumable runs using `g
 
 ## 2. Validation & QA Analysis (`validate_codings.py`)
 
-Running the QA validation script over the 803 codings generated [validation_report.json](file:///C:/Users/delevetta/Documents/Su26/EDTECH575/MAPPING_UTOPIA_THEORY_PRACTICE/validation_report.json) with the following parameters:
+Running the QA validation script over the 803 codings generated validation_report.json with the following parameters:
 
 *   **Total Practices Evaluated:** 803
 *   **Permanent Extraction Failures:** 3 (marked with `EXTRACTION_FAILED` placeholders due to API failures/resets)
@@ -40,10 +40,10 @@ We resolved an extraction mapping issue where geocoordinates were nested inside 
 
 | Asset File | Size / Count | Purpose in React Frontend |
 | :--- | :--- | :--- |
-| **[practices.json](file:///C:/Users/delevetta/Documents/Su26/EDTECH575/MAPPING_UTOPIA_THEORY_PRACTICE/practices.json)** | 803 records (542 geocoded / 261 non-geocoded) | Primary flat array containing all practice details, Ostrom SES fields, and applied P1/P2/P3 ontology codes. |
-| **[category_index.json](file:///C:/Users/delevetta/Documents/Su26/EDTECH575/MAPPING_UTOPIA_THEORY_PRACTICE/category_index.json)** | 40 nodes | Categories dictionary mapping definitions and rules to render nodes in the Cytoscape canvas. |
-| **[reference_index.json](file:///C:/Users/delevetta/Documents/Su26/EDTECH575/MAPPING_UTOPIA_THEORY_PRACTICE/reference_index.json)** | 23 nodes | Academic literature references from the CSR matrix, enabling citation cross-linking. |
-| **[graph_edges.json](file:///C:/Users/delevetta/Documents/Su26/EDTECH575/MAPPING_UTOPIA_THEORY_PRACTICE/graph_edges.json)** | 1,198 edges | Typed connections (`coded_to`, `evidences`) with weighting rules to drive edge rendering in the graph view. |
+| **practices.json** | 803 records (542 geocoded / 261 non-geocoded) | Primary flat array containing all practice details, Ostrom SES fields, and applied P1/P2/P3 ontology codes. |
+| **category_index.json** | 40 nodes | Categories dictionary mapping definitions and rules to render nodes in the Cytoscape canvas. |
+| **reference_index.json** | 23 nodes | Academic literature references from the CSR matrix, enabling citation cross-linking. |
+| **graph_edges.json** | 1,198 edges | Typed connections (`coded_to`, `evidences`) with weighting rules to drive edge rendering in the graph view. |
 
 ---
 

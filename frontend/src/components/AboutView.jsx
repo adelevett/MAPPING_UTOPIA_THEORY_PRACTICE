@@ -58,9 +58,8 @@ export default function AboutView() {
                 <section className="about-section">
                     <h2>What Is This?</h2>
                     <p>
-                        <strong>Mapping Utopia</strong> visualises the work of communities around the world
-                        who are building resilience, experimenting with alternatives, and
-                        practicing the futures they want to inhabit — drawing on the blog archives of <a href="https://robbhopkins.org/" target="_blank" rel="noreferrer">Rob Hopkins</a>.
+By correlating 803 empirical practices from the blog archives of <a href="https://robhopkins.net/" target="_blank" rel="noreferrer">Rob Hopkins</a> with a theoretical ontology derived from 23 sources in the literature on educational utopianism, this project maps the correspondence between imagined and enacted futures — ideas made real.
+                    
                     </p>
                     <p>
                         Each marker on the map represents a real practice extracted from one of
@@ -72,24 +71,7 @@ export default function AboutView() {
                         <strong>{STATS.references} academic texts</strong> on utopianism,
                         dystopianism, and speculative futures in education.
                     </p>
-                    <p>
-                        As Papastephanou (2024) observes, educational utopianism should not be
-                        dichotomized between &ldquo;real versus blueprint&rdquo; forms, and
-                        a richer set of normativities is required to help communities rethink
-                        what constitutes a desirable future.
-                        <sup>
-                            <a
-                                href="https://doi.org/10.1007/s11217-024-09951-6"
-                                target="_blank"
-                                rel="noreferrer"
-                                className="about-ref-link"
-                                title="Papastephanou, 2024"
-                            >
-                                [1]
-                            </a>
-                        </sup>
-                        This project explores the shape those imaginaries take, both in the real world and in theory.
-                    </p>
+
                 </section>
 
                 {/* ── Methodology ───────────────────────────────────── */}
@@ -118,7 +100,7 @@ export default function AboutView() {
                             <div>
                                 <strong>Identify the tangled term</strong>
                                 <p className="about-step-desc">
-                                    &ldquo;Utopianism and dystopianism in digital education&rdquo;
+                                    &ldquo;Utopianism and dystopianism in education&rdquo;
                                     — a polysemous concept requiring systematic resolution.
                                 </p>
                             </div>
