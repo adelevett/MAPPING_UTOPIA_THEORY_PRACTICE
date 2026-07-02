@@ -6,14 +6,17 @@ This directory houses the source corpora, tools, pipeline scripts, and structure
 
 ## 1. Directory Structure
 
+> [!NOTE]
+> This section describes the original source directory structure used during the research phase. The full-text PDFs and extracted structures are omitted from the public repository to respect copyright restrictions. Only the derived datasets (`04-ai-artifacts/`) are included in this repo.
+
 ```
 Final-Project/
-├── 03-full-text-papers/           # Literature Corpus
-│   ├── original-papers-pdfs/      # Core reference PDFs (Open Access)
-│   ├── next-best-things-pdfs/     # Proxy PDFs (Citing/Author Open Access)
+├── 03-full-text-papers/           # Literature Corpus (Not in repo)
+│   ├── original-papers-pdfs/      # Core reference PDFs
+│   ├── next-best-things-pdfs/     # Proxy PDFs
 │   └── extracted-structures/      # Layout JSONs and parsed plain-text Markdown (.md)
 │
-├── 04-ai-artifacts/               # Deliverables & Pipeline Inputs
+├── 04-ai-artifacts/               # Deliverables & Pipeline Inputs (Present in repo)
 │   ├── references_resolved.json   # Base metadata, abstracts, and summaries
 │   ├── ontology.json              # FINAL DELIVERABLE: Structured Extraction Ontology (JSON Schema)
 │   └── coded_matrix.json          # FINAL DELIVERABLE: Coded Qualitative Review Matrix (JSON)

@@ -1,6 +1,6 @@
 # Technical Progress Summary: Ostrom SES Extraction Pipeline
 
-This document summarizes the technical execution, data outcomes, and validation metrics for the Rob Hopkins blog structured extraction pipeline, completed for **EDTECH 569** on June 27, 2026.
+This document summarizes the technical execution, data outcomes, and validation metrics for the Rob Hopkins blog structured extraction pipeline.
 
 ---
 
@@ -21,7 +21,7 @@ graph TD
 ### Infrastructure Details
 *   **Vertex AI Engine**: `gemini-3.5-flash` running in `global` region/endpoint (`aiplatform.googleapis.com`).
 *   **Reasoning Configuration**: **High Reasoning** (thinking tokens active) to ensure structural adherence to the Elinor Ostrom framework rules.
-*   **Authentication Flow**: Google Cloud Application Default Credentials (ADC) bound to `alexisdelevett@u.boisestate.edu` under GCP project `sonic-name-500202-t5`.
+*   **Authentication Flow**: Google Cloud Application Default Credentials (ADC) under GCP project.
 *   **Rate Limits & Backoff**: Exponential backoff configured for Vertex API rate limits (HTTP 429) and transient errors (500/503/504).
 *   **Geocoding Host**: OpenStreetMap Nominatim API, rate-limited to 1.0-second delay per unique lookup and backed by a local duplicate filter cache.
 

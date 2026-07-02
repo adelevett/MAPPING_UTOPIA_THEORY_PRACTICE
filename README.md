@@ -1,9 +1,29 @@
-# Correlation Pipeline
+# Mapping Utopia: Theory & Practice
+
+An interactive map connecting 803 community-led practices of resilience and reimagination with 40 theoretical concepts drawn from the academic literature on educational utopianism.
+
+This repository contains the complete pipeline: from raw text extraction to ontology development, data correlation, and the final interactive frontend.
+
+## The Web Application
+
+The interactive map and concept atlas are built in React + Vite and are deployed at:
+**[Insert GitHub Pages URL here]**
+
+For frontend development details, see `frontend/README.md`.
+
+---
+
+## Data Pipeline Details
+
+The data that powers the map is the output of a three-part pipeline:
+1. **THEORY:** A Conceptual Systematic Review (CSR) of academic literature, extracting a 40-category ontology.
+2. **PRACTICE:** An extraction pipeline that ingested 324 posts from Rob Hopkins' blog, parsing them into 803 practices structured via the Ostrom SES framework.
+3. **CORRELATION (This directory):** A final pipeline that codes the 803 practices against the 40-category ontology.
 
 **Status: COMPLETED**  
-All 803 practices have been successfully coded, validated, and built into frontend graph and map data files. Detailed execution logs and QA statistics can be reviewed in the PROGRESS_REPORT.md.
+All 803 practices have been successfully coded, validated, and built into frontend graph and map data files. Detailed execution logs and QA statistics can be reviewed in the `PRACTICE/PROGRESS_SUMMARY.md`.
 
-The pipeline compiles the raw empirical data (`extractions_output.json`) and CSR qualitative ontology (`ontology.json` / `coded_matrix.json`) into the final structured formats consumed by the React + Vite frontend.
+The correlation pipeline compiles the raw empirical data (`extractions_output.json`) and CSR qualitative ontology (`ontology.json` / `coded_matrix.json`) into the final structured formats consumed by the React frontend.
 
 ---
 

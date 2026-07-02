@@ -1,28 +1,6 @@
 import React, { useMemo } from 'react';
 import { ChevronRight, MapIcon } from 'lucide-react';
-
-const P1_COLORS = {
-  'P1-C1':  '#6366f1', 'P1-C2':  '#8b5cf6', 'P1-C3':  '#ec4899',
-  'P1-C4':  '#14b8a6', 'P1-C5':  '#f97316', 'P1-C6':  '#06b6d4',
-  'P1-C7':  '#f43f5e', 'P1-C8':  '#a855f7', 'P1-C9':  '#3b82f6',
-  'P1-C10': '#84cc16', 'P1-C11': '#f59e0b', 'P1-C12': '#10b981',
-  'P1-C13': '#64748b', 'P1-C14': '#d946ef',
-};
-
-function getCategoryColor(id) {
-  if (!id) return '#888';
-  if (id.startsWith('P1')) return P1_COLORS[id] || '#6366f1';
-  if (id.startsWith('P2')) return '#10b981';
-  return '#f59e0b';
-}
-
-function getBestQuote(practice) {
-  return practice.p1_verbatim_evidence
-    || (practice.p3_items?.[0]?.verbatim_evidence)
-    || practice.evidence
-    || practice.post_title
-    || practice.practice_name;
-}
+import { getCategoryColor, getBestQuote } from '../utils/categoryStyle';
 
 const PERSPECTIVE_META = {
   P1: {

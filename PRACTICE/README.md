@@ -1,8 +1,6 @@
 # Rob Hopkins Blog Ostrom SES Extraction Pipeline
 
-This repository contains the pipeline to ingest, filter, geocode, and extract structured data from [Rob Hopkins' Blog](https://www.robhopkins.net/) into Elinor Ostrom's **Social-Ecological Systems (SES)** framework. 
-
-This project was built for **EDTECH 569**.
+This repository contains the pipeline to ingest, filter, geocode, and extract structured data from [Rob Hopkins' Blog](https://www.robhopkins.net/) into Elinor Ostrom's **Social-Ecological Systems (SES)** framework.
 
 ---
 
@@ -34,7 +32,7 @@ python -m venv .venv
 ### Google Cloud Authorization
 Verify `gcloud` is installed, initialized, and configured with Application Default Credentials (ADC):
 ```powershell
-# Initialize gcloud and select project [sonic-name-500202-t5]
+# Initialize gcloud and select project [YOUR-PROJECT-ID]
 gcloud init
 
 # Authorize Application Default Credentials locally

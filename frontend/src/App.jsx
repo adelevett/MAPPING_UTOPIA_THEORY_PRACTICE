@@ -6,7 +6,7 @@ import StorySheet from './components/StorySheet';
 import TheorySlideOver from './components/TheorySlideOver';
 import StatsDashboard from './components/StatsDashboard';
 import AboutView from './components/AboutView';
-import { Compass, BookOpen, RefreshCw, Layers, Info } from 'lucide-react';
+import { Compass, BookOpen, RefreshCw, Layers, Info, X } from 'lucide-react';
 import './App.css';
 
 function App() {
@@ -19,6 +19,16 @@ function App() {
   const [codedMatrix, setCodedMatrix] = useState([]);
   const [referencesResolved, setReferencesResolved] = useState([]);
   const [nextBestThings, setNextBestThings] = useState({});
+
+  // ── Welcome overlay ──────────────────────────────────────────
+  const [showWelcome, setShowWelcome] = useState(
+    () => !localStorage.getItem('mapping-utopia-visited')
+  );
+
+  const dismissWelcome = useCallback(() => {
+    localStorage.setItem('mapping-utopia-visited', '1');
+    setShowWelcome(false);
+  }, []);
 
   // ── Unified UI state ─────────────────────────────────────────
   const [view, setView] = useState('map'); // 'map' | 'concepts'
@@ -268,6 +278,43 @@ function App() {
           />
         )}
       </main>
+
+      {/* First-visit welcome overlay — inside app-container so it overlays everything */}
+      {showWelcome && (
+        <div className="welcome-overlay" role="dialog" aria-modal="true" aria-label="Welcome to Mapping Utopia">
+          <div className="welcome-card glass-panel animate-fade-in">
+            <button
+              className="welcome-close-btn"
+              onClick={dismissWelcome}
+              id="welcome-close-btn"
+              aria-label="Close welcome message"
+            >
+              <X size={16} />
+            </button>
+            <div className="welcome-icon animate-pulse-slow">
+              <Layers size={28} className="text-accent" />
+            </div>
+            <h2 className="welcome-title">Welcome to Mapping Utopia</h2>
+            <p className="welcome-body">
+              This map connects <strong>803 community-led practices</strong> from around the world
+              with <strong>40 theoretical concepts</strong> from the academic literature on
+              educational utopianism.
+            </p>
+            <ul className="welcome-hints">
+              <li><strong>The Map</strong> — click any marker to read about a practice and its theoretical connections.</li>
+              <li><strong>Concept Atlas</strong> — browse all 40 theoretical concepts and the practices that exemplify them.</li>
+              <li><strong>About</strong> — learn how this project was built and what it means.</li>
+            </ul>
+            <button
+              className="welcome-start-btn hover-grow"
+              onClick={dismissWelcome}
+              id="welcome-start-btn"
+            >
+              Start exploring
+            </button>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

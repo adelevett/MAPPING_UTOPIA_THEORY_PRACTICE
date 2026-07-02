@@ -1,37 +1,11 @@
 import React, { useState, useMemo } from 'react';
 import { ChevronLeft, ChevronRight, X } from 'lucide-react';
-
-// P1 gets 14 distinct colors, P2 and P3 use their perspective color
-const P1_COLORS = {
-  'P1-C1':  '#6366f1',
-  'P1-C2':  '#8b5cf6',
-  'P1-C3':  '#ec4899',
-  'P1-C4':  '#14b8a6',
-  'P1-C5':  '#f97316',
-  'P1-C6':  '#06b6d4',
-  'P1-C7':  '#f43f5e',
-  'P1-C8':  '#a855f7',
-  'P1-C9':  '#3b82f6',
-  'P1-C10': '#84cc16',
-  'P1-C11': '#f59e0b',
-  'P1-C12': '#10b981',
-  'P1-C13': '#64748b',
-  'P1-C14': '#d946ef',
-};
-
-const P2_COLOR = '#10b981';
-const P3_COLOR = '#f59e0b';
-
-function getCategoryColor(categoryId) {
-  if (categoryId.startsWith('P1')) return P1_COLORS[categoryId] || '#6366f1';
-  if (categoryId.startsWith('P2')) return P2_COLOR;
-  return P3_COLOR;
-}
+import { P1_COLORS, P2_COLOR, P3_COLOR, getCategoryColor } from '../utils/categoryStyle';
 
 const PERSPECTIVE_LABELS = {
-  P1: { label: 'Typologies', description: 'What kind of future is imagined?' },
-  P2: { label: 'Methods', description: 'How is that future constructed or explored?' },
-  P3: { label: 'Affects', description: 'What emotional or pedagogical force drives it?' },
+  P1: { label: 'Typologies of Visionary Constructs', description: 'What kind of future is imagined?' },
+  P2: { label: 'Speculative Methodologies', description: 'How is that future constructed or explored?' },
+  P3: { label: 'Pedagogical Affects', description: 'What emotional or pedagogical force drives it?' },
 };
 
 export default function ConceptFilterRail({ categories, practices, activeFilters, onFiltersChange }) {
@@ -105,7 +79,7 @@ export default function ConceptFilterRail({ categories, practices, activeFilters
               >
                 <span
                   className="filter-perspective-badge"
-                  style={{ backgroundColor: pid === 'P1' ? '#6366f1' : pid === 'P2' ? P2_COLOR : P3_COLOR }}
+                style={{ backgroundColor: pid === 'P1' ? '#6366f1' : pid === 'P2' ? P2_COLOR : P3_COLOR }}
                 >
                   {pid}
                 </span>
@@ -120,6 +94,7 @@ export default function ConceptFilterRail({ categories, practices, activeFilters
                   className={`filter-chevron ${expandedPerspectives[pid] ? 'filter-chevron--open' : ''}`}
                 />
               </button>
+              <p className="filter-perspective-description">{PERSPECTIVE_LABELS[pid].description}</p>
 
               {expandedPerspectives[pid] && (
                 <div className="filter-pills">

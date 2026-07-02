@@ -1,22 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import L from 'leaflet';
-
-const P1_COLORS = {
-  'P1-C1':  '#6366f1',
-  'P1-C2':  '#8b5cf6',
-  'P1-C3':  '#ec4899',
-  'P1-C4':  '#14b8a6',
-  'P1-C5':  '#f97316',
-  'P1-C6':  '#06b6d4',
-  'P1-C7':  '#f43f5e',
-  'P1-C8':  '#a855f7',
-  'P1-C9':  '#3b82f6',
-  'P1-C10': '#84cc16',
-  'P1-C11': '#f59e0b',
-  'P1-C12': '#10b981',
-  'P1-C13': '#64748b',
-  'P1-C14': '#d946ef',
-};
+import { P1_COLORS, getCategoryColor, getBestQuote } from '../utils/categoryStyle';
 
 function getMarkerColor(practice) {
   return P1_COLORS[practice.p1_id] || '#a78bfa';

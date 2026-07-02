@@ -1,49 +1,14 @@
 import React, { useMemo, useRef } from 'react';
 import { X, MapPin, ExternalLink, ChevronRight } from 'lucide-react';
 import OstromNarrative from './OstromNarrative';
+import { getCategoryColor, getPerspectiveLabel, getBestQuote } from '../utils/categoryStyle';
 
-const P1_COLORS = {
-  'P1-C1':  '#6366f1',
-  'P1-C2':  '#8b5cf6',
-  'P1-C3':  '#ec4899',
-  'P1-C4':  '#14b8a6',
-  'P1-C5':  '#f97316',
-  'P1-C6':  '#06b6d4',
-  'P1-C7':  '#f43f5e',
-  'P1-C8':  '#a855f7',
-  'P1-C9':  '#3b82f6',
-  'P1-C10': '#84cc16',
-  'P1-C11': '#f59e0b',
-  'P1-C12': '#10b981',
-  'P1-C13': '#64748b',
-  'P1-C14': '#d946ef',
+const PERSPECTIVE_HUMAN = {
+  P1: 'Typology',
+  P2: 'Method',
+  P3: 'Affect',
 };
 
-const P2_COLOR = '#10b981';
-const P3_COLOR = '#f59e0b';
-
-function getCategoryColor(id) {
-  if (!id) return '#888';
-  if (id.startsWith('P1')) return P1_COLORS[id] || '#6366f1';
-  if (id.startsWith('P2')) return P2_COLOR;
-  return P3_COLOR;
-}
-
-function getPerspectiveLabel(id) {
-  if (!id) return '';
-  return id.split('-')[0]; // 'P1', 'P2', 'P3'
-}
-
-// Derive the best available verbatim quote for display
-function getBestQuote(practice) {
-  if (practice.p1_verbatim_evidence) return practice.p1_verbatim_evidence;
-  if (practice.p3_items && practice.p3_items.length > 0 && practice.p3_items[0].verbatim_evidence) {
-    return practice.p3_items[0].verbatim_evidence;
-  }
-  if (practice.evidence) return practice.evidence;
-  if (practice.post_title) return practice.post_title;
-  return practice.practice_name;
-}
 
 // Score relatedness between two practices (shared category codes)
 function getRelatednessScore(a, b) {
@@ -163,7 +128,7 @@ export default function StorySheet({
         {/* What this embodies */}
         {allCategoryCodes.length > 0 && (
           <div className="ss-section">
-            <h3 className="ss-section-title">What this embodies</h3>
+            <h3 className="ss-section-title">Concepts embodied</h3>
             <div className="ss-concept-pills">
               {allCategoryCodes.map(code => (
                 <button
@@ -178,7 +143,9 @@ export default function StorySheet({
                     className="ss-pill-dot"
                     style={{ backgroundColor: getCategoryColor(code.id) }}
                   />
-                  <span className="ss-pill-perspective">{getPerspectiveLabel(code.id)}</span>
+                  <span className="ss-pill-perspective" title={getPerspectiveLabel(code.id)}>
+                    {PERSPECTIVE_HUMAN[getPerspectiveLabel(code.id)] || getPerspectiveLabel(code.id)}
+                  </span>
                   {code.name}
                 </button>
               ))}
@@ -186,20 +153,20 @@ export default function StorySheet({
           </div>
         )}
 
-        {/* What happened (Ostrom) */}
+        {/* On the ground (Ostrom SES analysis) */}
         {practice.ostrom_summary && Object.keys(practice.ostrom_summary).length > 0 && (
           <div className="ss-section">
-            <h3 className="ss-section-title">What happened</h3>
+            <h3 className="ss-section-title">On the ground</h3>
             <div className="ss-ostrom-box">
               <OstromNarrative ostromSummary={practice.ostrom_summary} />
             </div>
           </div>
         )}
 
-        {/* The theory behind it */}
+        {/* Academic theory */}
         {theoryEntries.length > 0 && (
           <div className="ss-section">
-            <h3 className="ss-section-title">The theory behind it</h3>
+            <h3 className="ss-section-title">Academic theory</h3>
             <div className="ss-theory-cards">
               {theoryEntries.map(entry => (
                 <div key={entry.refId} className="ss-theory-card">

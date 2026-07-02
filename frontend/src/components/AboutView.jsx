@@ -79,8 +79,9 @@ By correlating 803 empirical practices from the blog archives of <a href="https:
                     <h2>The CSR Methodology</h2>
                     <p>
                         The ontology powering the Concept Atlas was built using a{' '}
-                        <strong>Conceptual Systematic Review (CSR)</strong> framework as
-                        defined by Schreiber & Cramer (2024):
+                        <strong>Conceptual Systematic Review (CSR)</strong> — a structured
+                        method for mapping contested academic concepts across a body of literature
+                        — following the framework defined by Schreiber &amp; Cramer (2024):
                         <sup>
                             <a
                                 href="https://doi.org/10.1080/00131911.2022.2116561"
@@ -98,54 +99,45 @@ By correlating 803 empirical practices from the blog archives of <a href="https:
                         <div className="about-pipeline-step">
                             <span className="about-step-num">1</span>
                             <div>
-                                <strong>Identify the tangled term</strong>
+                                <strong>Identify the research goal</strong>
                                 <p className="about-step-desc">
-                                    &ldquo;Utopianism and dystopianism in education&rdquo;
-                                    — a polysemous concept requiring systematic resolution.
+                                    Define the core concepts to be explored and clarified.
                                 </p>
                             </div>
                         </div>
                         <div className="about-pipeline-step">
                             <span className="about-step-num">2</span>
                             <div>
-                                <strong>Build a baseline taxonomy</strong>
+                                <strong>Create an initial framework</strong>
                                 <p className="about-step-desc">
-                                    A deductive starting point of 10 categories across 3 analytical
-                                    perspectives, drawn from the literature.
+                                    Develop a starting set of categories based on existing research.
                                 </p>
                             </div>
                         </div>
                         <div className="about-pipeline-step">
                             <span className="about-step-num">3</span>
                             <div>
-                                <strong>Rolling inductive coding loop</strong>
+                                <strong>Refine and expand iteratively</strong>
                                 <p className="about-step-desc">
-                                    Each of the {STATS.references} references was coded against the
-                                    current ontology. When a claim didn&rsquo;t fit any existing
-                                    category, a new one was created — growing the ontology from
-                                    10 to {STATS.categories} categories.
+                                    Review the literature to update categories, adding new ones as they emerge from the text.
                                 </p>
                             </div>
                         </div>
                         <div className="about-pipeline-step">
                             <span className="about-step-num">4</span>
                             <div>
-                                <strong>Anchor to evidence</strong>
+                                <strong>Support findings with evidence</strong>
                                 <p className="about-step-desc">
-                                    Every applied code is tied to a verbatim quote from its source
-                                    text, satisfying the CSR requirement of
-                                    &ldquo;operationalizability.&rdquo;
+                                    Ensure every category is grounded in direct quotes from the source materials.
                                 </p>
                             </div>
                         </div>
                         <div className="about-pipeline-step">
                             <span className="about-step-num">5</span>
                             <div>
-                                <strong>Validate</strong>
+                                <strong>Perform final verification</strong>
                                 <p className="about-step-desc">
-                                    Programmatic verification confirmed 100% matrix coverage —
-                                    zero orphaned references, all {STATS.categories} category IDs
-                                    resolved.
+                                    Verify that all data points are accurately categorized and fully accounted for.
                                 </p>
                             </div>
                         </div>
@@ -324,7 +316,10 @@ By correlating 803 empirical practices from the blog archives of <a href="https:
                 {/* ── Footer ────────────────────────────────────────── */}
                 <div className="about-footer">
                     <p>
-                        Mapping Utopia — Theory & Practice
+                        Mapping Utopia — Theory &amp; Practice
+                    </p>
+                    <p className="about-footer-sub">
+                        Built by Google Gemini · 2026
                     </p>
                 </div>
             </div>
